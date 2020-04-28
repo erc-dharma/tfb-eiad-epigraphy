@@ -1,4 +1,4 @@
-[![License: CC-BY](https://img.shields.io/badge/licence-CC--BY-green.svg)(https://creativecommons.org/licenses/by/4.0/)
+[![License:CC-BY](https://img.shields.io/badge/licence-CC--BY-green.svg)](https://img.shields.io/badge/licence-CC--BY-green.svg)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 # tfb-eiad-epigraphy
