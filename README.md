@@ -2,7 +2,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 # tfb-eiad-epigraphy
-DHARMA project Task Force A Tamil Nadu, South India, Accalpuram epigraphic corpus
+DHARMA project Task Force B
 
 ## Help and Guides
 * A Guide for Git is provided in the [project documentation repository](https://github.com/erc-dharma/project-documentation) at DHARMA_Git_guide_v01.md
