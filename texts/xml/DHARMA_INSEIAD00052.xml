@@ -187,8 +187,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -218,7 +217,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 								as <hi rend="italic"> mahisi-Jamaha°</hi></quote> and proposes to emend <foreign xml:lang="pra-Latn">mahisiya</foreign>. We think
 								<foreign>ja</foreign> could stand for
 								<foreign>ya</foreign>.</note></app><app loc="7"><lem>chāyāthabh<unclear>o</unclear></lem><rdg source="bib:Sircara">chayatha<unclear>ṁ</unclear>bh<unclear>o</unclear></rdg></app><app loc="7"><lem><g>:–</g></lem><note>The punctuation is indicated by a curved stroke
-							preceded by visarga-like sign.</note></app></listApp></div><div type="translation" xml:lang="eng"><p n="1-3"> Success! In the thirteenth year of the Lord King Vāsiṭṭhīputta
+							preceded by visarga-like sign.</note></app></listApp></div><div type="translation"><p n="1-3"> Success! In the thirteenth year of the Lord King Vāsiṭṭhīputta
 					Siri-Ehavulacāntamūla the Ikṣvāku, in the fifth — 5th —
 					fortnight of summer, on the seventh — 7th — day. </p><p n="3-7"> The
 					memorial pillar of the Great General, Prince Elī

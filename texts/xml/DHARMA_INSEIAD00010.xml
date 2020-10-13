@@ -187,8 +187,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -224,7 +223,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							EIAD <ref target="DHARMA_INSEIAD00008.xml">8</ref>, l. 5-6; <ref target="DHARMA_INSEIAD00013.xml">13</ref>, l. 7; <ref target="DHARMA_INSEIAD00018.xml">18</ref>, l. 8; <ref target="DHARMA_INSEIAD00021.xml">21</ref>, l. 2.</note></app><app loc="4"><lem>rudradharabhaṭarikā</lem><rdg source="bib:Vogeld">rudradharabhaṭ<unclear>ā</unclear>rikā</rdg></app><app loc="4"><lem>patiṭhapitaṁ</lem><rdg source="bib:Vogeld">patiṭh<unclear>ā</unclear>pitaṁ</rdg></app><app loc="5"><lem>mahācetīyaṁ<supplied reason="omitted">mhi</supplied></lem><note><bibl><ptr target="bib:Vogeld"/></bibl>
 							proposes to emend <foreign xml:lang="pra-Latn">mahācetiye</foreign>. But the form <foreign xml:lang="pra-Latn">mahācetīyamhi</foreign> is
 							known from EIAD <ref target="DHARMA_INSEIAD00012.xml">12</ref>, l.
-							2; <foreign xml:lang="pra-Latn">mahācetiyamhi</foreign> from <ref target="DHARMA_INSEIAD00013.xml">13</ref>, l. 8.</note></app><app loc="6"><lem>mahātalavarīsu</lem><rdg source="bib:Vogeld">mahātalavarī°a</rdg></app></listApp></div><div type="translation" xml:lang="eng"><p n="1–3"> Success! Homage to the Bhagavant, worshipped by the king(s)
+							2; <foreign xml:lang="pra-Latn">mahācetiyamhi</foreign> from <ref target="DHARMA_INSEIAD00013.xml">13</ref>, l. 8.</note></app><app loc="6"><lem>mahātalavarīsu</lem><rdg source="bib:Vogeld">mahātalavarī°a</rdg></app></listApp></div><div type="translation"><p n="1–3"> Success! Homage to the Bhagavant, worshipped by the king(s)
 					of the gods, who completely realized Awakening, the
 					Omniscient One, who is compassionate with all beings, who
 					conquered and is released from lust, hate and delusion, the

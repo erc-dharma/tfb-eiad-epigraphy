@@ -187,8 +187,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -219,7 +218,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 						bhaginiya</lem><rdg source="bib:Vogeld">sodarābhaginiya</rdg><note>The emendation is supported by EIAD <ref target="DHARMA_INSEIAD00005.xml">5</ref>, l. 5 <foreign xml:lang="pra-Latn">sodaraya
 						bhaginiya</foreign>.</note></app><app loc="5"><lem>haṁmas<supplied reason="omitted">i</supplied>riya</lem><note>We suspect the engraver started writing a <foreign>si</foreign>, but stopped after the
 						first short horizontal stroke.</note></app><app loc="7"><lem>°atānaṁ</lem><rdg source="bib:Vogeld">°atanaṁ</rdg><note>It is perhaps not necessary to emend <foreign xml:lang="pra-Latn">°atano</foreign>, as proposed by Vogel in his n. 6, because <foreign xml:lang="pra-Latn">°atānaṁ</foreign> can be a gen. pl. form and confusion of number is not unusual. The parallel passage in EIAD <ref target="DHARMA_INSEIAD00005.xml">5</ref>, l. 7, which mentions the same mother Hammasirī, here has <foreign xml:lang="pra-Latn">°atane</foreign>.</note></app><app loc="7"><lem>bhaṁkhaṁ</lem><note>Emend <foreign xml:lang="pra-Latn">khaṁbhaṁ</foreign>,
-						as proposed by Vogel in his n. 7.</note></app><app loc="8"><lem>d<supplied reason="omitted">i</supplied>va</lem><rdg source="bib:Vogeld">dāva</rdg><note>The first akṣara is clearly <foreign>da</foreign>. Vogel emends to <foreign xml:lang="pra-Latn">diva</foreign>.</note></app></listApp></div><div type="translation" xml:lang="eng"><p n="1"> Success! Homage to the Bhagavant, worshipped by the king(s)
+						as proposed by Vogel in his n. 7.</note></app><app loc="8"><lem>d<supplied reason="omitted">i</supplied>va</lem><rdg source="bib:Vogeld">dāva</rdg><note>The first akṣara is clearly <foreign>da</foreign>. Vogel emends to <foreign xml:lang="pra-Latn">diva</foreign>.</note></app></listApp></div><div type="translation"><p n="1"> Success! Homage to the Bhagavant, worshipped by the king(s)
 					of the gods, the Perfect Buddha who is ensconced in the
 					excellent relic [or: element (i.e., <foreign xml:lang="san-Latn">nirvāṇadhātu</foreign>)]! </p><p n="2-8"> At the
 					Great Shrine, the Great Queen Chaṭṭhisirī — child of

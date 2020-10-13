@@ -185,8 +185,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -227,7 +226,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							by Vogel, in light of the fact that the two other
 							instances of the compound in donations to the same
 								<foreign xml:lang="pra-Latn">nikāya</foreign>
-							read <foreign xml:lang="pra-Latn">savajātaniyuto</foreign> (EIAD <ref target="DHARMA_INSEIAD00044.xml">44</ref>, l. 8; <ref target="DHARMA_INSEIAD00046.xml">46</ref>, l. 6). </note></app><app loc="11-12"><lem>bahusutiyana<unclear>ṁ</unclear></lem><rdg source="bib:Vogelb">bahusutiy<supplied reason="omitted">ā</supplied>na<unclear>ṁ</unclear></rdg></app><app loc="11"><lem>°ajariyānāṁ</lem><rdg source="bib:Vogelb">ajariyānaṁ</rdg><note>Note the unusual spelling with <foreign>j</foreign>.</note></app><app loc="13"><lem>savacharaṁ</lem><rdg source="bib:Vogelb">sa<supplied reason="lost">ṁ</supplied>vachara</rdg></app></listApp></div><div type="translation" xml:lang="eng"><p n="1"> Success! Homage to the Bhagavant, the Buddha. 
+							read <foreign xml:lang="pra-Latn">savajātaniyuto</foreign> (EIAD <ref target="DHARMA_INSEIAD00044.xml">44</ref>, l. 8; <ref target="DHARMA_INSEIAD00046.xml">46</ref>, l. 6). </note></app><app loc="11-12"><lem>bahusutiyana<unclear>ṁ</unclear></lem><rdg source="bib:Vogelb">bahusutiy<supplied reason="omitted">ā</supplied>na<unclear>ṁ</unclear></rdg></app><app loc="11"><lem>°ajariyānāṁ</lem><rdg source="bib:Vogelb">ajariyānaṁ</rdg><note>Note the unusual spelling with <foreign>j</foreign>.</note></app><app loc="13"><lem>savacharaṁ</lem><rdg source="bib:Vogelb">sa<supplied reason="lost">ṁ</supplied>vachara</rdg></app></listApp></div><div type="translation"><p n="1"> Success! Homage to the Bhagavant, the Buddha. 
 				</p><p n="1-12"> The Great
 					Queen Bhaṭidevā — daughter-in-law of Great King Vāsiṭṭhīputta
 					Siri-Cāntamūla of the Ikṣvākus, favored by Mahāsena who has

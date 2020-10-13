@@ -177,8 +177,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -205,5 +204,5 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 					<rdg source="eiad-bibl:identifier"/>
 					<note/>
 				</app>
-			</div>--><div type="translation" xml:lang="eng"><p>Of Kuramāna. Of Vidhika.</p></div><div type="commentary"><p n=""><note>Note occurrence of the proper name Vidhika in EIAD <ref target="DHARMA_INSEIAD00020.xml">20</ref> and <ref target="DHARMA_INSEIAD00085.xml">85</ref>.</note></p></div><div type="bibliography"><p>First edited in <bibl><ptr target="bib:ARIE"/><citedRange>1959-60: no. B.76</citedRange></bibl>. Re-edited here after autopsy of the stone.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Raghunath2001"/>: <citedRange>188 (no. 67)</citedRange></bibl></listBibl></div></body></text>
+			</div>--><div type="translation"><p>Of Kuramāna. Of Vidhika.</p></div><div type="commentary"><p n=""><note>Note occurrence of the proper name Vidhika in EIAD <ref target="DHARMA_INSEIAD00020.xml">20</ref> and <ref target="DHARMA_INSEIAD00085.xml">85</ref>.</note></p></div><div type="bibliography"><p>First edited in <bibl><ptr target="bib:ARIE"/><citedRange>1959-60: no. B.76</citedRange></bibl>. Re-edited here after autopsy of the stone.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Raghunath2001"/>: <citedRange>188 (no. 67)</citedRange></bibl></listBibl></div></body></text>
 </TEI>

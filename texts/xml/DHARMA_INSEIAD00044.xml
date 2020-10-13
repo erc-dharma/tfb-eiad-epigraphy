@@ -189,8 +189,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -231,7 +230,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 <foreign>r<gap reason="illegible" quantity="1" unit="component"/></foreign> or 
 <foreign>k<gap reason="illegible" quantity="1" unit="component"/></foreign>. 
 None of these combinations yields a known name or word.</note></app><app loc="9"><lem>raño</lem><rdg source="bib:Vogeld">...</rdg></app><app loc="9"><lem>sa<unclear>ṁ</unclear>vacha<unclear>raṁ</unclear><supplied reason="lost">b</supplied>i<supplied reason="lost">t</supplied><unclear>i</unclear><supplied reason="lost">yaṁ</supplied></lem><rdg source="bib:Vogeld"><unclear>saṁvacharaṁ</unclear>..<unclear>bitiyaṁ</unclear></rdg></app><app loc="10"><lem>gim<unclear>hapa</unclear>ṁ<unclear>kha</unclear></lem><rdg source="bib:Vogeld"><unclear>gimhapakhaṁ</unclear></rdg><note>The anusvāra appears to have been
-							misplaced.</note></app></listApp></div><div type="translation" xml:lang="eng"><p n="1">Success! Homage to the Bhagavant, the bearer of the burden of the Dharma for the three worlds.</p><p n="1–9">The Great Queen
+							misplaced.</note></app></listApp></div><div type="translation"><p n="1">Success! Homage to the Bhagavant, the bearer of the burden of the Dharma for the three worlds.</p><p n="1–9">The Great Queen
 					Bhaṭidevā — daughter-in-law of Great King Vāsiṭṭhīputta
 					Siri-Cāntamūla of the Ikṣvākus, favored by Mahāsena who has
 					Virūpākṣa as his lord, sacrificer of the Agnihotra, the

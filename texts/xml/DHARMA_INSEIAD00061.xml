@@ -185,8 +185,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -216,7 +215,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							syntactic agreement between the substantive, in nom.
 							pl. nt. (in function of dual), and the past
 							participle <foreign xml:lang="pra-Latn">patiṭhapita</foreign>, in an uninflected nom.
-							sg.</note></app></listApp></div><div type="translation" xml:lang="eng"><p>Success! In the monastery of the Theriya teachers, proponents of analytical distinctions, who brought the faith to Kashmir, Gandhāra, the [country of the] Yavanas, Vanavāsa, and the island of Tambapaṇṇi, residents of the Great Monastery, who are experts at determining the meaning and letter of the ninefold division of scriptures, who hold the line of transmission of the lineage of the noble ones, this pair of footprints has been established, for the good and well-being of all beings.</p></div><div type="commentary"><p n="1"><term>-pasādakanaṁ</term><note>On similar uses of forms derived from <foreign>pra-sad</foreign> in the context of conversion of countries, see <bibl><ptr target="bib:Skilling1993"/>: <citedRange>168, n. 13</citedRange></bibl>; <bibl><ptr target="bib:Cousins2001"/>:
+							sg.</note></app></listApp></div><div type="translation"><p>Success! In the monastery of the Theriya teachers, proponents of analytical distinctions, who brought the faith to Kashmir, Gandhāra, the [country of the] Yavanas, Vanavāsa, and the island of Tambapaṇṇi, residents of the Great Monastery, who are experts at determining the meaning and letter of the ninefold division of scriptures, who hold the line of transmission of the lineage of the noble ones, this pair of footprints has been established, for the good and well-being of all beings.</p></div><div type="commentary"><p n="1"><term>-pasādakanaṁ</term><note>On similar uses of forms derived from <foreign>pra-sad</foreign> in the context of conversion of countries, see <bibl><ptr target="bib:Skilling1993"/>: <citedRange>168, n. 13</citedRange></bibl>; <bibl><ptr target="bib:Cousins2001"/>:
 							<citedRange>141, n. 23</citedRange></bibl>.</note></p><p n="2"><term>-navaṁgaṁsathusasana</term><note>On the ninefold division of scriptures, specific to Pāli textual transmission and that of several Mahāsāṅghika groups, see <bibl><ptr target="bib:Tournier2017"/>:
 							<citedRange>45, n. 186</citedRange></bibl> and the references quoted there.</note></p></div><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Sircare"/></bibl>. Re-edited here from available documentation and after autopsy of the stone.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:IAR"/><citedRange>1955-56: 24</citedRange></bibl><bibl><ptr target="bib:ARIE"/><citedRange>1956-57: B.35</citedRange></bibl><bibl><ptr target="bib:Srinivasan1979a"/>:
 							<citedRange>no. 51</citedRange></bibl><bibl><ptr target="bib:Raghunath2001"/>: <citedRange>159

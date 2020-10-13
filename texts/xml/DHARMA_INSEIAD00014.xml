@@ -185,8 +185,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -213,7 +212,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
    </facsimile>
    <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>sidhaṁ namo bhagavato saṁmasaṁbudhasa dhātuvaraparigahītasa °imaṁmhi mahācetīye <lb n="2"/>mahārajasa virūpakhapatimahāsenaparigahītasa °agihotāgiṭhomavājapeyāsa<lb n="3" break="no"/>medhayājisa hiraṁṇakoṭigosatasahasahalasatasahasapad<supplied reason="omitted">ā</supplied>yisa savathesu <lb n="4"/>°apatihatasaṁkapasa vāsīdh<unclear>ī</unclear>putasa °ikhākusa siricāṁtamulasa sodarā bhagini raṁño <lb n="5"/>sirivirapurisadatasa pituchā mahāsenāpatisa mahātalavarasa vāsīdhīputasa pūkīyānaṁ <lb n="6"/>kadasirisa bhariya samaṇabaṁmhaṇakavaṇavaṇijakadīnānugahavelāmikadānapaṭibhāgavochina<lb n="7" break="no"/>dhārapadāyini savasādhuvachala mahātalavari khaṁdasāgareṁṇakamātā cātisiri °apano °ubhayakulasa <lb n="8"/>°atichit<surplus>i</surplus> m anāgatavaṭamānake  parināmetuna °atano ca nivāṇasa<supplied reason="omitted">ṁ</supplied>patisaṁpādake °imaṁ khaṁbhaṁ sava<lb n="9" break="no"/>lokahitasukhanivāṇathanāya ca patiṭhapitaṁ ti <space quantity="1" unit="character"/>raṁño sirivirapurisadatasa <lb n="10"/><space quantity="10" unit="character"/>saṁva <num value="6">6</num>vāpa <num value="6">6</num>diva <num value="10">10</num></ab></div><div type="apparatus"><listApp><app loc="4"><lem>vāsīdh<unclear>ī</unclear>-</lem><note>Emend <foreign xml:lang="pra-Latn">vāsiṭhī-</foreign>.</note></app><app loc="5"><lem>vāsīdhī-</lem><note>Emend <foreign xml:lang="pra-Latn">vāsiṭhī-</foreign>.</note></app><app loc="7"><lem>-sāgareṁṇaka-</lem><note>Emend <foreign xml:lang="pra-Latn">-sāgaraṁṇaka-</foreign>.</note></app><app loc="8"><lem>°atichiti-</lem><note>Emend <foreign xml:lang="pra-Latn">°atichita-</foreign>.</note></app><app loc="9"><lem>-nivāṇathanāya</lem><note>The <foreign>ya</foreign> is not completely
 						executed, since the central vertical has been omitted,
-						but no ambiguity results from this omission.</note></app></listApp></div><div type="translation" xml:lang="eng"><p n="1"> Success! Homage to the Bhagavant, the Perfect Buddha who is
+						but no ambiguity results from this omission.</note></app></listApp></div><div type="translation"><p n="1"> Success! Homage to the Bhagavant, the Perfect Buddha who is
 					ensconced in the excellent relic [or: element (i.e.,
 						<foreign xml:lang="san-Latn">nirvāṇadhātu</foreign>)]!</p><p n="1-9">
 					At this Great Shrine, Cāntisirī — uterine sister of Great

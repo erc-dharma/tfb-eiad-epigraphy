@@ -184,8 +184,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -210,7 +209,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							Subrahmanyam et al. published this impossible
 							reading: <foreign xml:lang="pra-Latn">sidham
 								bhagavato padani apani apana nivasanam barotha
-								karapitamiti</foreign>. </note></app></listApp></div><div type="translation" xml:lang="eng"><ab>Success! The feet of the Bhagavant were caused to be made
+								karapitamiti</foreign>. </note></app></listApp></div><div type="translation"><ab>Success! The feet of the Bhagavant were caused to be made
 					for the sake of the prerequisites of his own <foreign xml:lang="san-Latn">nirvāṇa</foreign>.</ab></div><div type="commentary"><p n="1"><note>For <foreign xml:lang="pra-Latn">nivāṇasambharāthaṁ</foreign>, cf. EIAD <ref target="DHARMA_INSEIAD00104.xml">104</ref>.</note></p></div><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Chenna_Reddy2008"/>:
 							<citedRange>33 (2)</citedRange></bibl>, its text given under (1). In the absence of any
 					visual documentation, we give here a conjecturally emended

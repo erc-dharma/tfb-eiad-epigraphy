@@ -184,8 +184,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -210,7 +209,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 								<supplied reason="lost">ma</supplied></rdg><note>In the light of the remaining space, and the
 							parallel in EIAD <ref target="DHARMA_INSEIAD00109.xml">109</ref>,
 							the following word might tentatively be
-							reconstructed as <foreign xml:lang="pra-Latn"><supplied reason="lost">pādasaṁghāḍā</supplied></foreign>.</note></app></listApp></div><div type="translation" xml:lang="eng"><ab>Success! (...) pious gift of Kīṭanikā, the mother of
+							reconstructed as <foreign xml:lang="pra-Latn"><supplied reason="lost">pādasaṁghāḍā</supplied></foreign>.</note></app></listApp></div><div type="translation"><ab>Success! (...) pious gift of Kīṭanikā, the mother of
 					Vaṁmanaka.</ab></div><!--<div type="commentary"></div>--><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Chenna_Reddy2008"/>:
 							<citedRange>38 (13)</citedRange></bibl>. Re-edited here from published documentation and
 					after autopsy of the stone.</p><!-- <listBibl type="secondary-bibliography"> </listBibl> --></div></body></text>

@@ -186,8 +186,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -209,7 +208,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
    </teiHeader>
    <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/><unclear>ma</unclear>va<unclear>la</unclear>raṇa<space quantity="1" unit="character"/>vathava<unclear>sa</unclear> <unclear>se</unclear>nāpat<unclear>i</unclear> <lb n="2"/><gap reason="illegible" quantity="1" unit="character"/>karadaru<space quantity="1" unit="character"/>kumārasa <space quantity="1" unit="character"/><gap reason="illegible" quantity="4" unit="character"/>bha<unclear>ḍa</unclear>naṁ <lb n="3"/>paḍitana<unclear>ṁ</unclear> <unclear>chā</unclear>yākhaṁbho </ab></div><div type="apparatus"><listApp><app loc="1"><lem><unclear>ma</unclear>va<unclear>la</unclear>raṇa</lem><rdg source="bib:Sircara"><unclear>mavala</unclear>raṇa</rdg><note>Sircar suggests to emend <foreign xml:lang="pra-Latn">magavalaraṇa</foreign>.</note></app><app loc="2"><lem><gap reason="illegible" quantity="1" unit="character"/></lem><rdg source="bib:Sircara">-<unclear>sa</unclear></rdg></app><app loc="2"><lem><gap reason="illegible" quantity="4" unit="character"/></lem><rdg source="bib:Sircara"><unclear>pasa</unclear>..... </rdg><note>Sircar notes: <quote>The intended word appears to
 								be <hi rend="italic">pasādita-</hi> or <hi rend="italic">pasāditānaṁ</hi> as in Nos
-								I-II above.</quote></note></app><app loc="3"><lem><unclear>chā</unclear>yākhaṁbho</lem><rdg source="bib:Sircara">chayakhaṁbho</rdg></app></listApp></div><div type="translation" xml:lang="eng"><ab>Memorial pillar of the killed soldiers (...) of the General
+								I-II above.</quote></note></app><app loc="3"><lem><unclear>chā</unclear>yākhaṁbho</lem><rdg source="bib:Sircara">chayakhaṁbho</rdg></app></listApp></div><div type="translation"><ab>Memorial pillar of the killed soldiers (...) of the General
 					Karadarukumāra, resident of Mavalaraṇa (= Magalaraṇa).</ab></div><!--<div type="commentary">
 				<listApp>
 					<app loc="lineNumber">

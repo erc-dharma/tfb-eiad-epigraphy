@@ -184,8 +184,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -206,7 +205,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/><gap reason="lost" quantity="5" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown"/><lb n="2"/>pavajitena <space quantity="1" unit="character"/>vaddhamāna<space quantity="1" unit="character"/>nagarajāta<unclear>sa</unclear> <gap reason="lost" extent="unknown"/><lb n="3"/>navakaṁmikena <space quantity="1" unit="character"/>budhisirācari<unclear>ye</unclear><milestone unit="fragment" n="right"/><supplied reason="lost">na</supplied> </ab></div><div type="apparatus"><listApp><app loc="1"><note>Not recorded in <bibl><ptr target="bib:Chenna_Reddy2008"/></bibl>.</note></app><app loc="2"><lem>vaddhamāna</lem><rdg source="bib:Chenna_Reddy2008">vaddhamana</rdg></app><app loc="2"><lem>nagarajāta<unclear>sa</unclear></lem><rdg source="bib:Chenna_Reddy2008">nagarajitasa</rdg></app><app loc="3"><lem>navakaṁmikena</lem><rdg source="bib:Chenna_Reddy2008">navakammikena</rdg></app><app loc="3"><lem>budhisirācari<unclear>ye</unclear></lem><rdg source="bib:Chenna_Reddy2008">budhisira cha
-							ri</rdg></app></listApp></div><div type="translation" xml:lang="eng"><ab>(...) By the renunciant (...) originating from the city of
+							ri</rdg></app></listApp></div><div type="translation"><ab>(...) By the renunciant (...) originating from the city of
 					Vardhamāna, the <foreign xml:lang="san-Latn">navakarmika</foreign> Budhisiri, the <foreign xml:lang="san-Latn">ācārya</foreign>.</ab></div><!--<div type="commentary"></div>--><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Chenna_Reddy2008"/>:
 							<citedRange>37 (9)</citedRange></bibl>. Re-edited here from published documentation and
 					after autopsy of the stone.</p><!-- <listBibl type="secondary-bibliography"> </listBibl> --></div></body></text>

@@ -185,8 +185,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -249,7 +248,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 								bha</supplied>riyake</foreign>.</note></app><app loc="16"><lem><unclear>gaṁ</unclear> puña<supplied reason="lost">ṁ</supplied><add place="above">dā</add>nā<space quantity="1" unit="character"/><unclear>°apanā ji</unclear><gap reason="illegible" quantity="1" unit="character"/></lem><rdg source="bib:Sircara">…purato
 								<unclear>kā</unclear>rāpitā…</rdg><note>Compare EIAD <ref target="DHARMA_INSEIAD00048.xml">48</ref>, l.
 							16. We tentatively suppose that <foreign xml:lang="pra-Latn">dātā</foreign>, to be understood as <foreign xml:lang="pra-Latn">dataṁ</foreign>, was intended here as well.</note></app><app loc="17"><lem>ma<unclear>na</unclear>-
-						</lem><rdg source="bib:Sircara"><unclear>mane</unclear></rdg></app></listApp></div><div type="translation" xml:lang="eng"><p n="1–5"> In the (eighth) year of King Vāsithīputa
+						</lem><rdg source="bib:Sircara"><unclear>mane</unclear></rdg></app></listApp></div><div type="translation"><p n="1–5"> In the (eighth) year of King Vāsithīputa
 					(Siri-)Ehuvulacāntamūla of the Ikṣvākus, (son) of Great King
 					Siri-Vīrapurisadatta, son of…, in the fourth fortnight of
 					summer, on the fifteenth day. </p><p n="5–17"> 

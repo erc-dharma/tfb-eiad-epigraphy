@@ -183,8 +183,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -213,7 +212,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							however does not seem to fit with any formula in
 							other inscriptions in the corpus, and is hence
 							suspect. One is tempted to read instead <foreign xml:lang="pra-Latn">data<unclear>sa</unclear></foreign>, but the <foreign>da</foreign>
-							would be rather squeezed then and the <foreign>ta</foreign> asymmetrical.</note></app></listApp></div><div type="translation" xml:lang="eng"><ab>... (consisting) of ... renunciants who (come) from various
+							would be rather squeezed then and the <foreign>ta</foreign> asymmetrical.</note></app></listApp></div><div type="translation"><ab>... (consisting) of ... renunciants who (come) from various
 					countries ..., having dedicated (the merit) ... of
 					her family on both sides ..., her ... son
 					...</ab></div><div type="commentary"><!--[Revision required]--><p n=""><note>According to <ptr target="bib:Sarkar1969"/>,

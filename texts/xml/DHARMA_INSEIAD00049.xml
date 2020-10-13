@@ -185,8 +185,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -218,7 +217,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
                     <rdg source="eiad-bibl:Srinivasan1971">8</rdg> 
                 </app>--><app loc="10–11"><lem><unclear>puvana</unclear>ga<unclear>sela</unclear>sikhara<unclear>ṁ</unclear>gavā<unclear>s</unclear>inaṁ</lem><rdg source="bib:Srinivasan1971"><supplied reason="lost">°avanāga</supplied>selasikharavāsinaṁ</rdg></app><app loc="11"><lem>vāsicaṁdanaka<unclear>pā</unclear><supplied reason="lost">naṁ</supplied></lem><rdg source="bib:Srinivasan1971">vāsicaṁdanaka…</rdg></app><app loc="11"><lem><gap reason="illegible" quantity="3" unit="character"/><supplied reason="lost">ka</supplied>ratalaparimajakānaṁ</lem><rdg source="bib:Srinivasan1971">
 							... <supplied reason="lost">ka</supplied>ratalaparimajakānaṁ</rdg><note>It is tempting to reconstruct here <foreign xml:lang="pra-Latn"><supplied reason="lost">°ākāsaka</supplied><unclear>rata</unclear>laparim<unclear>ā</unclear>jakānaṁ</foreign>, by analogy with the compound <foreign xml:lang="san-Latn">ākāśapāṇitalasamacitta</foreign> immediately preceding the compound <foreign xml:lang="san-Latn">vāsīcandanakalpa</foreign> in the formula cited  in the commentary.</note></app><app loc="12"><lem>°a<unclear>r</unclear><supplied reason="lost">i</supplied>ya<unclear>sa</unclear>ṁgha<unclear>sa</unclear></lem><rdg source="bib:Srinivasan1971">°aṁriyasaṁgha<supplied reason="lost">sa
-								pujñāye</supplied></rdg></app></listApp></div><div type="translation" xml:lang="eng"><p n="1–8">Success! The village headman (<foreign xml:lang="pra-Latn">grāmika</foreign>) Veṇhusiri (Viṣṇuśrī), resident of
+								pujñāye</supplied></rdg></app></listApp></div><div type="translation"><p n="1–8">Success! The village headman (<foreign xml:lang="pra-Latn">grāmika</foreign>) Veṇhusiri (Viṣṇuśrī), resident of
 					Halūra, as the gift (producing an) accumulation of merit for his wife Candā, his son Nandisiri, ... Jakhasiri (Yakṣaśrī), Nāgasiri ... and his own friends, kinsmen, relatives, and people, established in Sikharaṅga a stone pillar, made of the Dharma, which carries across in both worlds. </p><p n="8–12"> In the
 					8th year of King Siri-Ehavalacāntamūla of the Ikṣvākus, in
 					the 5th fortnight of summer, on the 10th day... for the noble community of the teachers residing on the flank of the summit of the mountain [named] Eastern Mountain (i.e., the Puvaseliyas), who are (calm) as the sandalwood tree (in the presence of) an axe, and who are able to touch (the element of space?) with the palm of their hands. 

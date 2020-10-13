@@ -184,8 +184,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -213,7 +212,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							read <foreign>va</foreign>.</note></app><app loc="5"><lem>°e<unclear>ko</unclear><milestone unit="fragment" n="right"/><supplied reason="lost">1</supplied></lem><rdg source="bib:Hinüber2013b">°e<unclear>ko</unclear></rdg><note><bibl><ptr target="bib:Hinüber2013b"/></bibl> reconstructs the expected number 1 in the
 							beginning of l. 6. There is, however, enough space
 							for the number to have been included at the end of
-							l. 5.</note></app><app loc="6"><lem><unclear>dh</unclear><gap reason="lost" quantity="1" unit="component"/><gap reason="illegible" quantity="2" unit="character"/></lem><rdg source="bib:Hinüber2013b"><unclear>dh.rā/e</unclear></rdg></app></listApp></div><div type="translation" xml:lang="eng"><ab>(...) the monks’ order must give at the (occasion of the)
+							l. 5.</note></app><app loc="6"><lem><unclear>dh</unclear><gap reason="lost" quantity="1" unit="component"/><gap reason="illegible" quantity="2" unit="character"/></lem><rdg source="bib:Hinüber2013b"><unclear>dh.rā/e</unclear></rdg></app></listApp></div><div type="translation"><ab>(...) the monks’ order must give at the (occasion of the)
 					Pavāraṇā festival, as price for flowers six — 6 — <foreign xml:lang="pra-Latn">kāhāpaṇa</foreign>s, for the string
 					for tying (flowers) 5 — five — <foreign xml:lang="pra-Latn">pala</foreign>s, one — (1) — <foreign xml:lang="pra-Latn">kūḍa</foreign> of lamp oil (...)
 				</ab></div><!--<div type="commentary"></div>--><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Chenna_Reddy2008"/>: <citedRange>37

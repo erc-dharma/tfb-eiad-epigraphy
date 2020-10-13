@@ -182,8 +182,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -213,7 +212,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							punctuation, only miniature final consonants (double daṇḍa might be Hultzsch’s way of rendering such miniature final consonants).</note></app><app loc="19"><lem>bhūmiḥ</lem><note><bibl><ptr target="bib:Hultzschf"/>:
 							<citedRange>59</citedRange></bibl> notes: <quote>Read <hi rend="italic">bhûmis</hi>=</quote>. But inscriptions from the same general area and period often
 							show the reading <foreign xml:lang="san-Latn">bhūmiḥ</foreign> here, so
-							no correction is necessary.</note></app></listApp></div><div type="translation" xml:lang="eng"><p n="1–8"> From the illustrious and victorious Veṅgīpura, by the order of the
+							no correction is necessary.</note></app></listApp></div><div type="translation"><p n="1–8"> From the illustrious and victorious Veṅgīpura, by the order of the
 					illustrious and victorious great king Devavarman, who is favored by the feet of
 					Lord Citrarathasvāmin, devoted to the feet of his lord father, supreme devotee
 					of Maheśvara, the Śālaṅkāyana, sacrificer of the Aśvamedha, in Elūra, the

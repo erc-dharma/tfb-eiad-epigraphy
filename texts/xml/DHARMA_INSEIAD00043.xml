@@ -185,8 +185,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -230,7 +229,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							<foreign>-i</foreign>. Therefore,
 							in light of the parallel with EIAD <ref target="DHARMA_INSEIAD00051.xml">51</ref>, l. 11, reading <foreign xml:lang="pra-Latn">mahādeviya
 									koda°elisiriya</foreign>, it is possible to
-							suggest a reconstruction <foreign xml:lang="pra-Latn">°eli<supplied reason="lost">s</supplied><unclear>ir</unclear><supplied reason="lost">i</supplied>ya</foreign>.</note></app></listApp></div><div type="translation" xml:lang="eng"><p>The Great General Sūkacata <foreign xml:lang="pra-Latn">sacabhaiya</foreign> Eli…</p><p>The group of relatives, Eli…, son of Kaṇṇasirī...</p><p>Elicata established (this) Buddha image at Vairamaḍuva.</p></div><div type="commentary"><p n="2–3"><note>In EIAD <ref target="DHARMA_INSEIAD00029.xml">29</ref> we
+							suggest a reconstruction <foreign xml:lang="pra-Latn">°eli<supplied reason="lost">s</supplied><unclear>ir</unclear><supplied reason="lost">i</supplied>ya</foreign>.</note></app></listApp></div><div type="translation"><p>The Great General Sūkacata <foreign xml:lang="pra-Latn">sacabhaiya</foreign> Eli…</p><p>The group of relatives, Eli…, son of Kaṇṇasirī...</p><p>Elicata established (this) Buddha image at Vairamaḍuva.</p></div><div type="commentary"><p n="2–3"><note>In EIAD <ref target="DHARMA_INSEIAD00029.xml">29</ref> we
 								have interpreted <foreign xml:lang="pra-Latn">vaira</foreign> as <foreign xml:lang="pra-Latn">vajira</foreign>;
 									<foreign xml:lang="pra-Latn">maḍuva</foreign> could here stand for
 									<foreign xml:lang="san-Latn">maṇḍapa</foreign>.</note><!--Previous notes, to be elaborated upon: There are a few

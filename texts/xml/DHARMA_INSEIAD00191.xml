@@ -183,8 +183,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -209,7 +208,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 					<lem/>
 					<rdg source="eiad-bibl:identifier"/>
 					<note/>
-				</app> --></div><div type="translation" xml:lang="eng"><ab>kamasa</ab></div><div type="commentary"><!--[Revision required]
+				</app> --></div><div type="translation"><ab>kamasa</ab></div><div type="commentary"><!--[Revision required]
 				<listApp>
 					</listApp> --></div><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Krishna_Sastry1983"/>: <citedRange>187</citedRange></bibl>.
 					Re-edited here from published documentation.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:ARDAM"/><citedRange>1972-73 (1985): 5</citedRange></bibl><bibl><ptr target="bib:Hanumantha_Rao1998"/>: <citedRange>116 (no. 3)</citedRange></bibl></listBibl></div></body></text>

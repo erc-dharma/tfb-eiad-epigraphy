@@ -185,8 +185,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -216,7 +215,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							frequently occurring after <foreign xml:lang="pra-Latn">vāsiṭhīputasa</foreign>, was
 							here omitted, as it is in EIAD <ref target="DHARMA_INSEIAD00018.xml">18</ref>, l. 6.</note></app><app loc="6"><lem>hatalavariya</lem><rdg source="bib:Vogeld">hātalavariya</rdg><note>The occurrence of <foreign xml:lang="pra-Latn">maharajasa</foreign> at the end of the line
 							diverges from the usual formula, and as a result we
-							cannot propose a secure reconstruction.</note></app><app loc="6"><lem>maharajasa</lem><rdg source="bib:Vogeld">mah<supplied reason="omitted">ā</supplied>r<supplied reason="omitted">ā</supplied>jasa</rdg></app></listApp></div><div type="translation" xml:lang="eng"><p>Success! (...), sister of Great King Vāsi(ṭhīputa)
+							cannot propose a secure reconstruction.</note></app><app loc="6"><lem>maharajasa</lem><rdg source="bib:Vogeld">mah<supplied reason="omitted">ā</supplied>r<supplied reason="omitted">ā</supplied>jasa</rdg></app></listApp></div><div type="translation"><p>Success! (...), sister of Great King Vāsi(ṭhīputa)
 					(Siri-)Cāntamūla the Ikṣvāku, favored by favored by (Mahā)sena
 					(who has Virūpākṣa as his lord, sacrificer) of the Agnihotra,
 					the Agniṣṭoma, the Vāja(peya and the Aśvamedha, giver of) tens

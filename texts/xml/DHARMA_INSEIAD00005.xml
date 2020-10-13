@@ -188,8 +188,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory_1-50.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -222,7 +221,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory_1-50.xlsx'
                         ima<unclear>ṁ</unclear> navakama<unclear>ṁ</unclear>
                         mahācetiya<unclear>ṁ</unclear></rdg><note>The parallel in <ref target="DHARMA_INSEIAD00006.xml">6</ref>, l. 12, shows that <foreign xml:lang="pra-Latn">nithapitaṁ °imaṁ navakamaṁ mahācetiyaṁ</foreign> is
                      indeed to be understood, but we hesitate to assume involuntary omission of four
-                     anusvāras in a row.</note></app><app loc="11"><lem>khaṁbhā</lem><rdg source="bib:Vogeld">khambhā</rdg></app></listApp></div><div type="translation" xml:lang="en"><p n="1-2"> Success! Homage to the Bhagavant, worshipped
+                     anusvāras in a row.</note></app><app loc="11"><lem>khaṁbhā</lem><rdg source="bib:Vogeld">khambhā</rdg></app></listApp></div><div type="translation"><p n="1-2"> Success! Homage to the Bhagavant, worshipped
                by the king(s) of the gods, the Perfect Buddha who is ensconced in the excellent
                relic [or: element (i.e., <foreign xml:lang="san-Latn">nirvāṇadhātu</foreign>)]!</p><p n="2-11"> At the Great Shrine, the Great Queen
                Bapisiriṇṇikā — child of Hammasiriṇṇikā, uterine sister of Great King Vāsiṭṭhīputta

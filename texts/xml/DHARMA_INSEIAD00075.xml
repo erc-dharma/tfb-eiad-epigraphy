@@ -186,8 +186,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -212,7 +211,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
                         "<unclear>ta</unclear>mal<unclear>o</unclear>yakarasa"--><rdg source="bib:Sircara">tamaṇiyakarasa</rdg><note>The first akṣara could also be read <foreign>na</foreign>.</note><!--MS: The lema is
                             currently <na>. Maybe this is a situation where we
                             should use the choice element, III.3 in
-                            cheatsheet.--></app><app loc="5"><lem>chāyapaṭo</lem><rdg source="bib:Sircara">chāyatha<unclear>bha</unclear></rdg></app></listApp></div><div type="translation" xml:lang="eng"><ab>Memorial slab (<foreign xml:lang="pra-Latn">chāyāpaṭa</foreign>) of the <foreign xml:lang="pra-Latn">tamaloya</foreign>-maker (?) Mūlabhuta,
+                            cheatsheet.--></app><app loc="5"><lem>chāyapaṭo</lem><rdg source="bib:Sircara">chāyatha<unclear>bha</unclear></rdg></app></listApp></div><div type="translation"><ab>Memorial slab (<foreign xml:lang="pra-Latn">chāyāpaṭa</foreign>) of the <foreign xml:lang="pra-Latn">tamaloya</foreign>-maker (?) Mūlabhuta,
 					artisan (<foreign xml:lang="pra-Latn">āvesanika</foreign>)
 					from (?) Patayataka.</ab></div><!--<div type="commentary">
 				<listApp>

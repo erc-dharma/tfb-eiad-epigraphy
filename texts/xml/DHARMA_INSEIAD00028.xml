@@ -190,8 +190,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -254,7 +253,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							constitute a significant variant.</note></app><app loc="2"><lem>mahā<unclear>bhi</unclear>khusaghasa</lem><rdg source="bib:Vogeld">mahābhikhusa<unclear>ṁ</unclear>ghasa</rdg></app><app loc="2"><lem>-vaṭamanake</lem><rdg source="bib:Vogeld">-vaṭamānake</rdg></app><app loc="2"><lem>-selīyanaṁ</lem><rdg>-seliy<supplied reason="omitted">ā</supplied>naṁ</rdg></app><app loc="2"><lem>savaniyuta</lem><rdg source="bib:Vogeld">savaniyuta<unclear>ṁ</unclear></rdg></app><app loc="2"><lem>cātusala-</lem><note><bibl><ptr target="bib:Vogeld"/>: <citedRange>21, n.
 									4</citedRange></bibl> suggests to emend the reading into <foreign xml:lang="pra-Latn">catusāla-</foreign>, but the
 							parallel formula in <ref target="DHARMA_INSEIAD00024.xml">EIAD
-								24</ref> also shows <foreign xml:lang="pra-Latn">cātu-</foreign>.</note></app><app loc="2"><lem>selamaṁṭava</lem><rdg source="bib:Vogeld">selamaṁṭava<unclear>ṁ</unclear></rdg></app><app loc="2"><lem>patiṭhapitaṁ</lem><rdg source="bib:Vogeld">patiṭh<supplied reason="omitted">ā</supplied>pitaṁ</rdg></app><app loc="2"><lem>sirivīrapurisadatasa</lem><rdg source="bib:Vogeld">sirivirapurisadatasa</rdg></app><app loc="2"><lem>°aṭhārasaṁ</lem><rdg source="bib:Vogeld">°aṭhāra saṁ</rdg></app><app loc="2"><lem>hitaya</lem><rdg source="bib:Vogeld">hit<supplied reason="omitted">ā</supplied>ya</rdg></app></listApp></div><div type="translation" xml:lang="eng"><p n="1"> Success! Homage to the Bhagavant, the Buddha!</p><p n="1-2"> At the shrine hall (<foreign xml:lang="pra-Latn">cetiyaghara</foreign>), Cāntisirī — uterine sister of Great King Vāsiṭṭhīputta
+								24</ref> also shows <foreign xml:lang="pra-Latn">cātu-</foreign>.</note></app><app loc="2"><lem>selamaṁṭava</lem><rdg source="bib:Vogeld">selamaṁṭava<unclear>ṁ</unclear></rdg></app><app loc="2"><lem>patiṭhapitaṁ</lem><rdg source="bib:Vogeld">patiṭh<supplied reason="omitted">ā</supplied>pitaṁ</rdg></app><app loc="2"><lem>sirivīrapurisadatasa</lem><rdg source="bib:Vogeld">sirivirapurisadatasa</rdg></app><app loc="2"><lem>°aṭhārasaṁ</lem><rdg source="bib:Vogeld">°aṭhāra saṁ</rdg></app><app loc="2"><lem>hitaya</lem><rdg source="bib:Vogeld">hit<supplied reason="omitted">ā</supplied>ya</rdg></app></listApp></div><div type="translation"><p n="1"> Success! Homage to the Bhagavant, the Buddha!</p><p n="1-2"> At the shrine hall (<foreign xml:lang="pra-Latn">cetiyaghara</foreign>), Cāntisirī — uterine sister of Great King Vāsiṭṭhīputta
 					Siri-Cāntamūla of the Ikṣvāku family, favored by Mahāsena
 					who has Virūpākṣa as his lord, sacrificer of the Agnihotra,
 					the Agniṣṭoma, the Vājapeya and the Aśvamedha, giver of many

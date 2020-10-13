@@ -186,8 +186,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -228,7 +227,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							correctly. Nevertheless, because readings cited in
 							IAR are on the whole clearly provisional, and often
 							unreliable, we do not dare to restore the complete
-							lacuna on the sole evidence of this source.</note><!-- AG: I presume that the mentions of fragments and estampages will need to be interlinked as soon as we have EM's model. --></app></listApp></div><div type="translation" xml:lang="eng"><p>(...), together with (...) established in Vijayapura, in the
+							lacuna on the sole evidence of this source.</note><!-- AG: I presume that the mentions of fragments and estampages will need to be interlinked as soon as we have EM's model. --></app></listApp></div><div type="translation"><p>(...), together with (...) established in Vijayapura, in the
 					Mahārāja’s estate (...) (of) the Bhagavant (...)</p></div><div type="commentary"><p n="1"><note>On the technical term <foreign xml:lang="pra-Latn">vaḍhamana</foreign>, which is difficult to
 							translate, see <bibl><ptr target="bib:Falk2013"/>:
 									<citedRange>323-326</citedRange></bibl> who proposes to understand the term as

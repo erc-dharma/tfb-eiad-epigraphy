@@ -184,8 +184,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -208,7 +207,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
    <text xml:space="preserve"><body><div type="edition" xml:lang="san-Latn"><ab><lb n="1"/><unclear>r</unclear><supplied reason="lost">ā</supplied><unclear>j</unclear>ñaḥ vāse<supplied reason="lost">ṣ</supplied>ṭh<supplied reason="lost">ī</supplied><unclear>p</unclear>u<unclear>t</unclear>ra<supplied reason="lost">s</supplied>ya <lb n="2"/><gap reason="lost" quantity="1" unit="component"/>i <gap reason="lost" quantity="1" unit="component"/>i yanādhivāsasya <lb n="3"/><unclear>va</unclear>rṣaśatā </ab></div><div type="apparatus"><listApp><app loc="1"><lem><unclear>r</unclear><supplied reason="lost">ā</supplied><unclear>j</unclear>ñaḥ</lem><rdg source="bib:Hinüber2013b">rañe</rdg><note>Von Hinüber reads it as an additional line that he
 							labels <foreign>1a</foreign>,
 							misinterpreting the subscript <foreign>ña</foreign> as an akṣara in itself.</note></app><app loc="1"><lem>vāse<supplied reason="lost">ṣ</supplied>ṭh<supplied reason="lost">ī</supplied><unclear>p</unclear>u<unclear>t</unclear>ra<supplied reason="lost">s</supplied>ya</lem><rdg source="bib:Hinüber2013b">vāsa.ṭha <gap reason="lost" quantity="2" unit="character"/><supplied reason="lost">s</supplied>ya</rdg></app><app loc="2"><lem>yanādhivāsasya</lem><rdg source="bib:Hinüber2013b">gatādhivāsasya</rdg></app><app loc="3"><lem><unclear>va</unclear>rṣaśatā</lem><rdg source="bib:Hinüber2013b">varṣaśatā<supplied reason="lost">ni</supplied></rdg><note>The <foreign>tā</foreign> is however
-							clearly the last akṣara of the line.</note></app></listApp></div><div type="translation" xml:lang="eng"><ab>Of king Vāseṭhīputra (...), of the inhabitant of <gap reason="lost" quantity="1" unit="component"/>i <gap reason="lost" quantity="1" unit="component"/>i yana
+							clearly the last akṣara of the line.</note></app></listApp></div><div type="translation"><ab>Of king Vāseṭhīputra (...), of the inhabitant of <gap reason="lost" quantity="1" unit="component"/>i <gap reason="lost" quantity="1" unit="component"/>i yana
 					(...), a hundred years.</ab></div><!--<div type="commentary"></div>--><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Hinüber2013b"/>:
 							<citedRange>11</citedRange></bibl>. Re-edited here from published documentation.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:IAR"/><citedRange>2003-04: 341 (3), (?)</citedRange></bibl></listBibl></div></body></text>
 </TEI>

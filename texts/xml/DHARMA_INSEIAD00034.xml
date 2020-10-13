@@ -188,8 +188,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -233,7 +232,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							ladhapatapasa</rdg><note>Restore <foreign xml:lang="pra-Latn">bahusamarapaṭiladhapatāpasa</foreign>?</note></app><app loc="8"><lem>maṭhariputasa</lem><rdg source="bib:Raghunath2001">māṭharīputasa</rdg></app><app loc="9"><lem>20 <gap reason="illegible" quantity="1" unit="character"/></lem><rdg source="bib:Raghunath2001">20
 								<unclear>4</unclear></rdg></app><app loc="10"><lem>thap<supplied reason="lost">i</supplied>tā
 								pat<supplied reason="lost">i</supplied>mā</lem><rdg source="bib:Raghunath2001">thāpitā
-							patimā</rdg></app></listApp></div><div type="translation" xml:lang="eng"><p>On the 7th day of the … in year 20 … Māṭharīputta
+							patimā</rdg></app></listApp></div><div type="translation"><p>On the 7th day of the … in year 20 … Māṭharīputta
 					Siri-Vīrapurisadatta, (son) of the Great King Siri-Cāntamūla
 					— sacrificer of the Aśvamedha, giver of numerous tens of
 					millions of [pieces of] gold, (hundreds of thousands of cows

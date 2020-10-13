@@ -182,8 +182,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -242,7 +241,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 									can also be, as stated above, <hi rend="italic">dattā</hi> 40 4.
 									The reading of the next expression iti is purely
 									conjectural</quote><bibl><ptr target="bib:Sankaranarayanand"/>:
-										<citedRange>95</citedRange></bibl></cit>.</note></app></listApp></div><div type="translation" xml:lang="eng"><ab>(1-9) Hail! From the illustrious and victorious city of Veṅgī, the
+										<citedRange>95</citedRange></bibl></cit>.</note></app></listApp></div><div type="translation"><ab>(1-9) Hail! From the illustrious and victorious city of Veṅgī, the
 					great-grandson of the illustrious Hastivarman, great king according to <foreign xml:lang="san-Latn">dharma</foreign>, who was the moon in the pure sky of
 					the lineage of Śalaṅka, whose body of fame was purified by many kinds of
 					meritorious acts such as his acts of <foreign xml:lang="san-Latn">dharma</foreign>, his (founding) of new temples for … Viṣṇu and of <foreign xml:lang="san-Latn">cāturvaidyaśālās</foreign> (made) out of devotion for

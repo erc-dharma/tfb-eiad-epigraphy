@@ -187,8 +187,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -208,7 +207,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>sidha <g>–</g>mahādеviya °avidhavāya j<unclear>ī</unclear>vaputāya mahārajasi<unclear>r</unclear>i<unclear>°e</unclear>hava<unclear>laca</unclear>tamulapati<unclear>ya</unclear> khaṁḍuvulāya kāritā ti <g>–</g></ab></div><div type="apparatus"><listApp><app loc="1"><lem>mahādеviya</lem><rdg source="bib:Narasimhaswami">mahādеvīya</rdg></app><app loc="1"><lem>mahāraja</lem><rdg source="bib:Narasimhaswami">mahārāja</rdg></app><app loc="1"><lem><unclear>°e</unclear>hava<unclear>laca</unclear>tamula</lem><rdg source="bib:Narasimhaswami"><unclear>°ehavalacaṁtamu</unclear>la</rdg></app></listApp></div><div type="translation" xml:lang="eng"><ab>Success! The Queen Khaṇḍuvulā, whose husband is alive, whose
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>sidha <g>–</g>mahādеviya °avidhavāya j<unclear>ī</unclear>vaputāya mahārajasi<unclear>r</unclear>i<unclear>°e</unclear>hava<unclear>laca</unclear>tamulapati<unclear>ya</unclear> khaṁḍuvulāya kāritā ti <g>–</g></ab></div><div type="apparatus"><listApp><app loc="1"><lem>mahādеviya</lem><rdg source="bib:Narasimhaswami">mahādеvīya</rdg></app><app loc="1"><lem>mahāraja</lem><rdg source="bib:Narasimhaswami">mahārāja</rdg></app><app loc="1"><lem><unclear>°e</unclear>hava<unclear>laca</unclear>tamula</lem><rdg source="bib:Narasimhaswami"><unclear>°ehavalacaṁtamu</unclear>la</rdg></app></listApp></div><div type="translation"><ab>Success! The Queen Khaṇḍuvulā, whose husband is alive, whose
 					sons are alive, wife of Great King Siri-Ehavalacāntamūla,
 					caused (this image) to be made.</ab></div><!--<div type="commentary">
 				<listApp>

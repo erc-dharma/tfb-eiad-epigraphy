@@ -185,8 +185,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -206,7 +205,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><div type="textpart" subtype="graffiti" n="a"><ab>dadhisarasetu </ab></div><div type="textpart" subtype="graffiti" n="b"><ab><!--<lb n="2"/>-->viruma </ab></div></div><!--<div type="apparatus"></div>--><div type="translation" xml:lang="eng"><ab>Dadhisarasetu. Viruma.</ab></div><!--<div type="commentary"></div>-->
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><div type="textpart" subtype="graffiti" n="a"><ab>dadhisarasetu </ab></div><div type="textpart" subtype="graffiti" n="b"><ab><!--<lb n="2"/>-->viruma </ab></div></div><!--<div type="apparatus"></div>--><div type="translation"><ab>Dadhisarasetu. Viruma.</ab></div><!--<div type="commentary"></div>-->
       <div type="bibliography">
       <p>First edited and described in <bibl><ptr target="bib:ARIE"/><citedRange>1959-60: B.80</citedRange></bibl>. Re-edited here from published
 						documentation.</p>

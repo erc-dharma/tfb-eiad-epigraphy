@@ -185,8 +185,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -212,7 +211,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 					<rdg source="eiad-bibl:identifier"/>
 					<note/>
 				</app>
-			</div>--><div type="translation" xml:lang="eng"><ab>(Part) of the <foreign xml:lang="san-Latn">maṇḍapa</foreign>
+			</div>--><div type="translation"><ab>(Part) of the <foreign xml:lang="san-Latn">maṇḍapa</foreign>
 					of the notable (<foreign xml:lang="pra-Latm">gahapati</foreign>)
 					Budhisiri in the estate of Ukhasiri.</ab></div><!--<div type="commentary">
 				<listApp>

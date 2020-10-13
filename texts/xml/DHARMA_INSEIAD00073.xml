@@ -185,8 +185,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -209,7 +208,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
    <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>magalaraṇavathavasa <space quantity="1" unit="character"/>raṭhikasa <lb n="2"/><unclear>putasa</unclear> <gap reason="illegible" quantity="1" unit="character"/><unclear>patuma</unclear> <gap reason="illegible" quantity="1" unit="character"/><unclear>bhaḍa</unclear> <gap reason="illegible" quantity="1" unit="character"/><lb n="3"/><gap reason="illegible" quantity="2" unit="character"/><unclear>ma</unclear><gap reason="illegible" quantity="10" unit="character"/> <lb n="4"/>cha<unclear>yakha</unclear><supplied reason="lost">bho</supplied> </ab></div><div type="apparatus"><listApp><app loc="2"><lem><unclear>putasa</unclear></lem><rdg source="bib:Sircara"><unclear>harakasa</unclear></rdg></app><app loc="2"><lem><unclear>patuma</unclear><gap reason="illegible" quantity="1" unit="character"/></lem><rdg source="bib:Sircara">pasadatana</rdg><note>The fourth akṣara <!--MS: should ?-->be read as a
 								<foreign>sa</foreign>, as in EIAD <ref target="DHARMA_INSEIAD00071.xml">71</ref>.</note></app><app loc="2"><lem><unclear>bhaḍa</unclear><gap reason="illegible" quantity="1" unit="character"/></lem><rdg source="bib:identifier"><unclear>patata</unclear>-</rdg><note>The third akṣara could be reconstructed as
 								<supplied reason="lost">naṁ</supplied>.</note></app><app loc="3"><lem><gap reason="illegible" quantity="2" unit="character"/><unclear>ma</unclear><gap reason="illegible" quantity="10" unit="character"/></lem><rdg source="bib:Sircara">na<unclear>ṁ</unclear>
-							maḍa . . . . . . . . </rdg><note>Sircar suggests an emendation of <foreign>ma</foreign> into <foreign>bha</foreign>.</note></app><app loc="4"><lem>cha<unclear>yakha</unclear><supplied reason="lost">bho</supplied></lem><rdg source="bib:Sircara">chha<unclear>ya</unclear>-kha<unclear>bha</unclear></rdg></app></listApp></div><div type="translation" xml:lang="eng"><ab>Memorial pillar of the ... soldier(s) of the governor (<foreign xml:lang="pra-Latn">raṭhika</foreign>) Puta Patuma.</ab></div><!--<div type="commentary">
+							maḍa . . . . . . . . </rdg><note>Sircar suggests an emendation of <foreign>ma</foreign> into <foreign>bha</foreign>.</note></app><app loc="4"><lem>cha<unclear>yakha</unclear><supplied reason="lost">bho</supplied></lem><rdg source="bib:Sircara">chha<unclear>ya</unclear>-kha<unclear>bha</unclear></rdg></app></listApp></div><div type="translation"><ab>Memorial pillar of the ... soldier(s) of the governor (<foreign xml:lang="pra-Latn">raṭhika</foreign>) Puta Patuma.</ab></div><!--<div type="commentary">
 				<listApp>
 					<app loc="lineNumber">
 						<note>@loc = number of the line commented here in the note element.</note>

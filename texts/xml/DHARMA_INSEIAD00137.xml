@@ -185,8 +185,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -208,7 +207,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
    </teiHeader>
    <text xml:space="preserve"><body><div type="edition" xml:lang="san-Latn"><ab><lb n="1"/><g type="dextrorotatory-spiral"/>°ācāryyamaudgalyāyaṇasya priyaśiṣyāsyācā<unclear>r</unclear>yya<supplied reason="lost">dha</supplied><lb n="2" break="no"/>rmmadevasya śiṣyeṇa śrāmaṇakarāhuleṇa bhagavataḥ <lb n="3"/>pratimā pratiṣṭhāpitā sarvvasatvānām anuttarajñā<lb n="4" break="no"/>nāvāptaye yad atra puṇyaṁ tad bhavatu satvāna<unclear>ṁ</unclear> </ab></div><div type="apparatus"><listApp><app loc="1"><lem><g type="dextrorotatory-spiral"/></lem><note>This liminal auspicious sign is transcribes as
                             svasti in <bibl><ref target="eiad-bibl:Subba_Rao1928.xml"/></bibl>, and omitted by <bibl><ref target="eiad-bibl:Ramachandranb.xml"/></bibl>.</note></app><app loc="1"><lem>°ācāryyamaudgalyāyaṇasya</lem><rdg source="bib:Subba_Rao1928">°ācāryamougalyāyaṇasya</rdg></app><app loc="1"><lem>priyaśiṣyāsyācā<unclear>r</unclear>yya</lem><rdg source="bib:Subba_Rao1928">priyaśiṣyāsyācārya</rdg></app><app loc="2"><lem>śrāmaṇakarāhuleṇa</lem><rdg source="bib:Ramachandranb">śrāmaṇakarāhulena</rdg></app><app loc="2"><lem>bhagavataḥ</lem><rdg source="bib:Ramachandranb">bhagavato</rdg></app><app loc="3-4"><lem>anuttarajñānāvāptaye</lem><rdg source="bib:Subba_Rao1928">anuttarajīvāvāptaye</rdg></app><app loc="4"><lem>yad atra</lem><rdg source="bib:Subba_Rao1928">yadhatra</rdg></app><app loc="4"><lem>puṇyaṁ</lem><rdg source="bib:Subba_Rao1928">puṇyam</rdg><rdg source="bib:Ramachandranb">puṇyam</rdg></app><app loc="4"><lem>tad bhavatu</lem><rdg source="bib:Subba_Rao1928">sarvvam
-                            caitya</rdg></app><app loc="4"><lem>satvāna<unclear>ṁ</unclear></lem><rdg source="bib:Ramachandranb">satvānāṁ</rdg><rdg source="bib:Subba_Rao1928">saṅghasya</rdg></app></listApp></div><div type="translation" xml:lang="eng"><ab>(This) image of the Bhagavant was established by the
+                            caitya</rdg></app><app loc="4"><lem>satvāna<unclear>ṁ</unclear></lem><rdg source="bib:Ramachandranb">satvānāṁ</rdg><rdg source="bib:Subba_Rao1928">saṅghasya</rdg></app></listApp></div><div type="translation"><ab>(This) image of the Bhagavant was established by the
                         <foreign xml:lang="san-Latn">śrāmaṇaka</foreign> Rāhula,
                     pupil of master Dharmadeva, beloved pupil of master
                     Maudgalyāyana, for the attainment of the supreme knowledge

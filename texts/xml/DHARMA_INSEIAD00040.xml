@@ -187,8 +187,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -227,7 +226,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							parallel passages for the formula <foreign xml:lang="pra-Latn">-nivāṇathanāya °imaṁ
 								selakhaṁbhaṁ patiṭhapitaṁ ti</foreign>, we
 							expect the isolated vowel <foreign>i</foreign> here to have been part of the word
-								<foreign xml:lang="pra-Latn">patiṭhapitaṁ</foreign>.</note></app></listApp></div><div type="translation" xml:lang="eng"><p>Cāntisirī — uterine sister of Great King 
+								<foreign xml:lang="pra-Latn">patiṭhapitaṁ</foreign>.</note></app></listApp></div><div type="translation"><p>Cāntisirī — uterine sister of Great King 
 					Siri-Cāntamūla, sacrificer of the Aśvamedha, giver of many
 					times tens of millions of (pieces of) gold; wife of the
 					Great Talavara Vāsiṭṭhīputta Kandasiri of the Pūkīyas, Great-Talavara-wife — in

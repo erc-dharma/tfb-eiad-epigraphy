@@ -186,8 +186,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -214,7 +213,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
    </facsimile>
    <text xml:space="preserve"><body><div type="edition" xml:lang="san-Latn"><ab><lb n="1"/><supplied reason="lost">siddham·</supplied> <supplied reason="lost"><g>–</g></supplied></ab><lg met="Anuṣṭubh" n="1"><l n="a">varṣa °ekādaśe rājñaḫ </l><l n="b">prabhor ehavalaśriyaḥ </l><l n="c"><lb n="2"/><supplied reason="lost">śukla</supplied><unclear>pa</unclear>kṣasya māghasya </l><l n="d">puṇya °ekādaśe  hani  <unclear><g>–</g></unclear></l></lg><lg met="sragdharā" n="2"><l n="a"><lb n="3"/><supplied reason="lost">deve</supplied> <unclear>yas</unclear>y<unclear>ā</unclear>tibha<unclear>kti</unclear>r hutavahata<unclear>na</unclear>ye caṇḍa<unclear>śa</unclear>ktau <unclear>ku</unclear>māre </l><l n="b"><lb n="4"/>pautras senāpater yyas samaravijayinaẖ kkhyātakīrtter aṇikkeḥ </l><l n="c"><lb n="5"/>prāsādaṅ <unclear>g</unclear>āṇ<supplied reason="lost">ḍ</supplied>i<supplied reason="lost">pu</supplied>tt<unclear>r</unclear>as sa talavaravaraẖ kārttikeyapprasādāt· </l><l n="d"><lb n="6"/><supplied reason="lost">°eliśrīś</supplied> <supplied reason="lost">śrīviśā</supplied>laṁ śubhamatir akaro<unclear>t</unclear> <unclear>sa</unclear>rvvadevādhivāsam· </l></lg></div><div type="apparatus"><listApp><app loc="5"><lem>-sādāt·</lem><note>Chhabra notes that sandhi has not been
 								observed at the end of pāda c, but this seems
-								normal rather than noteworthy.</note></app></listApp></div><div type="translation" xml:lang="eng"><p>Success!</p><p n="1" rend="stanza">In the eleventh year of the king, the lord
+								normal rather than noteworthy.</note></app></listApp></div><div type="translation"><p>Success!</p><p n="1" rend="stanza">In the eleventh year of the king, the lord
 						Ehavalaśrī, on the auspicious eleventh day of the bright
 						fortnight of (month) Māgha,</p><p n="2" rend="stanza"> the excellent Talavara Eliśrī,
 						of bright intellect, whose intense devotion (is directed)

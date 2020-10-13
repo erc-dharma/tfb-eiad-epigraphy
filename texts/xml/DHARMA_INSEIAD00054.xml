@@ -187,8 +187,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -228,7 +227,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							normalized text.</note></app><app loc="1"><lem><unclear>ś</unclear>loko</lem><rdg source="bib:Sircara">ślokā</rdg><note>Sircar suggests emending <foreign xml:lang="san-Latn">ślokaḥ</foreign>.</note></app><app loc="1"><lem>samupārjjitaṁ</lem><rdg source="bib:Sircara">samupārjjitaṁ |</rdg><note>Sircar wrongly takes an irrgularity in the stone as
 							a punctuation sign.</note></app><app loc="1"><lem>puṇyeṇa</lem><note>Understand <foreign xml:lang="san-Latn">puṇyena</foreign>, as suggested by
 							Sircar.</note></app><app loc="1"><lem>adhigacchatu <g>–</g></lem><rdg source="bib:Sircara">adhigacchatu <g>||</g></rdg><note>Sircar wrongly sees here two slanting strokes
-							instead of one.</note></app></listApp></div><div type="translation" xml:lang="eng"><p n="">Success! In the twenty-fourth year of Great King
+							instead of one.</note></app></listApp></div><div type="translation"><p n="">Success! In the twenty-fourth year of Great King
 					Śrī-Ehavalacāntamūla of the Ikṣvākus, in the fourth
 					fortnight of the rainy season, on the fifth day. 
 					</p><p n=""> In Śrīparvata, in Vijayapurī, in the monk’s cell (<foreign xml:lang="san-Latn">pariveṇa</foreign>) of the Great
