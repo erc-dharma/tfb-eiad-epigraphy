@@ -6,10 +6,6 @@ DHARMA project Task Force B
 
 ## Help and Guides
 * A Guide for Git is provided in the [project documentation repository](https://github.com/erc-dharma/project-documentation) at DHARMA_Git_guide_v01.md
-* Schemas are available as well is the repository
-  - a validation schema for manuscripts: [DHARMA_Manuscripts_schema_v01.rng](https://github.com/erc-dharma/project-documentation/blob/master/schema/DHARMA_Manuscripts_schema_v01.rng)
-  - the latest Epidoc validation schema if you are using a local validation system : [tei-epidoc-schema9.1.rng](https://github.com/erc-dharma/project-documentation/blob/master/schema/tei-epidoc-schema9.1.rng)
-  - a first version of DHARMA validation schema, still under test : [DHARMA_TestInscriptionSchema_v01.2.rng] (https://github.com/erc-dharma/project-documentation/blob/master/schema/DHARMA_TestInscriptionSchema_v01.2.rng)
 
 ## Contributing to this repository
 *“Thanks for your interest in contributing! There are many ways to contribute to this project. Get started [here](https://github.com/erc-dharma/project-documentation/tree/master/guides/github-issuetracker).”*
