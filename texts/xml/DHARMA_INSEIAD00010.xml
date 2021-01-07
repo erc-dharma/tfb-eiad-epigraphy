@@ -205,6 +205,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change when="2021-01-07" who="part:vito" status="draft">Modified translation.</change>
          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
@@ -234,9 +235,8 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 					Ujjayinī — established this stone pillar for the sake of
 					well-being, happiness and <foreign xml:lang="san-Latn">nirvāṇa</foreign> for herself. And while the Great
 					Shrine of this great monastery was being erected by the
-					Talavara’s wife Cāntisiriṇṇikā of the Pūkiyas and her
-					people, (Rudradharabhaṭṭārikā) contributed to the Talavara’s
-					wife and her people one hundred and seventy — 170 — <foreign xml:lang="pra-Latn">dīnārimāṣaka</foreign>s. </p><p n="7"> In the 6th
+					Great-Talavara-wife Cāntisiriṇṇikā of the Pūkiyas and her
+					people, (Rudradharabhaṭṭārikā) contributed to the Great-Talavara-wife one hundred and seventy — 170 — <foreign xml:lang="pra-Latn">dīnārimāṣaka</foreign>s and a pillar. </p><p n="7"> In the 6th
 					year of King Siri-Vīrapurisadatta, in the 6th fortnight of
 					the rainy season, on the 10th day.</p></div><div type="commentary"><p n="6"><note><bibl><ptr target="bib:Vogeld"/>:
 									<citedRange>19</citedRange></bibl> notes
