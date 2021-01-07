@@ -184,8 +184,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -205,7 +204,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>sid<unclear>dhaṁ</unclear> sakasa moḍasa bakanaya budhaya pat<unclear>i</unclear>padā deyadha<add place="below">ma</add> </ab></div><div type="apparatus"><listApp><app loc="1"><lem>moḍasa</lem><rdg source="bib:Vogela">modasa</rdg></app><app loc="1"><lem>bakanaya</lem><rdg source="bib:Vogela">bak<unclear>i</unclear>n<unclear>i</unclear>ya</rdg></app><app loc="1"><lem>budhaya</lem><rdg source="bib:Vogela">budh<unclear>i</unclear>ya</rdg></app><app loc="1"><lem>deyadha<add place="below">ma</add></lem><note>The scribe lacked space and inserted the <foreign>ma</foreign> below the line.</note></app></listApp></div><div type="translation" xml:lang="eng"><p>Success! (This) footprint slab (<foreign xml:lang="pra-Latn">patipadā</foreign>) is the pious gift of Budhā, sister
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>sid<unclear>dhaṁ</unclear> sakasa moḍasa bakanaya budhaya pat<unclear>i</unclear>padā deyadha<add place="below">ma</add> </ab></div><div type="apparatus"><listApp><app loc="1"><lem>moḍasa</lem><rdg source="bib:Vogela">modasa</rdg></app><app loc="1"><lem>bakanaya</lem><rdg source="bib:Vogela">bak<unclear>i</unclear>n<unclear>i</unclear>ya</rdg></app><app loc="1"><lem>budhaya</lem><rdg source="bib:Vogela">budh<unclear>i</unclear>ya</rdg></app><app loc="1"><lem>deyadha<add place="below">ma</add></lem><note>The scribe lacked space and inserted the <foreign>ma</foreign> below the line.</note></app></listApp></div><div type="translation"><p>Success! (This) footprint slab (<foreign xml:lang="pra-Latn">patipadā</foreign>) is the pious gift of Budhā, sister
 						(<foreign xml:lang="pra-Latn">bhaginī</foreign>?) of the
 					Saka Moḍa.</p></div><!--<div type="commentary"></div>--><div type="bibliography"><p>First edited by <bibl><ptr target="bib:Vogela"/></bibl>. Re-edited here from photographs and
 					after autopsy of the stone.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Longhurst1938"/>: <citedRange>24,

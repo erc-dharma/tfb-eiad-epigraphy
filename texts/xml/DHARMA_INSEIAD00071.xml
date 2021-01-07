@@ -185,8 +185,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -211,7 +210,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 								1 above, though in the other record the word
 								comes before <hi rend="italic">bhaḍanaṁ</hi>.</quote> In light of <ref target="DHARMA_INSEIAD00070.xml">EIAD 70</ref> and <ref target="DHARMA_INSEIAD00072.xml">EIAD 72</ref>, it seems preferable to reconstruct <hi rend="italic">pa<supplied reason="lost">ditanaṁ</supplied></hi> or <hi rend="italic">pa<supplied reason="lost">ḍitanaṁ</supplied></hi>.
 						</note></app><app loc="3"><lem><unclear>chā</unclear>jākhaṁbho</lem><rdg source="bib:Sircara">..<unclear>yā</unclear>khaṁ<unclear>bho</unclear></rdg><note>Sircar notes that the lost akṣara is apparently
-								<foreign>chā</foreign>, and we can recognise what is left of it.</note></app></listApp></div><div type="translation" xml:lang="eng"><ab>Memorial pillar of the killed soldiers of the General
+								<foreign>chā</foreign>, and we can recognise what is left of it.</note></app></listApp></div><div type="translation"><ab>Memorial pillar of the killed soldiers of the General
 					...ṭapuṭa Patuma, resident of Magalaraṇa.</ab></div><!--<div type="commentary">
 				<listApp>
 					<app loc="lineNumber">

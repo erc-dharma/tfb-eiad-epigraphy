@@ -183,8 +183,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -211,7 +210,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							proposed by <bibl><ptr target="bib:Krishna_Rao"/>:
 									<citedRange>9</citedRange></bibl>.</note></app><app loc="12"><lem>-parīhāreṇa</lem><note>Emend <foreign xml:lang="san-Latn">-parihāreṇa</foreign>, as proposed
 							by <bibl><ptr target="bib:Krishna_Rao"/>:
-									<citedRange>9</citedRange></bibl>.</note></app></listApp></div><div type="translation" xml:lang="eng"><p n="1–9">Hail! From the victorious [city of] Veṅgī, by the order of the great-grandson of the glorious great king Hastivarman, whose deeds at the forefront of many battles are celebrated; the grandson of the glorious great king Nandivarman, by whose own prowess the armor of enemies has been removed; the son of the glorious great king Hastivarman, whose fame has been embraced by the waves of the four oceans; the glorious great king Skandavarman, who is favored by the feet of the lord Citrarathasvāmin, devoted to the feet of his lord father, the Śālaṅkāyana — [by his order] the villagers of Kompara in the
+									<citedRange>9</citedRange></bibl>.</note></app></listApp></div><div type="translation"><p n="1–9">Hail! From the victorious [city of] Veṅgī, by the order of the great-grandson of the glorious great king Hastivarman, whose deeds at the forefront of many battles are celebrated; the grandson of the glorious great king Nandivarman, by whose own prowess the armor of enemies has been removed; the son of the glorious great king Hastivarman, whose fame has been embraced by the waves of the four oceans; the glorious great king Skandavarman, who is favored by the feet of the lord Citrarathasvāmin, devoted to the feet of his lord father, the Śālaṅkāyana — [by his order] the villagers of Kompara in the
 					Kudrāhāra are to be addressed:</p><p n="9–15">‘There is this village given by us to the Brahmin community of the four
 					Vedas (<foreign xml:lang="san-Latn">cāturvaidya</foreign>) residing in Rathakāra, 
 					for the increasing of the fame, prosperity, victory and welfare of our lineage,

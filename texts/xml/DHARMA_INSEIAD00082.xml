@@ -187,8 +187,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -217,7 +216,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							or <foreign>saṁva</foreign>. The akṣara read as <foreign>ta</foreign> by Nilakanta Sastri is
 							different in shape from all cases of <foreign>ta</foreign> in the text. It is
 							easier to assume a miswritten <foreign>va</foreign>.</note></app><app loc="3"><lem>gipa 1 diva 10 3</lem><rdg source="bib:Nilakanta_Sastrib">gi 8 diva 10
-							|||</rdg></app></listApp></div><div type="translation" xml:lang="eng"><!--<ab>Success! To the Bhagavant, the lord of Halaṁpūra gave this field of Todukasiri for the increase of his lifespan. In the 4th year of Siri-Rudapurisadāta, in the 1st fortnight of summer, on the 13th day.</ab>--><p>Success! To the Bhagavant, the lord of Halaṁpura, Todukasiri
+							|||</rdg></app></listApp></div><div type="translation"><!--<ab>Success! To the Bhagavant, the lord of Halaṁpūra gave this field of Todukasiri for the increase of his lifespan. In the 4th year of Siri-Rudapurisadāta, in the 1st fortnight of summer, on the 13th day.</ab>--><p>Success! To the Bhagavant, the lord of Halaṁpura, Todukasiri
 					gave a field for the increase of his lifespan. In the 4th
 					year of Siri-Ruddapurisadatta, in the 1st fortnight of summer,
 					on the 13th day.</p><!--Success! To the Bhagavant! Todukasiri, lord of Halaṁpūra, gave this field for the increase of his lifespan. In the 4th year of Siri-Rudapurisadāta, in the 1st fortnight of summer, on the 13th day.

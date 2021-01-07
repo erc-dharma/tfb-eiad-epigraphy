@@ -185,8 +185,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -215,7 +214,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
    </facsimile>
    <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>siddham· <g>–</g>namo bhagavato buddhasa mahārājasa <lb n="2"/>virūpakkhapattimahāsenaparigahitasa °agihotāgiṭhomavājape<lb n="3" break="no"/>yasamedhayājisa °anekahiraṁṇakoṭigosatasahasahalasatasaha<lb n="4" break="no"/><supplied reason="lost">sapadāy</supplied>isa savathesu °apatihatasaṁkappasa vāsiṭhīputtasa °ikkhā<supplied reason="lost">kūnaṁ</supplied> <lb n="5"/>siricaṁtamulasa sunhāya mahārajasa mā<unclear>ṭha</unclear>rīputtasa sirivīrapuri<lb n="6" break="no"/>sadat<supplied reason="lost">t</supplied>asa bhayyāya mahādevīya <unclear>bhaṭṭ</unclear>i<supplied reason="lost">devāya</supplied> deyadhaṁma °imaṁ savajātaniyuto <lb n="7"/>vihāro °acariyānaṁ bahusutiyānaṁ patiṭṭhapito raṁño vāsiṭhīputtasa °ikkhākūnaṁ <lb n="8"/>siri°ehuvulacatamūlasa saṁvacharaṁ bitiyaṁ gimhapakkhaṁ chaṭhaṁ <num value="6">6</num>divasaṁ dasamaṁ <num value="10">10</num><g>–</g></ab></div><div type="apparatus"><listApp><app loc="2"><lem>virūpakkhapati-</lem><rdg source="bib:Vogelb">virūpakkhapatti-</rdg></app><app loc="2-3"><lem>°agihotāgiṭhomavājapeyasamedhayājisa</lem><rdg source="bib:Vogelb">°agihot<supplied reason="omitted">ā</supplied>giṭhomavājapey<supplied reason="omitted">ā</supplied>samedhayājisa</rdg></app><app loc="4"><lem>°ikkhā<supplied reason="lost">kūnaṁ</supplied></lem><rdg source="bib:Vogelb">°ikkhā<supplied reason="omitted">kunaṁ</supplied></rdg><note>Both reconstructions are possible, but ours is
 							supported internally (l. 7). </note></app><app loc="6"><lem>-dat<supplied reason="lost">t</supplied>asa</lem><rdg source="bib:Vogelb">-dattasa</rdg></app><app loc="6"><lem><unclear>bhaṭṭ</unclear>i<supplied reason="lost">devāya</supplied></lem><rdg source="bib:Vogelb"><unclear>bhaṭṭidevāya</unclear></rdg><note>Vogel's readinh does not distinguish clearly
-							between damaged and reconstructed akṣaras.</note></app><app loc="7"><lem>raṁño</lem><rdg source="bib:Vogelb">raño</rdg></app></listApp></div><div type="translation" xml:lang="eng"><p n="1"> Success! Homage to the Bhagavant, the Buddha. </p><p n="1-7"> The Queen
+							between damaged and reconstructed akṣaras.</note></app><app loc="7"><lem>raṁño</lem><rdg source="bib:Vogelb">raño</rdg></app></listApp></div><div type="translation"><p n="1"> Success! Homage to the Bhagavant, the Buddha. </p><p n="1-7"> The Queen
 					Bhaṭidevā — daughter-in-law of Great King Vāsiṭṭhīputta
 					Siri-Cāntamūla of the Ikṣvākus, favored by Mahāsena who has
 					Virūpākṣa as his lord, sacrificer of the Agnihotra, the

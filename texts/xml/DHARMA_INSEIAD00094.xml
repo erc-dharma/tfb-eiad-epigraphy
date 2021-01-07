@@ -184,8 +184,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -205,6 +204,6 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>nilaka </ab></div><div type="apparatus"><listApp><app loc="1"><lem>nilaka</lem><rdg source="bib:Raghunath2001">nikila</rdg><note/></app></listApp></div><div type="translation" xml:lang="eng"><ab>Nilaka.</ab></div><!--<div type="commentary"></div>--><div type="bibliography"><p>First edited and described by <bibl><ptr target="bib:ARIE"/><citedRange>1959-60: B.83</citedRange></bibl>. Re-edited here from published documentation.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Raghunath2001"/>: <citedRange>190
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>nilaka </ab></div><div type="apparatus"><listApp><app loc="1"><lem>nilaka</lem><rdg source="bib:Raghunath2001">nikila</rdg><note/></app></listApp></div><div type="translation"><ab>Nilaka.</ab></div><!--<div type="commentary"></div>--><div type="bibliography"><p>First edited and described by <bibl><ptr target="bib:ARIE"/><citedRange>1959-60: B.83</citedRange></bibl>. Re-edited here from published documentation.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Raghunath2001"/>: <citedRange>190
 							(75)</citedRange></bibl></listBibl></div></body></text>
 </TEI>

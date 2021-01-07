@@ -185,8 +185,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -208,7 +207,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
    </teiHeader>
    <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><div type="textpart" subtype="graffiti" n="Block 1" xml:id="EIAD0092_textPart1"><ab><lb n="1"/>bu <unclear>na</unclear> <lb n="2"/>hathikasa <lb n="3"/>budharakhitasa </ab></div><div type="textpart" subtype="graffiti" n="Block 2" xml:id="EIAD0092_textPart2"><ab>nagutara </ab></div></div><div type="apparatus"><listApp corresp="#EIAD0092_textPart1"><app loc="1"><lem>bu <unclear>na</unclear></lem><rdg source="bib:Raghunath2001">bu … </rdg><note>This could could possibly be an abbreviation
 								for <foreign xml:lang="pra-Latn">buddhāya
-									namo</foreign>.</note></app></listApp></div><div type="translation" xml:lang="eng"><p>Veneration to the Buddha (?). Of the <foreign xml:lang="pra-Latn">hathika</foreign> (?)
+									namo</foreign>.</note></app></listApp></div><div type="translation"><p>Veneration to the Buddha (?). Of the <foreign xml:lang="pra-Latn">hathika</foreign> (?)
 						Budharakhita (Buddharakṣita).</p><p>Nagutara (Nāgottara).</p></div><!--<div type="commentary"></div>--><div type="bibliography"><p>The three graffiti of block 1 noticed in <bibl><ptr target="bib:ARIE"/><citedRange>1959-60</citedRange></bibl>. The fourth graffito, or block 2, perpendicular to the
 						others, was added in <bibl><ptr target="bib:ARIE"/><citedRange>1976-77: B.2</citedRange></bibl>. Re-edited here from available documentation and
 						after autopsy of the stone.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Raghunath2001"/>:

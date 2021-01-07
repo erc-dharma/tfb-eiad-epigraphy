@@ -187,8 +187,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -220,7 +219,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							what seems to be an <foreign xml:lang="san-Latn">anusvāra</foreign>
 							actually the trace of the expected <foreign>-ā</foreign>?</note></app><app loc="38"><lem>hatthis<unclear>ā</unclear>m<unclear>i</unclear></lem><note>Or read <foreign xml:lang="pra-Latn">hatthisama</foreign> = <foreign xml:lang="pra-Latn">hatthasama</foreign>? Or <foreign xml:lang="pra-Latn">hatthisam<supplied reason="lost">uha</supplied></foreign>? Cf. EIAD <ref target="DHARMA_INSEIAD00160.xml">160</ref>, l. 14 <foreign xml:lang="pra-Latn">samuhāṇattī</foreign>.</note></app><app loc="39"><lem source="bib:Krishna_Rao">-puto koṁgala-</lem><note>According to the reading of D.C. Sircar provided in editorial notes to
 							Krishna Rao’s article.</note><rdg source="bib:Krishna_Rao">-puṇakoṁgala-</rdg></app><app loc="40"><lem source="bib:Krishna_Rao">hadappag<unclear>g</unclear>āhamatyavaro ya ti</lem><note>According to the reading of D.C. Sircar provided in editorial
-							notes to Krishna Rao’s article.</note><rdg source="bib:Krishna_Rao">adappaggāha chetya varohati</rdg></app></listApp></div><div type="translation" xml:lang="eng"><p n="1-6"> From the victorious city of Veṅgī, by the command of the glorious great
+							notes to Krishna Rao’s article.</note><rdg source="bib:Krishna_Rao">adappaggāha chetya varohati</rdg></app></listApp></div><div type="translation"><p n="1-6"> From the victorious city of Veṅgī, by the command of the glorious great
 				king Nandivarman, who is favored by (or: who has embraced) the feet of his lord
 				father, in the village of Piḍiha, the village headed by the <foreign xml:lang="pra-Latn">mutuḍa</foreign>, all
 				complete—the men of good family (<foreign xml:lang="pra-Latn">kulaputta</foreign>) and constables (<foreign xml:lang="pra-Latn">bhaḍamanussā</foreign>) [appointed to] all duties and services—are to be addressed (thus):</p><p n="7-15"> ‘For here by me, in order to increase our merit (<foreign xml:lang="san-Latn">dharma</foreign>), longevity and strength, and desiring the peace and prosperity of the infant crown-prince Khandapotta, has been given this village of Piḍiha, in accordance with the rules of the Rathakāra settlement, to the community of Caturvedins of the Rathakāra settlement, which

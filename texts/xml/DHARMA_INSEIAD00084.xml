@@ -188,8 +188,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -246,7 +245,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							supported by the fact that in the <hi rend="italic">Gaṇḍavyūha</hi> a Buddha bears the name of <hi rend="italic">Lakṣaṇavibhūṣitadhvajacandra</hi>. Cf. see BHSD, s.v.
 							The idea of restoring <foreign xml:lang="san-Latn">saddharmmacakra</foreign>- is informed by stanzas
 							1 and 2 of EIAD <ref target="DHARMA_INSEIAD0104.xml">104</ref>. At
-							the end, one should probably restore <foreign xml:lang="san-Latn">-sam<unclear>u</unclear>c<supplied reason="lost">chra</supplied><unclear>ya</unclear><supplied reason="lost">sya</supplied></foreign>.</note></app></listApp></div><div type="translation" xml:lang="eng"><p>... of ... whose life is characterized by pure conduct; whose
+							the end, one should probably restore <foreign xml:lang="san-Latn">-sam<unclear>u</unclear>c<supplied reason="lost">chra</supplied><unclear>ya</unclear><supplied reason="lost">sya</supplied></foreign>.</note></app></listApp></div><div type="translation"><p>... of ... whose life is characterized by pure conduct; whose
 					morality is faultless, free from defects, stainless and
 					spotless; who has exerted himself in the sciences
 					of logic, polity, and grammar; who preserves the Āgamas, the

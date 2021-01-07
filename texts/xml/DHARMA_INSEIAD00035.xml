@@ -183,8 +183,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -208,7 +207,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
       <graphic xml:id="EIAD0035_image-est-Vogel" url="EIAD0035_1.jpg" n="1"/>
    </facsimile>
    <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/><gap reason="lost" extent="unknown"/><milestone unit="fragment" n="left"/>nivāṇathan<unclear>ā</unclear>ya <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">dhātuvaraparigahi</supplied><milestone unit="fragment" n="left"/>tasa <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">nānādesasama</supplied><milestone unit="fragment" n="left"/>nāgatānaṁ <lb n="4"/><gap reason="lost" extent="unknown"/><milestone unit="fragment" n="left"/><unclear>sa</unclear>ṁ<supplied reason="lost">ba</supplied>ṁdhiva<unclear>g</unclear><supplied reason="lost">e</supplied><lb n="5" break="no"/><supplied reason="lost">na</supplied> <gap reason="lost" extent="unknown"/><milestone unit="fragment" n="left"/><gap reason="illegible" quantity="1" unit="character"/>naṁ <lb n="6"/><gap reason="lost" extent="unknown"/><supplied reason="lost">maṁ</supplied><milestone unit="fragment" n="left"/>ṭavaṁ </ab></div><div type="apparatus"><listApp><app loc="3"><lem><supplied reason="lost">nānādesasama</supplied>nāgatānaṁ</lem><note>Restoration based on EIAD <ref target="DHARMA_INSEIAD00028.xml">28</ref>, l. 2. See also EIAD <ref target="DHARMA_INSEIAD00038.xml">38</ref>, l. 1.</note></app><app loc="5"><lem><unclear>sa</unclear>ṁ<supplied reason="lost">ba</supplied>ṁdhiva<unclear>g</unclear><supplied reason="lost">ena</supplied></lem><rdg source="bib:Vogelb">dhiva</rdg><note>See EIAD <ref target="DHARMA_INSEIAD00003.xml">3</ref>, l. 4:
-								<foreign xml:lang="pra-Latn">nīgasaṁbaṁdhīvagehi</foreign>; <ref target="DHARMA_INSEIAD00031.xml">31</ref>, l. 5: <foreign xml:lang="pra-Latn">nātimitasaṁ<supplied reason="lost">baṁdh</supplied>ivagena</foreign>.</note></app></listApp></div><div type="translation" xml:lang="eng"><p>... for the sake of the <foreign xml:lang="san-Latn">nirvāṇa</foreign> ... (who is ensconced in the excellent relic
+								<foreign xml:lang="pra-Latn">nīgasaṁbaṁdhīvagehi</foreign>; <ref target="DHARMA_INSEIAD00031.xml">31</ref>, l. 5: <foreign xml:lang="pra-Latn">nātimitasaṁ<supplied reason="lost">baṁdh</supplied>ivagena</foreign>.</note></app></listApp></div><div type="translation"><p>... for the sake of the <foreign xml:lang="san-Latn">nirvāṇa</foreign> ... (who is ensconced in the excellent relic
 					[or: element (i.e., <foreign xml:lang="san-Latn">nirvāṇadhātu</foreign>)]) ... who come (from
 					various countries) ... and with the group(s) of their
 					relatives ... a <foreign xml:lang="san-Latn">maṇḍapa</foreign>.</p></div><div type="commentary"><p>According to <bibl><ptr target="bib:Sarkar1969"/></bibl>,

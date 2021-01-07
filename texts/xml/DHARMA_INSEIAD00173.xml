@@ -185,8 +185,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -241,7 +240,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							it is possible that an irregularity in the stone has
 							caused the engraver to introduce a space, although
 							he does not otherwise use spacing between words or
-							part of words.</note></app></listApp></div><div type="translation" xml:lang="eng"><ab>At the residence lying at the foot of the Eastern Vidāḷa,
+							part of words.</note></app></listApp></div><div type="translation"><ab>At the residence lying at the foot of the Eastern Vidāḷa,
 					the reverend Saṅghadeva, keeper of the Perfume Chamber of
 					King Govinda's monastery, disciple of the venerable
 					Bamhadeva—who stems from the line of Vasudevasirīdhama, he

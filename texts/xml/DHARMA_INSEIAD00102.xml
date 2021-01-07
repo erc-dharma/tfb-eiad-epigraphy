@@ -184,8 +184,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -207,7 +206,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
    </teiHeader>
    <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>°ayaka<unclear>to</unclear> </ab></div><div type="apparatus"><listApp><app loc="1"><lem>ayaka<unclear>to</unclear></lem><!--MS: The lemma as
                         given here disagrees with the edition above.--><note>The last akṣara is somewhat carelessly
-							written.</note></app></listApp></div><div type="translation" xml:lang="eng"><ab>Ayakato</ab></div><!--<div type="commentary">
+							written.</note></app></listApp></div><div type="translation"><ab>Ayakato</ab></div><!--<div type="commentary">
 				<listApp>
 					<app loc="lineNumber">
 						<note>@loc = number of the line commented here in the note element.</note>

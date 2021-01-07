@@ -185,8 +185,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -226,7 +225,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 								clear rather suggests the letter <foreign>gha</foreign>.</quote> On the
 							stone and in RTI images, we also recognise the
 							traces of the <foreign>o</foreign>
-							vocalization, so the reading is secure.</note></app></listApp></div><div type="translation" xml:lang="eng"><p n="1-4"> Success! Homage to the Bhagavant, the Perfect Buddha. In the
+							vocalization, so the reading is secure.</note></app></listApp></div><div type="translation"><p n="1-4"> Success! Homage to the Bhagavant, the Perfect Buddha. In the
 					11th year of Great King Vāsiṭṭhīputta Siri-Ehuvalacāntamūla of
 					the Ikṣvākus, in the 1st fortnight of (?), on the 7th day. </p><p n="4-14">
 					Koda-elisirī — grand-daughter of Great King Vāsiṭṭhīputta

@@ -186,8 +186,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -209,7 +208,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
    </teiHeader>
    <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/><supplied reason="lost">si</supplied><unclear>dhaṁ</unclear> <unclear><g>-</g></unclear>mahāse<unclear>nāpa</unclear>tisa mahātala<supplied reason="lost">va</supplied><unclear>ra</unclear><supplied reason="lost">sa</supplied> <lb n="2"/><gap reason="illegible" quantity="1" unit="character"/><unclear>raka</unclear>ha<unclear>ko</unclear>ḍuvakasa °aya<unclear>bhuti</unclear>sa <lb n="3"/>chāy<unclear>ekha</unclear>bha <unclear><g>|</g></unclear></ab></div><div type="apparatus"><listApp><app loc="1"><lem><supplied reason="lost">si</supplied><milestone unit="fragment" n="left"/><unclear>dhaṁ</unclear><unclear>-</unclear></lem><rdg source="bib:Sircara">...</rdg><note>Sircar however notes: “<quote>The damaged word
 								here may be <hi rend="italic">sidhaṁ</hi>.</quote>” </note></app><app loc="1"><lem>mahātala<supplied reason="lost">va</supplied><unclear>ra</unclear><supplied reason="lost">sa</supplied></lem><rdg source="bib:Sircara">mahātala...</rdg><note>Sircar notes: “<quote>the lost <hi rend="italic">aksharas</hi> are no doubt -<hi rend="italic">varasa</hi>.</quote>”</note></app><app loc="2"><lem><gap reason="illegible" quantity="1" unit="character"/><unclear>raka</unclear>-</lem><rdg source="bib:Sircara"><unclear>°arakama</unclear>-</rdg><note>Sircar notes: “<quote>Better read <hi rend="italic">Arakasa</hi> separately from
-								the compound.</quote>”</note></app><app loc="3"><lem>chāy<unclear>ekha</unclear>bha</lem><rdg source="bib:Sircara">chayakhabho</rdg></app></listApp></div><div type="translation" xml:lang="eng"><ab>Success! Memorial pillar of the Great General, the Great
+								the compound.</quote>”</note></app><app loc="3"><lem>chāy<unclear>ekha</unclear>bha</lem><rdg source="bib:Sircara">chayakhabho</rdg></app></listApp></div><div type="translation"><ab>Success! Memorial pillar of the Great General, the Great
 					Talavara <foreign xml:lang="san-Latn">...rakahakoḍuvaka</foreign> Ayabhuti (Āryabhūti).</ab></div><!--<div type="commentary">
 				<listApp>
 					<app loc="lineNumber">

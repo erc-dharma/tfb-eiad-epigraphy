@@ -182,8 +182,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -224,7 +223,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
                             EIAD <ref target="DHARMA_INSEIAD00056.xml">56</ref>.</note></app><app loc="4"><lem resp="Sircar">kātaṁ</lem><rdg source="bib:Rama_Rao1955c">kanam</rdg></app><app loc="4"><lem>kapa <gap reason="illegible" quantity="1" unit="character"/></lem><rdg source="bib:Rama_Rao1955c">kahana</rdg><rdg source="bib:Sircarj">kiha.</rdg><note>Given the likely Śaiva character of this inscription, it is tempting
                             to restore a name like <foreign xml:lang="pra-Latn">kapaddi-</foreign>
                             (Skt. <foreign xml:lang="san-Latn">kapardi-</foreign>).</note></app><app loc="4–5"><lem>bhag<unclear>g</unclear>a<milestone unit="fragment" n="lost"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/></lem><rdg source="bib:Sircarj">bhaṭṭ<unclear>ā</unclear> ….</rdg><note>We believe that the word to be restored here is <foreign xml:lang="pra-Latn">bhaggaphullasanthappa</foreign> (or an
-                            orthographic variant thereof); see EIAD <ref target="DHARMA_INSEIAD00056.xml">56</ref>, l. 7; <ref target="DHARMA_INSEIAD00060.xml">60</ref>, l. 2.</note></app><app loc="5"><lem><unclear>sa</unclear> pāda<unclear>m</unclear><supplied reason="lost">ū</supplied>le</lem><rdg source="bib:Rama_Rao1955c"> … padamule</rdg><rdg source="bib:Sircarj"><unclear>sa</unclear> pāda<unclear>mū</unclear>le</rdg></app></listApp></div><div type="translation" xml:lang="eng"><p>Success! By (king) Sīhavamma of the Pallavas, with a view to his own
+                            orthographic variant thereof); see EIAD <ref target="DHARMA_INSEIAD00056.xml">56</ref>, l. 7; <ref target="DHARMA_INSEIAD00060.xml">60</ref>, l. 2.</note></app><app loc="5"><lem><unclear>sa</unclear> pāda<unclear>m</unclear><supplied reason="lost">ū</supplied>le</lem><rdg source="bib:Rama_Rao1955c"> … padamule</rdg><rdg source="bib:Sircarj"><unclear>sa</unclear> pāda<unclear>mū</unclear>le</rdg></app></listApp></div><div type="translation"><p>Success! By (king) Sīhavamma of the Pallavas, with a view to his own
                     victoriousness and for increasing his ... and power, <foreign xml:lang="san-Latn">śānti</foreign> and <foreign xml:lang="san-Latn">svastyayana</foreign> were carried out and the <foreign xml:lang="san-Latn">taithika</foreign>, <foreign xml:lang="san-Latn">nākṣatrika</foreign> as
                     well as as <foreign xml:lang="san-Latn">prāharika</foreign> and so forth were
                     performed for Lord Siri-Jīvaśivasāmi ... (the repair of) what was damaged (and

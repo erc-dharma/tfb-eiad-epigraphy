@@ -184,8 +184,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -230,7 +229,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 								possibly be <hi rend="italic">kāka</hi> also. The form of the <hi rend="italic">akshara</hi> read <hi rend="italic">pha</hi> in
 								the first name is not regular for the period and may be also
 								regarded as an irregularly shaped <hi rend="italic">pā</hi>.</quote>
-							The final flourish consists of three dots arranged in a circle.</note></app></listApp></div><div type="translation" xml:lang="eng"><p n="1–2"> Success! Homage to the Bhagavant, the Mahādeva Puṣpabhadrasvāmin. In year 16 of
+							The final flourish consists of three dots arranged in a circle.</note></app></listApp></div><div type="translation"><p n="1–2"> Success! Homage to the Bhagavant, the Mahādeva Puṣpabhadrasvāmin. In year 16 of
 					Great King Vāsiṣṭhīputra Śrī-Ehavalacāntamūla, in the 2nd fortnight of summer,
 					on the 5th day. </p><p n="2–11"> The Great Crown-Prince, Great General Hāritīputra
 					Śrī-Vīrapuruṣadatta of the Ikṣvākus — great-grandson of the king Vāsiṣṭhīputra

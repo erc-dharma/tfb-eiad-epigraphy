@@ -182,8 +182,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -222,7 +221,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
                     <lem/>
                     <rdg source="eiad-bibl:identifier"/>
                     <note/>
-                </app>--></div><div type="translation" xml:lang="eng"><p n="1–3"> Success! Homage to the Bhagavant, the best of all beings,
+                </app>--></div><div type="translation"><p n="1–3"> Success! Homage to the Bhagavant, the best of all beings,
 					the Perfect Buddha! In the 19th year of Great King
 					Māṭharīputta Siri-Vīrapurisadatta of the Ikṣvākus, in the 4th
 					fortnight of the hot season, on the 13th day. </p><p n="3–11">By Saṅghila, grandson of the notable (<foreign xml:lang="pra-Latm">gahapati</foreign>) Saṅghila resident of Dhaññakaḍa, son of Vairavāniya, by his mother Dhammavānikinī, and by his brother Nāgilannaka, his sister Budhannikā, by Samudannika’s wife Sāgarannikā, by his brother’s wife Saṅghannikā, by his sons Vairasirinnaka, Canda ..., Nāgilannaka, by his daughters Dhammannikā ... and Nāgasammannikā — in this way together with relatives, friends and relations ... in the city, the great ...</p></div><div type="commentary"><p n="4"><term>vaira-</term><note>Is this for <foreign xml:lang="pra-Latm">vajira</foreign> : <foreign xml:lang="san-Latn">vajra</foreign>? The same name seems to figure

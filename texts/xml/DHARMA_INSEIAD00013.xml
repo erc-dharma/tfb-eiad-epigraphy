@@ -187,8 +187,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -214,7 +213,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
       <graphic xml:id="EIAD0013_image-text" url="EIAD0013_2.JPG" n="3"/>
    </facsimile>
    <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>sidhaṁ mahārājasa virūpakhapatimahāsenaparigahitasa °agihota°agiṭhomavāja<lb n="2" break="no"/>peyāsamedhayājisa hiraṁṇakoṭigosatasahasahalasatasahasapadāyisa savathesu <lb n="3"/>°apatihatasaṁkapasa vāsiṭhīputasa °ikhākusa siricātamūlasa sodarā bhagini raṁño māḍhariputasa <lb n="4"/>sirivirapurisadatasa pituchā mahā<supplied reason="omitted">senāpatisa</supplied> mahātalavarasa vāsiṭhīputasa pūkiyānaṁ ka<unclear>ṁ</unclear>dasirisa bhariyā samaṇa<lb n="5" break="no"/>bamhaṇakavaṇavaṇijakadinānugahavelāmikadānapaṭibhāgavochinadhārapadāyini savasādhuvacha<unclear>lā</unclear> <lb n="6"/>mahādātapatini mahātalavari khiṁdasāgaraṁṇakamātā <!-- AG2VT: ne faut-il pas simplement lire khiṁdasāgaraṁṇakamātā, et corriger en kha-? Si oui, modifier apparatus below -->cāṁtisiri °apano °ubhayaku<unclear>l</unclear>asa °atichita m anā<lb n="7" break="no"/>gatavaṭamānake  parināmetūna °ubhayalokahitasukhanivāṇathanāya °atano ca nivāṇasaṁpatisaṁpādake <lb n="8"/>bhagavato saṁmasaṁbudhasa ṭhātuvaraparigahitasa mahācetiyamhi °imaṁ khaṁbhaṁ savalokahitasukhāva<lb n="9" break="no"/>hathanāya patiṭhapitaṁ ti raṁño sirivirapurisadātasa saṁva <num value="6">6</num>vāpa <num value="6">6</num>diva <num value="10">10</num></ab></div><div type="apparatus"><listApp><app loc="6"><lem>mahādātapatini</lem><note>Emend <foreign xml:lang="pra-Latn">mahādānapatini</foreign>.</note></app><app loc="6"><lem>khiṁda-</lem><note>Emend <foreign xml:lang="pra-Latn">khaṁda-</foreign>.<!-- It seems that a mistaken <seg type="graphemic">la</seg> was corrected by the engraver into a <seg type="graphemic">khi</seg>, thus leaving an
-                        ambiguous tail above the akṣara. --></note></app><app loc="8"><lem>ṭhātuvara-</lem><note>Emend <foreign xml:lang="pra-Latn">dhātuvara-</foreign>.</note></app><app loc="9"><lem>-dātasa</lem><note>Emend <foreign xml:lang="pra-Latn">-datasa</foreign>.</note></app></listApp></div><div type="translation" xml:lang="eng"><p n="1-9"> Success! Cāntisirī — uterine sister of Great King
+                        ambiguous tail above the akṣara. --></note></app><app loc="8"><lem>ṭhātuvara-</lem><note>Emend <foreign xml:lang="pra-Latn">dhātuvara-</foreign>.</note></app><app loc="9"><lem>-dātasa</lem><note>Emend <foreign xml:lang="pra-Latn">-datasa</foreign>.</note></app></listApp></div><div type="translation"><p n="1-9"> Success! Cāntisirī — uterine sister of Great King
 					Vāsiṭṭhīputta Siri-Cāntamūla the Ikṣvāku, favored by Mahāsena
 					who has Virūpākṣa as his lord, sacrificer of the Agnihotra,
 					the Agniṣṭoma, the Vājapeya and the Aśvamedha, giver of tens

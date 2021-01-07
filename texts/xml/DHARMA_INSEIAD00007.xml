@@ -175,8 +175,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -210,7 +209,7 @@ EIAD
 15.5 °ubhayalokahitasukhāvahathanāya 
 18.8 °ubhayalokahitasukhanivāṇathanāya
 21.2 °ubhayalokahitasukhanivāṇathanāya
- --><app loc="4"><lem>parināmet<unclear>u</unclear><supplied reason="omitted">na</supplied></lem><note>The <foreign>u</foreign> is unusually round, and it is not impossible that <foreign>ū</foreign> was intended.</note></app></listApp></div><div type="translation" xml:lang="eng"><p n="1"> Success! Homage to the Bhagavant, the Perfect Buddha who is ensconced in the excellent relic [or: element (i.e., <foreign xml:lang="san-Latn">nirvāṇadhātu</foreign>)]!</p><p n="1-5"> At the Great Shrine, the wife of Great General, Great Talavara Vāsiṭṭhīputta Big Kandasiri of the Pūkīyas, mother of Great General, Great Talavara Viṇhusiri, Great-Talavara-wife, having dedicated (the merit) to her own family on both sides, established this stone pillar for the sake of well-being and happiness in
+ --><app loc="4"><lem>parināmet<unclear>u</unclear><supplied reason="omitted">na</supplied></lem><note>The <foreign>u</foreign> is unusually round, and it is not impossible that <foreign>ū</foreign> was intended.</note></app></listApp></div><div type="translation"><p n="1"> Success! Homage to the Bhagavant, the Perfect Buddha who is ensconced in the excellent relic [or: element (i.e., <foreign xml:lang="san-Latn">nirvāṇadhātu</foreign>)]!</p><p n="1-5"> At the Great Shrine, the wife of Great General, Great Talavara Vāsiṭṭhīputta Big Kandasiri of the Pūkīyas, mother of Great General, Great Talavara Viṇhusiri, Great-Talavara-wife, having dedicated (the merit) to her own family on both sides, established this stone pillar for the sake of well-being and happiness in
 					both worlds and <foreign xml:lang="san-Latn">nirvāṇa</foreign> for herself. </p><p n="5"> In the 6th year of King Siri-Vīrapurisadatta, in the 6th fortnight of the rainy season, on the 10th day.</p></div><!--<div type="commentary">
 				<listApp>
 					<app loc="lineNumber">

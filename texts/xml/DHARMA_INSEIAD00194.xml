@@ -183,8 +183,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -204,7 +203,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>gahapatino pathalasa māḍhariputasa °āyāgo dāna<unclear>ṁ</unclear> </ab></div><div type="apparatus"><listApp><app loc="1"><lem source="bib:Krishna_Sastry1983">pathalasa</lem><rdg source="bib:Hanumantha_Rao1998">piṭhalasa</rdg></app><app loc="1"><lem>māḍhariputasa</lem><rdg source="bib:Krishna_Sastry1983">mathari puthasa</rdg><rdg source="bib:Hanumantha_Rao1998">maḍhari putasa</rdg></app><app loc="1"><lem>°āyāgo</lem><rdg source="bib:Krishna_Sastry1983 eiad-bibl:Hanumantha_Rao1998">°ayago</rdg></app><app loc="1"><lem>dāna<unclear>ṁ</unclear></lem><rdg source="bib:Krishna_Sastry1983">danam</rdg><rdg source="bib:Hanumantha_Rao1998">dānam</rdg></app></listApp></div><div type="translation" xml:lang="eng"><ab>An <foreign xml:lang="pra-Latn">āyāka</foreign> as gift of the notable Pathala Māṭharīputa.</ab></div><!--<div type="commentary">
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>gahapatino pathalasa māḍhariputasa °āyāgo dāna<unclear>ṁ</unclear> </ab></div><div type="apparatus"><listApp><app loc="1"><lem source="bib:Krishna_Sastry1983">pathalasa</lem><rdg source="bib:Hanumantha_Rao1998">piṭhalasa</rdg></app><app loc="1"><lem>māḍhariputasa</lem><rdg source="bib:Krishna_Sastry1983">mathari puthasa</rdg><rdg source="bib:Hanumantha_Rao1998">maḍhari putasa</rdg></app><app loc="1"><lem>°āyāgo</lem><rdg source="bib:Krishna_Sastry1983 eiad-bibl:Hanumantha_Rao1998">°ayago</rdg></app><app loc="1"><lem>dāna<unclear>ṁ</unclear></lem><rdg source="bib:Krishna_Sastry1983">danam</rdg><rdg source="bib:Hanumantha_Rao1998">dānam</rdg></app></listApp></div><div type="translation"><ab>An <foreign xml:lang="pra-Latn">āyāka</foreign> as gift of the notable Pathala Māṭharīputa.</ab></div><!--<div type="commentary">
 				<listApp>
 					<app loc="lineNumber">
 						<note><!@loc = number of the line commented here in the note element.</note>

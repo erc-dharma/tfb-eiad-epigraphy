@@ -185,8 +185,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -206,6 +205,6 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><div type="textpart" subtype="graffito" n="1" xml:id="EIAD0089_textPart1"><ab>taralama<unclear>pa</unclear> </ab></div><div type="textpart" subtype="graffiti" n="2" xml:id="EIAD0081_textPart2"><ab>kumārikā<unclear>ma</unclear> </ab></div></div><div type="apparatus"><listApp corresp="#EIAD0089_textPart1"><app><lem>taralama<unclear>pa</unclear></lem><rdg rend="ARIE">taralamagha</rdg></app></listApp></div><div type="translation" xml:lang="eng"><p>Taralamapa. Kumārikāma.</p></div><!--<div type="commentary"></div>--><div type="bibliography"><p>First published in <bibl><ptr target="bib:ARIE"/><citedRange>1959-60: B.73</citedRange></bibl>. Re-edited here from our photos of the ASI estampage.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Raghunath2001"/>:
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><div type="textpart" subtype="graffito" n="1" xml:id="EIAD0089_textPart1"><ab>taralama<unclear>pa</unclear> </ab></div><div type="textpart" subtype="graffiti" n="2" xml:id="EIAD0081_textPart2"><ab>kumārikā<unclear>ma</unclear> </ab></div></div><div type="apparatus"><listApp corresp="#EIAD0089_textPart1"><app><lem>taralama<unclear>pa</unclear></lem><rdg rend="ARIE">taralamagha</rdg></app></listApp></div><div type="translation"><p>Taralamapa. Kumārikāma.</p></div><!--<div type="commentary"></div>--><div type="bibliography"><p>First published in <bibl><ptr target="bib:ARIE"/><citedRange>1959-60: B.73</citedRange></bibl>. Re-edited here from our photos of the ASI estampage.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Raghunath2001"/>:
 								<citedRange>189 (no. 70)</citedRange></bibl></listBibl></div></body></text>
 </TEI>

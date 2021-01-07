@@ -185,8 +185,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -208,7 +207,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
    </teiHeader>
    <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>sidhaṁ <g>–</g>°ukhasirivadhaman<unclear>e</unclear> <space quantity="1" unit="character"/>kaṁṭakas<unclear>ā</unclear>lavatha<supplied reason="lost">vena</supplied> <lb n="2"/>dhaṁmavāniyapute<unclear>na</unclear> <space quantity="1" unit="character"/>budhisirigahapatinā <supplied reason="lost">°imaṁ</supplied> <lb n="3"/>selamaṁḍapo <space quantity="1" unit="character"/>sagaṁdhak<unclear>u</unclear>ḍivetikatoraṇo k<supplied reason="lost">ārito</supplied> <supplied reason="lost">ti</supplied> </ab></div><div type="apparatus"><listApp><app loc="1"><lem>-vadhama<supplied reason="lost">n</supplied>е</lem><rdg source="bib:Vogelc">-vadhamāne</rdg><note>No trace of <foreign>ā</foreign> is
 							detectable on the stone.</note></app><app loc="2"><lem>-kasāla-</lem><rdg source="bib:Vogelc">-kasola-</rdg><note>But see <bibl><ptr target="bib:Vogelc"/>:
-									<citedRange>68</citedRange></bibl>.</note></app></listApp></div><div type="translation" xml:lang="eng"><ab>Success! In the estate of Ukhasiri, the notable (<foreign xml:lang="pra-Latm">gahapati</foreign>) Budhisiri, son of Dhaṁmavāniya, resident of Kaṁṭakasala, caused to be made this stone
+									<citedRange>68</citedRange></bibl>.</note></app></listApp></div><div type="translation"><ab>Success! In the estate of Ukhasiri, the notable (<foreign xml:lang="pra-Latm">gahapati</foreign>) Budhisiri, son of Dhaṁmavāniya, resident of Kaṁṭakasala, caused to be made this stone
 						<foreign xml:lang="pra-Latn">maṇḍapa</foreign>, together
 					with a <foreign xml:lang="pra-Latn">gandhakuṭī</foreign>, a
 					railing (<foreign xml:lang="pra-Latn">vedikā</foreign>), and

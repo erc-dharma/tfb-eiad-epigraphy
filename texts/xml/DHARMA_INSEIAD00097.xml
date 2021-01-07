@@ -185,8 +185,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -211,7 +210,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							EIAD <ref target="DHARMA_INSEIAD00098.xml">98</ref>.</note></app><app loc="2"><lem>-kasala-</lem><rdg source="bib:Vogelc">-kasola-</rdg><note>But see <bibl><ptr target="bib:Vogelc"/>:
 									<citedRange>68</citedRange></bibl>.</note></app><app loc="2"><lem>°imaṁ</lem><note>Except for a small part of <foreign>°i</foreign>, the entire word <foreign xml:lang="pra-Latn">°imaṁ</foreign> still
 							visible on the EI estampage is now broken
-							off.</note></app></listApp></div><div type="translation" xml:lang="eng"><ab>Success! In the estate of Ukhasiri, the notable (<foreign xml:lang="pra-Latm">gahapati</foreign>) Budhisiri, son of Dhaṁmavāniya, resident of Kaṁṭakasala, caused to be made this stone
+							off.</note></app></listApp></div><div type="translation"><ab>Success! In the estate of Ukhasiri, the notable (<foreign xml:lang="pra-Latm">gahapati</foreign>) Budhisiri, son of Dhaṁmavāniya, resident of Kaṁṭakasala, caused to be made this stone
 						<foreign xml:lang="pra-Latn">maṇḍapa</foreign>, together
 					with a <foreign xml:lang="pra-Latn">gandhakuṭī</foreign>, a
 					railing (<foreign xml:lang="pra-Latn">vedikā</foreign>), and

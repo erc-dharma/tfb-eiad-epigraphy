@@ -184,8 +184,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -226,7 +225,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
                             seems to be that two akṣaras were written by the engraver, before being
                             erased.</note></app><app loc="44-45"><lem>nayavikramābhyā<supplied reason="omitted">m·</supplied></lem><note>What may appear to be the <foreign>m·</foreign> that we
                             expect, placed below the <foreign>bhyā</foreign> in the black
-                            and white picture of the plate published by <bibl><ptr target="bib:Venkataramanayya1974a"/></bibl> does not appear to be one upon closer inspection.</note></app></listApp></div><div type="translation" xml:lang="eng"><p n="1" rend="stanza">Victorious is he, whose lustre has pervaded [all] directions of the compass, he who is resplendent as the young sun, this illustrious Uttamāśraya, son of Satyāśraya.</p><p>Hail!</p><p n="2-16"> The illustrious
+                            and white picture of the plate published by <bibl><ptr target="bib:Venkataramanayya1974a"/></bibl> does not appear to be one upon closer inspection.</note></app></listApp></div><div type="translation"><p n="1" rend="stanza">Victorious is he, whose lustre has pervaded [all] directions of the compass, he who is resplendent as the young sun, this illustrious Uttamāśraya, son of Satyāśraya.</p><p>Hail!</p><p n="2-16"> The illustrious
                     Vikramendrabhaṭṭārakavarman, who was entrusted with the burden of kingship, as
                     he was still a child, by the council of the ministers, on account of his
                     accomplishment in and dedication to all the virtues of royal seers [and of] his

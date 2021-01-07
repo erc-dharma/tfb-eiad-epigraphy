@@ -184,8 +184,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -207,7 +206,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
    </teiHeader>
    <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/><unclear>he</unclear>ya<unclear>ti</unclear> </ab></div><div type="apparatus"><listApp><app loc="1"><lem><unclear>he</unclear>ya<unclear>ti</unclear></lem><rdg source="bib:Raghunath2001"><unclear>he</unclear>ya<unclear>ti</unclear></rdg><note>Raghunath suggests in a note to read <foreign xml:lang="pra-Latn">keyata</foreign>.</note><rdg source="bib:zoteroItem_G9CH6AGA">heyatī</rdg><rdg source="bib:Sarkarb">hayasa</rdg><note>This item seems to give the same text as <bibl><ptr target="bib:ARIE"/><citedRange>1959-60: B.68</citedRange></bibl> [no EIAD number yet assigned]. The latter
 							can be read with somewhat more confidence as
-								<foreign xml:lang="pra-Latn">haya<unclear>na</unclear></foreign>.</note></app></listApp></div><div type="translation" xml:lang="eng"><ab>heyati.</ab></div><div type="commentary"><p n=""><note><bibl><ptr target="bib:ARIE"/><citedRange>1959-60: B.86</citedRange></bibl> refers to <bibl><ptr target="bib:ARIE"/><citedRange>1959-60: B.68</citedRange></bibl>.</note></p><p n=""><note><bibl><ptr target="bib:ARIE"/><citedRange>1959-60: B.87</citedRange></bibl> apparently contained the same
+								<foreign xml:lang="pra-Latn">haya<unclear>na</unclear></foreign>.</note></app></listApp></div><div type="translation"><ab>heyati.</ab></div><div type="commentary"><p n=""><note><bibl><ptr target="bib:ARIE"/><citedRange>1959-60: B.86</citedRange></bibl> refers to <bibl><ptr target="bib:ARIE"/><citedRange>1959-60: B.68</citedRange></bibl>.</note></p><p n=""><note><bibl><ptr target="bib:ARIE"/><citedRange>1959-60: B.87</citedRange></bibl> apparently contained the same
 							word/name.</note></p></div><div type="bibliography"><p>First edited and described by <bibl><ptr target="bib:ARIE"/><citedRange>1959-60: B.86</citedRange></bibl> and then by <bibl><ptr target="bib:Sarkarb"/>:
 							<citedRange>227</citedRange></bibl>. Re-edited here from published documentation.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Raghunath2001"/>:
 							<citedRange>189-90 (72)</citedRange></bibl></listBibl></div></body></text>

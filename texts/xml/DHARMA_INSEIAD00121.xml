@@ -184,8 +184,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -211,7 +210,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 					<rdg source="eiad-bibl:identifier"/>
 					<note/>
 				</app>
-			</div>--><div type="translation" xml:lang="eng"><ab>(...) by the Great Talavara (...)</ab></div><!--<div type="commentary">
+			</div>--><div type="translation"><ab>(...) by the Great Talavara (...)</ab></div><!--<div type="commentary">
 				<listApp>
 					<app loc="lineNumber">
 						<note>@loc = number of the line commented here in the note element.</note>

@@ -183,8 +183,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -239,7 +238,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							one.</note></app><app loc="18"><lem>°am<unclear>āt</unclear>ya-</lem><rdg source="bib:Sircark">°amāttya-</rdg></app><app loc="18"><lem>-jaya<unclear>sv</unclear>ām<unclear>īnā</unclear></lem><rdg source="bib:Sircark">-jayas<unclear>v</unclear>āmīnā</rdg><note>Sircar notes: <cit><quote>The word <hi rend="italic">likhitam</hi> seems to have been
 									omitted for want of space at the end of the line</quote></cit><bibl><ptr target="bib:Sircark"/>:
 									<citedRange>149</citedRange></bibl>. But other interpretations
-							of the unclear akṣaras are possible: <foreign xml:lang="san-Latn">jayasvāminaḥ</foreign>, <foreign xml:lang="san-Latn">jayasvāmī</foreign> |.</note></app></listApp></div><div type="translation" xml:lang="eng"><p n="1-6"> From the victorious Jayapura, by the order of the glorious great king
+							of the unclear akṣaras are possible: <foreign xml:lang="san-Latn">jayasvāminaḥ</foreign>, <foreign xml:lang="san-Latn">jayasvāmī</foreign> |.</note></app></listApp></div><div type="translation"><p n="1-6"> From the victorious Jayapura, by the order of the glorious great king
 					Hastivarman, whose head is covered by the pollen of the lotus-feet of the Lord
 					Nārāyaṇa and who is to live for a hundred years, in the district of Kānīra, the
 					village headed by the headman of Mulukuli is to be addressed (thus):</p><p n="4-5+6-11"> ‘In order to increase (our) own merit (<foreign xml:lang="san-Latn">dharma</foreign>), longevity and strength, and in

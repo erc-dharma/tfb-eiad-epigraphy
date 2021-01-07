@@ -186,8 +186,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -216,7 +215,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 					<rdg source="eiad-bibl:identifier"/>
 					<note/>
 				</app>
-			</div>--><div type="translation" xml:lang="eng"><p n="1"> Success! Homage to the Bhagavant, the Perfect Buddha, who is
+			</div>--><div type="translation"><p n="1"> Success! Homage to the Bhagavant, the Perfect Buddha, who is
 					ensconced in the excellent relic [or: element (<hi rend="italic">i.e.</hi>, <foreign xml:base="san-Latn">nirvāṇadhātu</foreign>)]! </p><p n="1-3"> At the Great Shrine, ...
 					favored by Mahāsena who has (Virūpākṣa) as his lord,
 					(sacrificer of) the Agnihotra, the Agniṣṭoma, the Vājapeya

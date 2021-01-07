@@ -184,8 +184,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -218,7 +217,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							the plate.</note></app><app loc="34"><lem>°ājñapti</lem><note>Read <foreign xml:lang="san-Latn">°ājñaptiḥ</foreign>?</note></app><app loc="34"><lem>pravadamāna-</lem><note>Correct <foreign xml:lang="san-Latn">pravarddhamāna-</foreign>.</note></app><app loc="35"><lem>vāsā <gap reason="illegible" quantity="1" unit="character"/> 4 divasaṁ 3</lem><rdg source="bib:Fleet">vāsāka-divasaṁ || 3</rdg><note>No trace of any punctuation is visible on the
 							plate. See Sankaranarayanan’s n. 5 for the reading
 							4. Presence of any illegible sign between <foreign xml:lang="san-Latn">vāsā</foreign> and 4 was not
-							assumed by <bibl><ptr target="bib:Sankaranarayanan1977a"/></bibl> and is indeed uncertain.</note></app></listApp></div><div type="translation" xml:lang="eng"><p n="1–12"> Hail! From the
+							assumed by <bibl><ptr target="bib:Sankaranarayanan1977a"/></bibl> and is indeed uncertain.</note></app></listApp></div><div type="translation"><p n="1–12"> Hail! From the
 					victorious residence at Kāṇḍāli, the illustrious king
 					Pr̥thivī[śrī]mūla, blessed by the feet of his parents;
 					impeccable upholder of all laws on class and stage of life,

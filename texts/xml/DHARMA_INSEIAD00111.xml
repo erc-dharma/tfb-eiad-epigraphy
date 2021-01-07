@@ -184,8 +184,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -206,7 +205,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/><gap reason="lost" extent="unknown"/><unclear>kath</unclear><gap reason="lost" quantity="1" unit="component"/> <gap reason="lost" extent="unknown"/><lb n="2"/><gap reason="lost" extent="unknown"/>sabhayākasa <gap reason="lost" extent="unknown"/><lb n="3"/><gap reason="lost" extent="unknown"/><gap reason="illegible" quantity="2" unit="character"/><unclear>sa</unclear> <space quantity="1" unit="character"/>sādhū<unclear>no</unclear> <gap reason="lost" extent="unknown"/><lb n="4"/><gap reason="lost" extent="unknown"/><gap reason="illegible" quantity="3" unit="character"/>dhaṁmaṁ </ab></div><div type="apparatus"><listApp><app loc="1"><lem><unclear>kath</unclear><gap reason="lost" quantity="1" unit="component"/></lem><note>This might be reconstructed as <foreign xml:lang="pra-Latn"><supplied reason="lost">dhaṁma</supplied><unclear>kath</unclear><supplied reason="lost">ikasa</supplied></foreign>, <foreign xml:lang="pra-Latn"><supplied reason="lost">dhaṁma</supplied><unclear>kath</unclear><supplied reason="lost">ikena</supplied></foreign>, or the like.</note></app><app loc="4"><lem><gap reason="illegible" quantity="2" unit="character"/> dhaṁmaṁ</lem><note>This is likely to stand for <foreign xml:lang="pra-Latn"><supplied reason="lost">deya</supplied>dhaṁmaṁ</foreign>, and to be the
-							end of the inscription.</note></app></listApp></div><div type="translation" xml:lang="eng"><ab>(...) pious gift (?) (...) of the virtous (<foreign xml:lang="san-Latn">sādhu</foreign>) (...), together
+							end of the inscription.</note></app></listApp></div><div type="translation"><ab>(...) pious gift (?) (...) of the virtous (<foreign xml:lang="san-Latn">sādhu</foreign>) (...), together
 					with his wife (...), the <foreign xml:lang="san-Latn">dharmakathika</foreign> (?).</ab></div><!--<div type="commentary"></div>--><div type="bibliography"><p>Previously unpublished; edited here after autopsy of the
 					stone.</p><!--  <listBibl type="secondary-bibliography"> </listBibl> --></div></body></text>
 </TEI>

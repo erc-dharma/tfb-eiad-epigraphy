@@ -184,8 +184,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -212,7 +211,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 						<lem>peramaḍibhaḍa<supplied reason="lost">sa</supplied></lem>
 						<rdg source="eiad-bibl:Sircarm">peramaḍibhaḍa<unclear>sa</unclear>
 						</rdg>
-					</app>--><app loc="5"><lem>chāyāthaṁ<supplied reason="lost">bho</supplied></lem><rdg source="bib:Sircarm">chāy<supplied reason="lost">ā</supplied>thaṁ<supplied reason="lost">bho</supplied></rdg><!--<note>The inscription was probably finished after this word.</note>--></app></listApp></div><div type="translation" xml:lang="eng"><p>Memorial pillar of Siba, a fallen soldier [fighting under the leadership] of Peramaḷi, 
+					</app>--><app loc="5"><lem>chāyāthaṁ<supplied reason="lost">bho</supplied></lem><rdg source="bib:Sircarm">chāy<supplied reason="lost">ā</supplied>thaṁ<supplied reason="lost">bho</supplied></rdg><!--<note>The inscription was probably finished after this word.</note>--></app></listApp></div><div type="translation"><p>Memorial pillar of Siba, a fallen soldier [fighting under the leadership] of Peramaḷi, 
 					resident of Magalaraṇa, son of a noble family (<foreign xml:lang="san-Latn">kulaputra</foreign>), son of ... of the ...rabas.</p></div><div type="commentary"><p n="4"><term>peramaḍi</term><note><bibl><ptr target="bib:Sircarm"/>: <citedRange>210</citedRange></bibl> interprets this as the name of a general and finds it reminiscent of the name <cit><quote>Permāḍi borne by Chālukya Vikramāditya VI and others</quote></cit>.</note></p></div><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Rama_Rao1955b"/>:
 							<citedRange>43</citedRange></bibl>; edited again by <bibl><ptr target="bib:Sircarm"/>: <citedRange>209-10
 							(II)</citedRange></bibl>. Re-edited here from the available visual documentation and

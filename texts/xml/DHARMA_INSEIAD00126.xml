@@ -185,8 +185,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -210,7 +209,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
                             interpret as a vocalic marker <foreign>-e</foreign> is unsure, and might be an accident.
                             We expect an ending <foreign>-yā</foreign>,
                             but <foreign>-ye</foreign> could be
-                            possible as well.</note></app></listApp></div><div type="translation" xml:lang="eng"><ab>Gift of the lay follower Sivalā (Śivalā), mother of
+                            possible as well.</note></app></listApp></div><div type="translation"><ab>Gift of the lay follower Sivalā (Śivalā), mother of
                     Ehana.</ab></div><!--<div type="commentary">
                 <listApp>
                     <app loc="lineNumber">

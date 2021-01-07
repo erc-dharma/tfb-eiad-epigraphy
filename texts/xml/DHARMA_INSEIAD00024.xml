@@ -184,8 +184,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -219,7 +218,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 								28</ref>, we have decided to accept Sarkar’s
 							reading.</note></app><app loc="6"><lem>-mūle</lem><rdg source="bib:Sarkar1969">-mūli</rdg><note/></app><app loc="9"><lem>parinām<unclear>e</unclear>tuna</lem><rdg source="bib:Sarkar1969">parinametuna</rdg><note/></app><app loc="10"><lem>cātusālapa<unclear>r</unclear><supplied reason="lost">i</supplied>gah<unclear>ita</unclear><supplied reason="lost">ṁ</supplied> s<supplied reason="lost">e</supplied><milestone unit="fragment" n="right"/><supplied reason="lost">lamaṁṭava</supplied></lem><rdg source="bib:Sarkar1969">cātusālaparigahitasa
 							…</rdg><note>We restore on the basis of the parallelism in <ref target="DHARMA_INSEIAD00028.xml">EIAD 28</ref>.</note></app><app loc="11"><lem>patiṭhapitaṁ <unclear>ra</unclear><supplied reason="lost">ṁño</supplied><supplied reason="lost">si</supplied>ri-</lem><rdg source="bib:Sarkar1969">patiṭhapitaṁ
-								<unclear>si</unclear>rivirapurishadatasa</rdg><note>We restore on the basis of the parallelism in <ref target="DHARMA_INSEIAD00028.xml">EIAD 28</ref>.</note></app></listApp></div><div type="translation" xml:lang="eng"><p>... Cāntisirī — ... sister of ... Vāsiṭṭhīputta ... favored by
+								<unclear>si</unclear>rivirapurishadatasa</rdg><note>We restore on the basis of the parallelism in <ref target="DHARMA_INSEIAD00028.xml">EIAD 28</ref>.</note></app></listApp></div><div type="translation"><p>... Cāntisirī — ... sister of ... Vāsiṭṭhīputta ... favored by
 					Mahāsena ... sacrificer of ... the Aśvamedha ... thousands
 					... and hundreds of thousands of plows (of land), whose will
 					is unimpeded in all matters; ... of Kandasiri ... Great

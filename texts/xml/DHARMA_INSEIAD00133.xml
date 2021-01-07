@@ -185,8 +185,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -206,7 +205,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/><gap reason="illegible" quantity="1" unit="character"/>mah<unclear>āsenāpa</unclear>tisa <space quantity="1" unit="character"/>mahata<unclear>la</unclear> <milestone unit="fragment" n="right"/><lb n="2"/>°a<unclear>rijha</unclear> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="6" unit="character"/>tāmā<unclear>ra</unclear> <milestone unit="fragment" n="right"/><lb n="3"/>tāmarasa <gap reason="lost" quantity="4" unit="character"/><unclear>sa</unclear>ṁ<unclear>vacharaṁ</unclear> <milestone unit="fragment" n="right"/><lb n="4"/>gimhapa <num value="4"><unclear>4</unclear></num><gap reason="lost" quantity="5" unit="character"/>thāp<unclear>ito</unclear> <milestone unit="fragment" n="right"/></ab></div><!--<div type="apparatus"></div>--><div type="translation" xml:lang="eng"><ab>(...) established (...), in the 4th fortnight of summer, in
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/><gap reason="illegible" quantity="1" unit="character"/>mah<unclear>āsenāpa</unclear>tisa <space quantity="1" unit="character"/>mahata<unclear>la</unclear> <milestone unit="fragment" n="right"/><lb n="2"/>°a<unclear>rijha</unclear> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="6" unit="character"/>tāmā<unclear>ra</unclear> <milestone unit="fragment" n="right"/><lb n="3"/>tāmarasa <gap reason="lost" quantity="4" unit="character"/><unclear>sa</unclear>ṁ<unclear>vacharaṁ</unclear> <milestone unit="fragment" n="right"/><lb n="4"/>gimhapa <num value="4"><unclear>4</unclear></num><gap reason="lost" quantity="5" unit="character"/>thāp<unclear>ito</unclear> <milestone unit="fragment" n="right"/></ab></div><!--<div type="apparatus"></div>--><div type="translation"><ab>(...) established (...), in the 4th fortnight of summer, in
                     the (...) year. Of the Great General, the Great Talavara
                     Ariya (...)</ab></div><!--<div type="commentary"></div>--><div type="bibliography"><p>Previously unpublished; edited here after autopsy of the
                     stone.</p><!-- <listBibl type="secondary-bibliography"> </listBibl> --></div></body></text>
