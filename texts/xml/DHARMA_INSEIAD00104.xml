@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <!--Last xsl transformation: 2017-05-04T13:35:14.205+02:00
 Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 - - - - - - - - - 
@@ -92,13 +95,13 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
                      </persName>
                   </editor>
                   <editor role="contributor">
-                     <persName ref="eiad-part:SB">
+                     <persName ref="http://viaf.org/viaf/107394149">
                         <forename>Stefan</forename>
                         <surname>Baums</surname>
                      </persName>
                   </editor>
                   <editor role="contributor">
-                     <persName ref="eiad-part:IS">
+                     <persName ref="http://viaf.org/viaf/22395449">
                         <forename>Ingo</forename>
                         <surname>Strauch</surname>
                      </persName>
@@ -140,7 +143,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
                </editionStmt>
                <publicationStmt>
                   <authority>Early Inscriptions of Āndhradeśa</authority>
-                  <idno type="filename">EIAD0104</idno>
+                  <idno type="filename">DHARMA_INSEIAD00104</idno>
                   <availability>
                      <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths, Ingo Strauch and Vincent Tournier.</p>
