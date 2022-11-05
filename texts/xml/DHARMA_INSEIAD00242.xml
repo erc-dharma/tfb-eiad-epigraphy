@@ -93,8 +93,8 @@
 n="2" break="no"/>putasa Araka-siriyaña-sātakaṇisa vasasatāya saṁvachara sata<unclear>v</unclear>i<lb 
 n="3" break="no"/>saṁ <num value="27"><g type="numeral">20</g> 7</num> <space/> hemaṁtānaṁ pakhaṁ catuthaṁ <num value="4">4</num> di<supplied reason="lost">vasaṁ paṁca</supplied>maṁ <num value="5">5</num> Etīya
 <lb n="4"/>puvāya Araka-mahatarakena mahā<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg><gap reason="illegible" quantity="10" unit="character" precision="low"/>
-<lb n="5" break="no"/>yājinā mahādaṁ<gap reason="lost" extent="unknown"/>
-<lb n="6"/>dhāya<gap reason="lost" extent="unknown"/>
+<lb n="5" break="no"/>yājinā mahādaṁ<gap reason="lost" extent="unknown"/><supplied reason="lost">bu</supplied><lb 
+n="6" break="no"/>dhāya <gap reason="lost" extent="unknown"/>
 </p>
          </div>
          <div type="apparatus">
@@ -130,16 +130,16 @@ Based on the parallel in EIAD 1 one might expect <foreign>Agapogalasa</foreign>,
 </app>
 <app loc="3">
 <lem source="bib:Majumdar1920_01">Etīya</lem>
-<rdg source="bib:Buehler1892_02 bib:Venkataramayya1965_01"></rdg>
+<rdg source="bib:Buehler1892_02 bib:Venkataramayya1965_01">Etiya</rdg>
 </app>
 <app loc="4">
 <lem>mahā<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg><gap reason="illegible" quantity="10" unit="character" precision="low"/></lem>
 <rdg source="bib:Majumdar1920_01">mahā<supplied reason="lost">s</supplied>e</rdg>
-<note>Majumdar proposes to restore <foreign>mahāsenāpatinā</foreign>.</note>
+<note>Majumdar proposes to restore <foreign>mahāsenāpatinā</foreign>. This seems convincing.</note>
 </app>
 <app loc="5">
 <lem>mahādaṁ<gap reason="lost" extent="unknown"/></lem>
-<note>Majumdar proposes to restore <foreign>mahādaṅḍanāyakena</foreign>.</note>
+<note>Majumdar proposes to restore <foreign>mahādaṅḍanāyakena</foreign>. This seems convincing.</note>
 </app>
                </listApp>
          </div>
@@ -149,7 +149,13 @@ Homage to the Bhagavant, highest man! Of King Gotamīputta, the noble <supplied 
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
-<!-- <p n="3">etīya puvāya: the same expression occurs in Nasik No. 25 (Vāsiṣṭhīputra Śrī Puḷumāvi year 2).</p> -->
+<!--
+
+etīya puvāya: the same expression occurs in Nasik No. 25 (Vāsiṣṭhīputra Śrī Puḷumāvi year 2). 
+
+cf. EIAD 15 mahāsenāpatisa mahātalavarasa mahādaṁḍanāyakasa dhanakānaṁ khaṁdavisākhaṁṇakasa
+
+-->
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
