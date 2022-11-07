@@ -108,7 +108,7 @@
                <listApp>
                   <app loc="1">
                      <lem>na<unclear>mo</unclear> bhagavato <gap reason="illegible" quantity="5" unit="character"/></lem>
-                     <rdg source="bib:Buehler1892_02">na<unclear>mo bha</unclear>gavato <gap reason="illegible" quantity="3" unit="character"/><unclear>vasa</unclear></rdg>
+                     <rdg source="bib:Buehler1892_02">na<unclear>mo bha</unclear>gaand vato <gap reason="illegible" quantity="3" unit="character"/><unclear>vasa</unclear></rdg>
 	      <rdg source="bib:Majumdar1920_01">na<unclear>mo</unclear>  bhagavato vā<unclear>sude</unclear>va<unclear>sa</unclear></rdg>
 	      <rdg source="bib:Venkataramayya1965_01"><del>namo bha</del>gavato <del>namo bhavato</del></rdg>
 <note>Bühler explains in his footnote 5: <q>After भगवतो five, possibly six, letters have been obliterated. The last two seem to have been वस.</q>
@@ -124,7 +124,7 @@ Based on the parallel in EIAD 1 one might expect <foreign>Agapogalasa</foreign>,
 <rdg source="bib:Buehler1892_02">sata<unclear>vi</unclear><lb n="3" break="no"/>maṁ</rdg>
 <rdg source="bib:Majumdar1920_01">sata<unclear>vi</unclear><gap reason="undefined" quantity="1" unit="character"/>saṁ</rdg>
 <note>Majumdar misinterpreted the dash at the end of Bühler’s reading of line 1 as expressing a gap, whereas it merely expressed that the linebreak falls in mid-word; the <unclear>ma</unclear> for <unclear>sa</unclear> was probably merely a printing error. Majumdar’s note therefore seems quite far off the mark: <q>Bühler reads
-<foreign>saṁvachara sata(vi) maṁ 20 7</foreign>. Apparently, he would restore it as <foreign>saṁvachara sata[vi][sa*]maṁ 20 7</foreign>. But the letter before the numeral sign for <foreign>20</foreign> is clearly <foreign>saṁ</foreign>. Therefore, the lost letter can only be <foreign>se</foreign>.</q> There is not, in our opinion, and lost character here.</note>
+<foreign>saṁvachara sata(vi) maṁ 20 7</foreign>. Apparently, he would restore it as <foreign>saṁvachara sata[vi][sa*]maṁ 20 7</foreign>. But the letter before the numeral sign for <foreign>20</foreign> is clearly <foreign>saṁ</foreign>. Therefore, the lost letter can only be <foreign>se</foreign>.</q> There is not, in our opinion, any lost character here.</note>
 </app>
 <app loc="3">
 <lem source="bib:Majumdar1920_01 bib:Venkataramayya1965_01">hemaṁtānaṁ</lem>
