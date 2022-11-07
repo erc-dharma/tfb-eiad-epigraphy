@@ -100,7 +100,7 @@
 <p>
 <lb n="1"/>sidhaṁ <space/> na<unclear>mo</unclear> bhagavato <gap reason="illegible" quantity="5" unit="character"/> raño gotamī<lb n="2" break="no"/>putasa Araka-siriyaña-sātakaṇisa vasasatāya saṁvachara sata<unclear>v</unclear>i<lb n="3" break="no"/>saṁ <num value="27"><g type="numeral">20</g> 7</num> <space/> hemaṁtānaṁ pakhaṁ catuthaṁ <num value="4">4</num> di<supplied reason="lost">vasaṁ paṁca</supplied>maṁ <num value="5">5</num> Etīya
 <lb n="4"/>puvāya Araka-mahatarakena mahā<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg><gap reason="illegible" quantity="10" unit="character" precision="low"/>
-<lb n="5" break="no"/>yājinā mahādaṁ<gap reason="lost" extent="unknown"/><supplied reason="lost">bu</supplied><lb n="6" break="no"/>dhāya <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="5" break="no"/>yājinā mahādaṁ<gap reason="lost" unit="character" extent="unknown"/> <supplied reason="lost">bu</supplied><lb n="6" break="no"/>dhāya <gap reason="lost" unit="character" extent="unknown"/>
 </p>
          </div>
          <div type="apparatus">
@@ -144,7 +144,7 @@ Based on the parallel in EIAD 1 one might expect <foreign>Agapogalasa</foreign>,
 <note>Majumdar proposes to restore <foreign>mahāsenāpatinā</foreign>. This seems convincing.</note>
 </app>
 <app loc="5">
-<lem>mahādaṁ<gap reason="lost" extent="unknown"/></lem>
+<lem>mahādaṁ<gap reason="lost" unit="character" extent="unknown"/></lem>
 <note>Majumdar proposes to restore <foreign>mahādaṅḍanāyakena</foreign>. This seems convincing.</note>
 </app>
                </listApp>
