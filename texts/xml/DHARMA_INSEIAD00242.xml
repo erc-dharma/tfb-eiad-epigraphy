@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -94,7 +94,7 @@ n="2" break="no"/>putasa Araka-siriyaña-sātakaṇisa vasasatāya saṁvachara 
 n="3" break="no"/>saṁ <num value="27"><g type="numeral">20</g> 7</num> <space/> hemaṁtānaṁ pakhaṁ catuthaṁ <num value="4">4</num> di<supplied reason="lost">vasaṁ paṁca</supplied>maṁ <num value="5">5</num> Etīya
 <lb n="4"/>puvāya Araka-mahatarakena mahā<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg><gap reason="illegible" quantity="10" unit="character" precision="low"/>
 <lb n="5" break="no"/>yājinā mahādaṁ<gap reason="lost" extent="unknown"/><supplied reason="lost">bu</supplied><lb 
-n="6" break="no"/>dhāya <gap reason="lost" extent="unknown"/>
+n="6" break="no"/>dhāya <gap reason="lost" extent="unknown" unit="character"/>
 </p>
          </div>
          <div type="apparatus">
