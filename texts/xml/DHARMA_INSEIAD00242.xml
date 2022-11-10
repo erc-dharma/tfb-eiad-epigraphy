@@ -90,7 +90,7 @@
 	<!-- class:83225 = southern class Brāhmī, maturity:83209 = middle Brāhmi -->
 <p>
 <lb n="1"/>sidhaṁ <space/> na<unclear>mo</unclear> bhagavato <gap reason="illegible" quantity="5" unit="character"/> raño gotamī<lb 
-n="2" break="no"/>putasa <rs nymRef="PSN03452" type="individual masc" subtype="ruler"  role="ruling"><roleName>Araka</roleName>-<persName>siri-yaña-sātakaṇisa</persName></rs> vasa-satāya saṁvachara sata<unclear>v</unclear>i<lb 
+n="2" break="no"/>putasa <rs nymRef="PSN03452" type="individual-masc" subtype="ruler" role="ruling"><roleName>Araka</roleName>-<persName>siri-yaña-sātakaṇisa</persName></rs> vasa-satāya saṁvachara sata<unclear>v</unclear>i<lb 
 n="3" break="no"/>saṁ <num value="27"><g type="numeral">20</g> 7</num> <space/> hemaṁtānaṁ pakhaṁ catuthaṁ <num value="4">4</num> di<supplied reason="lost">vasaṁ paṁca</supplied>maṁ <num value="5">5</num> Etīya
 <lb n="4"/>puvāya Araka-mahatarakena mahā<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg><gap reason="illegible" quantity="10" unit="character" precision="low"/>
 <lb n="5" break="no"/>yājinā mahādaṁ<gap reason="lost" unit="character" extent="unknown"/> <supplied reason="lost">bu</supplied><lb 
@@ -144,7 +144,7 @@ Based on the parallel in EIAD 1 one might expect <foreign>Agapogalasa</foreign>,
                </listApp>
          </div>
          <div type="translation" resp="part:argr part:vito">
- 	<p>Success! Homage to the Bhagavant! Of King Gotamīputta, the noble <supplied reason="explanation"><foreign>araka</foreign></supplied> Siri-Yaññasātakaṇṇi — may he live one hundred years! — the twenty-seventh 27 year, fourth 4 fortnight of the cold season, fifth 5 day. On the above, the noble chief, great general, the ... sacrificer, the great judge, <gap reason="ellipsis"/> to the Buddha.</p>
+ 	<p>Success! Homage to the Bhagavant! Of King Gotamīputta, the noble <supplied reason="explanation"><foreign>araka</foreign></supplied> Siriyañña Sātakaṇṇi — may he live one hundred years! — the twenty-seventh 27 year, fourth 4 fortnight of the cold season, fifth 5 day. On the above, the noble chief, great general, the ... sacrificer, the great judge, <gap reason="ellipsis"/> to the Buddha.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
