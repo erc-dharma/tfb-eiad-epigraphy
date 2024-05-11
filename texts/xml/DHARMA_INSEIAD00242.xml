@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
     <teiHeader>
         <fileDesc>
@@ -94,7 +94,7 @@
 <p>
 <lb n="1"/>sidhaṁ <space/> na<unclear>mo</unclear> bhagavato <gap reason="illegible" quantity="5" unit="character"/> raño gotamī<lb 
 n="2" break="no"/>putasa <rs nymRef="PSN03452" type="individual-masc" subtype="ruler" role="ruling"><roleName>Araka</roleName>-<persName>siri-yaña-sātakaṇisa</persName></rs> vasa-satāya saṁvachara sata<unclear>v</unclear>i<lb 
-n="3" break="no"/>saṁ <num value="27"><g type="numeral">20</g> 7</num> <space/> hemaṁtānaṁ pakhaṁ catuthaṁ <num value="4">4</num> di<supplied reason="lost">vasaṁ paṁca</supplied>maṁ <num value="5">5</num> Etīya
+n="3" break="no"/>saṁ <num value="27">20 7</num> <space/> hemaṁtānaṁ pakhaṁ catuthaṁ <num value="4">4</num> di<supplied reason="lost">vasaṁ paṁca</supplied>maṁ <num value="5">5</num> Etīya
 <lb n="4"/>puvāya Araka-mahatarakena mahā<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg><gap reason="illegible" quantity="10" unit="character" precision="low"/>
 <lb n="5" break="no"/>yājinā mahādaṁ<gap reason="lost" unit="character" extent="unknown"/> <supplied reason="lost">bu</supplied><lb 
 n="6" break="no"/>dhāya <gap reason="lost" unit="character" extent="unknown"/>
