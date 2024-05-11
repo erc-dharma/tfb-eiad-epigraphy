@@ -85,9 +85,12 @@
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
-      <body>
-         <div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209">
-	<!-- class:83225 = southern class Brāhmī, maturity:83209 = middle Brāhmi -->
+
+
+<body>
+
+<div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209">
+	<!-- class:83225 = southern class Brāhmī, maturity:83209 = middle Brāhmī -->
 <p>
 <lb n="1"/>sidhaṁ <space/> na<unclear>mo</unclear> bhagavato <gap reason="illegible" quantity="5" unit="character"/> raño gotamī<lb 
 n="2" break="no"/>putasa <rs nymRef="PSN03452" type="individual-masc" subtype="ruler" role="ruling"><roleName>Araka</roleName>-<persName>siri-yaña-sātakaṇisa</persName></rs> vasa-satāya saṁvachara sata<unclear>v</unclear>i<lb 
@@ -96,7 +99,9 @@ n="3" break="no"/>saṁ <num value="27"><g type="numeral">20</g> 7</num> <space/
 <lb n="5" break="no"/>yājinā mahādaṁ<gap reason="lost" unit="character" extent="unknown"/> <supplied reason="lost">bu</supplied><lb 
 n="6" break="no"/>dhāya <gap reason="lost" unit="character" extent="unknown"/>
 </p>
-         </div>
+</div>
+
+
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp>
