@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-06-06T10:30:28.773+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 192
+[2] Raghunath no.: 84
+[3] Srinivasan & Sankaranarayanan no.: 
+[4] Tsukamoto no.: —
+[5] Lüders no.: 
+[6] Support : terracotta seal
+[7] (Faces:) Lines: 1
+[8] H: 
+[9] W: 
+[10] D: 
+[11] H: 
+[12] W: 
+[13] Language(s): MIA
+[14] Original locality: Peddabankur, Karimnagar Dt.
+[15] Present locality: unknown
+[16] Primary bibliography: IAR (unknown year). — Krishna Sastry 1983: 186-7. — Hanumantha Rao et al. 1998: 116 (no. 2).
+[17] Secondary bibliography: Raghunath 2001: 195 (no. 84).
+[18] Visual documentation: Krishna Sastri 1983, pl. 98 (2).
+[19] Substance of inscription: vijayapurahārakasa rathasa
+[20] Remarks: 
+[21] : 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Pedabankur Terracotta Seal inscription</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+               <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </editor>
+            <editor role="general">
+               <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+                  <surname>Strauch</surname>
+               </persName>
+				        </editor>
+            <editor role="general">
+               <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+                  <surname>Tournier</surname>
+               </persName>
+            </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+                  <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+                  <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+                  <forename>Emmanuelle</forename>
+                  <surname>Morlock</surname>
+               </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+                  <forename>Andrew</forename>
+                  <surname>Ollett</surname>
+               </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0192</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths, Ingo Strauch and
+							Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons Attribution 3.0 Unported
+							License. To view a copy of this license, visit
+							http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative
+							Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041,
+							USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0192_inv-eiad" type="inv-eiad">EIAD 192</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>unavailable</repository>
+							              <idno xml:id="EIAD0192_museum-inventory">unavailable</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indo-Aryan, Southern Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>Terracotta <objectType>seal</objectType>; <dimensions unit="cm">
+											                      <height>unavailable</height>
+											                      <width>unavailable</width>
+											                      <depth>unavailable</depth>
+										                    </dimensions>.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout writtenLines="1">
+									                  <dimensions unit="cm">
+										                    <height>unavailable</height>
+										                    <width>unavailable</width>
+									                  </dimensions>.</layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote>The letters are inscribed in negative.</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote>The seal has an incised plough in the middle, and a yoke with two pegs on each side.</decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>
+                        <placeName>Pedabankur</placeName>, <placeName>Karimnagar</placeName> district</origPlace>
+							              <origDate calendar="Julian"
+                               notBefore="-0100"
+                               notAfter="0001"
+                               precision="low">
+								Undated. Attributable to the first century B.C on palaeographic grounds and according to the archaeological level where it was found.
+							</origDate>
+						            </origin>
+						            <provenance type="found" notAfter="1983">
+							              <p>Discovered in the course of excavations at Pedabankur conducted by the Department of Archaeology and Museums, Government of Andhra Pradesh. The precise date of discovery is unknown.</p>
+						            </provenance>
+						            <provenance type="observed">
+							<!-- Modern location(s) (if different from repository, above); is used to encode information about subsequent modern observation --></provenance>
+						            <provenance type="not-observed" notBefore="2016">
+							              <p>Not identified during fieldwork from February 2016 onward.</p>
+						            </provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates>
+							<!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl>Krishna Sastri 1983, pl. 98 (2).</bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan, romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines and the latest
+				Schema version <ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+         </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-06-06">Creation of the file - automatic
+				conversion.</change>
+			      <change who="#CC" when="2017-06-19">Merging with READ file</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic url="photograph of text or monument">
+			      <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab>
+					          <lb n="1"/>
+					          <w xml:id="tok6858">vijayapurahārakasa</w>
+					          <w xml:id="tok6859">rathasa</w>
+				        </ab>
+			      </div>
+			      <div type="apparatus">
+				<!--[Revision required]
+				<app loc="lineNumber">
+					<lem/>
+					<rdg source="eiad-bibl:identifier"/>
+					<note/> 
+				</app> -->
+			</div>
+			      <div type="translation" xml:lang="eng">
+				        <ab>vijayapurahārakasa rathasa</ab>
+			      </div>
+			      <!--<div type="commentary">
+				[Revision required]
+				<listApp>
+					</listApp>
+			</div>-->
+			      <div type="bibliography">
+				        <p>First described and edited by <bibl>
+                  <ptr target="eiad-bibl:zoteroItem_R4S8D3K2"/>
+						            <citedRange>(unknown year)</citedRange>
+               </bibl>, then by <bibl>
+                  <ptr target="eiad-bibl:Krishna_Sastry1983"/>: <citedRange>186-7</citedRange>
+               </bibl>
+					and by <bibl>
+                  <ptr target="eiad-bibl:Hanumantha_Rao1998"/>: <citedRange>116 (no. 2)</citedRange>
+               </bibl>. This is an inscription only reviewed in "Indian Archaeology". Re-edited here from published documentation.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+                  <ptr target="eiad-bibl:Raghunath2001"/>: <citedRange>195 (no. 84)</citedRange>
+               </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

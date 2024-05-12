@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-03-29T17:32:11.51+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 61
+[2] Raghunath no.: 43
+[3] Srinivasan & Sankaranarayanan no.: 51
+[4] Tsukamoto no.: Naga 50
+[5] Lüders no.: 
+[6] Support : Buddhapāda
+[7] (Faces:) Lines: 3
+[8] H: 18
+[9] W: 50
+[10] D: 43
+[11] H: 6
+[12] W: 43
+[13] Language(s): MIA
+[14] Original locality: Nagarjunakonda Site-38
+[15] Present locality: NM 87
+[16] Primary bibliography: Sircar & Lahiri 1959-60.
+[17] Secondary bibliography: IAR 1955-56: 24. — ARIE 1956-57: B.35. — Raghunath 2001: 159 (43). — Soundara Rajan 2006: 192.
+[18] Visual documentation: IAR 1955-56: pl. XXXIX.C; Sircar & Lahiri; Raghunath
+[19] Substance of inscription: installation of a pair of Buddha's feet for welfare and happiness
+[20] Remarks: 
+[21] : 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Buddhapāda from site 56 at Nagarjunakonda</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+						            <surname>Strauch</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+						            <forename>Emmanuelle</forename>
+						            <surname>Morlock</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0061</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths,
+							Ingo Strauch and Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons
+							Attribution 3.0 Unported License. To view a copy of
+							this license, visit
+							http://creativecommons.org/licenses/by/3.0/ or send
+							a letter to Creative Commons, 444 Castro Street,
+							Suite 900, Mountain View, California, 94041,
+							USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0061_inv-eiad" type="inv-eiad">EIAD
+							61</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Nagarjunakonda Museum</repository>
+							              <idno xml:id="EIAD0061_museum-inventory">87</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle
+								Indo-Aryan, Southern Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <objectType>Buddhapāda</objectType>;
+										<dimensions unit="cm">
+										                       <height>18</height>
+										                       <width>50</width>
+										                       <depth>43</depth>
+										                    </dimensions>.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout writtenLines="3">3 lines. Inscribed area: 
+									<dimensions unit="cm">
+										                    <height>6</height>
+										                    <width>43</width>
+									                  </dimensions>.
+								</layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote><!-- description of decoration or iconography --></decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>Probably installed originally at findspot.</origPlace>
+							              <origDate calendar="Julian"
+                               notBefore="0250"
+                               notAfter="0300"
+                               precision="low">Attributable to the 3rd century CE on paleographical grounds.</origDate>
+						            </origin>
+						            <provenance type="found" notBefore="1954" notAfter="1955">
+							              <p>Found near the entrance of the Stūpa at <placeName key="eiad-geo:NK001">Nagarjunakonda, Site 38</placeName>
+								                <!-- CC: or V-6 according to IAR 1955-56 ?  -->
+								in the course of excavations of the
+								Nagarjunakonda Excavation Project.</p>
+						            </provenance>
+						            <provenance type="observed" when="2016-02">
+							              <p>Identified at Nagarjunakonda Museum (acc. no. 87)
+								in February 2016.</p>
+						            </provenance>
+						            <provenance type="not-observed">
+							<!-- information about a specific, unsuccessful attempt to locate an object in a presumed or previously recorded location --></provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates><!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl>JM 2017</bibl>
+								                <bibl>Sircar &amp; Lahiri</bibl>
+								                <bibl>IAR 1955-56: pl. XXXIX.C</bibl>
+							              </listBibl>
+							              <listBibl ana="#photo-estampage">
+								                <bibl>Sircar &amp; Lahiri</bibl>
+								                <bibl>Raghunath</bibl>
+							              </listBibl>
+							              <listBibl ana="#rti">
+								                <bibl>JM 2017</bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan,
+					romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines
+				and the latest Schema version
+					<ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of
+							estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-02-25">Creation of the file - automatic
+				conversion.</change>
+			      <change who="#CC" when="2017-04-21">Merging with READ file</change>
+			      <change who="#EM" when="2017-05-11">corrected valid pb, added
+				listApp in apparatus </change>
+			      <change who="#MS" when="2017-06-03">Organised surrogates.</change>
+			      <change who="#MS" when="2017-06-20">Modified title.</change>
+			      <change who="#MS" when="2017-07-01">Remodified title and killed spaces in edition.</change>
+			      <change who="#VT" when="2017-07-04">Changed translation, commentary, and bibliography.</change>
+			      <change who="#AG" when="2017-07-04">Encoded placeName; resolved #162.</change>
+			      <change who="#AG" when="2017-07-12">Small edits.</change>
+			      <change who="#VT" when="2018-03-19">Changed the mistaken dating of this inscription to Ehavala year 2.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic url="photograph_of_text_or_monument">
+			      <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab>
+					          <w xml:id="tok3801">sidhaṁ</w> 
+					          <lb n="1"/>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3802">°acariyana<unclear>ṁ</unclear>
+					          </w>
+					          <w xml:id="tok3803">theriyanaṁ</w>
+					          <w xml:id="tok3804">vibhajavādānaṁ</w>
+					          <w xml:id="tok3805">kasmiraga<unclear>ṁ</unclear>dhārayavanavanavāsataṁbapaṁnidipapasādakanaṁ</w>
+					          <lb n="2"/>
+					          <w xml:id="tok3806">mahāvīhāravāsinaṁ</w>
+					          <w xml:id="tok3807">navaṁgaṁsathusasana°athavyaṁjanavinichayavisāradānaṁ</w>
+					          <w xml:id="tok3808">°ariyavaṁsapavenidharanaṁ</w>
+					          <lb n="3"/>
+					          <w xml:id="tok3809">vihāre</w>
+					          <w xml:id="tok3810">bhagavato</w>
+					          <w xml:id="tok3811">padasaṁghāḍāni</w>
+					          <w xml:id="tok3812">patiṭhapita</w>
+					          <w xml:id="tok3813">savasatānaṁ</w>
+					          <w xml:id="tok3814">hitasukhathanāya</w>
+					          <w xml:id="tok3815">ti</w>
+				        </ab>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="1">
+						            <lem>°acariyana<unclear>ṁ</unclear> theriyanaṁ</lem>
+						            <!-- CC: this last <unclear>ṁ</unclear> doesn't seem to be in the text above according to the RTF file ? -->
+						            <rdg source="eiad-bibl:Sircare">°ācariyana<unclear>ṁ</unclear>
+								theriyāna<unclear>ṁ</unclear>
+						            </rdg>
+					          </app>
+					          <app loc="2">
+						            <lem>-vīhāra-</lem>
+						            <rdg source="eiad-bibl:Sircare">-vihāra-</rdg>
+					          </app>
+					          <app loc="2">
+						            <lem>-°athavyaṁjanavinichayavisāradānaṁ</lem>
+						            <rdg source="eiad-bibl:Sircare">-°athavyajanavinichayavisaradanaṁ</rdg>
+					          </app>
+					          <app loc="3">
+						            <lem>padasaṁghāḍāni patiṭhapita</lem>
+						            <rdg source="eiad-bibl:Sircare">pādasa<unclear>ṁ</unclear>ghāḍā
+							nipatiṭhapito</rdg>
+						            <note>The expected orthography is here <foreign xml:lang="pra-Latn">pādasaṁghāḍāni</foreign>,
+							but note that in one of the inscribed buddhapādas
+							from Phanigiri (EIAD <ref target="#EIAD0109">109</ref>), the orthography is also <foreign xml:lang="pra-Latn">padasa<unclear>ṁ</unclear>ghaḍa</foreign> (read
+							by <bibl>
+								                <ptr target="eiad-bibl:Hinüber2013c"/>:
+									<citedRange>11, n. 16</citedRange>
+							              </bibl> as <foreign xml:lang="pra-Latn">pādasaghāḍa</foreign>). Note furthermore the
+							syntactic agreement between the substantive, in nom.
+							pl. nt. (in function of dual), and the past
+							participle <foreign xml:lang="pra-Latn">patiṭhapita</foreign>, in an uninflected nom.
+							sg.</note>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+			         <p>Success! In the monastery of the Theriya teachers, proponents of analytical distinctions, who brought the faith to Kashmir, Gandhāra, the [country of the] Yavanas, Vanavāsa, and the island of Tambapaṇṇi, residents of the Great Monastery, who are experts at determining the meaning and letter of the ninefold division of scriptures, who hold the line of transmission of the lineage of the noble ones, this pair of footprints has been established, for the good and well-being of all beings.</p>
+			      </div>
+			      <div type="commentary">
+				        <listApp>
+					<!--<app loc="1">
+						<lem>sidhaṁ</lem>
+						<note>This word stands in the margin.</note>
+					</app>-->
+					          <app loc="1">
+						            <lem>-pasādakanaṁ</lem>
+						            <note>On similar uses of forms derived from <foreign>pra-sad</foreign> in the context of conversion of countries, see <bibl>
+                        <ptr target="eiad-bibl:Skilling1993"/>: <citedRange>168, n. 13</citedRange>
+                     </bibl>; <bibl>
+						                  <ptr target="eiad-bibl:Cousins2001"/>:
+							<citedRange>141, n. 23</citedRange>
+					                </bibl>.</note>
+					          </app>
+					          <app loc="2">
+						            <lem>-navaṁgaṁsathusasana</lem>
+						            <note>On the ninefold division of scriptures, specific to Pāli textual transmission and that of several Mahāsāṅghika groups, see <bibl>
+                        <ptr target="eiad-bibl:Tournier2017"/>:
+							<citedRange>45, n. 186</citedRange>
+					                </bibl> and the references quoted there.</note>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="bibliography">
+				        <p>First described and edited by <bibl>
+                  <ptr target="eiad-bibl:Sircare"/>
+               </bibl>. Re-edited here from available documentation and after autopsy of the stone.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+						            <ptr target="eiad-bibl:zoteroItem_R4S8D3K2"/>
+						            <citedRange>1955-56: 24</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:zoteroItem_G9CH6AGA"/>
+						            <citedRange>1956-57: B.35</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Srinivasan1979a"/>:
+							<citedRange>no. 51</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Raghunath2001"/>: <citedRange>159
+							(43)</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Tsukamoto1996"/>: <citedRange>no. Naga
+							50</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Soundara_Rajan2006"/>:
+							<citedRange>192</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Tournier2018"/>
+					          </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

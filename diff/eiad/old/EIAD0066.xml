@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-03-29T17:32:11.51+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 66
+[2] Raghunath no.: —
+[3] Srinivasan & Sankaranarayanan no.: 53
+[4] Tsukamoto no.: —
+[5] Lüders no.: 
+[6] Support : drum slab
+[7] (Faces:) Lines: 1
+[8] H: 124
+[9] W: 87
+[10] D: 18
+[11] H: 3
+[12] W: 9
+[13] Language(s): MIA
+[14] Original locality: Nagarjunakonda Site-6
+[15] Present locality: NM 610
+[16] Primary bibliography: Vogel 1929-30b.
+[17] Secondary bibliography: Sarkar 1968-71: 227. — Rosen Stone 1994: 56.
+[18] Visual documentation: Sarkar 1960, pl. XLVII; 1968-71, pl. I; Rosen Stone, ills. 36, 124.
+[19] Substance of inscription: dhamasa: cf. EIAD087
+[20] Remarks: 
+[21] : 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Drumslab from site 6 at Nagarjunakonda</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+						            <surname>Strauch</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+						            <forename>Emmanuelle</forename>
+						            <surname>Morlock</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0066</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths,
+							Ingo Strauch and Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons
+							Attribution 3.0 Unported License. To view a copy of
+							this license, visit
+							http://creativecommons.org/licenses/by/3.0/ or send
+							a letter to Creative Commons, 444 Castro Street,
+							Suite 900, Mountain View, California, 94041,
+							USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0066_inv-eiad" type="inv-eiad">EIAD
+							66</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Nagarjunakonda Museum</repository>
+							              <idno xml:id="EIAD0066_museum-inventory">610</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle
+								Indo-Aryan, Southern Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <objectType>Drum slab</objectType>;
+										<dimensions unit="cm">
+										                       <height>124</height>
+										                       <width>87</width>
+										                       <depth>18</depth>
+										                    </dimensions>.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout>
+									                  <dimensions unit="cm">
+										                    <height>3</height>
+										                    <width>9</width>
+									                  </dimensions>
+								                </layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote><!-- description of decoration or iconography --></decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>
+                        <placeName type="modern" key="eiad-geo:NK">Nagarjunakonda</placeName>
+                     </origPlace>
+							              <origDate calendar="Julian"
+                               notBefore="0250"
+                               notAfter="0300"
+                               precision="low">According to
+								Sarkar, this inscription is engraved on a
+								sculptured limestone Caitya-slab from the second
+								regnal year of Siri-Ehavalacāntamūla,
+								approximately between 250 and 300 CE.
+							</origDate>
+						            </origin>
+						            <provenance type="found">
+							              <p>Discovered at Site-6.</p>
+							              <!-- CC : Is there an indication about the date of discovery in Vogel 1929-30b ? I can't find the PDF file.  -->
+						            </provenance>
+						            <provenance type="observed" when="2016-02">
+							              <p>Identified at Nagarjunakonda Museum (acc. no.
+								610) in February 2016.</p>
+						            </provenance>
+						            <provenance type="not-observed">
+							<!-- information about a specific, unsuccessful attempt to locate an object in a presumed or previously recorded location --></provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates>
+							<!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl>Sarkar 1960, pl. XLVII</bibl>
+								                <bibl>Sarkar 1968-71, pl. I</bibl>
+								                <bibl>Rosen Stone, ills. 36, 124.</bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan,
+					romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines
+				and the latest Schema version
+					<ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of
+							estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-02-25">Creation of the file - automatic
+				conversion.</change>
+			      <change who="#CC" when="2017-04-21">Merging with READ file</change>
+			      <change who="#MS" when="2017-06-03">Added listApp and organised
+				surrogates.</change>
+			      <change who="#MS" when="2017-06-09">Hid apparatus div as
+				comment.</change>
+			      <change who="#MS" when="2017-06-20">Modified title.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic url="photograph of text or monument">
+			      <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab>
+					          <lb n="1"/>
+					          <w xml:id="tok4029">dhamasa</w>
+				        </ab>
+			      </div>
+			      <!--<div type="apparatus">
+			</div>-->
+			      <div type="translation" xml:lang="eng">
+				        <ab>Of Dhama (Dharma). </ab>
+			      </div>
+			      <div type="commentary">
+				        <listApp>
+					          <app>
+						            <note>For <foreign xml:lang="pra-Latn">dhamasa</foreign>: cf. EIAD <ref target="#EIAD0087">87</ref>.</note>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="bibliography">
+				        <p>First described and edited by <bibl>
+						            <ptr target="eiad-bibl:Vogela"/>
+					          </bibl>. Re-edited here from published documentation and
+					after autopsy of the stone.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+						            <ptr target="eiad-bibl:Sarkarb"/>:
+							<citedRange>227</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Srinivasan1979a"/>:
+							<citedRange>no. 53</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Rosen_Stone1994"/>:
+							<citedRange>56</citedRange>
+					          </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-03-01T19:20:02.563+01:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 6
+[2] Raghunath no.: 6
+[3] Srinivasan & Sankaranarayanan no.: 9
+[4] Tsukamoto no.: Naga 6
+[5] Lüders no.: 
+[6] Support : Āyaka pillar
+[7] (Faces:) Lines: 13
+[8] H: 354
+[9] W: 48
+[10] D: 29
+[11] H: 105
+[12] W: 55
+[13] Language(s): MIA
+[14] Original locality: Nagarjunakonda Site-1, West side of the Mahācaitya 
+[15] Present locality: NM 283, 299
+[16] Primary bibliography: Vogel 1929-30a: 14, 17 (C1).
+[17] Secondary bibliography: Raghunath 2001: 76-7 (6).
+[18] Visual documentation: estampage Leiden N6. — Vogel.
+[19] Substance of inscription: erection of a pillar for welfare and happiness
+[20] Remarks: No rubbing for our EIAD006 in Raghunath. See remark under
+                        EIAD005.
+
+
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Āyaka pillar from site 1 at Nagarjunakonda — reign of Siri-Vīrapurisadatta, year
+               6</title>
+            <principal>
+               <persName key="eiad-part:AG">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </principal>
+            <editor role="general">
+               <persName key="eiad-part:SB">
+                  <forename>Stefan</forename>
+                  <surname>Baums</surname>
+               </persName>
+            </editor>
+            <editor role="general">
+               <persName key="eiad-part:AG">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </editor>
+            <editor role="general">
+               <persName key="eiad-part:IS">
+                  <forename>Ingo</forename>
+                  <surname>Strauch</surname>
+               </persName>
+            </editor>
+            <editor role="general">
+               <persName key="eiad-part:VT">
+                  <forename>Vincent</forename>
+                  <surname>Tournier</surname>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>assistance with XML encoding and metadata verification</resp>
+               <persName key="eiad-part:CC">
+                  <forename>Chloé</forename>
+                  <surname>Chollet</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>assistance with XML encoding and metadata verification</resp>
+               <persName key="eiad-part:MS">
+                  <forename>Marine</forename>
+                  <surname>Schoettel</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>digital humanities consultant</resp>
+               <persName key="eiad-part:EM">
+                  <forename>Emmanuelle</forename>
+                  <surname>Morlock</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>digital humanities consultant</resp>
+               <persName key="eiad-part:AO">
+                  <forename>Andrew</forename>
+                  <surname>Ollett</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Early Inscriptions of Āndhradeśa</authority>
+            <idno type="filename">EIAD0006</idno>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/3.0/">
+                  <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths, Ingo Strauch and Vincent
+                     Tournier.</p>
+                  <p>This work is licensed under the Creative Commons Attribution 3.0 Unported
+                     License. To view a copy of this license, visit
+                     http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative
+                     Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041,
+                     USA.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note><!-- No rubbing for our EIAD006 in Raghunath. See remark under EIAD005. --></note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>EFEO</institution>
+                  <idno xml:id="EIAD0006_inv-eiad" type="inv-eiad">EIAD 6</idno>
+                  <altIdentifier type="museum-inventory">
+                     <repository>Nagarjunakonda Museum</repository>
+                     <idno xml:id="EIAD0006_museum-inventory">283, 299</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <textLang xml:lang="eng" mainLang="san-Brah">Middle Indo-Aryan, Southern Brāhmī
+                        script</textLang>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           <p>
+                              <objectType>Āyaka pillar</objectType>; <dimensions unit="cm">
+                                 <height>354</height>
+                                 <width>48</width>
+                                 <depth>29</depth>
+                              </dimensions>.</p>
+                        </support>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <dimensions unit="cm">
+                              <height>105</height>
+                              <width>55</width>
+                           </dimensions>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote><!-- description of decoration or iconography --></decoNote>
+                  </decoDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origPlace>Erected originally at findspot.</origPlace>
+                     <origDate calendar="Julian" notBefore="0225" notAfter="0275" precision="medium"
+                        >Sixth regnal year of Siri-Vīrapurisadatta, approximately between 225 and 275
+                        CE.</origDate>
+                  </origin>
+                  <provenance type="found" notBefore="1926-03" notAfter="1927-10">
+                     <p>Discovered between March 1926 and October 1927 at <placeName
+                           key="eiad-geo:NK001">Nagarjunakonda, Site 1</placeName>, on the West side
+                        of the Mahācaitya.</p>
+                  </provenance>
+                  <provenance type="observed" when="2016-02">
+                     <p>Fragments identified at Nagarjunakonda Museum (acc. no. 283, 299) in
+                        February 2016.</p>
+                  </provenance>
+                  <provenance type="not-observed">
+                     <!-- information about a specific, unsuccessful attempt to locate an object in a presumed or previously recorded location --></provenance>
+                  <provenance type="transferred">
+                     <!-- information about documentable modern relocations of the text-bearing object --></provenance>
+               </history>
+               <additional>
+                  <surrogates><!-- [Revision required] -->
+                     <!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+                     <listBibl ana="#photo">
+                        <bibl>photos AL 2017</bibl>
+                     </listBibl>
+                     <listBibl ana="#photo-estampage">
+                        <bibl>Est. ASI: Vogel</bibl>
+                        <bibl>estampage Leiden N6 (two sheets)</bibl>
+                     </listBibl>
+                  </surrogates>
+               </additional>
+               <msPart>
+                  <msIdentifier/>
+                  <physDesc/>
+                  <history/>
+               </msPart>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+            <language ident="pra-Latn">Middle Indo-Aryan, romanized</language>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term><!--each keyword in a <term/> element --></term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines and the latest Schema
+            version <ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+         </p>
+         <classDecl>
+            <taxonomy xml:lang="eng">
+               <category xml:id="photo">
+                  <catDesc>Digital or digitized photographs</catDesc>
+               </category>
+               <category xml:id="rti">
+                  <catDesc>Reflectance Transformation Imaging</catDesc>
+               </category>
+               <category xml:id="photo-estampage">
+                  <catDesc>Digital or digitized photographs of estampages</catDesc>
+               </category>
+               <category xml:id="representation">
+                  <catDesc>Digitized other representations</catDesc>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="#EM" when="2017-02-25">Creation of the file - automatic conversion.</change>
+         <change who="#MS" when="2017-03-03">Merging with READ file.</change>
+         <change who="#AG" when="2017-03-08">Checked previous work, inserted some comments.</change>
+         <change who="#MS" when="2017-03-09">Small modifications according to AG's
+            comments.</change>
+         <change who="#AG" when="2017-03-11">Merged primary and secondary bibliography into a single
+            paragraph.</change>
+         <change who="#EM" when="2017-03-16">Corrected processing instruction pointing to
+            schema</change>
+         <change who="#AG" when="2017-04-01">Added sec. bibl. items that were missing in initial
+            metadata export</change>
+         <change who="#MS" when="2017-04-20">Standardised secondary bibliography according to EIAD
+            4.</change>
+         <change who="#MS" when="2017-05-20">Organised surrogates.</change>
+         <change who="#MS" when="2017-05-25">Added reference to surrogates.</change>
+         <change who="#AG" when="2017-05-26">Corrected loc=l1 to loc=1 and fixed validation
+            problem</change>
+         <change who="#MS" when="2017-06-08">Hid commentary div as comment</change>
+         <change who="#AG" when="2017-06-12">Modified title.</change>
+         <change who="#VT" when="2017-06-30">Modified translation.</change>
+         <change who="#AG" when="2017-07-01">Encoded placeName.</change>
+         <change who="#SB" when="2017-07-27">Fixed word breaks.</change>
+         <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+         <change who="#AG" when="2018-06-08">Corrected loc="1" to loc="11" in apparatus.</change>
+         <change who="#VT" when="2018-12-09">Modified translation.</change>
+         <change who="#VT" when="2019-01-20">Fixed typo in translation.</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="photograph of text or monument">
+         <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+      </graphic>
+   </facsimile>
+   <text>
+      <body>
+         <div type="edition" xml:lang="pra-Latn">
+            <ab>
+               <w xml:id="tok245">
+                  <lb n="1"/> sidhaṁ</w>
+               <w xml:id="tok246">namo</w>
+               <w xml:id="tok247">bhagavato</w>
+               <w xml:id="tok248">devarājasakatasa</w>
+               <w xml:id="tok249">saṁmasa<unclear>ṁ</unclear>budhasa</w>
+               <w xml:id="tok250">dhātuvaraparigahitasa</w>
+               <lb n="2"/>
+               <w xml:id="tok251">
+                  <supplied reason="lost">ma</supplied>
+                  <unclear>hā</unclear>cetiye</w>
+               <w xml:id="tok252">mahārājasa</w>
+               <w xml:id="tok253">virūpakhapatimahās<supplied reason="omitted"
+                  >e</supplied>naparigahitasa</w>
+               <w xml:id="tok254">°agiho<lb n="3" break="no"/>tāgiṭhomavājapeyāsamedhayājisa</w>
+               <w xml:id="tok255">hiraṇakoṭigosatasahasahalasa<lb n="4" break="no"
+                  />tasahasapadāyisa</w>
+               <w xml:id="tok256">savaṭh<supplied reason="omitted">e</supplied>su</w>
+               <!-- AG to colleagues: emend to savathesu (with th rather than ṭh)? -->
+               <w xml:id="tok257">°apatihatasaṁkapasa</w>
+               <w xml:id="tok258">vāseṭhīputasa</w>
+               <w xml:id="tok259">°ikhākusa</w>
+               <lb n="5"/>
+               <w xml:id="tok260">siricāṁtamūlasa</w>
+               <w xml:id="tok261">sodarā</w>
+               <w xml:id="tok262">bhagini</w>
+               <w xml:id="tok263">raṁño</w>
+               <w xml:id="tok264">sirivirapurisadatasa</w>
+               <w xml:id="tok265">pituchā</w>
+               <w xml:id="tok266">mahāsenapatisa</w>
+               <lb n="6"/>
+               <w xml:id="tok267">mahātalavarasa</w>
+               <w xml:id="tok268">vāsiṭhīputasa</w>
+               <w xml:id="tok269">pūkīyānaṁ</w>
+               <w xml:id="tok270">kaṁdasirisa</w>
+               <w xml:id="tok271">bhayā</w>
+               <w xml:id="tok272">samaṇabamhaṇakavaṇa<lb n="7" break="no"
+                  />vaṇijakadinānugahavelamikadānapaṭibhāgavochinadhārapadāyini</w>
+               <w xml:id="tok273">savasadhuvāchalā</w>
+               <lb n="8"/>
+               <w xml:id="tok273bis">mahātalavari</w>
+               <w xml:id="tok274">khaṁdasāgaraṁṇakamātā</w>
+               <w xml:id="tok275">cāṁtisiri</w>
+               <w xml:id="tok276">°apano</w>
+               <w xml:id="tok277">°ubhayakula<supplied reason="omitted">sa</supplied>
+               </w>
+               <w xml:id="tok278">parināmetunaṁ</w>
+               <w xml:id="tok279">°atano</w>
+               <w xml:id="tok280">ca</w>
+               <lb n="9"/>
+               <w xml:id="tok281">nivāṇasaṁpatisaṁpādake</w>
+               <w xml:id="tok282">°imaṁ</w>
+               <w xml:id="tok283">khaṁbhaṁ</w>
+               <w xml:id="tok284">savalokahitasukhāvahathanāya</w>
+               <w xml:id="tok285">ca</w>
+               <w xml:id="tok286">patiṭhapitā</w>
+               <w xml:id="tok287">ti</w>
+               <lb n="10"/>
+               <w xml:id="tok288">°ācariyānaṁ</w>
+               <w xml:id="tok289">°aparamahāvinas<unclear>e</unclear>liyānaṁ</w>
+               <w xml:id="tok290">suparigahitaṁ</w>
+               <w xml:id="tok291">°imaṁ</w>
+               <w xml:id="tok292">mahācetiyanavakaṁmaṁ</w>
+               <lb n="11"/>
+               <w xml:id="tok293">paṁṇagāmavathavānaṁ</w>
+               <w xml:id="tok294">dīghamajhimapaṁcamātukadesakavācakānaṁ</w>
+               <w xml:id="tok295">°ācariyānaṁ</w>
+               <w xml:id="tok296">°ayirahaṁghāna</w>
+               <lb n="12"/>
+               <w xml:id="tok297"> °aṁtevāsikena</w>
+               <w xml:id="tok298">dīghamajhimanikāyadharena</w>
+               <w xml:id="tok299">bhajaṁtānaṁdena</w>
+               <!-- AG to colleagues: note interesting case of vowel sandhi. -->
+               <w xml:id="tok300">nithapitaṁ</w>
+               <w xml:id="tok301">°imaṁ</w>
+               <w xml:id="tok302">navakamaṁ</w>
+               <w xml:id="tok303">mahācetiyaṁ</w>
+               <lb n="13"/>
+               <w xml:id="tok304">khaṁbhā</w>
+               <w xml:id="tok305">ca</w>
+               <w xml:id="tok306">ṭhāpitā</w>
+               <w xml:id="tok307">ti</w>
+               <w xml:id="tok308">raṁño</w>
+               <w xml:id="tok309">sirivarapurisadatasa</w>
+               <w xml:id="tok310">sava</w>
+               <w xml:id="tok311">6</w>
+               <w xml:id="tok312">vāpa</w>
+               <w xml:id="tok313">6</w>
+               <w xml:id="tok314">diva</w>
+               <w xml:id="tok315">10</w>
+            </ab>
+         </div>
+         <div type="apparatus">
+            <listApp>
+               <app loc="11">
+                  <lem>-desaka-</lem>
+                  <rdg source="eiad-bibl:Vogeld">-osaka-</rdg>
+                  <note>A note in <bibl>
+                        <ptr target="eiad-bibl:Vogeld"/>:<citedRange>17</citedRange>
+                     </bibl> corrects <foreign>-osaka-</foreign> to <foreign>-desaka-</foreign>,
+                     referring to C 2, l. 9.</note>
+               </app>
+               <app loc="11">
+                  <lem>°ayirahaṁghāna</lem>
+                  <rdg source="eiad-bibl:Vogeld">°ayirahaṁghānaṁ</rdg>
+               </app>
+               <app loc="12">
+                  <lem>bhajaṁtānaṁdena</lem>
+                  <note>Emend <foreign>bhadaṁtānaṁdena</foreign>.</note>
+               </app>
+               <app loc="13">
+                  <lem>siriv<supplied reason="omitted">i</supplied>rapurisadatasa</lem>
+                  <rdg source="eiad-bibl:Vogeld">sirivirapurisadatasa</rdg>
+               </app>
+            </listApp>
+         </div>
+         <div type="translation" xml:lang="eng">
+            <p>
+               <seg type="translatedlines">(1)</seg> Success! Homage to the Bhagavant, worshipped by
+               the king(s) of the gods, the Perfect Buddha who is ensconced in the excellent
+               relic [or: element (i.e., <foreign xml:lang="san-Latn">nirvāṇadhātu</foreign>)]! </p>
+            <p>
+               <seg type="translatedlines">(2-13)</seg> At the Great Shrine, Cāntisirī — uterine
+               sister of Great King Vāsiṭṭhīputta Siri-Cāntamūla the Ikṣvāku, favored by Mahāsena who
+               has Virūpākṣa as his lord, sacrificer of the Agnihotra, the Agniṣṭoma, the Vājapeya
+               and the Aśvamedha, giver of tens of millions of (pieces of) gold, hundreds of
+               thousands of cows and hundreds of thousands of plows (of land), whose will is
+               unimpeded in all matters; paternal aunt of King Siri-Vīrapurisadatta; wife of Great
+               General, Great Talavara Vāsiṭṭhīputta Kandasiri of the Pūkīyas; giver of an unequalled
+               and uninterrupted stream of <foreign xml:lang="pra-Latn">velāmika</foreign> gifts as
+               a favor to ascetics, brahmans, beggars, mendicants and the wretched; affectionate to
+               all good people; Great-Talavara-wife, mother of Khandasāgaraṇṇaka — having dedicated
+               (the merit) to her own family on both sides, established this pillar, for achieving
+               the fortune of nirvāṇa for herself and for the sake of bringing about well‐being and
+               happiness of all people. This construction of the Great Shrine has been received well
+               by the Aparamahāvinaseliya teachers. This construction[, namely
+               this] Great Shrine has been completed and the pillars established by the venerable
+               Ānanda, preserver of the Long and Middle Divisions, pupil of the master, the noble
+               Haṅgha, resident of the village Paṇṇa, the instructor and transmitter of the Long and
+               Middle (Divisions) and the Five Matrices.</p>
+            <p>
+               <seg type="translatedlines">(13)</seg> In the 6th year of King Siri-Vīrapurisadatta,
+               in the 6th fortnight of the rainy season, on the 10th day.</p>
+         </div>
+         <!--<div type="commentary">
+				<listApp>
+					<app loc="lineNumber">
+						<note>@loc = number of the line commented here in the note element.</note>
+					</app>
+				</listApp>
+			</div>-->
+         <div type="bibliography">
+            <p>Only the last four lines of this inscription were edited by <bibl>
+                  <ptr target="eiad-bibl:Vogeld"/>: <citedRange>14, 17 (C1)</citedRange>
+               </bibl>, readings of the preceding lines being incorporated in the critical apparatus
+               of his edition of EIAD <ref target="#EIAD0005">5</ref>. We record only variant
+               readings by Vogel for the last four lines, as the first integral edition of this
+               inscription, by <bibl>
+                  <ptr target="eiad-bibl:Raghunath2001"/>: <citedRange>76-7 (6)</citedRange>
+               </bibl>, is too full of involuntary errors. Our re-edition is based on the Leiden
+               estampage sheets and autopsy of the fragments of the stone.</p>
+            <listBibl type="secondary-bibliography">
+               <bibl>
+                  <ptr target="eiad-bibl:Srinivasan1979a"/>: <citedRange>no. 9</citedRange>
+               </bibl>
+               <bibl>
+                  <ptr target="eiad-bibl:Tsukamoto1996"/>: <citedRange>no. Naga 6</citedRange>
+               </bibl>
+               <bibl>
+                  <ptr target="eiad-bibl:Raghunath2001"/>: <citedRange>76-7 (no. 6)</citedRange>
+               </bibl>
+            </listBibl>
+         </div>
+      </body>
+   </text>
+</TEI>

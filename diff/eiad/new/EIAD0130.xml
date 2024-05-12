@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-05-17T13:36:55.949+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 130
+[2] Raghunath no.: —
+[3] Srinivasan & Sankaranarayanan no.: 
+[4] Tsukamoto no.: —
+[5] Lüders no.: 
+[6] Support : Āyaka frieze
+[7] (Faces:) Lines: 1
+[8] H: 33
+[9] W: 167
+[10] D: 17
+[11] H: 2
+[12] W: 84
+[13] Language(s): MIA
+[14] Original locality: Nagarjunakonda, probably site-6
+[15] Present locality: NM 511
+[16] Primary bibliography: 
+[17] Secondary bibliography: 
+[18] Visual documentation: 
+[19] Substance of inscription: 
+[20] Remarks: connection to site-6 proposed by Akira Shimada
+[21] : 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Āyaka frieze presumably from site 6 at Nagarjunakonda</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+						            <surname>Strauch</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+                        verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+                        verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+						            <forename>Emmanuelle</forename>
+						            <surname>Morlock</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+						            <forename>Andrew</forename>
+						            <surname>Ollett</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0130</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths,
+                            Ingo Strauch and Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons
+                            Attribution 3.0 Unported License. To view a copy of
+                            this license, visit
+                            http://creativecommons.org/licenses/by/3.0/ or send
+                            a letter to Creative Commons, 444 Castro Street,
+                            Suite 900, Mountain View, California, 94041,
+                            USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+                    connection to site-6 proposed by Akira Shimada</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0130_inv-eiad" type="inv-eiad">EIAD
+                            130</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Nagarjunakonda Museum</repository>
+							              <idno xml:id="EIAD0130_museum-inventory">511</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle
+                                Indo-Aryan, Southern Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>Fragment of an <objectType>Āyaka
+                                        frieze</objectType>; <dimensions unit="cm">
+											                      <height>33</height>
+											                      <width>167</width>
+											                      <depth>17</depth>
+										                    </dimensions>.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout writtenLines="1">
+									                  <dimensions unit="cm">
+										                    <height>2</height>
+										                    <width>84</width>
+									                  </dimensions>
+								                </layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote><!-- description of decoration or iconography --></decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>
+                        <placeName type="modern" key="eiad-geo:NK">Nagarjunakonda</placeName>
+                     </origPlace>
+							              <origDate calendar="Julian"
+                               notBefore="0200"
+                               notAfter="0350"
+                               precision="low">Attributable to
+                                the Ikṣvāku period on palaeographic
+                                grounds.</origDate>
+						            </origin>
+						            <provenance type="found">
+							              <p>Date of discovery unknown; probably found at
+                                site-6 along with other āyaka frieze fragments
+                                (cf. EIAD <ref target="#EIAD0081_inv-eiad">81</ref>) according to Akira Shimada.</p>
+						            </provenance>
+						            <provenance type="observed" when="2016-02">
+							              <p>Fragment identified at Nagarjunakonda Museum
+                                (acc. no. 511) in February 2016.</p>
+						            </provenance>
+						            <provenance type="not-observed">
+							<!-- information about a specific, unsuccessful attempt to locate an object in a presumed or previously recorded location --></provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates><!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl>photos AL 2017</bibl>
+							              </listBibl>
+							              <listBibl ana="#rti">
+								                <bibl>RTI JM 2017</bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan,
+                    romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines
+                and the latest Schema version
+                    <ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of
+                            estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-05-17">Creation of the file - automatic
+                conversion.</change>
+			      <change who="#MS" when="2017-05-20">Merging with READ data.</change>
+			      <change who="#MS" when="2017-06-03">Organised surrogates.</change>
+			      <change who="#MS" when="2017-06-10">Hid translation and commentary
+                divs as comments.</change>
+			      <change who="#MS" when="2017-06-20">Modified title.</change>
+			      <change who="#MS" when="2017-07-03">Killed unwanted spaces in edition and apparatus.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic url="photograph_of_text_or_monument">
+			      <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab>
+					          <lb n="1"/>
+					          <milestone unit="fragment" type="lost" subtype="left"/>
+					          <w xml:id="tok5069">sa<unclear>ghasa</unclear>
+					          </w>
+					          <gap reason="illegible" quantity="2" unit="character"/>
+					          <w xml:id="tok5070">
+						            <unclear>sa</unclear>
+					          </w>
+					          <gap reason="illegible" quantity="3" unit="character"/>
+					          <w xml:id="tok5077">pa<unclear>ṭa</unclear>
+					          </w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok5079">sa<unclear>p</unclear>
+                  <supplied reason="lost">u</supplied>
+                  <unclear>tak</unclear>
+                  <supplied reason="lost">ā</supplied>
+                  <unclear>na</unclear>
+               </w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok5085">
+						            <unclear>sa</unclear>datasa</w>
+					          <w xml:id="tok5086">sa</w>
+					          <gap reason="illegible" quantity="1" unit="character"/>
+					          <w xml:id="tok5088">
+						            <unclear>bhaja</unclear>
+					          </w>
+					          <gap reason="illegible" quantity="1" unit="character"/>
+					          <w xml:id="tok5090">
+						            <unclear>pu</unclear>
+					          </w>
+					          <w xml:id="tok5091">
+                  <unclear>p</unclear>
+                  <gap reason="illegible" quantity="1" unit="aksarapart"/>
+               </w>
+					          <w xml:id="tok5091bis">
+                  <unclear>sabalak</unclear>
+                  <supplied reason="lost">e</supplied>
+                  <unclear>hi</unclear>
+               </w>
+					          <w xml:id="tok5092">ca</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok5094">sanātukasa</w>
+					          <w xml:id="tok5095">ca</w>
+					          <w xml:id="tok5105">
+                  <unclear>sanadukehi</unclear>
+               </w>
+					          <w xml:id="tok5106">ca</w>
+					          <gap reason="lost" quantity="1" unit="character"/>
+					          <w xml:id="tok5107">
+                  <unclear>t</unclear>
+                  <gap reason="illegible" quantity="1" unit="aksarapart"/>
+                  <unclear>ṭhap</unclear>
+                  <gap reason="illegible" quantity="1" unit="aksarapart"/>
+               </w>
+					          <milestone unit="fragment" type="lost" subtype="right"/>
+				        </ab>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="1">
+						            <lem>
+                     <unclear>pu p</unclear>
+                     <gap reason="illegible" quantity="1" unit="aksarapart"/>
+                  </lem>
+						            <note>Reading highly unsure here. Could these be
+                            numbers?</note>
+					          </app>
+					          <app loc="1">
+						            <lem>
+                     <gap reason="lost" quantity="1" unit="character"/>
+                     <unclear>t</unclear>
+                     <gap reason="illegible" quantity="1" unit="aksarapart"/>
+                     <unclear>ṭhap</unclear>
+                     <gap reason="illegible" quantity="1" unit="aksarapart"/>
+                  </lem>
+						            <note>This should probably be restored <supplied reason="lost">pa</supplied>
+                     <unclear>t</unclear>
+                     <supplied reason="lost">i</supplied>
+                     <unclear>ṭhap</unclear>
+                     <supplied reason="lost">ito</supplied>.</note>
+					          </app>
+				        </listApp>
+			      </div>
+			      <!--<div type="translation" xml:lang="eng">
+                <ab/>
+            </div>-->
+			      <!--<div type="commentary">
+                <listApp>
+                    <app loc="lineNumber">
+                        <note>@loc = number of the line commented here in the note element.-\-></note>
+                    </app>
+                </listApp>
+            </div>-->
+			      <div type="bibliography">
+				        <p>Previously unpublished; edited here from our photographs and
+                    after autopsy of the stone.</p>
+				        <!--<listBibl type="secondary-bibliography"> </listBibl>-->
+			      </div>
+		    </body>
+	  </text>
+</TEI>

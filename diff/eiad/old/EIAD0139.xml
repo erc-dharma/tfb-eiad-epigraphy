@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-05-17T13:36:55.949+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 139
+[2] Raghunath no.: 
+[3] Srinivasan & Sankaranarayanan no.: 
+[4] Tsukamoto no.: 
+[5] Lüders no.: 
+[6] Support : pillar, octagonal, fragment
+[7] (Faces:) Lines: 5
+[8] H: 
+[9] W: 
+[10] D: 
+[11] H: 
+[12] W: 
+[13] Language(s): MIA
+[14] Original locality: Manchikallu, Palnad Tk., Guntur Dt. (16,5° N + 79,5° E)
+[15] Present locality: unknown — not found at any museum
+[16] Primary bibliography: Seshadri Sastri 1944. — Seshadri Sastri 1955. — Sircar 1957-58: 82, 87-90. — Sircar 1965.
+[17] Secondary bibliography: ARIE 1939-40: E.22. — Rama Rao 1955: 51-2. — Ramesan 1962b: 216. — IP 1 ― Francis 2013: 258 (IR 1).
+[18] Visual documentation: Sircar 1957-58; Rama Rao 1955, pl. at back of the booklet
+[19] Substance of inscription: 
+[20] Remarks: ARIE states: "Stone lying in the S.No 447/A.B-/2. east of village." According to Ramesan 1962, the stone was on exhibit in AP Govt. Museum
+[21] : PA2 Mayidavōlu Plates
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Octagonal pillar from Manchikallu — reign of Sīhavamma<!--of the Pallava dynasty--></title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:EF">
+						            <forename>Emmanuel</forename>
+						            <surname>Francis</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+						            <forename>Emmanuelle</forename>
+						            <surname>Morlock</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+						            <forename>Andrew</forename>
+						            <surname>Ollett</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0139</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths, Ingo Strauch and
+                            Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons Attribution 3.0 Unported
+                            License. To view a copy of this license, visit
+                            http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative
+                            Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041,
+                            USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0139_inv-eiad" type="inv-eiad">EIAD 139</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>unavailable</repository>
+							              <idno xml:id="EIAD0139_museum-inventory">unavailable</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indo-Aryan, Southern
+                                Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>Fragment of octagonal <objectType>pillar</objectType>. Dimensions unknown<!--
+                                            <dimensions unit="cm">
+											<height>unavailable</height>
+											<width>unavailable</width>
+											<depth>unavailable</depth>
+										</dimensions>-->.</p>
+								                </support>
+							              </supportDesc>
+							              <!--<layoutDesc>
+								<layout writtenLines="5">
+									<dimensions unit="cm">
+										<height>unavailable</height>
+										<width>unavailable</width>
+									</dimensions>.</layout>
+							</layoutDesc>-->
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote><!-- description of decoration or iconography --></decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>Presumably erected originally near findspot.</origPlace>
+							              <!--<origPlace><placeName>Manchikallu</placeName>, <placeName>Palnad</placeName>
+                                Taluk, <placeName>Guntur</placeName> district. (16,5° N + 79,5° E)</origPlace>-->
+							              <origDate calendar="Julian"
+                               notBefore="0250"
+                               notAfter="0300"
+                               precision="low"> Inscription of an unknown regnal year of the king
+                                Sīhavamma of the Pallava dynasty, approximately between 250 and 300
+                                CE. </origDate>
+						            </origin>
+						            <provenance type="found" notAfter="1940">
+							              <p>Discovered in the village of Manchikallu before 1940.</p>
+						            </provenance>
+						            <provenance type="observed"> </provenance>
+						            <provenance type="not-observed" notBefore="2016">
+							              <p>Present whereabouts unknown. ARIE states: <quote>Stone lying in the
+                                    S.No 447/A.B-/2. east of village</quote>. According to <bibl>
+                           <ptr target="eiad-bibl:Ramesan1962"/>
+                        </bibl>, the stone was on exhibit in Andhra Pradesh Government Museum.</p>
+						            </provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates><!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo-estampage">
+								                <bibl>
+                           <ptr target="eiad-bibl:Sircarj"/>
+                        </bibl>
+								                <bibl>
+                           <ptr target="eiad-bibl:Rama_Rao1955a"/> 
+                           <citedRange>(pl. at back of the booklet)</citedRange>
+                        </bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan, romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines and the latest
+                Schema version <ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-05-17">Creation of the file - automatic
+                conversion.</change>
+			      <change who="#CC" when="2017-05-20">Merging with READ file</change>
+			      <change who="#AG" when="2017-05-23">Added listApp, corrected biblio refs.</change>
+			      <change who="#MS" when="2017-06-10">Hid commentary div as comment.</change>
+			      <change who="#MS" when="2017-06-20">Modified title.</change>
+			      <change who="#MS" when="2017-07-03">Killed spaces in edition and apparatus.</change>
+			      <change who="#MS" when="2017-07-07">Encoded placeName; added EF as editor.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+      </revisionDesc>
+
+	  </teiHeader>
+	  <facsimile>
+		    <graphic url="photograph of text or monument">
+			      <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab>
+					          <lb n="1"/>
+					          <w xml:id="tok5371">siddha<unclear>ṁ</unclear>
+               </w>
+					          <pc>||</pc>
+					          <pc>–</pc>
+					          <w xml:id="tok5372">bhāradāya<unclear>sa</unclear>go<unclear>ttena</unclear>
+               </w>
+					          <gap reason="lost" quantity="4" unit="character"/>
+					          <w xml:id="tok5373">
+                  <unclear>dha</unclear>reṇa</w>
+					          <w xml:id="tok5374">palavāṇaṁ</w>
+					          <w xml:id="tok5375">sī<unclear>ha</unclear>
+                  <lb n="2" break="no"/>vaṁmaṇa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok5376">°ap<unclear>p</unclear>aṇo</w>
+					          <w xml:id="tok5377">vejayike</w>
+					          <gap reason="illegible" quantity="1" unit="character"/>
+					          <gap reason="lost" quantity="3" unit="character"/>
+					          <w xml:id="tok5378">
+                  <unclear>lava</unclear>dhaṁṇīke</w>
+					          <w xml:id="tok5379">saṁntisathi<lb n="3" break="no"/>yāyaṇaṁ</w>
+					          <w xml:id="tok5380">kātūṇa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok5381">bhaga<unclear>va</unclear>
+                  <supplied reason="lost">to</supplied>
+               </w>
+					          <w xml:id="tok5382">
+                  <supplied reason="lost">siri</supplied>
+                  <unclear>jīvaś</unclear>ivasāmisa</w>
+					          <w xml:id="tok5384">tethika<lb n="4" break="no"/>nak<unclear>kh</unclear>attik<unclear>ā</unclear>pahārakādi</w>
+					          <w xml:id="tok5385">kātaṁ</w>
+					          <w xml:id="tok5386">kapa</w>
+					          <gap reason="illegible" quantity="1" unit="character"/>
+					          <w xml:id="tok5387">devakulasa</w>
+					          <w xml:id="tok5388">bhag<unclear>ga</unclear>
+                  <milestone unit="fragment" n="lost"/>
+					          </w>
+					          <gap reason="illegible" quantity="1" unit="character"/>
+					          <gap reason="lost" quantity="1" unit="character"/>
+					          <lb n="5"/>
+					          <gap reason="lost" quantity="7" unit="character"/>
+					          <gap reason="illegible" quantity="1" unit="character"/>
+					          <gap reason="lost" quantity="5" unit="character"/>
+					          <w xml:id="tok5389">
+                  <unclear>sa</unclear>
+               </w>
+					          <w xml:id="tok5390">pāda<unclear>m</unclear>
+                  <supplied reason="lost">ū</supplied>le</w>
+					          <milestone unit="fragment" n="lost"/>
+					          <gap reason="lost" quantity="4" unit="character"/>
+				        </ab>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="1">
+						            <lem resp="Sircar">bhāradāya<unclear>sa</unclear>go<unclear>ttena</unclear>
+						            </lem>
+						            <rdg source="eiad-bibl:Rama_Rao1955c">bhārādāyasagotta</rdg>
+					          </app>
+					          <app loc="1">
+						            <lem>
+							              <gap reason="lost" quantity="4" unit="character"/>
+							              <unclear>dha</unclear>reṇa</lem>
+						            <note>One expects here a word meaning ‘king’ (‘earth-bearer’), and so
+                            restorations like <foreign xml:lang="pra-Latn">jagatīdhareṇa</foreign>,
+                                <foreign xml:lang="pra-Latn">paṭhavīdhareṇa</foreign>, etc., are
+                            imaginable, although we expect that the lost word for ‘earth’ comprised
+                            four akṣaras.</note>
+					          </app>
+					          <app loc="1">
+						            <lem resp="Sircar">palavāṇaṁ</lem>
+						            <rdg source="eiad-bibl:Rama_Rao1955c">palavānaṁ</rdg>
+					          </app>
+					          <app loc="2">
+						            <lem resp="Sircar">vaṁmaṇa</lem>
+						            <rdg source="eiad-bibl:Rama_Rao1955c">vaṁmeṇa</rdg>
+					          </app>
+					          <app loc="2">
+						            <lem>°ap<unclear>p</unclear>aṇo</lem>
+						            <note>The subscript consonant resembles a <seg type="graphemic">l</seg> but
+                            can only have been intended as a <seg type="graphemic">p</seg>.</note>
+					          </app>
+					          <app loc="2">
+						            <lem>
+							              <gap reason="illegible" quantity="1" unit="character"/>
+							              <gap reason="lost" quantity="3" unit="character"/>
+							              <unclear>lava</unclear>dhaṁṇīke</lem>
+						            <rdg source="eiad-bibl:Rama_Rao1955c">……. dhaṁṇīka</rdg>
+						            <rdg source="eiad-bibl:Sircarj">…….. <unclear>lava</unclear>rdhaṁntike</rdg>
+						            <note>Sircar suggests the text may be restored as follows: <foreign xml:lang="pra-Latn">dhaṁmabalavardhantike</foreign>. As for
+                            restoring <foreign xml:lang="pra-Latn">dhaṁmabala</foreign>, this could
+                            be supported by citing EIAD <ref target="#EIAD0140">140</ref>, l. 5–6:
+                                <foreign xml:lang="pra-Latn">°amhavejayike
+                                <unclear>dhaṁ</unclear>māyubalavadhanike ya</foreign>; EIAD <ref target="#EIAD0160">160</ref>, l. 3–4: <foreign xml:lang="pra-Latn">°appaṇo dhammāyubalavivaddhaṇatthaṁ</foreign>. But these parallels
+                            could equally support restoring <foreign xml:lang="pra-Latn">°āyubala</foreign>. There is definitely not sufficient space for
+                                <foreign xml:lang="pra-Latn">dhaṁma</foreign> and <foreign xml:lang="pra-Latn">āyu</foreign>.</note>
+					          </app>
+					          <app loc="2">
+						            <lem>saṁntisathi-</lem>
+						            <rdg source="eiad-bibl:Rama_Rao1955c">saṁntisathini</rdg>
+						            <note>As observed by <bibl>
+								                <ptr target="eiad-bibl:Sircarj"/>: <citedRange>87, 89 n.
+                                    10</citedRange>
+							              </bibl>, there are two akṣaras in later script (<foreign xml:lang="pra-Latn">niya</foreign>?) on the adjoining facet after
+                            the end of this line. The absence of distinction between the two scripts
+                            explains Seshadri Sastri’s reading.</note>
+					          </app>
+					          <app loc="3">
+						            <lem resp="Sircar">-yāyaṇaṁ</lem>
+						            <rdg source="eiad-bibl:Rama_Rao1955c">-yāyaṇo</rdg>
+					          </app>
+					          <app loc="3">
+						            <lem resp="Sircar">kātūṇa</lem>
+						            <rdg source="eiad-bibl:Rama_Rao1955c">kā<unclear>ṭhu</unclear>ṇa</rdg>
+					          </app>
+					          <app loc="3">
+						            <lem>bhaga<unclear>va</unclear>
+                     <supplied reason="lost">to siri</supplied>
+                     <unclear>jīvaś</unclear>ivasāmisa</lem>
+						            <rdg source="eiad-bibl:Rama_Rao1955c">bhaga<unclear>va</unclear> …… va sāmi
+                            se-</rdg>
+						            <rdg source="eiad-bibl:Sircarj">bhaga<unclear>vato</unclear>
+							              <supplied reason="lost">siri</supplied>
+							              <unclear>jīvaś</unclear>ivasāmisa</rdg>
+					          </app>
+					          <app loc="3–4">
+						            <lem>tethikanak<unclear>kh</unclear>attik<unclear>ā</unclear>pahārakādi</lem>
+						            <rdg source="eiad-bibl:Rama_Rao1955c">nathika kattuna hahara [ka] kati</rdg>
+						            <rdg source="eiad-bibl:Sircarj">tethik[ā]na kurttakāpahārakādi</rdg>
+						            <note>Sircar suggests to emend <foreign xml:lang="pra-Latn">-kurttakopahāra-</foreign>. Our reading is proposed here partly on
+                            the basis of the assumption that the same phrase occurs at the beginning
+                            of EIAD <ref target="#EIAD0060">60</ref> and at the end of
+                            EIAD <ref target="#EIAD0056">56</ref>.</note>
+					          </app>
+					          <app loc="4">
+						            <lem resp="Sircar">kātaṁ</lem>
+						            <rdg source="eiad-bibl:Rama_Rao1955c">kanam</rdg>
+					          </app>
+					          <app loc="4">
+						            <lem>kapa <gap reason="illegible" quantity="1" unit="character"/>
+						            </lem>
+						            <rdg source="eiad-bibl:Rama_Rao1955c">kahana</rdg>
+						            <rdg source="eiad-bibl:Sircarj">kiha.</rdg>
+						            <note>Given the likely Śaiva character of this inscription, it is tempting
+                            to restore a name like <foreign xml:lang="pra-Latn">kapaddi-</foreign>
+                            (Skt. <foreign xml:lang="san-Latn">kapardi-</foreign>).</note>
+					          </app>
+					          <app loc="4–5">
+						            <lem>bhag<unclear>g</unclear>a<milestone unit="fragment" n="lost"/>
+							              <gap reason="illegible" quantity="1" unit="character"/>
+							              <gap reason="lost" quantity="1" unit="character"/>
+						            </lem>
+						            <rdg source="eiad-bibl:Sircarj">bhaṭṭ<unclear>ā</unclear> ….</rdg>
+						            <note>We believe that the word to be restored here is <foreign xml:lang="pra-Latn">bhaggaphullasanthappa</foreign> (or an
+                            orthographic variant thereof); see EIAD <ref target="#EIAD0056">56</ref>, l. 7; <ref target="#EIAD0060">60</ref>, l. 2.</note>
+					          </app>
+					          <app loc="5">
+						            <lem>
+                     <unclear>sa</unclear> pāda<unclear>m</unclear>
+                     <supplied reason="lost">ū</supplied>le</lem>
+						            <rdg source="eiad-bibl:Rama_Rao1955c"> … padamule</rdg>
+						            <rdg source="eiad-bibl:Sircarj">
+                     <unclear>sa</unclear> pāda<unclear>mū</unclear>le</rdg>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				        <p>Success! By (king) Sīhavamma of the Pallavas, with a view to his own
+                    victoriousness and for increasing his ... and power, <foreign xml:lang="san-Latn">śānti</foreign> and <foreign xml:lang="san-Latn">svastyayana</foreign> were carried out and the <foreign xml:lang="san-Latn">taithika</foreign>, <foreign xml:lang="san-Latn">nākṣatrika</foreign> as
+                    well as as <foreign xml:lang="san-Latn">prāharika</foreign> and so forth were
+                    performed for Lord Siri-Jīvaśivasāmi ... (the repair of) what was damaged (and
+                    dilapidated) of the temple of Kapa ... at the base of ...</p>
+			      </div>
+			      <!--<div type="commentary"></div>-->
+			      <div type="bibliography">
+				        <p>First published by Seshadri Sastri in 1944 in a Telugu-language publication <!--<bibl>
+						<ptr target="eiad-bibl:Seshadri_Sastri1944"/>
+					</bibl> (in Telugu)--> and subsequently in <bibl>
+						            <ptr target="eiad-bibl:Rama_Rao1955c"/>
+					          </bibl>; edited again in <bibl>
+						            <ptr target="eiad-bibl:Sircarj"/>: <citedRange>82, 87-90</citedRange>
+					          </bibl> and <bibl>
+						            <ptr target="eiad-bibl:Sircar1965"/>
+					          </bibl>. Re-edited here from published documentation. </p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+						            <ptr target="eiad-bibl:zoteroItem_G9CH6AGA"/>
+						            <citedRange>1939-40: E.22</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Rama_Rao1955a"/>: <citedRange>51-2</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Ramesan1962"/>: <citedRange>216</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Francis2013"/>: <citedRange>258 (IR 1)</citedRange>
+					          </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

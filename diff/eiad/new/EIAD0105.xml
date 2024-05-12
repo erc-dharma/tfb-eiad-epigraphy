@@ -1,0 +1,629 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-05-04T13:35:14.205+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 105
+[2] Raghunath no.: —
+[3] Srinivasan & Sankaranarayanan no.: 
+[4] Tsukamoto no.: —
+[5] Lüders no.: 
+[6] Support : pillar
+[7] (Faces:) Lines: 19
+[8] H: 92
+[9] W: 18
+[10] D: 11
+[11] H: unavailable
+[12] W: unavailable
+[13] Language(s): MIA
+[14] Original locality: Phanigiri
+[15] Present locality: storage house in village
+[16] Primary bibliography: Subrahmanyam et al. 2008: 34-5 (4). — von Hinüber 2012; 2013.
+[17] Secondary bibliography: IAR 2003-04: 341 (2).
+[18] Visual documentation: 
+[19] Substance of inscription: Dhaṁmasena's donation
+[20] Remarks: 
+[21] : 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Pillar or doorjamb from Phanigiri</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+						            <surname>Strauch</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+						            <forename>Emmanuelle</forename>
+						            <surname>Morlock</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+						            <forename>Andrew</forename>
+						            <surname>Ollett</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0105</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths,
+							Ingo Strauch and Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons
+							Attribution 3.0 Unported License. To view a copy of
+							this license, visit
+							http://creativecommons.org/licenses/by/3.0/ or send
+							a letter to Creative Commons, 444 Castro Street,
+							Suite 900, Mountain View, California, 94041,
+							USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0105_inv-eiad">EIAD 105</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Storage house in village</repository>
+							              <idno xml:id="EIAD0105_museum-inventory">none</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle
+								Indo-Aryan, Southern Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>Fragment of a slender rectangular
+										<objectType>pillar</objectType> or <objectType>doorjamb</objectType>
+                              <!-- AG: need to encode the choice of objectType? -->;
+										<dimensions unit="cm">
+										                       <height>92</height>
+										                       <width>18</width>
+										                       <depth>11</depth>
+										                    </dimensions>. The type of object is not found as epigraphic support elsewhere in the corpus.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout writtenLines="19">19 lines.
+									<!--<dimensions unit="cm">
+										<height>unavailable</height>
+										<width>unavailable</width>
+									</dimensions>-->
+								</layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote><!-- description of decoration or iconography --></decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>Presumably installed originally at findspot.</origPlace>
+							              <origDate calendar="Julian"
+                               notBefore="0300"
+                               notAfter="0350"
+                               precision="low">No internal date, but datable on prosopographical and palaeographic grounds to the same period as EIAD <ref target="#EIAD0104.xml">104</ref>, i.e., approximately between 300 and 350 CE.<!-- CC: IAR 2003-2004 dates the inscription to the 2nd-3rd century -->
+							</origDate>
+						            </origin>
+						            <provenance type="found" notBefore="2001" notAfter="2003">
+							              <p>Discovered before 2003 at <placeName key="eiad-geo:phanigiri">Phanigiri</placeName> in the course of excavations conducted by the State Department of Archaeology and Museums over several seasons from 2001 to 2007. The precise date of discovery and location on the site are unknown.</p>
+						            </provenance>
+						            <provenance type="observed" when="2016-02">
+							              <p>Identified in the storage house of the State
+								Department of Archaeology and museums in
+								Phanigiri in February 2016.</p>
+						            </provenance>
+						            <provenance type="not-observed">
+							<!-- information about a specific, unsuccessful attempt to locate an object in a presumed or previously recorded location --></provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates>
+							<!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl>
+                           <ptr target="eiad-bibl:Hinüber2013b"/>: <citedRange>fig. 1, a–e</citedRange>;</bibl>
+								                <bibl>VT/IS 2016</bibl>
+							              </listBibl>
+                     <listBibl ana="#photo-estampage">
+	                       <bibl>
+                           <ref target="http://asi.nic.in/asi_epigraphical_sans_andhra.asp">http://asi.nic.in/asi_epigraphical_sans_andhra.asp</ref> =</bibl>
+	                       <bibl>
+                           <ptr target="eiad-bibl:Hinüber2012a"/>: <citedRange>fig. 1–4</citedRange>
+                        </bibl>
+                     </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan,
+					romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines
+				and the latest Schema version
+					<ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of
+							estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-02-25">Creation of the file - automatic
+				conversion.</change>
+			      <change who="#CC" when="2017-05-12">Merging with READ file</change>
+			      <change who="#MS" when="2017-06-03">Added listApp in apparatus and
+				organised surrogates.</change>
+			      <change who="#MS" when="2017-06-20">Modified title.</change>
+			      <change who="#MS" when="2017-07-03">Killed unwanted spaces in edition and apparatus.</change>
+			      <change who="#VT" when="2017-07-12">Modified apparatus and translation.</change>
+			      <change who="#AG" when="2017-07-13">Resolved #191; encoded placeName; changed objectType; filled in surrogates; modified apparatus.</change>
+			      <change who="#SB" when="2017-07-28">Improved translation. Fixed formatting.</change>
+			      <change who="#VT" when="2018-03-03">Note navakammika.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic url="photograph_of_text_or_monument">
+			      <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab>
+					          <lb n="1"/>
+					          <gap reason="illegible" quantity="2" unit="character"/>
+					          <milestone unit="fragment" type="lost" subtype="right"/>
+					          <gap reason="lost" extent="unknown" unit="character"/>
+					          <lb n="2"/>
+					          <w xml:id="tok4694">vinayadharena</w>
+					          <w xml:id="tok4695">dhaṁmasena</w>
+					          <w xml:id="tok4695bis">
+                  <unclear>pa</unclear>
+                  <supplied reason="lost">ti</supplied>
+                  <lb n="3" break="no"/>ṭhāpitā</w>
+					          <w xml:id="tok4698">saha</w>
+					          <w xml:id="tok4699">°apano</w>
+					          <w xml:id="tok4700">je<unclear>ṭh</unclear>abhātūhi</w>
+					          <lb n="4"/>
+					          <w xml:id="tok4701">budhisirinā</w>
+					          <w xml:id="tok4702">dhaṁmasirinā</w>
+					          <w xml:id="tok4702bis">bhātupute<lb n="5" break="no"/>
+                  <del rend="erasure">na</del>nā</w>
+					          <w xml:id="tok4705">budhinā</w>
+					          <w xml:id="tok4706">bhaginīyā</w>
+					          <w xml:id="tok4707">ca</w>
+					          <w xml:id="tok4707bis">pavajitikā<lb n="6" break="no"/>ya</w>
+					          <w xml:id="tok4710">dhaṁmasiriya</w>
+					          <w xml:id="tok4711">bhātuputihi</w>
+					          <w xml:id="tok4711bis">bādhā<lb n="7" break="no"/>ya</w>
+					          <w xml:id="tok4714">budhāya</w>
+					          <w xml:id="tok4715">ca</w>
+					          <w xml:id="tok4716">°evaṁ</w>
+					          <w xml:id="tok4717">savehi</w>
+					          <w xml:id="tok4718">nātimita<lb n="8" break="no"/>baṁdhavehi</w>
+					          <w xml:id="tok4720">sadhivihārinisavihāri<unclear>h</unclear>i</w>
+					          <lb n="9"/>
+					          <w xml:id="tok4721">°ekato</w>
+					          <w xml:id="tok4722">hotūna</w>
+					          <w xml:id="tok4723">ṭhāpitaṁ</w>
+					          <w xml:id="tok4724">sasatakālikaṁ</w>
+					          <lb n="10"/>
+					          <w xml:id="tok4725">°imaṁ</w>
+					          <w xml:id="tok4726">deyadhaṁmaṁ</w>
+					          <w xml:id="tok4727">bhadaphulasaṁṭhapasa</w>
+					          <lb n="11"/>
+					          <w xml:id="tok4728">
+                  <unclear>va</unclear>
+               </w>
+					          <w xml:id="tok4729">°anuvasikaṁ</w>
+					          <w xml:id="tok4730">ca</w>
+					          <w xml:id="tok4731">pavāraṇāmahe</w>
+					          <w xml:id="tok4731bis">pupha<lb n="12" break="no"/>chatanasa</w>
+					          <w xml:id="tok4734">kāraṇāya</w>
+					          <w xml:id="tok4735">gāvīnaṁ</w>
+					          <w xml:id="tok4735bis">diyaḍhasa<lb n="13" break="no"/>taṁ</w>
+					          <w xml:id="tok4738">tariḍelāna</w>
+					          <num xml:id="cmp71" value="150">
+						            <num xml:id="tok4739" value="100">100</num>
+						            <num xml:id="tok4740" value="50">50</num>
+					          </num>
+					          <w xml:id="tok4741">saṁpadattaṁ</w>
+					          <w xml:id="tok4742">tato</w>
+					          <w xml:id="tok4742bis">°anu<lb n="14" break="no"/>
+                  <unclear>va</unclear>sikaṁ</w>
+					          <w xml:id="tok4745">bhikhusaṁghena</w>
+					          <w xml:id="tok4746">dātavā</w>
+					          <w xml:id="tok4747">puphamolaṁ</w>
+					          <lb n="15"/>
+					          <w xml:id="tok4748">kāhāpaṇa</w>
+					          <w xml:id="tok4749">cha</w>
+					          <num xml:id="tok4750" value="6">6</num>
+					          <w xml:id="tok4751">dīvatelasa</w>
+					          <w xml:id="tok4752">ca</w>
+					          <w xml:id="tok4752bis">sāṇi<unclear>k</unclear>
+                  <supplied reason="lost">i</supplied>
+                  <lb n="16" break="no"/>yo</w>
+					          <w xml:id="tok4755">
+                  <unclear>ca</unclear>tāri</w>
+					          <w xml:id="tok4756">
+                  <add place="below">4</add>
+               </w>
+					          <w xml:id="tok4757">dātava</w>
+					          <w xml:id="tok4758">°etaṁ</w>
+					          <w xml:id="tok4759">°avisaṁvadaṁtena</w>
+					          <w xml:id="tok4759bis">°a<unclear>n</unclear>u<lb n="17" break="no"/>vaṭetavaṁ</w>
+					          <w xml:id="tok4762">°etaṁ</w>
+					          <w xml:id="tok4763">ca</w>
+					          <w xml:id="tok4764">mahānavakaṁmikena</w>
+					          <w xml:id="tok4765">mahā<lb n="18" break="no"/> 
+                  <gap reason="lost" quantity="3" unit="character"/>
+                  <milestone unit="fragment" type="lost" subtype="left"/>
+                  <unclear>k</unclear>ena</w>
+					          <w xml:id="tok4770">°ācariyabudhisirina</w>
+					          <w xml:id="tok4771">puraṁ</w>
+					          <lb n="19"/>
+					          <gap reason="lost" quantity="7" unit="character"/>
+					          <milestone unit="fragment" type="lost" subtype="left"/>
+					          <gap reason="illegible" quantity="2" unit="character"/>
+					          <w xml:id="tok4782">bhagavato</w>
+					          <w xml:id="tok4783">sākanibaṁdha</w>
+					          <w xml:id="tok4784">ti</w>
+				        </ab>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="1">
+						            <lem>
+                     <gap reason="illegible" quantity="2" unit="character"/>
+                  </lem>
+						            <rdg source="eiad-bibl:Hinüber2012a">p<gap reason="illegible" quantity="1" unit="aksarapart"/>/l<gap reason="illegible" quantity="1" unit="aksarapart"/>/h<gap reason="illegible" quantity="1" unit="aksarapart"/> gh<gap reason="illegible" quantity="1" unit="aksarapart"/> p<gap reason="illegible" quantity="1" unit="aksarapart"/>/l<gap reason="illegible" quantity="1" unit="aksarapart"/>/h<gap reason="illegible" quantity="1" unit="aksarapart"/>
+						            </rdg>
+						            <rdg source="eiad-bibl:Hinüber2013b">p<gap reason="illegible" quantity="1" unit="aksarapart"/>/l<gap reason="illegible" quantity="1" unit="aksarapart"/>/h<gap reason="illegible" quantity="1" unit="aksarapart"/>
+							              <gap reason="lost" quantity="3" unit="character"/>
+								p<gap reason="illegible" quantity="1" unit="aksarapart"/>/l<gap reason="illegible" quantity="1" unit="aksarapart"/>/h<gap reason="illegible" quantity="1" unit="aksarapart"/>
+						            </rdg>
+					          </app>
+					          <app loc="2">
+						            <lem>
+                     <unclear>pa</unclear>
+                     <supplied reason="lost">ti</supplied>-</lem>
+						            <rdg source="eiad-bibl:Hinüber2013b">
+                     <supplied reason="lost">pati</supplied>-</rdg>
+						            <rdg source="eiad-bibl:Hinüber2012a">
+							              <gap reason="lost" quantity="2" unit="character"/>
+						            </rdg>
+					          </app>
+					          <app loc="4">
+						            <lem>bhātūpute<del rend="erasure">na</del>nā</lem>
+						            <rdg source="eiad-bibl:Hinüber2012a">bhātuputena
+								<supplied reason="lost">n</supplied>ā</rdg>
+						            <rdg source="eiad-bibl:Hinüber2013b">bhātuputena
+								<supplied reason="lost">n</supplied>ā</rdg>
+						            <note>Inspection of the stone shows that the akṣara <seg type="graphemic">tu</seg> is not the same as
+								<seg type="graphemic">tū</seg> in l. 3 <foreign xml:lang="pra-Latn">-bhātūhi</foreign>. We
+							presume ending <seg type="graphemic">-nā</seg> is analogous
+							 to <foreign xml:lang="pra-Latn">-sirinā</foreign>.</note>
+					          </app>
+					          <app loc="5">
+						            <lem>bhaginīyā</lem>
+						            <rdg source="eiad-bibl:Hinüber2012a">bhagīnīyā</rdg>
+						            <rdg source="eiad-bibl:Hinüber2013b">bhagīnīyā</rdg>
+					          </app>
+					          <app loc="5–6">
+						            <lem source="eiad-bibl:Hinüber2013b">pavajitikāya</lem>
+						            <rdg source="eiad-bibl:Hinüber2012a">pāvajitikāya</rdg>
+					          </app>
+					          <app loc="6">
+						            <lem>dhaṁmasiriya</lem>
+						            <rdg source="eiad-bibl:Hinüber2012a">dha<unclear>ṁ</unclear>masiri ca</rdg>
+						            <rdg source="eiad-bibl:Hinüber2013b">dhaṁmasiri ca</rdg>
+					          </app>
+					          <app loc="6–7">
+						            <lem>bādhāya</lem>
+						            <rdg source="eiad-bibl:Hinüber2012a eiad-bibl:Hinüber2013b">bodhāya</rdg>
+						            <note>Von Hinüber’s reading was a silent emendation, since there is no e-mātrā. Emend accordingly.</note>
+					          </app>
+					          <app loc="8">
+						            <lem>-vihāri<unclear>h</unclear>i</lem>
+						            <rdg source="eiad-bibl:Hinüber2012a">-vihāribhi</rdg>
+						            <rdg source="eiad-bibl:Hinüber2013b">-vihāri<unclear>bhi</unclear>i</rdg>
+					          </app>
+					          <app loc="9">
+						            <lem>hotūna</lem>
+						            <rdg source="eiad-bibl:Hinüber2012a">hātūna</rdg>
+						            <rdg source="eiad-bibl:Hinüber2013b">h<unclear>ā</unclear>t<unclear>ū</unclear>na</rdg>
+						            <note>Our reading, checked on the stone, is confirmed by
+							our new reading <foreign xml:lang="pra-Latn">°ekat<unclear>o</unclear>
+									h<unclear>o</unclear>tuṇa</foreign> in EIAD
+								<ref target="#EIAD0003">3</ref>, l. 4.</note>
+					          </app>
+					          <app loc="10">
+						            <lem>bhada<unclear>ph</unclear>ulasaṁṭhapasa</lem>
+						            <rdg source="eiad-bibl:Hinüber2012a">bha<unclear>sa</unclear>khulasaṁṭhapasa</rdg>
+						            <rdg source="eiad-bibl:Hinüber2013b">bhaṁḍaphulasaṁṭhapasa</rdg>
+						            <note>Compare EIAD 
+<ref target="#EIAD0055">55</ref>, l. 6–7: <foreign xml:lang="pra-Latn">khaṇḍapullasaṇṭhappasa</foreign>,
+<ref target="#EIAD0056">56</ref>, l. 7: <foreign xml:lang="pra-Latn">bhagaphulasa<unclear>ṁ</unclear>ṭhapa</foreign> and especially
+							<ref target="#EIAD0060">60</ref>, l. 2: <foreign xml:lang="pra-Latn">bhaḍaphulasaṁṭhapasa</foreign>. See also <bibl>
+                        <ptr target="eiad-bibl:Hinüber2013c"/>
+                     </bibl>.</note>
+					          </app>
+					          <app loc="11">
+						            <lem>
+                     <unclear>va</unclear> °anuvasikaṁ</lem>
+						            <rdg source="eiad-bibl:Hinüber2012a">ca
+							°anuvasikaṁ</rdg>
+						            <rdg source="eiad-bibl:Hinüber2013b">ca
+							°anuvasikaṁ</rdg>
+					          </app>
+					          <app loc="11">
+						            <lem source="eiad-bibl:Hinüber2013b">pavāraṇāmahe</lem>
+						            <rdg source="eiad-bibl:Hinüber2012a">pavāraṇāmaha</rdg>
+					          </app>
+					          <app loc="13">
+						            <lem>tariḍelāna</lem>
+						            <rdg source="eiad-bibl:Hinüber2012a">tariḍelānaṁ</rdg>
+						            <rdg source="eiad-bibl:Hinüber2013b">tariḍelānaṁ</rdg>
+					          </app>
+					          <app loc="13–14">
+						            <lem>°anu<unclear>va</unclear>sikaṁ</lem>
+						            <rdg source="eiad-bibl:Hinüber2012a">°anuvassikaṁ</rdg>
+						            <rdg source="eiad-bibl:Hinüber2013b">°anu<unclear>va</unclear>ssikaṁ</rdg>
+					          </app>
+					          <app loc="14">
+						            <lem>bhikhusaṁghena</lem>
+						            <rdg source="eiad-bibl:Hinüber2012a">bhikhusaṁghana</rdg>
+						            <rdg source="eiad-bibl:Hinüber2013b">bhikhusaṁghe<unclear>na</unclear>
+                  </rdg>
+					          </app>
+					          <app loc="14">
+						            <lem source="eiad-bibl:Hinüber2013b">puphamolaṁ</lem>
+						            <rdg source="eiad-bibl:Hinüber2012a">puphamevaṁ</rdg>
+					          </app>
+					          <app loc="15">
+						            <lem source="eiad-bibl:Hinüber2013b">kāhāpaṇa cha</lem>
+						            <rdg source="eiad-bibl:Hinüber2012a">kāhāpaṇa va</rdg>
+					          </app>
+					          <app loc="15">
+						            <lem>dīvatelasa</lem>
+						            <rdg source="eiad-bibl:Hinüber2012a">dīpatelasa</rdg>
+						            <rdg source="eiad-bibl:Hinüber2013b">dīpatelasa</rdg>
+					          </app>
+					          <app loc="15–16">
+						            <lem>sāṇi<unclear>k</unclear>
+                     <supplied reason="lost">i</supplied>yo <add place="below">4</add>
+                  </lem>
+						            <rdg source="eiad-bibl:Hinüber2012a">sāṇi<unclear>kā</unclear>yo</rdg>
+						            <rdg source="eiad-bibl:Hinüber2013b">sāṇi<unclear>kā</unclear>yo</rdg>
+					          </app>
+					          <app loc="16">
+						            <lem>
+                     <unclear>ca</unclear>tāri <add place="below">4</add> dātava</lem>
+						            <rdg source="eiad-bibl:Hinüber2012a">ca
+								<unclear>sitavata</unclear>
+						            </rdg>
+						            <rdg source="eiad-bibl:Hinüber2013b">paridātava</rdg>
+						            <note>The edition
+							<bibl>
+								                <ptr target="eiad-bibl:Hinüber2013b"/>
+							              </bibl> indicated that the number <num>4</num> has been added below the
+							line.</note>
+					          </app>
+					          <app loc="16">
+						            <lem source="eiad-bibl:Hinüber2013b">°etaṁ °avisaṁvadaṁtena</lem>
+						            <rdg source="eiad-bibl:Hinüber2012a">ca taṁ °anisa<unclear>ṁ</unclear> va<unclear>ḍ</unclear>aṁtena</rdg>
+					          </app>
+					          <app loc="16–17">
+						            <lem source="eiad-bibl:Hinüber2013b">°anuvaṭetavaṁ</lem>
+						            <rdg source="eiad-bibl:Hinüber2012a">°anuvaṭetava</rdg>
+					          </app>
+					          <app loc="18">
+						            <lem>°ācariyabudhisirina</lem>
+						            <rdg source="eiad-bibl:Hinüber2012a eiad-bibl:Hinüber2013b">°acariya budhisirin<unclear>ā</unclear>
+                  </rdg>
+					          </app>
+					          <app loc="18">
+						            <lem>puraṁ</lem>
+						            <rdg source="eiad-bibl:Hinüber2012a">pu <gap reason="lost" quantity="1" unit="character"/>
+						            </rdg>
+						            <rdg source="eiad-bibl:Hinüber2013b">purā</rdg>
+					          </app>
+					          <app loc="19">
+						            <lem>
+                     <gap reason="illegible" quantity="2" unit="character"/>
+						            </lem>
+						            <rdg source="eiad-bibl:Hinüber2012a">
+							              <gap reason="lost" quantity="1" unit="character"/>
+							              <unclear>ma</unclear>
+						            </rdg>
+						            <rdg source="eiad-bibl:Hinüber2013b">
+							              <gap reason="lost" quantity="2" unit="character"/>
+						            </rdg>
+					          </app>
+					          <app loc="19">
+						            <lem>sākanibaṁdha ti</lem>
+						            <rdg source="eiad-bibl:Hinüber2012a">sākani baṁdhan<unclear>ā</unclear>
+                  </rdg>
+						            <rdg source="eiad-bibl:Hinüber2013b">sākanibaṁdhani</rdg>
+						            <note>In <bibl>
+                        <ptr target="eiad-bibl:Hinüber2012a"/>
+                     </bibl>, a 20th line is assumed with a single akṣara <foreign>
+                        <unclear>ni</unclear>
+                     </foreign>; in <bibl>
+                        <ptr target="eiad-bibl:Hinüber2013b"/>
+                     </bibl>, a full 20th line is assumed without readable signs. We do not expect there was any further line after 19.</note>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				        <p>
+               <seg type="translatedlines">(1–10)</seg> ... are established by the <foreign xml:lang="pra-Latn">vinayadhara</foreign> Dhaṁmasena, together with his
+					elder brothers Budhisiri (and) Dhammasiri, the brother’s
+					son Budhi, and the sister, who has gone forth, Dhammasiri
+						(<foreign xml:lang="san-Latn">Dharmaśrī</foreign>),  (and) the
+					brothers’ daughters Bādhā and Budhā — thus being united with all kinsmen,
+					friends and relatives, living together (with him or)
+					separately, (they) established this pious gift
+					as eternal. 
+					</p>
+				        <p>
+               <seg type="translatedlines">(10–19)</seg> For the repair of broken and shattered (parts)
+					and for the preparation of a flower canopy, annually at the
+					Pavāraṇā festival, one hundred fifty — 150 — <foreign xml:lang="pra-Latn">tariḍela</foreign> cows are given.
+					From that the monks’ order must give <!--KM notes: should be emended saṃghāna, “the monk's order is to be given...” parallels to follow --> 
+			annually — 6 —
+						<foreign xml:lang="pra-Latn">kāhāpaṇas</foreign> as
+					price for flowers, and four — 4 — <foreign xml:lang="pra-Latn">sāṇikis</foreign> (<foreign xml:lang="san-Latn">śāṇikā</foreign>) of lamp oil. This
+					has to be carried without raising any objections. And this
+					is (approved) by the Great (or: Head?) <foreign xml:lang="pra-Latn">navakammika</foreign> (<foreign xml:lang="san-Latn">navakarmika</foreign>), the Great (...) Master Budhisiri ... the own property
+						(<foreign xml:lang="pra-Latn">svakanibandha</foreign>) of
+					the Bhagavant.</p>
+			      </div>
+			      <div type="commentary">
+				        <listApp>
+               <app loc="2">
+                  <lem>dhaṁmasena</lem>
+                  <note>We assume this name designates the same person as the one figuring in EIAD <ref target="#EIAD0104">104</ref>.</note>
+               </app>
+					          <app loc="12">
+						            <lem>-chatanasa kāraṇāya</lem>
+						            <note>On <foreign xml:lang="pra-Latn">chatana</foreign>,
+							see <bibl>
+                        <ptr target="eiad-bibl:Hinüber2012a"/>: <citedRange>8</citedRange>
+							              </bibl>.</note>
+					          </app>
+					          <app loc="17">
+						            <lem>mahānavakaṁmikena</lem>
+					             <note>
+					On the title <foreign xml:lang="pra-Latn">mahānavakammika</foreign>, also occurring in EIAD 391<!-- link to be added-->, l. 1, see <bibl>
+                        <ptr target="eiad-bibl:Silk"/>: <citedRange>94</citedRange>
+                     </bibl>; Kieffer-Pülz 2010: 78<!-- link to be added-->. The latter suggests that <quote>Possibly the term <foreign xml:lang="pra-Latn">mahānavakamaka</foreign> ... is used in the sense ‘head <foreign xml:lang="pra-Latn">navakamaka</foreign>’, and developed as a consequence of this specialization to distinguish him from <foreign xml:lang="pra-Latn">navakarmika</foreign>s who were only responsible for parts of larger constructions (??).</quote>
+					                <!-- Von Hinüber’s editions add a 20th line
+							reading only <seg type="graphemic">
+								<unclear>ni</unclear>
+							</seg> in 2012, and filled with <gap reason="lost"
+								quantity="1" unit="character"/> in 2013 -->
+				              </note>
+				           </app>
+				        </listApp>
+			      </div>
+			      <div type="bibliography">
+				        <p>First edited by <bibl>
+                  <ptr target="eiad-bibl:Chenna_Reddy2008"/>: <citedRange>34-5
+							(4)</citedRange>
+					          </bibl> followed by <bibl>
+						            <ptr target="eiad-bibl:Hinüber2012a"/>
+					          </bibl> and <bibl>
+						            <ptr target="eiad-bibl:Hinüber2013b"/>
+					          </bibl>. Re-edited here from published documentation and
+					after autopsy of the stone.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+						            <ptr target="eiad-bibl:zoteroItem_R4S8D3K2"/>
+						            <citedRange>2002-03: 16</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:zoteroItem_R4S8D3K2"/>
+						            <citedRange>2003-04: 341 (2)</citedRange>
+					          </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

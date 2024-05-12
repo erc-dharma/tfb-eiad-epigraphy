@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-03-29T17:32:11.51+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 53
+[2] Raghunath no.: 36
+[3] Srinivasan & Sankaranarayanan no.: 44
+[4] Tsukamoto no.: —
+[5] Lüders no.: 
+[6] Support : octagonal pillar (dhvajastambha), bottom part
+[7] (Faces:) Lines: 11
+[8] H: 325
+[9] W: 40
+[10] D: 38
+[11] H: 88
+[12] W: 67
+[13] Language(s): Sanskrit
+[14] Original locality: Nagarjunakonda Site-34, Puṣpabhadrasvāmin temple
+[15] Present locality: NM 77
+[16] Primary bibliography: Sircar & Krishnan 1960-61: 17-20.
+[17] Secondary bibliography: ARIE 1957-58: 3-4, B.4. — Raghunath 2001: 148-9 (36).
+[18] Visual documentation: Sircar & Krishnan; Raghunath
+[19] Substance of inscription: 
+[20] Remarks: text extends over 4 facets of 8; the pillar is not four-faced, as stated in publication, and what was published as l. 12 actually stands on same line as 11, after large gap.
+[21] : 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Octagonal pillar from site 34 at Nagarjunakonda — reign of
+					Siri-Ehavalacāntamūla, year 16</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+						            <surname>Strauch</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+						            <forename>Emmanuelle</forename>
+						            <surname>Morlock</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+						            <forename>Andrew</forename>
+						            <surname>Ollett</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0053</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths, Ingo Strauch and
+							Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons Attribution 3.0 Unported
+							License. To view a copy of this license, visit
+							http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative
+							Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041,
+							USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).--></note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0053_inv-eiad" type="inv-eiad">EIAD 53</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Nagarjunakonda Museum</repository>
+							              <idno xml:id="EIAD0053_museum-inventory">77</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="san-Brah">Sanskrit language, Southern
+								Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>Bottom part of an octagonal <objectType> pillar</objectType>
+											(<foreign xml:lang="san-Latn">dhvajastambha</foreign>);
+											<dimensions unit="cm">
+											                      <height>325</height>
+											                      <width>40</width>
+											                      <depth>38</depth>
+										                    </dimensions>.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout>
+									                  <p>The text extends over four facets of the octagonal pillar
+										(whose description as four-faced by <bibl>
+											                      <ptr target="eiad-bibl:Sircard"/>:
+												<citedRange>17</citedRange>
+										                    </bibl> is incorrect). The additional textpart that has been
+										published as l. 12 actually stands on the same line as 11,
+										after a large blank corresponding to most of the first and
+										all of the second facet.</p>
+									                  <dimensions unit="cm">
+										                    <height>88</height>
+										                    <width>67</width>
+									                  </dimensions>
+								                </layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote>The additional textpart <cit>
+									                  <quote>seems to have been engraved by a different hand at a
+										slightly later date</quote>
+									                  <bibl>
+                              <ptr target="eiad-bibl:Sircard"/>:
+											<citedRange>17</citedRange>
+                           </bibl>
+                        </cit>.</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote><!-- description of decoration or iconography --></decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>Erected originally at findspot.</origPlace>
+							              <origDate calendar="Julian"
+                               notBefore="0250"
+                               notAfter="0300"
+                               precision="medium">Sixteenth regnal year of Siri-Ehavalacāntamūla, i.e.,
+								approximately between 250 and 300 CE.</origDate>
+						            </origin>
+						            <provenance type="found" notBefore="1954" notAfter="1957">
+							              <p>Discovered during excavations in the 1956-57 season at <placeName key="eiad-geo:NK034">Nagarjunakonda, Site 34</placeName>.</p>
+						            </provenance>
+						            <provenance type="observed" when="2016-02">
+							              <p>Identified at Nagarjunakonda Museum (acc. no. 77) in February
+								2016.</p>
+						            </provenance>
+						            <provenance type="not-observed">
+							<!-- information about a specific, unsuccessful attempt to locate an object in a presumed or previously recorded location --></provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates><!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl>photos AL 2017</bibl>
+								                <bibl>photos JM 2017</bibl>
+							              </listBibl>
+							              <listBibl ana="#photo-estampage">
+								                <bibl>IAR 1956-57: pl. LVIII</bibl>
+								                <bibl>Sircar &amp; Krishnan</bibl>
+								                <bibl>Raghunath</bibl>
+								                <bibl>Soundara Rajan, pl. LXXXIX (B)</bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="san-Latn">Sanskrit language, romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines and the latest
+				Schema version <ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-02-25">Creation of the file - automatic
+				conversion.</change>
+			      <change who="#MS" when="2017-04-15">Merging with READ data.</change>
+			      <change who="#AG" when="2017-04-22">Corrected previous work by MS, inserted
+				comments.</change>
+			      <change who="#AG" when="2017-05-13">Added xml:lang="san-Latn"</change>
+			      <change who="#AG" when="2017-05-25">Added Soundara Rajan to sec. bibl.</change>
+			      <change who="#MS" when="2017-06-03">Organised surrogates.</change>
+			      <change who="#MS" when="2017-06-20">Modified title.</change>
+			      <change who="#MS" when="2017-06-20">Modified translation and commentary.</change>
+			      <change who="#AG" when="2017-07-05">Encoded placeName; resolved #154.</change>
+			      <change who="#SB" when="2017-07-28">Improved translation..</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic xml:id="EIAD0053_image-general" url="EIAD0053_0.jpg" n="1">
+			      <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+		    </graphic>
+		    <graphic xml:id="EIAD0053_image-est-Sircar" url="EIAD0053_1.jpg" n="2">
+			      <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+		    </graphic>
+      <!-- images : illustrations for the edition (not just surrogates) --> 
+      <!--perhaps scan instead Soundara
+				Rajan 2006, pl. LXXXIX (B) and replace-->
+		    <graphic xml:id="EIAD0053_image-text-1" url="EIAD0053_2.jpg" n="3">
+			      <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+		    </graphic>
+		    <graphic xml:id="EIAD0053_image-text-2" url="EIAD0053_3.jpg" n="4">
+			      <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+		    </graphic>
+		    <graphic xml:id="EIAD0053_image-text-3" url="EIAD0053_4.jpg" n="5">
+			      <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+		    </graphic>
+		    <graphic xml:id="EIAD0053_image-text-4" url="EIAD0053_5.jpg" n="6">
+			      <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="san-Latn">
+				        <div type="textpart" n="Main">
+					          <ab>
+						            <lb n="1"/>
+						            <w xml:id="tok2927">siddhaṁ</w>
+						            <pc>||</pc>
+						            <pc>–</pc>
+						            <w xml:id="tok2930">namo</w>
+						            <w xml:id="tok2931">bhagavate</w>
+						            <space type="horizontal" quantity="1" unit="character"/>
+						            <w xml:id="tok2933">mahādevasya</w>
+						            <w xml:id="tok2934">puppabhaddrasvāminaḥ</w>
+						            <w xml:id="tok2935">mahārājasya</w>
+						            <w xml:id="tok2936">vāsiṣṭhīputtrasya</w>
+						            <lb n="2"/>
+						            <w xml:id="tok2937">śryehavalacaṁtamūlasya</w>
+						            <w xml:id="tok2938">saṁva</w>
+						            <num xml:id="tok2939" value="16">
+							              <num value="10">10</num>
+							              <num value="6">6</num>
+						            </num>
+						            <w xml:id="tok2941">gipa</w>
+						            <num xml:id="tok2942" value="2">2</num>
+						            <!-- AG: number is strangely shaped. Cf. sign in EIAD 56, l. 2? Add <unclear>? -->
+						            <w xml:id="tok2943">diva</w>
+						            <num xml:id="tok2944" value="5">5</num>
+						            <w xml:id="tok2945">rājño</w>
+						            <w xml:id="tok2946">vāsiṣṭhīputrasya</w>
+						            <w xml:id="tok2947">°agniṣṭo<surplus>ḥ</surplus>ma<lb break="no" n="3"/>vājaveyāśvamedhabahusuvarṇṇakayājinaḥ</w>
+						            <w xml:id="tok2948">naikahiraṁṇyakoṭipradātuḥ</w>
+						            <w xml:id="tok2949">gośatasahasrahalaśatasahasrapradātu</w>
+						            <lb n="4"/>
+						            <w xml:id="tok2950">svavīryyārjjitavijayakīrtteḥ</w>
+						            <w xml:id="tok2951">°ikṣvākūṇāṁ</w>
+						            <w xml:id="tok2952">śrīcaṁtamūlasya</w>
+						            <w xml:id="tok2953">prapautrenā</w>
+						            <w xml:id="tok2954">mahārājyasya</w>
+						            <w xml:id="tok2955">māṭharīputtrasya</w>
+						            <w xml:id="tok2956">°ikṣvākūnāṁ</w>
+						            <w xml:id="tok2957">śrīvīrapuruṣadattasya</w>
+						            <lb n="5"/>
+						            <w xml:id="tok2958">pauttreṇa</w>
+						            <space type="horizontal" quantity="1" unit="character"/>
+						            <w xml:id="tok2960">mahārājasya</w>
+						            <space type="horizontal" quantity="1" unit="character"/>
+						            <w xml:id="tok2962">sagaradilīpāṁbarīṣayudhiṣṭhiratulyadharmmavijayasya</w>
+						            <w xml:id="tok2963">rāmasyeva</w>
+						            <w xml:id="tok2964">sarvvajanābhirāmasya</w>
+						            <w xml:id="tok2965">°ikṣvākūnāṁ</w>
+						            <lb n="6"/>
+						            <w xml:id="tok2966">śryīhavalacaṁtamūlasya</w>
+						            <space type="horizontal" quantity="1" unit="character"/>
+						            <w xml:id="tok2968">puttreṇa</w>
+						            <w xml:id="tok2969">puṣyakaṁdīyānāṁ</w>
+						            <w xml:id="tok2970">mahātalavarasya</w>
+						            <w xml:id="tok2971">skaṁdagopasya</w>
+						            <w xml:id="tok2972">naptryāḥ</w>
+						            <w xml:id="tok2973">mahātalavarasya</w>
+						            <lb n="7"/>
+						            <w xml:id="tok2974">khaṁdahālasya</w>
+						            <w xml:id="tok2975">duhituḥ</w>
+						            <w xml:id="tok2976">sesebamāgūrakadauhitryāḥ</w>
+						            <w xml:id="tok2977">°utaramahātalavarabhāgineyyāḥ</w>
+						            <w xml:id="tok2978">rājñaḥ</w>
+						            <w xml:id="tok2979">śryehavalacatam<unclear>ū</unclear>lasya</w>
+						            <lb n="8"/>
+						            <w xml:id="tok2980">mahiṣyāḥ</w>
+						            <space type="horizontal" quantity="1" unit="character"/>
+						            <w xml:id="tok2982">mahādevyāḥ</w>
+						            <w xml:id="tok2983">kupaṇaśryāḥ</w>
+						            <w xml:id="tok2984">puttreṇa</w>
+						            <space type="horizontal" quantity="1" unit="character"/>
+						            <w xml:id="tok2986">maharājakumāreṇa</w>
+						            <w xml:id="tok2987">mahāsenāpatinā</w>
+						            <w xml:id="tok2988">hāritīputreṇa</w>
+						            <space type="horizontal" quantity="1" unit="character"/>
+						            <w xml:id="tok2990">°ikṣvākūṇāṁ</w>
+						            <lb n="9"/>
+						            <w xml:id="tok2991">śrīvīrapuruṣadattena</w>
+						            <w xml:id="tok2992">mahārājasya</w>
+						            <space type="horizontal" quantity="1" unit="character"/>
+						            <w xml:id="tok2994">mahādevyā</w>
+						            <w xml:id="tok2995">gottrasya</w>
+						            <w xml:id="tok2996">ca</w>
+						            <w xml:id="tok2997">
+							              <supplied reason="lost">v</supplied>ijayavaijayike</w>
+						            <w xml:id="tok2998">°āyurvvarddhane</w>
+						            <space type="horizontal" quantity="1" unit="character"/>
+						            <w xml:id="tok3000">dvayor</w>
+						            <w xml:id="tok3001">api</w>
+						            <w xml:id="tok3002">ca</w>
+						            <w xml:id="tok3003">mātāputrayo</w>
+						            <lb n="10"/>
+						            <w xml:id="tok3004">dharmmaphalaṁ</w>
+						            <w xml:id="tok3005">bhagavato</w>
+						            <w xml:id="tok3006">puṣpabhadrasvāminaḥ</w>
+						            <w xml:id="tok3007">devakulaṁ</w>
+						            <w xml:id="tok3008">kāritaṁ</w>
+						            <space type="horizontal" quantity="1" unit="character"/>
+						            <w xml:id="tok3010">dhvajastaṁbaś</w>
+						            <w xml:id="tok3011">ca</w>
+						            <w xml:id="tok3012">pratiṣṭhāpitaḥ</w>
+						            <w xml:id="tok3013">grāmaś</w>
+						            <w xml:id="tok3014">ca</w>
+						            <w xml:id="tok3015">puḍokeḍaṁ</w>
+						            <w xml:id="tok3016">°akṣayanivī</w>
+						            <lb n="11"/>
+						            <w xml:id="tok3017">dattaḥ</w>
+						            <space type="horizontal" quantity="1" unit="character"/>
+						         </ab>
+				        </div>
+				        <div type="textpart" n="Addition">
+					          <ab xml:lang="san-Latn">
+						<!--<space type="horizontal" quantity="1" unit="character"/>
+                    <space type="horizontal" extent="unknown" unit="character"/>-->
+						            <w xml:id="tok3019">śrīkākahalakākacaṁdraś</w>
+						            <w xml:id="tok3020">ca</w>
+						            <w xml:id="tok3021">bho</w>
+						            <g type="flourish"/>
+					          </ab>
+				        </div>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="1">
+						            <lem>puppa-</lem>
+						            <note>The engraver forgot to engrave the horizontal line in the middle of
+							the upper element, that would have made it <seg type="graphemic">ṣ</seg>-. In light of l. 10, correct <foreign xml:lang="san-Latn">puṣpa</foreign>-.</note>
+					          </app>
+					          <app loc="2">
+						            <note>
+							              <bibl>
+                        <ptr target="eiad-bibl:Sircard"/>
+                     </bibl> note: <quote>The additional mark above
+								the letter [E in Ehavala]
+								may be ignored or the vowel-mark may be regarded as an imperfect
+								sign for medial <hi rend="italic">ai</hi>.</quote>
+						            </note>
+					          </app>
+					          <app loc="3">
+						            <lem>pradātu</lem>
+						            <rdg source="eiad-bibl:Sircard">pradātu<unclear>ḥ</unclear>
+						            </rdg>
+						            <note>Understand <foreign xml:lang="san-Latn">pradātuḥ</foreign>.</note>
+					          </app>
+					          <app loc="4">
+						            <lem>-kīrtteḥ</lem>
+						            <note>e-mātras are attached both to repha and to serif of <seg type="graphemic">t</seg>.</note>
+					          </app>
+					          <app loc="4">
+						            <lem>prapautrenā</lem>
+						            <note>Understand <foreign xml:lang="san-Latn">prapautreṇa</foreign>, taking
+							into consideration the easy confusion between <seg type="graphemic">nā</seg> and <seg type="graphemic">ṇa</seg>.</note>
+					          </app>
+					          <app loc="4">
+						            <lem>mahārājyasya</lem>
+						            <note>Emend <foreign xml:lang="san-Latn">mahārājasya</foreign>.</note>
+					          </app>
+					          <app loc="4">
+						            <lem>°ikṣvākūnāṁ</lem>
+						            <note>Emend <foreign xml:lang="san-Latn">°ikṣvākūṇāṁ</foreign>.</note>
+					          </app>
+					          <app loc="5">
+						            <lem>°ikṣvākūnāṁ</lem>
+						            <note>Emend <foreign xml:lang="san-Latn">°ikṣvākūṇāṁ</foreign>.</note>
+					          </app>
+					          <app loc="6">
+						            <lem>śryīhavala-</lem>
+						            <note>Emend <foreign xml:lang="san-Latn">śryehavala-</foreign>.</note>
+					          </app>
+					          <app loc="7">
+						            <lem>-catamūlasya</lem>
+						            <note>Correct <foreign xml:lang="san-Latn">-caṁtamūlasya</foreign>. We do
+							not see the anusvāra read by <bibl>
+                        <ptr target="eiad-bibl:Sircard"/>
+                     </bibl>.</note>
+					          </app>
+					          <app loc="7">
+						            <lem>-gūraka-</lem>
+						            <rdg source="eiad-bibl:Sircard">-gūruka-</rdg>
+						            <note>The apparent stroke to the right, upon closer inspection, is an
+							unevenness in the stone.</note>
+					          </app>
+					          <app loc="8">
+						            <lem>kupaṇaśryāḥ</lem>
+						            <note>Understand <foreign xml:lang="san-Latn">kr̥paṇaśriyāḥ.</foreign>
+						            </note>
+					          </app>
+					          <app loc="9">
+						            <lem>mātāputrayo</lem>
+						            <note>Emend <foreign xml:lang="san-Latn">mātāpitrayoḥ</foreign>.</note>
+					          </app>
+					          <app loc="10">
+						            <lem>-staṁbaś</lem>
+						            <note>Emend <foreign xml:lang="san-Latn">-staṁbhaś.</foreign>
+						            </note>
+					          </app>
+					          <app loc="10">
+						            <lem>°akṣayanivī</lem>
+						            <note>Emend <foreign xml:lang="san-Latn">°akṣayanīvī</foreign>.</note>
+					          </app>
+					          <app loc="11">
+						            <lem>śrīkākahalakākacaṁdraś ca bho <g type="flourish"/>
+						            </lem>
+						            <rdg source="eiad-bibl:Sircard">kaṁkaphala kaṁkacaṁdraś ca bho</rdg>
+						            <note>
+							              <bibl>
+                        <ptr target="eiad-bibl:Sircard"/>
+                     </bibl> note on this segment: <quote>The
+								contraction <hi rend="italic">bho</hi> seems to stand for a word
+								like <hi rend="italic">bhogikau</hi> or <hi rend="italic">bhojakau</hi>. The first part of the two personal names may
+								possibly be <hi rend="italic">kāka</hi> also. The form of the <hi rend="italic">akshara</hi> read <hi rend="italic">pha</hi> in
+								the first name is not regular for the period and may be also
+								regarded as an irregularly shaped <hi rend="italic">pā</hi>.</quote>
+							The final flourish consists of three dots arranged in a circle.</note>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				        <p>
+               <seg type="translatedlines">(1–2)</seg> Success! Homage to the Bhagavant, the Mahādeva Puṣpabhadrasvāmin. In year 16 of
+					Great King Vāsiṣṭhīputra Śrī-Ehavalacāntamūla, in the 2nd fortnight of summer,
+					on the 5th day. </p>
+				        <p>
+               <seg type="translatedlines">(2–11)</seg> The Great Crown-Prince, Great General Hāritīputra
+					Śrī-Vīrapuruṣadatta of the Ikṣvākus — great-grandson of the king Vāsiṣṭhīputra
+					Śrī-Cāntamūla of the Ikṣvākus, sacrificer of Agniṣṭomas, Vājapeyas, Aśvamedhas
+					and Bahusuvarṇakas, giver of many tens of millions of (pieces of) gold,
+					giver of hundreds of thousands of cows and hundreds of thousands of plows (of
+					land), who obtained the fame of victory by his heroism (<foreign xml:lang="san-Latn">vīrya</foreign>); grandson of Great King Māṭharīputra
+					Śrī-Vīrapuruṣadatta of the Ikṣvākus; son of Great King Śrī-Ehavalacāntamūla of
+					the Ikṣvākus, whose victories of Dharma resemble (those of) Sagara, Dilīpa,
+					Ambarīṣa and Yudhiṣṭhira, who delights all people like Rāma; son of Queen
+					Kr̥paṇaśrī, granddaughter of the Great Talavara Skandagopa of the
+					Puṣyakandīyas, daughter of the Great Talavara Khandahāla, maternal
+					granddaughter of Sesebamāguraka, maternal niece of the Great Talavara Utara,
+					chief queen of King Śrī-Ehavalacāntamūla — caused to be made (this) temple (<foreign xml:lang="san-Latn">devakula</foreign>) of the Bhagavant Puṣpabhadrasvāmin, established a
+					flagstaff and gave as perpetual endowment (<foreign xml:lang="san-Latn">akṣayanīvī</foreign>) the village Puḍokeḍaṁ, for the conferring of victory
+					after victory and for the increase of the lifespan of the Great King, (his) Queen
+					and (his) <foreign xml:lang="san-Latn">gotra</foreign> and as meritorious fruit<!--VT: formerly as <foreign
+						xml:lang="san-Latn">dharma</foreign> fruit, which does not mean much. I take dharma as merit, quite common according to Hara--> for both mother and son (i.e. Vīrapuruṣadatta himself).</p>
+				        <p>
+               <seg type="translatedlines">(11)</seg>Śrī-Kākapāla and Kākacandra
+					(are) the (two) <foreign xml:lang="san-Latn">bho</foreign> (?).</p>
+			      </div>
+			      <div type="commentary">
+				<!--[Revision required]-->
+				        <listApp>
+				           <app loc="3"> 
+			               <lem>bahusuvarṇṇaka</lem>
+                  <note>On this term, see <bibl>
+                        <ptr target="eiad-bibl:Chhabra1947"/>: <citedRange>82</citedRange>
+                     </bibl>.</note>
+               </app>
+				           <app loc="6"> 
+                  <lem>puṣyakandīya</lem> 
+                  <note>This seems to be a Sanskritization of the ethnonym Pūkīya/Pūkiya found in several Nagarjunakonda inscriptions: see our commentary on EIAD <ref target="#EIAD0004">4</ref>.</note>
+               </app> 
+				           <app loc="7"> 
+                  <lem>rājñaḥ śryehavalacatam<unclear>ū</unclear>lasya</lem>
+                  <note>It is perhaps merely an inadvertence on the part of scribe or engraver that the monarch is here designated as <foreign xml:lang="san-Latn">rājan</foreign> and not as <foreign xml:lang="san-Latn">mahārāja</foreign>, as he was above.</note>
+				           </app>
+				           <app loc="10"> 
+					             <lem>dhvajastambha</lem>
+                  <note> 
+                     <bibl>
+                        <ptr target="eiad-bibl:Sircar1966"/>, <citedRange>s.v.</citedRange>
+                     </bibl> translates this word as <quote>flagstaff</quote>, which is perhaps a bit misleading. As is clear from the occurrence of the same word on another pillar inscription of ancient India (the Eran pillar inscription of the time of Budhagupta), the word designates the stone pillar on which it is engraved. Cf. also the use of <foreign xml:lang="san-Latn">dhvaja</foreign> in pillar inscriptions EIAD <ref target="#EIAD0084">84</ref> and <ref target="#EIAD0104">104</ref>, both composed in Sanskrit like the present one.</note>
+               </app>
+						         <!--Note AG: <app loc="8"><note>Or: 'great crown prince (<foreign xml:lang="san-Latn"
+								>rājakumāra</foreign>)'? Should one here, and in preceding lines,
+							construe the gen. pl. <foreign xml:lang="san-Latn">ikṣvākūṇāṁ</foreign>
+							respectively with <foreign xml:lang="san-Latn">rājño</foreign> (l. 2/4),
+								<foreign xml:lang="san-Latn">mahārājasya</foreign> (l. 4), <foreign
+								xml:lang="san-Latn">mahārājasya</foreign> (l. 5)? If so, the
+							translation would become 'king/great king/great crown prince of the
+							Ikṣvākus', here and also in cases of <foreign xml:lang="pra-Latn"
+								>ikhākūnām</foreign> in Prakrit versions of this formula.</note></app>-->
+							
+				        </listApp>
+			      </div>
+			      <div type="bibliography">
+				        <p>First described and edited by <bibl>
+						            <ptr target="eiad-bibl:Sircard"/>: <citedRange>17-20</citedRange>
+					          </bibl>. Re-edited here from the available documentation and after autopsy of the
+					stone.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+						            <ptr target="eiad-bibl:zoteroItem_R4S8D3K2"/>
+						            <citedRange>1956-57: 36</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:zoteroItem_G9CH6AGA"/>
+						            <citedRange>1957-58: 3-4, no. B.4</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Srinivasan1979a"/>: <citedRange>no. 44</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Raghunath2001"/>: <citedRange>148-9 (no.
+							36)</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Soundara_Rajan2006"/>: <citedRange>228</citedRange>
+					          </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

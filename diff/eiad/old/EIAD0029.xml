@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-03-16T17:42:40.642+01:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 29
+[2] Raghunath no.: 15
+[3] Srinivasan & Sankaranarayanan no.: 21
+[4] Tsukamoto no.: Uppu 1
+[5] Lüders no.: 
+[6] Support : pillar
+[7] (Faces:) Lines: 11
+[8] H: 
+[9] W: 
+[10] D: 
+[11] H: 
+[12] W: 
+[13] Language(s): MIA
+[14] Original locality: Uppugunduru, Ongole Tk., Prakasam Dt.: Stūpa
+[15] Present locality: Pillar left in situ, only estampages survived, inscribed part of pillar destroyed in 1958
+[16] Primary bibliography: Chhabra 1959-60b.
+[17] Secondary bibliography: Hanumantha Rao at al. 1998: 183. — Raghunath 2001: 113-4 (15).
+[18] Visual documentation: Chhabra; Raghunath
+[19] Substance of inscription: erection of something
+[20] Remarks: 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Pillar from Uppugundur — reign of
+					Siri-Vīrapurisadatta, year 19</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+						            <surname>Strauch</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+						            <forename>Emmanuelle</forename>
+						            <surname>Morlock</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0029</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths,
+							Ingo Strauch and Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons
+							Attribution 3.0 Unported License. To view a copy of
+							this license, visit
+							http://creativecommons.org/licenses/by/3.0/ or send
+							a letter to Creative Commons, 444 Castro Street,
+							Suite 900, Mountain View, California, 94041,
+							USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0029_inv-eiad" type="inv-eiad">EIAD
+							29</idno>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle
+								Indo-Aryan, Southern Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <objectType>pillar</objectType>;
+										<dimensions unit="cm">
+										                       <height>unavailable</height>
+										                       <width>unavailable</width>
+										                       <depth>unavailable</depth>
+										                    </dimensions>.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout>
+									                  <dimensions unit="cm">
+										                    <height>unavailable</height>
+										                    <width>unavailable</width>
+									                  </dimensions>
+								                </layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote><!-- description of decoration or iconography --></decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>
+                        <placeName key="eiad-geo:uppugunduru">Uppugunduru</placeName>.</origPlace>
+							              <origDate calendar="Julian"
+                               notBefore="0225"
+                               notAfter="0275"
+                               precision="low">Nineteenth
+								regnal year of Siri-Vīrapurisadatta,
+								approximately between 225 and 275 CE.
+							</origDate>
+						            </origin>
+						            <provenance type="found" notAfter="1958-01-21">
+							              <p>Discovered at an unknown date on a ruined Stūpa
+								site, and left <foreign>in situ</foreign>.</p>
+						            </provenance>
+						            <provenance type="observed"> </provenance>
+						            <provenance type="not-observed" when="1958-01-21">
+							              <p>By 21 January 1958, the <cit>
+                           <quote>inscribed part of the pillar
+								inscription had been broken away</quote>
+                        </cit> from its support and was no longer to be found (<bibl>
+                           <ptr target="eiad-bibl:Chhabrab"/>: <citedRange>189</citedRange>
+                        </bibl>).</p>
+						            </provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object -->
+						</provenance>
+					          </history>
+					          <additional>
+						            <surrogates><!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo-estampage">
+								                <bibl>Chhabra<note>. It seems that this estampage,
+										made by the Superintendent,
+										Nagarjunakonda Excavation Project (<bibl>
+										                       <ptr target="eiad-bibl:Chhabrab"/>:
+										<citedRange>189</citedRange>
+										                    </bibl>) may not have entered the
+										collection of the ASI.</note>
+								                </bibl>
+								                <bibl>Raghunath</bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan,
+					romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines
+				and the latest Schema version
+					<ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of
+							estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-02-25">Creation of the file - automatic
+				conversion.</change>
+			      <change who="#CC" when="2017-03-25">Merging with READ file</change>
+			      <change who="#AG" when="2017-03-26">Checked and corrected previous
+				work by CC</change>
+			      <change who="#CC" when="2017-03-28">Corrections of previous
+				work</change>
+			      <change who="#AG" when="2017-04-02">Added sec. bibl. items that were
+				missing in initial metadata export</change>
+			      <change who="#MS" when="2017-04-21">Standardised secondary
+				bibliography.</change>
+			      <change who="#EM" when="2017-04-21">Put the note that caused
+				validation problems in surrogates/listBibl/bibl/bibl (and not
+				direct child of listBibl)</change>
+			      <change who="#MS" when="2017-05-23">Organised surrogates and
+				enclosed apparatus within listApp element.</change>
+			      <change who="#MS" when="2017-06-19">Modified title.</change>
+			      <change who="#AG" when="2017-06-29">Supplied several missing eiad-bibl indications.</change>
+			      <change who="#SB" when="2017-07-28">Fixed typos and transcription. Reconstructed end of line 9. Corrected translation.</change>
+			      <change who="#SB" when="2017-07-29">Fixed spelling of king’s name.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic xml:id="EIAD0029_image-Chhabra" url="EIAD0029_1.jpg" n="1">
+			      <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab>
+					          <lb n="1"/>
+					          <w xml:id="tok1685">sidhaṁ</w>
+					          <pc>–</pc>
+					          <w xml:id="tok1687">namo</w>
+					          <w xml:id="tok1688">bhagavato</w>
+					          <w xml:id="tok1689">savasatotamasa</w>
+					          <w xml:id="tok1690">saṁmāsaṁbudhaseti</w>
+					          <lb n="2"/>
+					          <w xml:id="tok1691">mahā<unclear>r</unclear>ājasa</w>
+					          <w xml:id="tok1692">māḍharīputasa</w>
+					          <w xml:id="tok1693">°ikhākuṇaṁ</w>
+					          <w xml:id="tok1694">sirivīrapurisadatasa</w>
+					          <lb n="3"/>
+					          <w xml:id="tok1695">saṁvacharaṁ</w>
+					          <num xml:id="tok1696" value="10">10</num>
+					          <num xml:id="tok1697" value="9">9</num>
+					          <w xml:id="tok1698">gim<unclear>ha</unclear>pakhaṁ</w>
+					          <num xml:id="tok1699" value="4">4</num>
+					          <w xml:id="tok1700">divasaṁ</w>
+					          <num xml:id="tok1701" value="10">10</num>
+					          <num xml:id="tok1702" value="3">
+						            <unclear>3</unclear>
+					          </num>
+					          <w xml:id="tok1703">dhaṁñakaḍavathavasa</w>
+					          <lb n="4"/>
+					          <w xml:id="tok1704">saṁghilagahapatisa</w>
+					          <w xml:id="tok1705">natuke<unclear>na</unclear>
+					          </w>
+					          <w xml:id="tok1706">vairavāniyaputena</w>
+					          <w xml:id="tok1707">saghilena</w>
+					          <lb n="5"/>
+					          <w xml:id="tok1708">matāya</w>
+					          <w xml:id="tok1709">dhaṁmavānikinīya</w>
+					          <w xml:id="tok1710">bhātuno</w>
+					          <w xml:id="tok1711">ca</w>
+					          <w xml:id="tok1712">nāgilaṁnakasa</w>
+					          <w xml:id="tok1713">bhagini<supplied reason="lost">ya</supplied>
+					          </w>
+					          <lb n="6"/>
+					          <w xml:id="tok1714">budhaṁnikāya</w>
+					          <w xml:id="tok1715">samudaṁnika<unclear>sa</unclear>
+					          </w>
+					          <w xml:id="tok1716">bhariyāya</w>
+					          <w xml:id="tok1717">sāgaraṁnikāya</w>
+					          <w xml:id="tok1717bis">bhātubha<lb n="7" break="no"/>riyāya</w>
+					          <w xml:id="tok1720">saṁghanikāya</w>
+					          <w xml:id="tok1721">bālak<unclear>ā</unclear>naṁ</w>
+					          <w xml:id="tok1722">ca</w>
+					          <w xml:id="tok1723">vairasirinakasa</w>
+					          <w xml:id="tok1724">caṁd<unclear>a</unclear>
+					          </w>
+					          <gap reason="illegible" quantity="3" unit="character"/>
+					          <lb n="8"/>
+					          <w xml:id="tok1726">kasa</w>
+					          <w xml:id="tok1727">nāgilaṁnakasa</w>
+					          <w xml:id="tok1728">bālakānaṁ</w>
+					          <w xml:id="tok1729">ca</w>
+					          <w xml:id="tok1730">dhamaṁnikāya</w>
+					          <w xml:id="tok1731">patu</w>
+					          <gap reason="illegible" extent="1" unit="akṣara"/>
+					          <gap reason="lost" quantity="4" unit="character"/>
+					          <lb n="9"/>
+					          <w xml:id="tok1738">kāya</w>
+					          <w xml:id="tok1739">nāgasaṁmaṁnikāya</w>
+					          <w xml:id="tok1740">ca</w>
+					          <w xml:id="tok1741">°evaṁ</w>
+					          <w xml:id="tok1742">sanātimitabaṁdha<supplied reason="lost">vagena saha</supplied>
+                  <gap reason="illegible" quantity="1" unit="aksarapart"/>
+               </w>
+					          <lb n="10"/>
+					          <gap reason="lost" quantity="8" unit="character"/>
+					          <w xml:id="tok1758">
+						            <gap reason="illegible" quantity="1" unit="aksarapart"/>i <gap reason="illegible" quantity="1" unit="aksarapart"/>i</w>
+					          <gap reason="illegible" quantity="1" unit="character"/>
+					          <w xml:id="tok1760">paṭane</w>
+					          <w xml:id="tok1761">mahā</w>
+					          <gap reason="lost" quantity="8" unit="character"/>
+					          <lb n="11"/>
+					          <gap reason="lost" quantity="14" unit="character"/>
+					          <w xml:id="tok1786">
+						            <gap reason="illegible" quantity="1" unit="aksarapart"/>i</w>
+					          <gap reason="lost" quantity="8" unit="character"/>
+				        </ab>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="1">
+						            <lem>sidhaṁ –</lem>
+						            <rdg source="eiad-bibl:Chhabrab">sidhaṁ om</rdg>
+						            <note>Chhabra’s reading is criticized (p. 191, n. 5) by
+							D.C. Sircar, the editor of the <foreign>Epigraphia
+								Indica</foreign> volume in question, who
+							interprets it as <quote>a variant of one found in
+								Kuṣāṇa inscriptions</quote>, and refers to <bibl>
+								                <ptr target="eiad-bibl:Sircar1965"/>:
+									<citedRange>150, n. 3</citedRange>
+							              </bibl>.</note>
+					          </app>
+					          <app loc="2">
+						            <lem>°ikhākuṇaṁ</lem>
+						            <rdg source="eiad-bibl:Chhabrab">°ikhākunaṁ</rdg>
+					          </app>
+					          <app loc="3">
+						            <lem>gim<unclear>ha</unclear>-</lem>
+						            <note>
+                     <cit>
+                        <quote>The form of the akshara meant to be <hi rend="italic">mha</hi> is not
+									regular</quote>
+                        <bibl>
+                           <ptr target="eiad-bibl:Chhabrab"/>:
+										<citedRange>191</citedRange>
+                        </bibl>
+                     </cit>. Cf. <ref target="#EIAD0052">EIAD 52</ref>, l. 3.</note>
+					          </app>
+					          <app loc="4">
+						            <lem>natuke<unclear>na</unclear> vaira-</lem>
+						            <note>The <seg type="graphemic">na</seg> seems
+							ambiguous, perhaps because the engraver started to
+							write the <seg type="graphemic">v</seg> of the
+							following syllable.</note>
+					          </app>
+					          <app loc="4">
+						            <lem>saghilena</lem>
+						            <rdg source="eiad-bibl:Chhabrab">sa<supplied reason="lost">ṁ</supplied>ghilena</rdg>
+					          </app>
+					          <app loc="5">
+						            <lem>bhagini<supplied reason="lost">ya</supplied>
+						            </lem>
+						            <rdg source="eiad-bibl:Chhabrab">bhagini-</rdg>
+						            <note>Sircar (p. 191, n. 5) suggests restoring <foreign xml:lang="pra-Latn">bhagini<supplied reason="lost">naṁ</supplied>
+							              </foreign>.</note>
+					          </app>
+					          <app loc="6">
+						            <lem>samudaṁnika<unclear>sa</unclear>
+						            </lem>
+						            <rdg source="eiad-bibl:Chhabrab">samudaṁnikāya</rdg>
+					          </app>
+					          <app loc="7">
+						            <lem>caṁd<unclear>a</unclear>
+							              <gap reason="illegible" quantity="3" unit="character"/>
+						            </lem>
+						            <note>
+							              <bibl>
+								                <ptr target="Chhabrab"/>
+							              </bibl> reads two anusvāras in the lacuna. Restore
+								<foreign xml:lang="pra-Latn">caṁdasaṁmaṁna-</foreign>.</note>
+					          </app>
+					          <app loc="8">
+						            <lem>patu-</lem>
+						            <note>It is tempting to restore this word to <foreign xml:lang="pra-Latn">p<supplied reason="omitted">i</supplied>tu<supplied reason="lost">chā</supplied>
+							              </foreign>.</note>
+					          </app>
+					          <app loc="10">
+						            <lem>
+							              <gap reason="illegible" quantity="1" unit="aksarapart"/>i <gap reason="illegible" quantity="1" unit="aksarapart"/>i<gap reason="illegible" quantity="1" unit="character"/>
+						            </lem>
+						            <rdg source="eiad-bibl:Chhabrab">
+							              <gap reason="illegible" quantity="1" unit="aksarapart"/>i<gap reason="illegible" quantity="1" unit="aksarapart"/>i<unclear>ya</unclear>
+						            </rdg>
+					          </app>
+					          <app loc="11">
+						            <note>
+                     <bibl>
+                        <ptr target="eiad-bibl:Chhabrab"/>
+                     </bibl> ignored the trace of an <seg type="graphemic">i</seg> vowel on what must have
+							been an 11th line.</note>
+					          </app>
+				        </listApp>
+				        <!--<app loc="lineNumber">
+                    <lem/>
+                    <rdg source="eiad-bibl:identifier"/>
+                    <note/>
+                </app>-->
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				        <p>
+               <seg type="translatedlines">(1–3)</seg> Success! Homage to the Bhagavant, the best of all beings,
+					the Perfect Buddha! In the 19th year of Great King
+					Māṭharīputta Siri-Vīrapurisadatta of the Ikṣvākus, in the 4th
+					fortnight of the hot season, on the 13th day. </p>
+				        <p>
+               <seg type="translatedlines">(3–11)</seg>By Saṅghila, grandson of the notable (<foreign xml:lang="pra-Latm">gahapati</foreign>) Saṅghila resident of Dhaññakaḍa, son of Vairavāniya, by his mother Dhammavānikinī, and by his brother Nāgilannaka, his sister Budhannikā, by Samudannika’s wife Sāgarannikā, by his brother’s wife Saṅghannikā, by his sons Vairasirinnaka, Canda ..., Nāgilannaka, by his daughters Dhammannikā ... and Nāgasammannikā — in this way together with relatives, friends and relations ... in the city, the great ...</p>
+			      </div>
+			      <div type="commentary">
+				        <listApp>
+					          <app loc="4">
+						            <lem>vaira-</lem>
+						            <note>Is this for <foreign xml:lang="pra-Latm">vajira</foreign> : <foreign xml:lang="san-Latn">vajra</foreign>? The same name seems to figure
+							in <ref target="#EIAD0043">EIAD 43</ref>.</note>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="bibliography">
+				<!--[Revision required]-->
+				<!--Prose description of the history of the publication. Example of bibl element:  
+									<ptr target="eiad-bibl:Khan1969"/>: <citedRange>2</citedRange>-->
+				        <p>First edited by <bibl>
+                  <ptr target="eiad-bibl:Chhabrab"/>
+               </bibl>. Re-edited here from the published estampage.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+						            <ptr target="eiad-bibl:Srinivasan1979a"/>:
+							<citedRange>no. 21</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Tsukamoto1996"/>: <citedRange>no. Uppu
+							1</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Hanumantha_Rao1998"/>:
+							<citedRange>183–4</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Raghunath2001"/>:
+							<citedRange>113–4 (no. 15)</citedRange>
+					          </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

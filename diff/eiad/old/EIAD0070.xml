@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-03-29T17:32:11.51+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 70
+[2] Raghunath no.: 52
+[3] Srinivasan & Sankaranarayanan no.: 61
+[4] Tsukamoto no.: —
+[5] Lüders no.: 
+[6] Support : memorial pillar
+[7] (Faces:) Lines: 3
+[8] H: 
+[9] W: 
+[10] D: 
+[11] H: 
+[12] W: 
+[13] Language(s): MIA
+[14] Original locality: Nagarjunakonda Site-113
+[15] Present locality: unknown
+[16] Primary bibliography: Sircar 1963-64a: 15 (6.B.I).
+[17] Secondary bibliography: ARIE 1956-57: B.34. — Raghunath 2001: 170 (52).
+[18] Visual documentation: Sircar
+[19] Substance of inscription: the pillar was a chāyāstambha of dead soldiers
+[20] Remarks: same also under ARIE 1959-60: B.99
+[21] : 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Memorial pillar from site 113 at Nagarjunakonda</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+						            <surname>Strauch</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0070</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths,
+							Ingo Strauch and Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons
+							Attribution 3.0 Unported License. To view a copy of
+							this license, visit
+							http://creativecommons.org/licenses/by/3.0/ or send
+							a letter to Creative Commons, 444 Castro Street,
+							Suite 900, Mountain View, California, 94041,
+							USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0070_inv-eiad" type="inv-eiad">EIAD
+							70</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>unavailable</repository>
+							              <idno xml:id="EIAD0070_museum-inventory">unavailable</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle
+								Indo-Aryan, Southern Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <objectType>Memorial
+										pillar</objectType>; <dimensions unit="cm">
+										                       <height>unavailable</height>
+										                       <width>unavailable</width>
+										                       <depth>unavailable</depth>
+										                    </dimensions>.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout>
+									                  <dimensions unit="cm">
+										                    <height>unavailable</height>
+										                    <width>unavailable</width>
+									                  </dimensions>
+								                </layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote><!-- description of decoration or iconography --></decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>
+                        <placeName type="modern" key="eiad-geo:NK">Nagarjunakonda</placeName>
+                     </origPlace>
+							              <origDate calendar="Julian"
+                               notBefore="0250"
+                               notAfter="0350"
+                               precision="low">Undated.
+								Attributable to the period 250-350 CE on
+								palaeographic grounds.</origDate>
+						            </origin>
+						            <provenance type="found" notAfter="1957">
+							              <p>Discovered at Site-113. The precise date of
+								discovery is unknown.</p>
+						            </provenance>
+						            <provenance type="observed"> </provenance>
+						            <provenance type="not-observed" notBefore="2016">
+							              <p>Present whereabouts unknown.</p>
+						            </provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates><!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo-estampage">
+								                <bibl>Sircar</bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan,
+					romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines
+				and the latest Schema version
+					<ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of
+							estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-02-25">Creation of the file - automatic
+				conversion.</change>
+			      <change who="#CC" when="2017-04-28">Merging with READ file</change>
+			      <change who="#MS" when="2017-06-03">Added listApp and organised
+				surrogates.</change>
+			      <change who="#MS" when="2017-06-09">Hid commentary div as
+				comment.</change>
+			      <change who="#MS" when="2017-06-20">Modified title.</change>
+			      <change who="#MS" when="2017-07-01">Revised detail in edition.</change>
+			      <change who="#VT" when="2017-07-04">Modified translation.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic url="photograph of text or monument">
+			      <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab>
+					          <lb n="1"/>
+					          <w xml:id="tok4079">maga<unclear>la</unclear>raṇavathavasa</w>
+					          <lb n="2"/>
+					          <w xml:id="tok4080">raṭhikasa</w>
+					          <w xml:id="tok4081">bhatasa</w>
+					          <w xml:id="tok4082">pā</w>
+					          <gap reason="illegible" quantity="1" unit="character"/>
+					          <gap reason="lost" quantity="1" unit="character"/>
+					          <lb n="3"/>
+					          <w xml:id="tok4085">bhaḍaṇa</w>
+					          <w xml:id="tok4086">padita<unclear>na</unclear>ṁ</w>
+					          <w xml:id="tok4089">chāyātha<unclear>bho</unclear>
+					          </w>
+				        </ab>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="2">
+						            <lem>pā <gap reason="illegible" quantity="1" unit="character"/>
+						            </lem>
+						            <rdg source="eiad-bibl:Sircara">pā<unclear>sa</unclear>
+						            </rdg>
+						            <note>Sircar notes that <quote>the intended word seems
+								to be <foreign xml:lang="pra-Latn">pasāditānaṁ</foreign> (Sanskrit <foreign xml:lang="pra-Latn">prasāditānām</foreign>).</quote>
+						            </note>
+					          </app>
+					          <app loc="3">
+						            <lem>bhaḍaṇa</lem>
+						            <rdg source="eiad-bibl:Sircara">bhaḍaṇa<unclear>ṁ</unclear>
+						            </rdg>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				        <ab>Memorial pillar of the killed (<foreign xml:lang="pra-Latn">pātita</foreign>) soldiers (...) of the governor (<foreign xml:lang="pra-Latn">raṭhika</foreign>, Skt. <foreign xml:lang="pra-Latn">rāṣṭrika</foreign>) Bhata, resident of Magalaraṇa.</ab>
+			      </div>
+			      <!--<div type="commentary"></div>-->
+			      <div type="bibliography">
+				        <p>First edited by <bibl>
+						            <ptr target="eiad-bibl:Sircara"/>: <citedRange>15
+							(6.B.I)</citedRange>
+					          </bibl>. Re-edited here from published documentation.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+						            <ptr target="eiad-bibl:zoteroItem_G9CH6AGA"/>
+						            <citedRange>1956-57: B.34</citedRange>
+					          </bibl>
+					          <!-- CC: Do I have to insert this commentary "same also under ARIE 1959-60: B.99" in the bibliography ? -->
+					          <bibl>
+						            <ptr target="eiad-bibl:Srinivasan1979a"/>:
+							<citedRange>no. 61</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Raghunath2001"/>: <citedRange>170
+							(52)</citedRange>
+					          </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

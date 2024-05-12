@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-05-17T13:36:55.949+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 137
+[2] Raghunath no.: —
+[3] Srinivasan & Sankaranarayanan no.: —
+[4] Tsukamoto no.: Gumm 1
+[5] Lüders no.: 
+[6] Support : pilaster with Buddha image
+[7] (Faces:) Lines: 4
+[8] H: 132+
+[9] W: 38
+[10] D: 22
+[11] H: 9
+[12] W: 25
+[13] Language(s): Sanskrit
+[14] Original locality: Gummadidurru
+[15] Present locality: ASM 6
+[16] Primary bibliography: Subba Rao 1928: 62-4 (13). — Ramachandran 1946-47 (III); 1953: 29.
+[17] Secondary bibliography: Hanumantha Rao et al. 1998: 131. — Gupta 2008: 97 (682).
+[18] Visual documentation: Subba Rao 1928, pl. II. — Ramachandra 1946-47 (III); 1953 (pl. XXXIV, 2). — Gupta 2008, pl. 45.
+[19] Substance of inscription: 
+[20] Remarks: 
+[21] : 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Pilaster with Buddha image from stūpa at Gummadidurru</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+						            <surname>Strauch</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+                        verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+                        verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+						            <forename>Emmanuelle</forename>
+						            <surname>Morlock</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+						            <forename>Andrew</forename>
+						            <surname>Ollett</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0137</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths,
+                            Ingo Strauch and Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons
+                            Attribution 3.0 Unported License. To view a copy of
+                            this license, visit
+                            http://creativecommons.org/licenses/by/3.0/ or send
+                            a letter to Creative Commons, 444 Castro Street,
+                            Suite 900, Mountain View, California, 94041,
+                            USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0137_inv-eiad" type="inv-eiad">EIAD
+                            137</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Amaravati Site Museum</repository>
+							              <idno xml:id="EIAD0137_museum-inventory">6</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="san-Brah">Sanskrit language, Southern Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <objectType>Pilaster</objectType> with
+                                        Buddha image; <dimensions unit="cm">
+											                      <height atLeast="132">132</height>
+											                      <width>38</width>
+											                      <depth>22</depth>
+										                    </dimensions>.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout writtenLines="4">
+									                  <dimensions unit="cm">
+										                    <height>9</height>
+										                    <width>25</width>
+									                  </dimensions>.</layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote>The upper part of the pilaster features a
+                                seated Buddha along with a five hooded <foreign>nāga</foreign>.
+                                Underneath are a standing Buddha on a lotus with
+                                a dharma cakra at the top of his head. A
+                                couchant deer and a kneeling devotee are at his
+                                feet.</decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>
+                        <placeName>Gummadidurru</placeName>
+                     </origPlace>
+							              <origDate calendar="Julian"
+                               notBefore="0400"
+                               notAfter="0500"
+                               precision="low">Attributable to
+                                the 6th/7th century CE on palaeographic grounds.
+                            </origDate>
+						            </origin>
+						            <provenance type="found" notBefore="1924" notAfter="1928">
+							              <p>Discovered between 1924 and 1928, on the outer
+                                facing of the drum of a buddhist stūpa.</p>
+						            </provenance>
+						            <provenance type="observed" when="2017-01">
+							              <p>Identified at Amaravati Site Museum (acc. no. 6)
+                                in January 2017.</p>
+						            </provenance>
+						            <provenance type="not-observed">
+							<!-- information about a specific, unsuccessful attempt to locate an object in a presumed or previously recorded location --></provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates>
+							<!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl>photos JM 2017</bibl>
+								                <bibl>photos AL 2017</bibl>
+								                <bibl>Subba Rao 1928, pl. II</bibl>
+								                <bibl>Ramachandran 1946-47 (III); 1953 (pl.
+                                    XXXIV, 2)</bibl>
+							              </listBibl>
+							              <listBibl ana="#photo-estampage">
+								                <bibl>Gupta 2008, pl. 45</bibl>
+							              </listBibl>
+							              <listBibl ana="#rti">
+								                <bibl>RTI JM 2017</bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="san-Latn">Sanskrit language,
+                    romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines
+                and the latest Schema version
+                    <ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of
+                            estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-05-17">Creation of the file - automatic
+                conversion.</change>
+			      <change who="#CC" when="2017-05-20">Merging with READ file</change>
+			      <change who="#MS" when="2017-06-03">Added listApp in apparatus and
+                organised surrogates.</change>
+			      <change who="#MS" when="2017-06-10">Hid commentary div as
+                comment.</change>
+			      <change who="#MS" when="2017-06-20">Modified title.</change>
+			      <change who="#MS" when="2017-07-03">Killed spaces and made updates in edition.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+		        <change who="#VT" when="2019-12-02">Changed date.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic url="photograph of text or monument">
+			      <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="san-Latn">
+				        <ab>
+					          <lb n="1"/>
+					          <g type="dextrorotatory-spiral"/>
+					          <w xml:id="tok5229">°ācāryyamaudgalyāyaṇasya</w>
+					          <w xml:id="tok5230">priyaśiṣyāsyācā<unclear>r</unclear>yya<supplied reason="lost">dha</supplied>
+                  <lb n="2" break="no"/>rmmadevasya</w>
+					          <w xml:id="tok5232">śiṣyeṇa</w>
+					          <w xml:id="tok5233">śrāmaṇakarāhuleṇa</w>
+					          <w xml:id="tok5234">bhagavataḥ</w>
+					          <lb n="3"/>
+					          <w xml:id="tok5235">pratimā</w>
+					          <w xml:id="tok5236">pratiṣṭhāpitā</w>
+					          <w xml:id="tok5237">sarvvasatvānām</w>
+					          <w xml:id="tok5238">anuttarajñā<lb n="4" break="no"/>nāvāptaye</w>
+					          <w xml:id="tok5240">yad</w>
+					          <w xml:id="tok5241">atra</w>
+					          <w xml:id="tok5242">puṇyaṁ</w>
+					          <w xml:id="tok5243">tad</w>
+					          <w xml:id="tok5244">bhavatu</w>
+					          <w xml:id="tok5245">satvāna<unclear>ṁ</unclear>
+               </w>
+				        </ab>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="1">
+						            <lem>
+							              <g type="dextrorotatory-spiral"/>
+						            </lem>
+						            <note>This liminal auspicious sign is transcribes as
+                            svasti in <bibl>
+								                <ref target="eiad-bibl:Subba_Rao1928"/>
+							              </bibl>, and omitted by <bibl>
+								                <ref target="eiad-bibl:Ramachandranb"/>
+							              </bibl>.</note>
+					          </app>
+					          <app loc="1">
+						            <lem>°ācāryyamaudgalyāyaṇasya</lem>
+						            <rdg source="eiad-bibl:Subba_Rao1928">°ācāryamougalyāyaṇasya</rdg>
+					          </app>
+					          <app loc="1">
+						            <lem>priyaśiṣyāsyācā<unclear>r</unclear>yya</lem>
+						            <rdg source="eiad-bibl:Subba_Rao1928">priyaśiṣyāsyācārya</rdg>
+					          </app>
+					          <app loc="2">
+						            <lem>śrāmaṇakarāhuleṇa</lem>
+						            <rdg source="eiad-bibl:Ramachandranb">śrāmaṇakarāhulena</rdg>
+					          </app>
+					          <app loc="2">
+						            <lem>bhagavataḥ</lem>
+						            <rdg source="eiad-bibl:Ramachandranb">bhagavato</rdg>
+					          </app>
+					          <app loc="3-4">
+						            <lem>anuttarajñānāvāptaye</lem>
+						            <rdg source="eiad-bibl:Subba_Rao1928">anuttarajīvāvāptaye</rdg>
+					          </app>
+					          <app loc="4">
+						            <lem>yad atra</lem>
+						            <rdg source="eiad-bibl:Subba_Rao1928">yadhatra</rdg>
+					          </app>
+					          <app loc="4">
+						            <lem>puṇyaṁ</lem>
+						            <rdg source="eiad-bibl:Subba_Rao1928">puṇyam</rdg>
+						            <rdg source="eiad-bibl:Ramachandranb">puṇyam</rdg>
+					          </app>
+					          <app loc="4">
+						            <lem>tad bhavatu</lem>
+						            <rdg source="eiad-bibl:Subba_Rao1928">sarvvam
+                            caitya</rdg>
+					          </app>
+					          <app loc="4">
+						            <lem>satvāna<unclear>ṁ</unclear>
+						            </lem>
+						            <rdg source="eiad-bibl:Ramachandranb">satvānāṁ</rdg>
+						            <rdg source="eiad-bibl:Subba_Rao1928">saṅghasya</rdg>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				        <ab>(This) image of the Bhagavant was established by the
+                        <foreign xml:lang="san-Latn">śrāmaṇaka</foreign> Rāhula,
+                    pupil of master Dharmadeva, beloved pupil of master
+                    Maudgalyāyana, for the attainment of the supreme knowledge
+                    by all beings. What merit is here, may that be for (all)
+                    beings.</ab>
+			      </div>
+			      <!--<div type="commentary"></div>-->
+			      <div type="bibliography">
+				        <p>First described and edited by <bibl>
+						            <ptr target="eiad-bibl:Subba_Rao1928"/>:
+                            <citedRange>62-4 (13)</citedRange>
+					          </bibl> followed by <bibl>
+						            <ptr target="eiad-bibl:Ramachandranb"/>:
+                            <citedRange>(III)</citedRange>
+					          </bibl> and <bibl>
+						            <ptr target="eiad-bibl:Ramachandran1953"/>:
+                            <citedRange>29</citedRange>
+					          </bibl>. Re-edited here from published documentation and
+                    after autopsy of the stone.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+						            <ptr target="eiad-bibl:Hanumantha_Rao1998"/>:
+                            <citedRange>131</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Tsukamoto1996"/>: <citedRange>no. Gumm
+                            1</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Gupta2008"/>: <citedRange>97
+                            (682)</citedRange>
+					          </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

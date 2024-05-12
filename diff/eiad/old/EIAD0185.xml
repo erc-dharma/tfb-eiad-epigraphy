@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Author: @emma_morlock - Last revision: 2017-02-27T22:32:06.182+01:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 185
+[2] Raghunath no.: 
+[3] Srinivasan & Sankaranarayanan no.: 
+[4] Tsukamoto no.: 
+[5] Lüders no.: 
+[6] Support : 5 copper plates
+[7] (Faces:) Lines: 35
+[8] H: 5 3/8"
+[9] W: 2 3/8"
+[10] D: 
+[11] H: 
+[12] W: 
+[13] Language(s): Sanskrit
+[14] Original locality: undivided Godavari Dt.
+[15] Present locality: ???
+[16] Primary bibliography: Fleet 1883-85. — Sankaranarayanan 1977: 182-4 (XI).
+[17] Secondary bibliography: Kielhorn 1899, no. 688. — Bhandarkar 1927-37, no. 1904. —
+                        Schmiedchen 2007, no. 5.
+[18] Visual documentation: Fleet 1883-85.
+[19] Substance of inscription: Pr̥thivīmūlarāja grants village Cūyipāka to 43 Atharvanic
+                        Brahmins.
+[20] Remarks: 
+
+
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Copper plates from Godavari district (set I) — reign of Pr̥thivīśrīmūla, year 25</title>
+            <principal>
+					          <persName ref="#AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+						            <forename>Emmanuelle</forename>
+						            <surname>Morlock</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+						            <forename>Andrew</forename>
+						            <surname>Ollett</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0185</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths,
+							Ingo Strauch and Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons
+							Attribution 3.0 Unported License. To view a copy of
+							this license, visit
+							http://creativecommons.org/licenses/by/3.0/ or send
+							a letter to Creative Commons, 444 Castro Street,
+							Suite 900, Mountain View, California, 94041,
+							USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0185_inv-eiad" type="inv-eiad">EIAD
+							185</idno>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="san-Brah">Sanskrit language, Southern Brāhmī
+								script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>Five <objectType>copper
+										plates</objectType>, not furnished with
+										original plate numbering; <dimensions unit="inches">
+											                      <height>7 3/8"</height>
+											                      <width>2 3/8"</width>
+											                      <depth/>
+										                    </dimensions>; the weight <cit>
+											                      <quote>of the five plates is <measure type="weight" unit="tola" quantity="60">60 tolas</measure>, and of the ring and
+										seal, 17⅝ tolas,—total, 77⅝
+										tolas</quote>
+											                      <bibl>
+												                        <ptr target="eiad-bibl:Fleet"/>:
+										<citedRange>114</citedRange>
+											                      </bibl>
+										                    </cit>. The left side of every plate is
+										pierced by a hole through which runs a
+										ring. This <cit>
+											                      <quote>is about ¼" thick and 3½" in
+										diameter [...] the seal on the ring is
+										roughly oval, about 1" by 1⅛"</quote>
+											                      <bibl>
+												                        <ptr target="eiad-bibl:Fleet"/>:
+										<citedRange>114</citedRange>
+											                      </bibl>
+										                    </cit>.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout writtenLines="35">35 lines of text
+									beginning on face 1b, 4 lines per face
+									except on plate 4b and 5a where five and six
+									lines are respectively engraved. Dimensions
+									of the inscribed surface almost equal to
+									dimensions of the plate.</layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote>The ring <cit>
+									                  <quote>had some emblem or other on it, in
+										relief on a countersunk surface; but the
+										surface is so much destroyed by rust,
+										that it is <choice>
+											                      <sic>imposible</sic>
+											                      <corr>impossible</corr>
+										                    </choice> to say what the emblem
+										was</quote>
+									                  <bibl>
+										                    <ptr target="eiad-bibl:Fleet"/>:
+										<citedRange>114</citedRange>
+									                  </bibl>
+								                </cit>.</decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>
+                        <placeName>Undivided Godavari</placeName>
+								district</origPlace>
+							              <origDate calendar="Julian"
+                               notBefore="0600"
+                               notAfter="0700"
+                               precision="low"> Twenty-fifth
+								regnal year of Pr̥thivīśrīmūla, approximately
+								between 500 and 600 CE.</origDate>
+						            </origin>
+						            <provenance type="found" notAfter="1881">
+							              <p>The precise location and date of discovery are
+								unknown. The inscription seems to have been
+								first mentioned by J.F. Fleet in 1881.</p>
+						            </provenance>
+						            <provenance type="observed"> </provenance>
+						            <provenance type="not-observed" notBefore="2016-02">
+							              <p>Not identified during fieldwork from February
+								2016 onward.</p>
+						            </provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates>
+							              <listBibl ana="#photo-estampage">
+								                <bibl>
+									                  <ptr target="eiad-bibl:Fleet"/>
+								                </bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="san-Latn">Sanskrit language, romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines
+				and the latest Schema version
+					<ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of
+							estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-02-25">Creation of the file - automatic
+				conversion.</change>
+			      <change who="#AG" when="2017-02-26">Merging with READ file</change>
+			      <change who="#EM" when="2017-03-16">Corrected processing instruction
+				pointing to schema</change>
+			      <change who="#EM" when="2017-03-16">Substition of entities instead
+				of brackets (&lt;ai&gt; and &lt;e&gt; in element ab.</change>
+			      <change who="#AG" when="2017-05-12">Encoding of div type="edition",
+				rest not yet done</change>
+			      <change who="#AG" when="2017-05-16">Modified encoding of
+				respStmt</change>
+			      <change who="#CC" when="2017-06-04">Encoding of history, apparatus,
+				translation, bibliography</change>
+			      <change who="#AG" when="2017-06-05">Small corrections in
+				apparatus</change>
+			      <change who="#AG" when="2017-06-09">Global revision, first markup of
+				Translation</change>
+			      <change who="#MS" when="2017-06-10">Hid commentary div as
+				comment.</change>
+			      <change who="#MS" when="2017-06-11">Removed spaces before and after lb.</change>
+			      <change who="#MS" when="2017-06-20">Modified title.</change>
+			      <change who="#MS" when="2017-07-06">Removed unwanted linefeeds and compounds in edition.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic url="photograph of text or monument">
+			      <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="san-Latn">
+				        <ab>
+					          <pb type="plate" n="1b"/>
+					          <lb n="1"/>
+					          <g type="dextrorotatory-spiral"/>
+					          <w xml:id="tok6060">svasti</w>
+					          <w xml:id="tok6061">vijayakāṇḍāḷivāsakāt·</w>
+					          <w xml:id="cmp156">
+						            <w xml:id="tok6062">devadvija<lb n="2" break="no"/>gurucaraṇasamārādhanādhigatanirati<lb n="3" break="no"/>śayapuṇyanicayasya</w>
+					             <w xml:id="tok6064">sakaḷadiṅmāṇḍalā<lb n="4" break="no"/>ḷāṅkārabhūtayaśasaḥ</w>
+					             <w xml:id="tok6066">śrīprabhākaravikhyāta<lb n="5" break="no"/>
+						               <pb type="plate" n="2a"/>mahārājasya</w>
+					             <w xml:id="tok6067">sūnuḥ</w>
+					             <w xml:id="tok6068">
+                     <unclear>mā</unclear>tāpitr̥pādānuddhyātaḥ</w>
+					             <lb n="6"/>
+					             <w xml:id="tok6069">śrutismr̥tivihitapadārtthāvabodhajanitapra<lb n="7" break="no"/>jñāvivekaniravagītānupālītaśeṣavarṇṇāśra<lb n="8" break="no"/>madharmmaḥ</w>
+					          </w>
+					          <w xml:id="tok6072">parānugrahamātraprayojanapra<lb n="9" break="no"/>
+                  <pb type="plate" n="2b"/>tipann<unclear>ai</unclear>svaryyagurubhāra</w>
+					          <w xml:id="tok6074">paramamāheśvaraḥ</w>
+					          <w xml:id="tok6075">śrīmān·</w>
+					          <lb n="10"/>
+					          <w xml:id="tok6076">prithivimūlārajaḥ</w>
+					          <w xml:id="tok6077">tāḻupākaviṣayanivāsina<supplied reason="lost">ḥ</supplied>
+					          </w>
+					          <lb n="11"/>
+					          <w xml:id="tok6078">sarvvān</w>
+					          <w xml:id="tok6079">eva</w>
+					          <w xml:id="tok6080">rāṣṭrakuṭapramukhān</w>
+					          <w xml:id="tok6081">evam</w>
+					          <w xml:id="tok6082">ājñāpa<lb n="12" break="no"/>yati</w>
+					          <w xml:id="tok6084">yathā</w>
+					          <w xml:id="tok6085">viditam</w>
+					          <w xml:id="tok6086">astu</w>
+					          <w xml:id="tok6087">bhavatām·</w>
+					          <w xml:id="cmp161">
+						            <w xml:id="tok6088">śrutābhija<lb n="13" break="no"/>
+                     <pb type="plate" n="3a"/>navr̥ttasampatprabhābhāsurodārapuruṣaratnanikarapra<unclear>s</unclear>ū<lb n="14" break="no"/>tihetuprakhyātamaṇalkuḍivāstavyadvijātyanvaya<lb n="15" break="no"/>payodhisambhūtaśītaraśmer</w>
+					          </w>
+					          <w xml:id="tok6091">asakkr̥davāptacaturddanta<lb n="16" break="no"/>saṁgrāmavijayasya</w>
+					          <w xml:id="tok6092">mitavarmmanaḥ</w>
+					          <w xml:id="tok6093">priyatanayena</w>
+					          <pb type="plate" n="3b"/>
+					          <lb n="17"/>
+					          <w xml:id="tok6094">sarabhasam</w>
+					          <w xml:id="cmp162">
+						            <w xml:id="tok6095">indrabhaṭṭārakasamutpāṭanābhilāṣasamudi<lb n="18" break="no"/>tapramuditāśeṣanr̥patikkr̥tatumulasama<lb n="19" break="no"/>rādhiruḍhasupratīkānekapābhimukhasamadakumu<lb n="20" break="no"/>dadviradanipātanādhigatabhuvanatala<unclear>v</unclear>itata<lb n="21" break="no"/>
+							              <pb type="plate" n="4a"/>vipulaviśuddhayaśasā</w>
+					          </w>
+					          <w xml:id="tok6099">śrīmadindrādhirājena</w>
+					          <w xml:id="tok6100">svamatā<lb n="22" break="no"/>pitroḥ</w>
+					          <w xml:id="tok6101">puṇyāvāptinimitta</w>
+					          <w xml:id="tok6102">vijñāpitena</w>
+					          <w xml:id="tok6103">mayā</w>
+					          <w xml:id="tok6104">viḷendi<lb n="23" break="no"/>reṅguṭakampāṟutukurāṇām·</w>
+					          <w xml:id="tok6105">caturṇṇā</w>
+					          <w xml:id="tok6106">grāmāṇā</w>
+					          <lb n="24"/>
+					          <w xml:id="tok6107">maddhye</w>
+					          <w xml:id="tok6108">cūyipāko</w>
+					          <w xml:id="tok6109">nāma</w>
+					          <w xml:id="tok6110">grāmaḥ</w>
+					          <w xml:id="tok6111">°upāddhyāyakulasambhū<lb n="25" break="no"/>
+                  <pb type="plate" n="4b"/>tebhyo</w>
+					          <w xml:id="tok6113">nānāgotrebhyas</w>
+					          <w xml:id="tok6114">ticatvāriṁśad</w>
+					          <w xml:id="tok6115">ātharvvaṇikakule<lb n="26" break="no"/>bhyo</w>
+					          <w xml:id="tok6117">grahārīkkr̥tya</w>
+					          <w xml:id="tok6118">datta</w>
+					          <w xml:id="tok6119">sa</w>
+					          <w xml:id="tok6120">sarvver</w>
+					          <w xml:id="tok6121">eva</w>
+					          <w xml:id="tok6122">paripālaniyo</w>
+					          <w xml:id="tok6123">vi<lb n="27" break="no"/>śeṣeṇa</w>
+					          <w xml:id="tok6125">hastikośavīrakośābhyām·</w>
+					          <w xml:id="tok6126">°api</w>
+					          <w xml:id="tok6127">ca</w>
+				        </ab>
+				        <lg xml:id="seq3024" met="Anuṣṭubh" n="I">
+					          <l xml:id="seq2586" n="a">
+						            <w xml:id="tok6128">svadattāṁ</w>
+						            <lb n="28"/>
+						            <w xml:id="tok6129">paradattā</w>
+						            <w xml:id="tok6130">vā</w>
+					          </l>
+					          <l xml:id="seq2589" n="b">
+						            <w xml:id="tok6131">yo</w>
+						            <w xml:id="tok6132">hareta</w>
+						            <w xml:id="tok6133">vasundharā<unclear>m·</unclear>
+						            </w>
+					          </l>
+					          <l xml:id="seq2590" n="c">
+						            <w xml:id="tok6134">gavāṁ</w>
+						            <w xml:id="tok6135">śatasaha<lb n="29" break="no"/>srasya</w>
+					          </l>
+					          <l xml:id="seq2593" n="d">
+						            <w xml:id="tok6137">hantu</w>
+						            <w xml:id="tok6138">pibati</w>
+						            <w xml:id="tok6139">ki<unclear>lbi</unclear>ṣa<unclear>m·</unclear>
+						            </w>
+					          </l>
+				        </lg>
+				        <lg xml:id="seq3025" met="Anuṣṭubh" n="II">
+					          <l xml:id="seq2594" n="a">
+						            <w xml:id="tok6140">ṣaṣṭivarṣasaha<lb n="30" break="no"/>
+							              <pb type="plate" n="5a"/>srāṇi</w>
+					          </l>
+					          <l xml:id="seq2597" n="b">
+						            <w xml:id="tok6142">svargge</w>
+						            <w xml:id="tok6143">modati</w>
+						            <w xml:id="tok6144">bhūmida</w>
+					          </l>
+					          <l xml:id="seq2598" n="c">
+						            <w xml:id="tok6145">°āchettā</w>
+						            <w xml:id="tok6146">cānumantā</w>
+						            <w xml:id="tok6147">ca</w>
+					          </l>
+					          <l xml:id="seq2599" n="d">
+						            <w xml:id="tok6148">tāny</w>
+						            <w xml:id="tok6149">eva</w>
+						            <w xml:id="tok6150">narake</w>
+						            <lb n="31"/>
+						            <w xml:id="tok6151">vaset·</w>
+					          </l>
+				        </lg>
+				        <lg xml:id="seq3026" met="Anuṣṭubh" n="III">
+					          <l xml:id="seq2602" n="a">
+						            <w xml:id="tok6152">tām</w>
+						            <w xml:id="tok6153">eva</w>
+						            <w xml:id="tok6154">rakṣatā</w>
+						            <w xml:id="tok6155">yatnān·</w>
+					          </l>
+					          <l xml:id="seq2603" n="b">
+						            <w xml:id="tok6156">nibodhaḥ</w>
+						            <w xml:id="tok6157">kkr̥itinaḫ</w>
+						            <w xml:id="tok6158">phala<unclear>m·</unclear>
+						            </w>
+					          </l>
+					          <l xml:id="seq2604" n="c">
+						            <w xml:id="tok6159">naikakalpa<lb n="32" break="no"/>sahasrāṇi</w>
+					          </l>
+					          <l xml:id="seq2607" n="d">
+						            <w xml:id="tok6160">divi</w>
+						            <w xml:id="tok6161">devai</w>
+						            <w xml:id="tok6162">sa</w>
+						            <w xml:id="tok6163">divyati</w>
+					          </l>
+				        </lg>
+				        <lg xml:id="seq3027" met="Anuṣṭubh" n="IV">
+					          <l xml:id="seq2608" n="a">
+						            <w xml:id="tok6164">bahubhir</w>
+						            <w xml:id="tok6165">vvasudhā</w>
+						            <w xml:id="tok6166">dattāḥ</w>
+					          </l>
+					          <l xml:id="seq2609" n="b">
+						            <w xml:id="tok6167">bahubhi<lb n="33" break="no"/>ś</w>
+						            <w xml:id="tok6169">cānupālitā</w>
+					          </l>
+					          <l xml:id="seq2612" n="c">
+						            <w xml:id="tok6170">yasya</w>
+						            <w xml:id="tok6171">yasya</w>
+						            <w xml:id="tok6172">yadā</w>
+						            <w xml:id="tok6173">bhūmi</w>
+					          </l>
+					          <l xml:id="seq2613" n="d">
+						            <w xml:id="tok6174">tasya</w>
+						            <w xml:id="tok6175">tasya</w>
+						            <w xml:id="tok6176">tadā</w>
+						            <w xml:id="tok6177">phala<unclear>m·</unclear>
+						            </w>
+					          </l>
+				        </lg>
+				        <ab>
+					          <lb n="34"/>
+					          <w xml:id="tok6178">°ājñapti</w>
+					          <w xml:id="tok6179">svamukhaṁ</w>
+					          <w xml:id="tok6180">pravadamānavijayarājyasa<add place="below">m·</add>
+                  <!-- AG: or read the sign as numeral 10 and hence divasaṁ 10 3 in next line? -->vatsarāṇi</w>
+					          <w xml:id="tok6181">pañcaviśa</w>
+					          <num xml:id="cmp169" value="25">
+						            <num xml:id="tok6182" value="20">20</num>
+						            <num xml:id="tok6183" value="5">5</num>
+					          </num>
+					          <lb n="35"/>
+					          <w xml:id="tok6184">vāsā</w>
+					          <gap reason="illegible" quantity="1" unit="character"/>
+					          <num xml:id="tok6186" value="4">4</num>
+					          <w xml:id="tok6187">divasaṁ</w>
+					          <num xml:id="tok6188" value="3">3</num>
+				        </ab>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="1">
+						            <lem>
+							              <g type="dextrorotatory-spiral"/>
+						            </lem>
+						            <rdg source="eiad-bibl:Fleet">om</rdg>
+					          </app>
+					          <app loc="3-4">
+						            <lem>-diṅmāṇḍalāḷāṅkāra-</lem>
+						            <note>Emend <foreign xml:lang="san-Latn">-diṅmaṇḍalālaṅkāra-</foreign>
+						            </note>
+					          </app>
+					          <app loc="5">
+						            <lem>sūnuḥ</lem>
+						            <note>One has the impression that the <foreign xml:lang="san-Latn">visarga</foreign> is
+							engraved twice.</note>
+					          </app>
+					          <app loc="5">
+						            <lem>-ddhyātaḥ</lem>
+						            <note>Read <foreign xml:lang="san-Latn">-dhyātaḥ</foreign>.</note>
+					          </app>
+					          <app loc="7">
+						            <lem>-pālītaśeṣa-</lem>
+						            <note>Read <foreign xml:lang="san-Latn">-pālitāśeṣa-</foreign>
+						            </note>
+					          </app>
+					          <app loc="9">
+						            <lem>-pann<unclear>ai</unclear>svaryya-</lem>
+						            <note>Read <foreign xml:lang="san-Latn">-pannaiśvarya-</foreign>.</note>
+						            <!--  Is there really any ai here, and not e? -->
+					          </app>
+					          <app loc="8">
+						            <lem>-bhāra</lem>
+						            <note>Emend <foreign xml:lang="san-Latn">-bhāraḥ</foreign>.</note>
+					          </app>
+					          <app loc="10">
+						            <lem>prithivimūlārajaḥ</lem>
+						            <rdg source="eiad-bibl:Fleet">prithivimūlarajaḥ</rdg>
+						            <note>With corrections to <foreign xml:lang="san-Latn">pr̥thivimūlarājaḥ</foreign>.
+							<!-- Perhaps correct further to  pr̥thivīśrīmūlarājaḥ? --></note>
+					          </app>
+					          <app loc="11">
+						            <lem>-kuṭa-</lem>
+						            <note>Read <foreign xml:lang="san-Latn">-kūṭa-</foreign>.</note>
+					          </app>
+					          <app loc="14">
+						            <lem>-maṇalkuḍi-</lem>
+						            <rdg source="eiad-bibl:Fleet">-maṇalkudi(ḍi?)-</rdg>
+					          </app>
+					          <app loc="15">
+						            <lem>-śīta-</lem>
+						            <rdg source="eiad-bibl:Sankaranarayanan1977a">-śīta-</rdg>
+						            <rdg source="eiad-bibl:Fleet">-śita-</rdg>
+					          </app>
+					          <app loc="15">
+						            <lem>asakkr̥d-</lem>
+						            <note>Read <foreign xml:lang="san-Latn">asakr̥d-</foreign>.</note>
+					          </app>
+					          <app loc="17">
+						            <lem>-samutpāṭānābhi-</lem>
+					          </app>
+					          <app loc="18">
+						            <lem>-kkr̥ta-</lem>
+						            <note>Read <foreign xml:lang="san-Latn">-kr̥ta-</foreign>.</note>
+					          </app>
+					          <app loc="19">
+						            <lem>-ruḍha-</lem>
+						            <rdg source="eiad-bibl:Fleet">-ruḍa-</rdg>
+						            <note>It seems we can read <seg type="graphemic">ḍh</seg>; correct <foreign xml:lang="san-Latn">-rūḍha-</foreign>.</note>
+					          </app>
+					          <app loc="20">
+						            <lem>-<unclear>v</unclear>itata-</lem>
+						            <note>
+							              <bibl>
+								                <ptr target="eiad-bibl:Fleet"/>
+							              </bibl> notes that the <seg type="graphemic">v</seg>
+							is imperfect in the bottom stroke.</note>
+					          </app>
+					          <app loc="21">
+						            <lem>svamatā-</lem>
+						            <note>Correct <foreign xml:lang="san-Latn">svamātā-</foreign>
+						            </note>
+					          </app>
+					          <app loc="22">
+						            <lem>-nimitta</lem>
+						            <note>Correct <foreign xml:lang="san-Latn">-nimittam·</foreign> or <foreign xml:lang="san-Latn">-nimittaṁ</foreign>.</note>
+					          </app>
+					          <app loc="23">
+						            <lem>-reṅguṭakampāṟutukurāṇām·</lem>
+						            <rdg source="eiad-bibl:Fleet">-reṅguṭakampāṟutukurāṇām·</rdg>
+						            <rdg source="eiad-bibl:Sankaranarayanan1977a">-reṅguṭa-karmpaṟ-ānukūrāṇām·</rdg>
+						            <note>Fleet’s reading seems distinctly better.</note>
+					          </app>
+					          <app loc="23">
+						            <lem>caturṇṇā</lem>
+						            <note>Correct <foreign xml:lang="san-Latn">caturṇṇām·</foreign> or <foreign xml:lang="san-Latn">caturṇṇāṁ</foreign>.</note>
+					          </app>
+					          <app loc="23">
+						            <lem>grāmāṇā</lem>
+						            <note>Correct <foreign xml:lang="san-Latn">grāmāṇām·</foreign> or <foreign xml:lang="san-Latn">grāmāṇāṁ</foreign>.</note>
+					          </app>
+					          <app loc="24">
+						            <lem>maddhye</lem>
+						            <note>Read <foreign xml:lang="san-Latn">madhye</foreign>.</note>
+					          </app>
+					          <app loc="24">
+						            <lem>°upāddhyāya-</lem>
+						            <note>read <foreign xml:lang="san-Latn">°upādhyāya-</foreign>.</note>
+					          </app>
+					          <app loc="25">
+						            <lem>ticatvāriṁśad</lem>
+						            <note>Emend <foreign xml:lang="san-Latn">tricatvāriṁśad</foreign>.</note>
+					          </app>
+					          <app loc="26">
+						            <lem>grahārīkkr̥tya</lem>
+						            <note>Read <foreign xml:lang="san-Latn">grahārīkr̥tya</foreign>.</note>
+					          </app>
+					          <app loc="26">
+						            <lem>datta</lem>
+						            <note>Correct <foreign xml:lang="san-Latn">dattaḥ</foreign>.</note>
+					          </app>
+					          <app loc="26">
+						            <lem>sarvver</lem>
+						            <note>Correct <foreign xml:lang="san-Latn">sarvair</foreign>.</note>
+					          </app>
+					          <app loc="26">
+						            <lem>paripālaniyo</lem>
+						            <note>Read <foreign xml:lang="san-Latn">paripālanīyo</foreign>.</note>
+					          </app>
+					          <app loc="31">
+						            <lem>yatnān·</lem>
+						            <rdg source="eiad-bibl:Fleet">yatnāt·</rdg>
+					          </app>
+					          <app loc="31">
+						            <lem>kkr̥itinaḫ phala<unclear>m·</unclear>
+						            </lem>
+						            <note>Note combination of <seg type="graphemic">r̥</seg>
+							and <seg type="graphemic">i</seg> vocalisation. The
+							consonant below the <foreign xml:lang="san-Latn">upadhmānīya</foreign> sign looks more like a
+								<seg type="graphemic">p</seg> than the expected
+								<seg type="graphemic">ph</seg>. The presence of
+							small and low <seg type="graphemic">m·</seg> is hard
+							to verify on the plate.</note>
+					          </app>
+					          <app loc="33">
+						            <lem>phala<unclear>m·</unclear>
+						            </lem>
+						            <note>The presence of small and low <seg type="graphemic">m·</seg> is hard to verify on
+							the plate.</note>
+					          </app>
+					          <app loc="34">
+						            <lem>°ājñapti</lem>
+						            <note>Read <foreign xml:lang="san-Latn">°ājñaptiḥ</foreign>?</note>
+					          </app>
+					          <app loc="34">
+						            <lem>pravadamāna-</lem>
+						            <note>Correct <foreign xml:lang="san-Latn">pravarddhamāna-</foreign>.</note>
+					          </app>
+					          <app loc="35">
+						            <lem>vāsā <gap reason="illegible" quantity="1" unit="character"/> 4 divasaṁ 3</lem>
+						            <rdg source="eiad-bibl:Fleet">vāsāka-divasaṁ || 3</rdg>
+						            <note>No trace of any punctuation is visible on the
+							plate. See Sankaranarayanan’s n. 5 for the reading
+							4. Presence of any illegible sign between <foreign xml:lang="san-Latn">vāsā</foreign> and 4 was not
+							assumed by <bibl>
+								                <ptr target="eiad-bibl:Sankaranarayanan1977a"/>
+							              </bibl> and is indeed uncertain.</note>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				        <p>
+					          <seg type="translatedlines">(1–12)</seg> Hail! From the
+					victorious residence at Kāṇḍāli, the illustrious king
+					Pr̥thivī[śrī]mūla, blessed by the feet of his parents;
+					impeccable upholder of all laws on class and stage of life,
+					through [his] intelligence and discrimination produced by
+					[his] perception of the meanings of the words enjoined in
+					revelation and tradition; who had undertaken the heavy
+					burden of sovereignty with the sole purpose of favoring
+					others; devout worshiper of Maheśvara; son of the celebrated
+					great king Śrī Prabhākara, whose fame was the ornament of
+					all quarters of space, whose unsurpassed store of merit had
+					been obtained by the veneration of the feet of gods,
+					brahmins and masters, commands all residents of the district
+					of Tāḻupāka, starting with the governors (<foreign xml:lang="san-Latn">rāṣṭrakūṭa</foreign>), as
+					follows:</p>
+				        <p>
+					          <seg type="translatedlines">(12–27)</seg> ‘Be it known to
+					you that the village called Cūyipāka, amidst the four
+					villages Viḷendi, Reṅguṭa, Kampāṟu and Tukura, has been
+					given to forty-three (Brahmins), born from families of
+					teachers, of various <foreign xml:lang="san-Latn">gotra</foreign>s, belonging to Ātharvaṇika
+					families, by me, after I had received a formal request, for
+					the sake of acquiring merit on behalf of (his) own parents,
+					from the illustrious Indrādhirāja (‘overlord of Indra’),
+					whose abundant and pure fame, spread over the surface of the
+					earth, had been obtained by killing the Kumuda elephant (of
+					the S/SW?) that was intoxicated as it faced the Supratīka
+					elephant (of the NW) that had been mounted (by him) for
+					battle whose clatter was produced by all kings who were
+					pleased at having assembled out of the desire violently to
+					uproot Indrabhaṭṭāraka; (by Indrādhirāja), who was the dear
+					son of Mitavarman, who had more than once obtained victory
+					in elephant combat, who was the moon born in the ocean which
+					was the lineage of brahmins residing in Maṇalkuḍi, famous
+					for giving birth to heaps of jewels of men, radiant and pure
+					by the light of the good conduct and success of their famous
+					ascendants — after I had made it into an <foreign xml:lang="san-Latn">agrahāra</foreign>. It is to be
+					safeguarded by all [of you], particularly by the Hastikośa
+					and the Vīrakośa.’</p>
+				        <p>
+					          <seg type="translatedlines">(27–33)</seg> And also:</p>
+				        <p rend="stanza" n="I">The one who would steal land given by
+					himself or another imbibes the sin of the slayer of of a
+					hundred thousand cows.</p>
+				        <p rend="stanza" n="II">The giver of land revels sixty thousand
+					years in heaven; the one who confiscates [land] as well as
+					the one who approves (of the confiscation) will reside as
+					many [years] in hell.</p>
+				        <p rend="stanza" n="III">Hear the fruit of the virtuous man who
+					protects it scrupulously: during numerous thousands of aeons
+					he plays in heaven with the gods.</p>
+				        <p rend="stanza" n="IV">By numerous [kings], land has been
+					given; and by many it has been protected. Whoever holds land
+					at a given moment, to him does the fruit then belong.</p>
+				        <p>
+					          <seg type="translatedlines">(34–35)</seg> The executor is
+					[the king’s] own mouth. Twenty-five 25 years of [his]
+					prosperous, victorious reign. [Fortnight] 4 of the rains.
+					Day 3.</p>
+			      </div>
+			      <!--<div type="commentary">
+				<listApp>
+					<app loc="1">
+						<note></note>
+					</app>
+					</listApp>
+			</div>-->
+			      <div type="bibliography">
+				        <p>First described and edited by <bibl>
+						            <ptr target="eiad-bibl:Fleet"/>
+					          </bibl> and then by <bibl>
+						            <ptr target="eiad-bibl:Sankaranarayanan1977a"/>:
+							<citedRange>182-4 (XI)</citedRange>
+					          </bibl>. Re-edited here from published documentation.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+						            <ptr target="eiad-bibl:Fleet1881"/>: <citedRange>244,
+							no. 9.</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Kielhorn1899"/>: <citedRange>no.
+							688.</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Bhandarkar1983"/>:
+							<citedRange>no. 1904.</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Griffiths2007"/>: <citedRange>no.
+							5.</citedRange>
+					          </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

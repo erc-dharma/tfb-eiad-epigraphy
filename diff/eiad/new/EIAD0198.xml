@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-06-06T10:30:28.773+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 198
+[2] Raghunath no.: 
+[3] Srinivasan & Sankaranarayanan no.: 
+[4] Tsukamoto no.: 
+[5] Lüders no.: 
+[6] Support : Buddhapāda
+[7] (Faces:) Lines: 1
+[8] H: 
+[9] W: 
+[10] D: 
+[11] H: 
+[12] W: 
+[13] Language(s): MIA
+[14] Original locality: Nandalur, Rajampet Tk., Kadapa Dt. — on the hill Lanjakanumagutta
+[15] Present locality: unknown
+[16] Primary bibliography: Hanumantha Rao et al. 1998: 125.
+[17] Secondary bibliography: Ramachandra Murthy 2006: 8, 11.
+[18] Visual documentation: Ramachandra Murthy 2006: 39. 
+[19] Substance of inscription: 
+[20] Remarks: 
+[21] : 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Buddhapāda from Nandalur</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+               <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </editor>
+            <editor role="general">
+               <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+                  <surname>Strauch</surname>
+               </persName>
+				        </editor>
+            <editor role="general">
+               <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+                  <surname>Tournier</surname>
+               </persName>
+            </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+                  <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+                  <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+                  <forename>Emmanuelle</forename>
+                  <surname>Morlock</surname>
+               </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+                  <forename>Andrew</forename>
+                  <surname>Ollett</surname>
+               </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0198</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+                  <p>Copyright (c)
+							2017 by Stefan Baums, Arlo Griffiths, Ingo Strauch and Vincent
+							Tournier.</p>
+                  <p>This work is licensed under the Creative Commons
+							Attribution 3.0 Unported License. To view a copy of this license, visit
+							http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative
+							Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041,
+							USA.</p>
+               </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0198_inv-eiad" type="inv-eiad">EIAD 198</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>unavailable</repository>
+							              <idno xml:id="EIAD0198_museum-inventory">unavailable</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indo-Aryan, Southern
+								Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+                           <p>
+                              <objectType>Buddhapāda</objectType>; <dimensions unit="cm">
+											                      <height>unavailable</height>
+											                      <width>unavailable</width>
+											                      <depth>unavailable</depth>
+										                    </dimensions>.</p>
+                        </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout writtenLines="1">
+                           <dimensions unit="cm">
+										                    <height>unavailable</height>
+										                    <width>unavailable</width>
+									                  </dimensions>.</layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote>According to Ramachandra Murthy, <cit>
+									                  <quote>[t]his slab is represented with a prominent wheel in the
+										sole. Behind this, in the heel portion is a <hi rend="italic">Tri-ratna</hi> motif, flanked by
+										ornamented <hi rend="italic">Swastika</hi> symbols, while on
+										the front is a <hi rend="italic">Nandipada</hi> flanked by
+										Taurine symbols (hour-glass shaped). On the sides are seen a
+										goad and <hi rend="italic">Purnaghata</hi> symbols. The five
+										toes in front bear a <hi rend="italic">Tri-ratna</hi> on the
+										1st finger and the remaining four fingers bear <hi rend="italic">Swastika</hi>
+										symbols at the tip. The border has beautifully carved
+										foliage motifs. In the corner is carved a mythical crocodile
+										with the tail in the shape of that of a fish.</quote>
+									                  <bibl>
+                              <ptr target="eiad-bibl:Ramachandra_Murthy2006a"/>:
+											<citedRange>11</citedRange>
+                           </bibl>
+								                </cit>.</decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+                     <origPlace>
+                        <placeName>Nandalur</placeName>,
+									<placeName>Rajampet</placeName> taluk,
+									<placeName>Kadapa</placeName> district, on the hill
+								<placeName>Lanjakanumagutta</placeName>
+                     </origPlace>
+							              <origDate calendar="Julian"
+                               notBefore="0001"
+                               notAfter="0200"
+                               precision="low"> Undated. Attributable to the period between the 1st
+								and the 2nd century CE on palaeographic grounds.
+							</origDate>
+                  </origin>
+						            <provenance type="found">
+							              <p>Discovered near the Mahāstūpa of the site. The precise date of discovery is unknown.</p>
+						            </provenance>
+						            <provenance type="observed">
+							<!-- Modern location(s) (if different from repository, above); is used to encode information about subsequent modern observation --></provenance>
+						            <provenance type="not-observed" notBefore="2016">
+							              <p>Not identified during fieldwork from February 2016 onward.</p>
+						            </provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates><!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl>Ramachandra Murthy 2006: 39</bibl>
+							              </listBibl>
+                  </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan, romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines and the latest
+				Schema version <ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+         </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-06-06">Creation of the file - automatic
+				conversion.</change>
+			      <change who="#CC" when="2017-06-20">Merging with READ file</change>
+			      <change who="#MS" when="2017-07-06">Hid commentary div as comment.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic url="photograph_of_text_or_monument">
+			      <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab>
+               <lb n="1"/>
+               <gap reason="lost" extent="unknown"/>
+					          <milestone unit="fragment" n="lost"/>
+               <w xml:id="tok6876">n<unclear>e</unclear>yasa</w>
+					          <w xml:id="tok6877">vinayadharasa</w>
+					          <w xml:id="tok6878">budhino</w>
+					          <w xml:id="tok6879">deyadhama</w>
+				        </ab>
+			      </div>
+			      <!--<div type="apparatus">
+				[Revision required] 
+				<app loc="lineNumber">
+					<lem/>
+					<rdg source="eiad-bibl:identifier"/>
+					<note/>
+				</app>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<ab/>
+			</div>
+			<div type="commentary">
+				[Revision required]
+				<listApp>
+					<app loc="lineNumber">
+						<note/>
+					</app>
+				</listApp>
+			</div>-->
+			      <div type="bibliography">
+				        <p>First published by <bibl>
+                  <ptr target="eiad-bibl:Hanumantha_Rao1998"/>: <citedRange>125</citedRange>
+               </bibl>. Re-edited here from published documentation.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+                  <ptr target="eiad-bibl:Ramachandra_Murthy2006a"/>: <citedRange>8, 11</citedRange>
+               </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

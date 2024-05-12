@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-03-16T17:42:40.642+01:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 50.2
+[2] Raghunath no.: 33
+[3] Srinivasan & Sankaranarayanan no.: 41
+[4] Tsukamoto no.: —
+[5] Lüders no.: 
+[6] Support : stela, shattered, recomposed
+[7] (Faces:) Lines: 6
+[8] H: 101
+[9] W: 47-51
+[10] D: 20
+[11] H: 57
+[12] W: 47
+[13] Language(s): Sanskrit
+[14] Original locality: Nagarjunakonda Site-99, Karttikeya Swami Temple
+[15] Present locality: NM 789
+[16] Primary bibliography: Chhabra 1959-60a.
+[17] Secondary bibliography: ARIE 1957-58: 3, B.5. — Raghunath 2001: 142-3 (33).
+[18] Visual documentation: Chhabra; Raghunath.
+[19] Substance of inscription: construction of a temple for Sarvadeva
+[20] Remarks: 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Stone stela from site 99 at Nagarjunakonda — reign of
+					Siri-Ehavalacāntamūla, year 11</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+						            <surname>Strauch</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+						            <forename>Emmanuelle</forename>
+						            <surname>Morlock</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0050-2</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths,
+							Ingo Strauch and Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons
+							Attribution 3.0 Unported License. To view a copy of
+							this license, visit
+							http://creativecommons.org/licenses/by/3.0/ or send
+							a letter to Creative Commons, 444 Castro Street,
+							Suite 900, Mountain View, California, 94041,
+							USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0050-2_inv-eiad" type="inv-eiad">EIAD
+							50-2</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Nagarjunakonda Museum</repository>
+							              <idno xml:id="EIAD0050-2_museum-inventory">789</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="san-Brah">Sanskrit language, Southern Brāhmī 								script
+								script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>Stone <objectType>stela</objectType>,
+										shattered and recomposed; <dimensions unit="cm">
+										                       <height>101</height>
+										                       <width>47-51</width>
+										                       <depth>20</depth>
+										                    </dimensions>.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout>
+									                  <dimensions unit="cm">
+										                    <height>57</height>
+										                    <width>47</width>
+									                  </dimensions>
+								                </layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote><!-- description of decoration or iconography --></decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>
+                        <placeName type="modern" key="eiad-geo:NK">Nagarjunakonda</placeName>
+                     </origPlace>
+							              <origDate calendar="Julian"
+                               notBefore="0250"
+                               notAfter="0300"
+                               precision="low">Eleventh regnal
+								year of Ehavalaśrī (i.e.,
+								Siri-Ehavalacāntamūla), approximately between
+								250 and 300 CE.</origDate>
+						            </origin>
+						            <provenance type="found" notBefore="1956" notAfter="1957-07">
+							              <p>Found at Site-99 in the 1956-57 season, and first
+								noticed by Chhabra during his epigraphical tour
+								in July 1957.</p>
+						            </provenance>
+						            <provenance type="observed" when="2016-02">
+							              <p>Identified at Nagarjunakonda Museum (acc. no.
+								789) in February 2016. </p>
+						            </provenance>
+						            <provenance type="not-observed">
+							<!-- information about a specific, unsuccessful attempt to locate an object in a presumed or previously recorded location --></provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates>
+							<!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl>photos JM 2017</bibl>
+								                <bibl>photos AL 2017</bibl>
+								                <bibl>IAR 1956-57: pl. LIX</bibl>
+								                <bibl>Chhabra</bibl>
+							              </listBibl>
+							              <listBibl ana="#photo-estampage">
+								                <bibl>Raghunath</bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="san-Latn">Sanskrit language,
+					romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines
+				and the latest Schema version
+					<ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of
+							estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-02-25">Creation of the file - automatic
+				conversion.</change>
+			      <change who="#CC" when="2017-04-08">Merging with READ file</change>
+			      <change who="#AG" when="2017-04-21">Corrected previous work by
+				CC</change>
+			      <change who="#AG" when="2017-04-22">Added IAR reference, modified
+				provenance, surrogates</change>
+			      <change who="#MS" when="2017-06-04">Added listApp in apparatus and
+				organised surrogates.</change>
+			      <change who="#MS" when="2017-06-09">Hid commentary div as
+				comment.</change>
+			      <change who="#MS" when="2017-06-19">Modified title.</change>
+			      <change who="#AG" when="2017-06-22">Modified encoding of verses and translation.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic xml:id="EIAD0050_2_image-general" url="EIAD0050_2_0.jpg" n="1">
+			      <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+		    </graphic>
+		    <graphic xml:id="EIAD0050_2_image-text-1" url="EIAD0050_2_1.jpg" n="2">
+			      <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+		    </graphic>
+		    <graphic xml:id="EIAD0050_2_image-text-2" url="EIAD0050_2_2.jpg" n="3">
+			      <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="san-Latn">
+				        <ab>
+					          <lb n="1"/>
+					          <w xml:id="tok2727">siddham·</w>
+					          <pc>||</pc>
+					          <pc>–</pc>
+				        </ab>
+				        <lg xml:id="seq975" met="Anuṣṭubh" n="I">
+					          <l xml:id="seq3069" n="a">
+						            <w xml:id="tok6871">
+							              <unclear>va</unclear>rṣa</w>
+						            <w xml:id="tok2729">°ekā<unclear>da</unclear>śe</w>
+						            <w xml:id="tok2730">rājñaḫ</w>
+					          </l>
+					          <l xml:id="seq3070" n="b">
+						            <w xml:id="tok2731">p<unclear>ra</unclear>bho<supplied reason="lost">r</supplied>
+						            </w>
+						            <w xml:id="tok2732">
+							              <supplied reason="lost">ehavala</supplied>śriyaḥ</w>
+					          </l>
+					          <l xml:id="seq3071" n="c">
+						            <lb n="2"/>
+						            <w xml:id="tok2733">śuklapakṣas<unclear>ya</unclear>
+						            </w>
+						            <w xml:id="tok2734">
+							              <unclear>m</unclear>
+                     <supplied reason="lost">āghasya</supplied>
+						            </w>
+					          </l>
+					          <l xml:id="seq3072" n="d">
+						            <w xml:id="tok2735">
+							              <supplied reason="lost">puṇya</supplied>
+						            </w>
+						            <w xml:id="tok2736">
+							              <supplied reason="lost">°ekādaśe</supplied>
+						            </w>
+						            <w xml:id="tok2737">
+							              <unclear>ha</unclear>ni</w>
+						            <pc>–</pc>
+					          </l>
+				        </lg>
+				        <lg xml:id="seq981" met="sragdharā" n="II">
+					          <l xml:id="seq3073" n="a">
+						            <lb n="3"/>
+						            <w xml:id="tok2739">
+							              <unclear>dev</unclear>e</w>
+						            <w xml:id="tok2740">
+							              <unclear>ya</unclear>s<unclear>y</unclear>ā<unclear>t</unclear>i<supplied reason="lost">bhaktir</supplied>
+						            </w>
+						            <w xml:id="tok2741">
+							              <supplied reason="lost">hutavahatanaye</supplied>
+						            </w>
+						            <w xml:id="tok2742">caṇḍaśaktau</w>
+						            <w xml:id="tok2743">kumāre</w>
+					          </l>
+					          <l xml:id="seq3074" n="b">
+						            <lb n="4"/>
+						            <w xml:id="tok2744">
+							              <supplied reason="lost">pautras</supplied>
+						            </w>
+						            <w xml:id="tok2745">
+							              <supplied reason="lost">senāpater</supplied>
+						            </w>
+						            <w xml:id="tok2746">
+							              <unclear>yya</unclear>s</w>
+						            <w xml:id="tok2747">s<unclear>amara</unclear>
+                     <supplied reason="lost">vijayina</supplied>ẖ</w>
+						            <w xml:id="tok2748">kkhyātakīrtter</w>
+						            <w xml:id="tok2749">aṇikkeḥ</w>
+					          </l>
+					          <l xml:id="seq3075" n="c">
+						            <lb n="5"/>
+						            <w xml:id="tok2750">
+							              <supplied reason="lost">p</supplied>
+                     <unclear>r</unclear>
+                     <supplied reason="lost">āsāda</supplied>
+                     <unclear>ṅ</unclear>
+						            </w>
+						            <w xml:id="tok2751">g<supplied reason="lost">ā</supplied>ṇḍ<supplied reason="lost">i</supplied>
+                     <unclear>p</unclear>u<supplied reason="lost">t</supplied>
+                     <unclear>t</unclear>ras</w>
+						            <w xml:id="tok2752">sa</w>
+						            <w xml:id="tok2753">talavaravaraẖ</w>
+						            <w xml:id="tok2754">kārttikeyapprasādāt·</w>
+					          </l>
+					          <l xml:id="seq3076" n="d">
+						            <lb n="6"/>
+						            <w xml:id="tok2755">°eliśrīś</w>
+						            <w xml:id="tok2756">śrīviśālaṁ</w>
+						            <w xml:id="tok2757">
+							              <unclear>ś</unclear>ubhamatir</w>
+						            <w xml:id="tok2758">akaro<unclear>t</unclear>
+						            </w>
+						            <w xml:id="tok2759">
+							              <unclear>sa</unclear>rvvadevādhivāsam·</w>
+						            <pc>–</pc>
+					          </l>
+				        </lg>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="5">
+						            <lem>-sādāt·</lem>
+						            <note>Chhabra notes that sandhi has not been observed at
+							the end of pāda c, but this seems normal rather than
+							noteworthy.</note>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				        <p>Success!</p>
+				        <p rend="stanza" n="I">In the eleventh year of the king, the lord
+					Ehavalaśrī, on the auspicious eleventh day of the bright
+					fortnight of (month) Māgha,</p>
+				        <p rend="stanza" n="II"> the excellent Talavara Eliśrī,
+					of bright intellect, whose intense devotion (is directed)
+					towards the god Kumāra, the son of Fire, of fierce strength,
+					grandson of the general Aṇikki who was victorious in battles
+					and whose fame is widely known, son of Gāṇḍi, by the grace
+					of Kārttikeya made (this) temple, abounding in good fortune,
+					the abode of Sarvadeva (i.e. Śiva).</p>
+			      </div>
+			      <!--<div type="commentary">
+				<app>
+				</app>
+				<listApp>
+					<app loc="lineNumber">
+						<note>@loc = number of the line commented here in the note element.</note>
+					</app>
+				</listApp>
+			</div>-->
+			      <div type="bibliography">
+				        <p>
+					          <bibl>
+						            <ptr target="eiad-bibl:Chhabraa"/>: <citedRange>147</citedRange>
+               </bibl> reported
+					that this inscription <cit>
+                  <quote>is found in six or seven
+						versions, all broken fragments, not a single version
+						having been found in its entirety. It took me some hours
+						to dovetail the fragments till the discovered and kept
+						in the site museum at Nāgārjunakoṇḍa. Many of the
+						fragments are still missing. I was, however, able to
+						restore the complete text by deciphering the extant
+						parts on the various fragments. The facsimile on Plate A
+						shows the greater part of one of the versions, while
+						those on Plate B represent parts of two more
+						versions</quote>
+               </cit>. The three versions whose images were
+					published by Chhabra correspond to the three stelae we
+					documented. See also EIAD <ref target="#EIAD0050-1">50-1</ref> and <ref target="#EIAD0050-3">50-3</ref>.
+					Only a synthetic edition was published by <bibl>
+						            <ptr target="eiad-bibl:Chhabraa"/>
+					          </bibl>. This version is edited here for the first time from
+					published documentation and after autopsy of the stone.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+						            <ptr target="eiad-bibl:zoteroItem_R4S8D3K2"/>
+						            <citedRange>1956-57: 36</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:zoteroItem_G9CH6AGA"/>
+						            <citedRange>1957-58: 3, no. B.5</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Srinivasan1979a"/>:
+							<citedRange>no. 41</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:zoteroItem_G9CH6AGA"/>
+						            <citedRange>1995-96: no. B.10</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Raghunath2001"/>:
+							<citedRange>142-3 (no. 33)</citedRange>
+					          </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

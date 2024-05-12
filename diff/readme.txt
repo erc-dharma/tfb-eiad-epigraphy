@@ -1,0 +1,1 @@
+In practice, you should only need to look at diff.html. I included the original compared files in the archive in case you need more context for comparing passages (there are 5 lines of context in the diff file, which might not be enough).

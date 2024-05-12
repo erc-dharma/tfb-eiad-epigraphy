@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-03-29T17:32:11.51+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 80
+[2] Raghunath no.: 61
+[3] Srinivasan & Sankaranarayanan no.: 54
+[4] Tsukamoto no.: Naga 46
+[5] Lüders no.: 
+[6] Support : Āyaka frieze
+[7] (Faces:) Lines: 2
+[8] H: 33
+[9] W: 120
+[10] D: 19
+[11] H: 100
+[12] W: 3
+[13] Language(s): MIA
+[14] Original locality:  Nagarjunakonda Site-6
+[15] Present locality: NM 592
+[16] Primary bibliography: Vogel 1929–30: 25 (J).
+[17] Secondary bibliography: ARIE 1945-46: B.194. — Raghunath 2001: 180 (61).
+[18] Visual documentation: Rosen Stone 1994, ill. 33.
+[19] Substance of inscription: gift of a slab and coping stone
+[20] Remarks: see note VT in text file on provenance
+[21] : 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Āyaka frieze from site 6 at Nagarjunakonda</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+						            <surname>Strauch</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+						            <forename>Emmanuelle</forename>
+						            <surname>Morlock</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+						            <forename>Andrew</forename>
+						            <surname>Ollett</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0080</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths, Ingo Strauch and
+							Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons Attribution 3.0 Unported
+							License. To view a copy of this license, visit
+							http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative
+							Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041,
+							USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0080_inv-eiad" type="inv-eiad">EIAD 80</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Nagarjunakonda Museum</repository>
+							              <idno xml:id="EIAD0080_museum-inventory">592</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indo-Aryan, Southern
+								Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <objectType>Āyaka frieze</objectType>; <dimensions unit="cm">
+											                      <height>33</height>
+											                      <width>120</width>
+											                      <depth>19</depth>
+										                    </dimensions>.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout>
+									                  <dimensions unit="cm">
+										                    <height>100</height>
+										                    <width>3</width>
+									                  </dimensions>
+								                </layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote> Inscription engraved below a frieze representing a throne and Dharmacakra revered by princely figures and flanked on either sides by <foreign xml:lang="pra-Latn">mithuna</foreign>s.
+								<!--<quote>This inscription is engraved on a stone frieze showing a
+									figure of the Dharmacakra flanked, either side, by the mithuna
+									figures.</quote>
+								<bibl>
+									<ptr target="eiad-bibl:Raghunath2001"/>:
+										<citedRange>180</citedRange>
+								</bibl>.-->
+						</decoNote>
+                  </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>
+                        <placeName type="modern" key="eiad-geo:NK">Nagarjunakonda</placeName>
+                     </origPlace>
+							              <origDate calendar="Julian"
+                               notBefore="0250"
+                               notAfter="0350"
+                               precision="low">Undated. Attributable to the period 250-350 CE on
+								palaeographic grounds.</origDate>
+						            </origin>
+						            <provenance type="found" notBefore="1927" notAfter="1928">
+							              <p>Discovered between 1927 and 1928 at Site-6, near the Mahācaitya, in
+								the course of excavations.
+								<!-- Note VT, in discussion with AS: There is
+                                no clear provenance for this piece, and the only reason for which it
+                                has been attached to site 1 is the mention of the Mahācetiya in l.
+                                2. There is however, a problem of circularity in the reasoning that
+                                have grouped all inscriptions mentioning the Mahācetiya under the
+                                assumption that they are connected to site 1, before using the
+                                epigraphic reference to contend that no other Cetiya at the site was
+                                called a Mahācetiya. Hence, the reasoning put forward in Rosen Stone
+                                1994: 24-31, to suggest that the Mahācetiya might—in spite of
+                                Longhurst’s report according to which no sculpture had been found
+                                from site 1—have been adorned, bearing at least āyaka frises such as
+                                NM 592 (= EIAD 80) appears particularly weak. On stylistic grounds
+                                (see in particular the rows of three vertical lotuses that separate
+                                each register and the rows of birds and pearls running on the lower
+                                part of the frise), in terms of dimensions (with H = 33 to 33.5 cm
+                                in both EIAD 80, and 81 + 90, the latter of which certainly belong
+                                to site 6), there is good argument to link this particular piece to
+                                site 6 as well. The paleography and the phraseology of the two
+                                inscriptions is also very similar, which strengthens the argument.
+                                If this reasoning is acceptable, then this would have implications
+                                for our understanding of the site, since this would suggest that
+                                stūpa no. 6 might have been called a Mahācetiya before or along with
+                                site 1. -->
+							</p>
+							              <!-- CC: Do I have to leave this commentary ? -->
+						            </provenance>
+						            <provenance type="observed" when="2016-02">
+							              <p>Inscription identified at Nagarjunakonda Museum (acc. no. 592) in
+								February 2016.</p>
+						            </provenance>
+						            <provenance type="not-observed">
+							<!-- information about a specific, unsuccessful attempt to locate an object in a presumed or previously recorded location --></provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates><!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl>Rosen Stone 1994, ill. 33.</bibl>
+								                <bibl>photos AL 2017</bibl>
+							              </listBibl>
+							              <listBibl ana="#rti">
+								                <bibl>RTI JM 2017</bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan, romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines and the latest
+				Schema version <ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-02-25">Creation of the file - automatic
+				conversion.</change>
+			      <change who="#CC" when="2017-04-29">Merging with READ file</change>
+			      <change who="#MS" when="2017-06-03">Added listApp and organised surrogates.</change>
+			      <change who="#MS" when="2017-06-20">Modified title.</change>
+			      <change who="#MS" when="2017-07-01">Killed unwanted spaces in edition.</change>
+			      <change who="#VT" when="2017-07-10">Modified translation and support description.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic url="photograph of text or monument">
+			      <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab>
+					          <lb n="1"/>
+					          <w xml:id="tok4273">sidhaṁ</w>
+					          <w xml:id="tok4274">nāmo</w>
+					          <w xml:id="tok4275">bhagavato</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok4277">°agapogalasa</w>
+					          <w xml:id="tok4278">budhasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok4280">chadakapavaticana</w>
+					          <w xml:id="tok4281">padumavāniya</w>
+					          <w xml:id="tok4282">gharaniya</w>
+					          <w xml:id="tok4283">sagaya</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok4285">saputakāna</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok4287">hagasirisa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok4289">sigasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok4291">nāgutarasa</w>
+					          <w xml:id="tok4292">ca</w>
+					          <w xml:id="tok4293">sabhaja<unclear>yā</unclear>
+					          </w>
+					          <gap reason="lost" extent="unknown"/>
+					          <lb n="2"/>
+					          <w xml:id="tok4295">saputikāna</w>
+					          <w xml:id="tok4296">ca</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok4298">deyadhaṁma</w>
+					          <w xml:id="tok4299">paṭo</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok4301">°unisā</w>
+					          <w xml:id="tok4302">ca</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok4304">mahācetiye</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok4306">patiṭhāvito</w>
+					          <pc>–</pc>
+				        </ab>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="1">
+						            <lem>nāmo</lem>
+						            <rdg source="eiad-bibl:Vogeld">namo</rdg>
+						            <note>Emend accordingly.</note>
+					          </app>
+					          <app loc="1">
+						            <lem>chadakapavaticana</lem>
+						            <rdg source="eiad-bibl:Vogeld">chadakapavatic<unclear>e</unclear>na</rdg>
+					          </app>
+					          <app loc="1">
+						            <lem>saputakāna</lem>
+						            <rdg source="eiad-bibl:Vogeld">saputakānaṁ</rdg>
+					          </app>
+					          <app loc="1">
+						            <lem>sigasa</lem>
+						            <rdg source="eiad-bibl:Vogeld">sagasa</rdg>
+					          </app>
+					          <app loc="1">
+						            <lem>nāgutarasa ca sabhaja<unclear>yā</unclear>
+						            </lem>
+						            <rdg source="eiad-bibl:Vogeld">nagatarasa ca sabhaja<unclear>sa</unclear>
+						            </rdg>
+					          </app>
+					          <app loc="1">
+						            <lem>sabhaja<unclear>yā</unclear>
+						            </lem>
+						            <rdg source="eiad-bibl:Vogeld">sabhajasa</rdg>
+					          </app>
+					          <app loc="2">
+						            <lem>saputikāna</lem>
+						            <rdg source="eiad-bibl:Vogeld">saputikāna<unclear>ṁ</unclear>
+						            </rdg>
+					          </app>
+					          <app loc="2">
+						            <lem>deyadhaṁma</lem>
+						            <rdg source="eiad-bibl:Vogeld">deyadham<unclear>o</unclear>
+						            </rdg>
+					          </app>
+					          <app loc="2">
+						            <lem>°unisā</lem>
+						            <rdg source="eiad-bibl:Vogeld">unisa</rdg>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				        <ab>Success! Homage to the Bhagavant, the highest man, the Buddha. A slab and a
+					coping stone were established as pious gift at the Great Shrine by Sagā, distinguished wife of (?) Padumavāniya of the Chadakapavaticas, together with her sons, (i.e.) Hagasiri, Siga and Nāgutara, together with their wifes (...), and together with their daughters.</ab>
+			      </div>
+			      <div type="commentary">
+				        <listApp>
+					          <app>
+						            <note>Vogel notes: <quote>The transcript and translation of inscriptions J
+								and K should be regarded as provisional</quote>
+							              <bibl>
+								                <ptr target="eiad-bibl:Vogeld"/>
+							              </bibl>.</note>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="bibliography">
+				        <p>First edited and described by <bibl>
+						            <ptr target="eiad-bibl:Vogeld"/>: <citedRange>25 (J)</citedRange>
+					          </bibl>. Re-edited here from published documentation and after autopsy of the
+					stone.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+						            <ptr target="eiad-bibl:zoteroItem_G9CH6AGA"/>
+						            <citedRange>1945-46: B.194</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Srinivasan1979a"/>: <citedRange>no. 54</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Raghunath2001"/>: <citedRange>180 (61)</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Tsukamoto1996"/>: <citedRange>no. Naga 46</citedRange>
+					          </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-05-04T13:35:14.205+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 117
+[2] Raghunath no.: —
+[3] Srinivasan & Sankaranarayanan no.: 
+[4] Tsukamoto no.: —
+[5] Lüders no.: 
+[6] Support : fragment, limestone
+[7] (Faces:) Lines: 5
+[8] H: 39
+[9] W: 10.5
+[10] D: 7.5
+[11] H: 29
+[12] W: 10
+[13] Language(s): MIA
+[14] Original locality: Phanigiri
+[15] Present locality: TSAM
+[16] Primary bibliography: unpublished
+[17] Secondary bibliography: 
+[18] Visual documentation: 
+[19] Substance of inscription: 
+[20] Remarks: 
+[21] : 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Pillar from Phanigiri</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+						            <surname>Strauch</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+						            <forename>Emmanuelle</forename>
+						            <surname>Morlock</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+						            <forename>Andrew</forename>
+						            <surname>Ollett</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0117</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths,
+							Ingo Strauch and Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons
+							Attribution 3.0 Unported License. To view a copy of
+							this license, visit
+							http://creativecommons.org/licenses/by/3.0/ or send
+							a letter to Creative Commons, 444 Castro Street,
+							Suite 900, Mountain View, California, 94041,
+							USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0117_inv-eiad">EIAD 117</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Telangana State Archaeological
+								Museum</repository>
+							              <idno xml:id="EIAD0117_museum-inventory">without an
+								acc. num.</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle
+								Indo-Aryan, Southern Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>Fragment of a
+										<objectType>pillar</objectType> in
+										<material>limestone</material>;
+										<dimensions unit="cm">
+											                      <height>39</height>
+											                      <width>10.5</width>
+											                      <depth>7.5</depth>
+										                    </dimensions>.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout writtenLines="5">
+									                  <dimensions unit="cm">
+										                    <height>29</height>
+										                    <width>10</width>
+									                  </dimensions>
+								                </layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote><!-- description of decoration or iconography --></decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>
+                        <placeName>Phanigiri</placeName>
+                     </origPlace>
+							              <origDate type="found"
+                               calendar="Julian"
+                               notBefore="0200"
+                               notAfter="0350"
+                               precision="low">Attributable to the Ikṣvāku period on
+								palaeographic grounds.</origDate>
+						            </origin>
+						            <provenance type="found">
+							              <p>Nothing is known about date and location of
+								discovery of this stone fragment.</p>
+						            </provenance>
+						            <provenance type="observed" when="2016-02">
+							              <p>Identified at the Telangana State Archaeological
+								Museum in February 2016.</p>
+						            </provenance>
+						            <provenance type="not-observed">
+							<!-- information about a specific, unsuccessful attempt to locate an object in a presumed or previously recorded location --></provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates><!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl>photos AL 2017</bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan,
+					romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines
+				and the latest Schema version
+					<ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of
+							estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-02-25">Creation of the file - automatic
+				conversion.</change>
+			      <change who="#MS" when="2017-05-13">Merging with READ data.</change>
+			      <change who="#MS" when="2017-06-03">Organised surrogates.</change>
+			      <change who="#MS" when="2017-06-09">Hid commentary div as comment.</change>
+			      <change who="#MS" when="2017-06-20">Modified title.</change>
+			      <change who="#MS" when="2017-07-03">Killed unwanted spaces in edition and apparatus.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic url="photograph of text or monument">
+			      <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab>
+					          <lb n="1"/>
+					          <milestone unit="fragment" type="lost" subtype="left"/>
+					          <w xml:id="tok4956">
+                  <unclear>m</unclear>
+                  <gap reason="illegible" quantity="1" unit="aksarapart"/>ṇabhavanasa<milestone unit="fragment" type="lost" subtype="right"/>
+               </w>
+					          <lb n="2"/>
+					          <w xml:id="tok4958">
+                  <supplied reason="lost">ba</supplied>
+                  <milestone unit="fragment" type="lost" subtype="left"/>
+                  <unclear>mha</unclear>nakavaṇavaṇi<milestone unit="fragment" type="lost" subtype="right"/>
+                  <supplied reason="lost">jaka</supplied>
+               </w>
+					          <lb n="3"/>
+					          <milestone unit="fragment" type="lost" subtype="left"/>
+					          <w xml:id="tok4961">
+                  <unclear>b</unclear>āhake</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok4963">parama</w>
+					          <gap reason="illegible" quantity="1" unit="character"/>
+					          <milestone unit="fragment" type="lost" subtype="right"/>
+					          <lb n="4"/>
+					          <milestone unit="fragment" type="lost" subtype="left"/>
+					          <gap reason="illegible" quantity="1" unit="character"/>
+					          <w xml:id="tok4968">kārimahāvi<unclear>hā</unclear>
+                  <milestone unit="fragment" type="lost" subtype="right"/>
+                  <supplied reason="lost">r</supplied>
+                  <gap reason="lost" quantity="1" unit="aksarapart"/>
+               </w>
+					          <lb n="5"/>
+					          <gap reason="lost" extent="unknown"/>
+					          <w xml:id="tok4970">
+						            <gap reason="illegible" quantity="1" unit="aksarapart"/>ṁ</w>
+					          <gap reason="lost" quantity="2" unit="character"/>
+					          <w xml:id="tok4975">
+                  <gap reason="illegible" quantity="1" unit="aksarapart"/>i</w>
+					          <milestone unit="fragment" type="lost" subtype="right"/>
+				        </ab>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="1">
+						            <lem>
+							              <unclear>m</unclear>
+                     <gap reason="illegible" quantity="1" unit="aksarapart"/>ṇabhavanasa<milestone unit="fragment" type="lost" subtype="right"/>
+                  </lem>
+						            <!--MS: The edition differs from the lemma here : it has [m].ṇabhavanasa and not -ṇaṇabhavanasa-->
+						            <note>There might be what is left of an anusvāra on top
+							of the <seg type="graphemic">sa</seg>.</note>
+					          </app>
+					          <app loc="2">
+						            <lem>
+                     <supplied reason="lost">ba</supplied>
+                     <milestone unit="fragment" type="lost" subtype="left"/>
+                     <unclear>mha</unclear>nakavaṇavaṇi<milestone unit="fragment" type="lost" subtype="right"/>
+                     <supplied reason="lost">jaka</supplied>
+                  </lem>
+						            <note>The reconstruction is conjectural, and is inspired
+							by similar formulae in the Nagarjunakonda corpus.
+							The first akṣara of the line is very damaged, and we
+							are unable to recognise what remains of a <seg type="graphemic">mha</seg>. We can see three
+							small horizontal strokes, which could rather be read
+							as <seg type="graphemic">
+                        <unclear>ja</unclear>
+                     </seg>.</note>
+					          </app>
+					          <app loc="3">
+						            <lem>parama <gap reason="illegible" quantity="1" unit="character"/>
+						            </lem>
+						            <note>The last akṣara might be read as <seg type="graphemic">
+								                <unclear>se</unclear>
+							              </seg> or <seg type="graphemic">
+								                <unclear>te</unclear>
+							              </seg>.</note>
+					          </app>
+					          <app loc="4">
+						            <lem>
+							              <gap reason="illegible" quantity="1" unit="character"/>
+							kārimahāvi<unclear>hā</unclear>
+                     <milestone unit="fragment" type="lost" subtype="right"/>
+                     <supplied reason="lost">r</supplied>
+                     <gap reason="illegible" quantity="1" unit="aksarapart"/>
+                  </lem>
+						            <note>This probably refers to the name of the <foreign xml:lang="san-Latn"> mahāvihāra</foreign> at
+							Phanigiri, but sadly the name is fragmentary and is
+							not attested elsewhere in the corpus. The first
+							akṣara had either a <seg type="graphemic">ā</seg> or
+							a <seg type="graphemic">o</seg> vowel.</note>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				        <ab>(...) brahmans, beggars, mendicants (...) highest, (in the)
+					°kari Great Monastery (...)</ab>
+			      </div>
+			      <!--<div type="commentary">
+				<listApp>
+					<app loc="lineNumber">
+						<note>@loc = number of the line commented here in the note element.</note>
+					</app>
+				</listApp>
+			</div>-->
+			      <div type="bibliography">
+				        <p>Previously unpublished. Edited here after autopsy of the
+					stone.</p>
+				        <!--<listBibl type="secondary-bibliography"></listBibl>-->
+			      </div>
+		    </body>
+	  </text>
+</TEI>

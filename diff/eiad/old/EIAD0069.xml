@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-03-29T17:32:11.51+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 69
+[2] Raghunath no.: 51
+[3] Srinivasan & Sankaranarayanan no.: 25
+[4] Tsukamoto no.: —
+[5] Lüders no.: 
+[6] Support : fragment of maṇḍapa pillar
+[7] (Faces:) Lines: 6
+[8] H: 32
+[9] W: 21
+[10] D: 16
+[11] H: 35
+[12] W: 21
+[13] Language(s): MIA
+[14] Original locality: Nagarjunakonda Site-12
+[15] Present locality: NM 667
+[16] Primary bibliography:  Sircar 1961-62b: 211-2 (IV).
+[17] Secondary bibliography: ARIE 1954-55: B.10. — IAR 1954-55: 22. — Sircar 1955: 45-5. — Raghunath 2001: 168-9 (51). — Soundara Rajan 2006: 172.
+[18] Visual documentation: Sircar 1955 (IV); Sircar 1961-62b (IV); Raghunath.
+[19] Substance of inscription: dedication of a structure 
+[20] Remarks: Field register no. 214. See remarks on 063-064. ARIE is confusing about provenance; Raghunath's atribution of this pillar to Site-113 is an error. The site must be called Nagutaravihāra (occurences of nāgutara/nakutara in EIAD 80, 92.2, 220 and unnumbered potsherd). 
+[21] : 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Maṇḍapa pillar from site 12 at Nagarjunakonda</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+						            <surname>Strauch</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0069</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths, Ingo Strauch and
+							Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons Attribution 3.0 Unported
+							License. To view a copy of this license, visit
+							http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative
+							Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041,
+							USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0069_inv-eiad" type="inv-eiad">EIAD 69</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Nagarjunakonda Museum</repository>
+							              <idno xml:id="EIAD0069_museum-inventory">667</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indo-Aryan, Southern
+								Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>Fragment of <objectType>maṇḍapa pillar</objectType>;
+											<dimensions unit="cm">
+											                      <height>32</height>
+											                      <width>21</width>
+											                      <depth>16</depth>
+										                    </dimensions>.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout>
+									                  <dimensions unit="cm">
+										                    <height>35</height>
+										                    <width>21</width>
+									                  </dimensions>
+								                </layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote>The lower part of the pillar bears a frieze and a half
+								lotus.</decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>Erected originally at findspot.</origPlace>
+							              <origDate calendar="Julian"
+                               notBefore="0250"
+                               notAfter="0350"
+                               precision="low">Undated. Attributable to the period 250-350 CE on
+								palaeographic grounds.</origDate>
+						            </origin>
+						            <provenance type="found" notBefore="1954-10" notAfter="1955">
+							              <p>Discovered at <placeName key="eiad-geo:NK012">Nagarjunakonda, Site 12</placeName>, in the field near the palace area, in the course of excavations started in October 1954. Field register no.
+								214. See remarks on EIAD <ref target="#EIAD0063">63</ref>, <ref target="#EIAD0064">64</ref>. ARIE is confusing about provenance;
+								Raghunath's attribution of this pillar to Site-113 is an error. The
+								site must be called Nagutaravihāra (occurrences of <foreign xml:lang="pra-Latn">nāgutara</foreign>/<foreign xml:lang="pra-Latn">nakutara</foreign> in EIAD <ref target="#EIAD0080">80</ref>, <ref target="#EIAD0092.2">92.2</ref>, <ref target="#EIAD0220">220</ref> and unnumbered
+								potsherd).</p>
+						            </provenance>
+						            <provenance type="observed" when="2016-02">
+							              <p>Inscription noticed at Nagarjunakonda Museum (acc. no. 667) in
+								February 2016.</p>
+						            </provenance>
+						            <provenance type="not-observed">
+							<!-- information about a specific, unsuccessful attempt to locate an object in a presumed or previously recorded location --></provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates><!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl>AL 2017</bibl>
+							              </listBibl>
+							              <listBibl ana="#photo-estampage">
+								                <bibl>Sircar 1955 (IV)</bibl>
+								                <bibl>Sircar 1961-62b (IV)</bibl>
+								                <bibl>Raghunath</bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan, romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines and the latest
+				Schema version <ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-02-25">Creation of the file - automatic
+				conversion.</change>
+			      <change who="#CC" when="2017-04-28">Merging with READ file</change>
+			      <change who="#MS" when="2017-06-03">Added listApp and organised surrogates.</change>
+			      <change who="#MS" when="2017-06-20">Modified title.</change>
+			      <change who="#MS" when="2017-07-01">Killed spaces in edition.</change>
+			      <change who="#AG" when="2017-07-05">Encoded placeName; indicated /// etc. on first two lines; made several other small edits.</change>
+			      <change who="#VT" when="2017-07-27">Change translation and commentary.</change>
+			      <change who="#VT" when="2018-03-16">Adjusted commentary.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic url="photograph of text or monument">
+			      <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab>
+					          <lb n="1"/>
+					          <gap reason="lost" quantity="3" unit="character"/>
+					          <milestone unit="fragment" type="lost" subtype="left"/>
+					          <gap reason="illegible" quantity="1" unit="character"/>
+					          <gap reason="lost" quantity="2" unit="character"/>
+					          <w xml:id="tok4061">
+                  <unclear>sa</unclear>
+               </w>
+					          <milestone unit="fragment" type="lost" subtype="right"/>
+               <gap reason="lost" quantity="3" unit="character"/>
+					          <lb n="2"/>
+					          <gap reason="lost" quantity="2" unit="character"/>
+					          <w xml:id="tok4062">
+                  <supplied reason="lost">da</supplied>
+                  <milestone unit="fragment" type="lost" subtype="left"/>tasa</w>
+					          <w xml:id="tok4063">saṁvachara<unclear>ṁ</unclear>
+               </w>
+					          <milestone unit="fragment" type="lost" subtype="right"/>
+					          <gap reason="lost" quantity="3" unit="character"/>
+					          <lb n="3"/>
+					          <w xml:id="tok4064">gīmhapakhaṁ</w>
+					          <w xml:id="tok4065">bitiyaṁ</w>
+					          <w xml:id="tok4066">divasaṁ</w>
+					          <w xml:id="tok4067">paḍhamaṁ</w>
+					          <num xml:id="tok4068" value="1">1</num>
+					          <w xml:id="tok4067bis">
+                  <unclear>s</unclear><supplied reason="lost">i</supplied><lb n="4" break="no"/>ripavate</w>
+					          <w xml:id="tok4071">vijayapuriya</w>
+					          <w xml:id="tok4074">puvadisābhā<lb n="5" break="no"/>ge</w>
+					          <w xml:id="tok4074bis">vihāre</w>
+					          <w xml:id="tok4075">cu<unclear>la</unclear>dhaṁmagiriyaṁ</w>
+					          <w xml:id="tok4075bis">°acaṁtarājā<lb n="6" break="no"/>cariyānaṁ</w>
+					          <w xml:id="tok4078">sakasamayaparasamaya<unclear>su</unclear>-</w>
+				        </ab>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="1">
+						            <lem>
+							              <gap reason="lost" quantity="2" unit="character"/>
+							              <gap reason="illegible" quantity="1" unit="character"/>
+							              <gap reason="lost" quantity="2" unit="character"/>
+							              <unclear>sa</unclear>
+						            </lem>
+						            <rdg source="eiad-bibl:Sircarm">….</rdg>
+					          </app>
+					          <app loc="3">
+						            <lem>gīmhapakhaṁ</lem>
+						            <rdg source="eiad-bibl:Sircarm">gimhapakhaṁ</rdg>
+					          </app>
+					          <app loc="3-4">
+						            <lem><unclear>s</unclear><supplied reason="lost">i</supplied>ripavate</lem>
+						            <rdg source="eiad-bibl:Sircarm">
+                     <unclear>si</unclear>ripavate</rdg>
+					          </app>
+					          <app loc="6">
+						            <lem>sakasamayaparasamaya<unclear>su</unclear>-</lem>
+						            <rdg source="eiad-bibl:Sircarm">sakasamayaparasamayasa</rdg>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				        <p>In year ? of ...data ..., in the second fortnight of summer, on the first — 1st
+				           — day. In Siripavvata (Śrīparvata), in the monastery on the Culadhamma hill in the eastern part of Vijayapurī, to the supreme teachers of kings, (who distinguish?) well (between?) their own standpoint (<foreign xml:lang="pra-Latn">samaya</foreign>) and the standpoint of others …</p>
+			      </div>
+			      <div type="commentary">
+				        <p>The inscription abruptly ends at the end of l. 6 and the other two sides of the pillar (the fourth side is hollowed and stood against a wall) do not contain any inscribed text.</p>
+				        <listApp>
+					          <app loc="5">
+						            <lem>°acaṁtarājā-</lem>
+						            <note><!--Taking <foreign xml:lang="pra-Latn">acaṁtarājā-</foreign> as a copying
+							mistake for <foreign xml:lang="pra-Latn">pacaṁtarājā-</foreign>, common
+							in Pali. -->See our note on this word under EIAD <ref target="#EIAD0020">20</ref>, l. 1.</note>
+					          </app>
+					          <app loc="6">
+                       <lem>sakasamayaparasamaya-</lem>
+                        <note>
+                     <bibl>
+						                  <ptr target="eiad-bibl:Sircarm"/>: <citedRange>212</citedRange>
+                     </bibl>, who reads <foreign xml:lang="pra-Latn">sakasamayaparasamayasa-</foreign>
+                            suggests to reconstruct <foreign xml:lang="pra-Latn">-samyakpāraga-</foreign>, which is unlikely. He also did not identify literary parallels to this expression. Our understanding of this pair of notions is informed by the passage shared by Visuddhimagga 522 and Vibhaṅga-aṭṭakathā 130, and discussed in <bibl>
+                            	<ptr target="eiad-bibl:Cousins2001"/>: <citedRange>170f</citedRange>
+                     </bibl>. For a lenghtier discussion, see <bibl>
+                            		<ptr target="eiad-bibl:Tournier2018"/>: <citedRange>59, n. 107</citedRange>
+                     </bibl>, who argues this series of titles point to Theriya-Vibhajjavādins monks.</note>
+               </app>                           
+                            <!--See for instance
+                            (interestingly in a context where the Vibhajjavādins are mentioned Vism
+                            522 (check text): Yā pan' āyaṃ Bhagavatā paṭiccasamuppādaṃ desentena:
+                            avijjāpaccayā sankhārā ti ādinā nayena nikkhittā tanti, tassā
+                            atthasaṃvaṇṇanaṃ karontena vibhajjavādimaṇḍalaṃ otaritvā ācariye
+                            anabbhācikkhantena sakasamayaṃ avokkamantena parasamayaṃ anārūhantena;
+                            tr. Ñanamoli 539 (check page): “Now, in teaching this dependent
+                            origination the Blessed One has set forth the text in the way beginning,
+                            “With ignorance as condition there are formations” (S II 20). Its
+                            meaning should be commented on by one who keeps within the circle of the
+                            Vibhajjavādins,5 who does not misrepresent the teachers, who does not
+                            advertise his own standpoint, who does not quarrel with the standpoint
+                            of others…”</note>  -->
+				        </listApp>	
+			      </div>
+			      <div type="bibliography">
+				        <p>First edited by <bibl>
+						            <ptr target="eiad-bibl:Sircarm"/>: <citedRange>211-2 (IV)</citedRange>
+					          </bibl>. Re-edited here from the available documentation and after autopsy of the
+					stone.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+						            <ptr target="eiad-bibl:zoteroItem_G9CH6AGA"/>
+						            <citedRange>1954-55: B.10</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:zoteroItem_R4S8D3K2"/>
+						            <citedRange>1954-55: 22</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Rama_Rao1955b"/>: <citedRange>45-5</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Srinivasan1979a"/>: <citedRange>no. 25</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Raghunath2001"/>: <citedRange>168-9 (51)</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Soundara_Rajan2006"/>: <citedRange>172</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Tournier2018"/>: <citedRange>59</citedRange>
+					          </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

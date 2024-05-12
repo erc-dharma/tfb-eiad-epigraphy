@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-03-29T17:32:11.51+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 55
+[2] Raghunath no.: 37A
+[3] Srinivasan & Sankaranarayanan no.: —
+[4] Tsukamoto no.: —
+[5] Lüders no.: 
+[6] Support : 5 copper plates 
+[7] (Faces:) Lines: 25
+[8] H: 7
+[9] W: 22-23
+[10] D: 
+[11] H: 
+[12] W: 
+[13] Language(s): MIA
+[14] Original locality: Patagandigudem hamlet, Kalla Cheruvu village, Kamavarputoka mandal, West Godavari District
+[15] Present locality: TSM 98-15
+[16] Primary bibliography: Ramachandra Murthy 1999. — Falk 1999-2000.
+[17] Secondary bibliography: ARIE 1997-98: A.1. — IAR 1997-98: 206 (4). — Raghunath 2001: 152-3 (37A).
+[18] Visual documentation: ARIE 1997-98: pl. I
+[19] Substance of inscription: gift of two pieces of land
+[20] Remarks: 
+[21] : 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Copper plates from Patagandigudem (Kallacheruvu), set I — reign of Siri-Ehavalacāntamūla</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+						            <surname>Strauch</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+						            <forename>Emmanuelle</forename>
+						            <surname>Morlock</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+						            <forename>Andrew</forename>
+						            <surname>Ollett</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0055</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths, Ingo Strauch and Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0055_inv-eiad" type="inv-eiad">EIAD 55</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Telangana State Museum</repository>
+							              <idno xml:id="EIAD0055_museum-inventory">98-15</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="san-Brah">Sanskrit, Southern Brāhmī script</textLang>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indo-Aryan, in the same script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>Five <objectType>copper plates</objectType>, not furnished with original plate numbering; <dimensions unit="cm">
+											                      <height>7</height>
+											                      <width>22-23</width>
+											                      <!--<depth>unavailable</depth>-->
+										                    </dimensions>. The left side of every plate is pierced by a hole through which runs a ring, to which is soldered <cit>
+                                 <quote>a roughly oval seal, which is worn out completely</quote>
+                                 <bibl>
+                                    <ptr target="eiad-bibl:Ramachandra_Murthy1999"/>: <citedRange>114</citedRange>
+                                 </bibl>
+                              </cit>.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout writtenLines="3"><!-- AG2EM: I suspect we want to use here writtenLines="3" -->25 lines of text beginning on face 1b, 3 lines per face except the last line which stands alone on face 5b.<!--<dimensions>
+										<height unit="cm">unavailable</height>
+										<width unit="cm">unavailable</width>
+									</dimensions>-->
+								</layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote><!-- description of decoration or iconography --></decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>Original place of preservation unknown.</origPlace>
+							              <origDate calendar="Julian" notBefore="0250" notAfter="0300">Unspecified regnal year of Siri-Ehavalacāntamūlavamma, i.e., approximately between 250 and 300 CE.<!--See http://www.stoa.org/epidoc/gl/latest/supp-historigdate.html-->
+							</origDate>
+						            </origin>
+						            <provenance type="found" notAfter="1998-03">
+							              <p>Discovery at a hamlet called <placeName type="modern" key="eiad-geo:patagandigudem">Patagandigudem</placeName> reported in the Indian newspaper <hi rend="italic">The Hindu</hi> in March 1998.</p>
+						            </provenance>
+						            <provenance type="observed" when="2016-01">
+							              <p>Identified at Telangana State Museum (acc. no. 98-15) in January 2016.<!-- Modern location(s) (if different from repository, above); is used to encode information about subsequent modern observation --></p>
+						            </provenance>
+						            <provenance type="not-observed">
+							<!-- information about a specific, unsuccessful attempt to locate an object in a presumed or previously recorded location --></provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates>
+							<!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl>IS/VT 2016</bibl>
+							              </listBibl>
+							              <listBibl ana="#photo-estampage">
+								                <bibl>ARIE 1997-98: pl. I</bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan, romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines and the latest Schema version <ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-02-25">Creation of the file - automatic conversion.</change>
+			      <change who="#MS" when="2017-02-27">Merging with READ data.</change>
+			      <change who="#EM" when="2017-03-16">Corrected processing instruction pointing to schema</change>
+			      <change who="#EM" when="2017-03-16">corrected attribute line 485 (double 'm' in @reason='omitted')</change>
+			      <change who="#AG" when="2017-04-08">Merged with revised metadata export, and revised previous work by MS</change>
+			      <change who="#AG" when="2017-04-23">Inserted comment on @writtenLines and revised sec. bibliogr.</change>
+			      <change who="#MS" when="2017-06-03">Organised surrogates.</change>
+			      <change who="#MS" when="2017-06-09">Hid commentary div as comment.</change>
+			      <change who="#MS" when="2017-06-20">Modified title.</change>
+			      <change who="#MS" when="2017-06-30">Updated edition with new edits in rtf file.</change>
+			      <change who="#AG" when="2017-07-14">Minor edits; resolved #159.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+		       	<change who="#VT" when="2018-04-09">Minor fix in line no.</change>
+		       	<change who="#VT" when="2018-05-24">Minor fix in translation.</change>
+		      <change who="#VT" when="2019-09-21">Minor fix in edition.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+			   <graphic xml:id="EIAD0055_image-general" url="EIAD0055_0.jpg" n="1">
+			      <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+		    </graphic>
+		    <graphic xml:id="EIAD0055_image-text-1" url="EIAD0055_1b.jpg" n="2">
+			      <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+		    </graphic>
+		    <graphic xml:id="EIAD0055_image-text-2" url="EIAD0055_2a.jpg" n="3">
+			      <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+		    </graphic>
+		    <graphic xml:id="EIAD0055_image-text-3" url="EIAD0055_2b.jpg" n="4">
+			      <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+		    </graphic>
+		    <graphic xml:id="EIAD0055_image-text-4" url="EIAD0055_3a.jpg" n="5">
+			      <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+		    </graphic>
+		    <graphic xml:id="EIAD0055_image-text-5" url="EIAD0055_3b.jpg" n="6">
+			      <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+		    </graphic>
+		    <graphic xml:id="EIAD0055_image-text-6" url="EIAD0055_4a.jpg" n="7">
+			      <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+		    </graphic>
+		    <graphic xml:id="EIAD0055_image-text-7" url="EIAD0055_4b.jpg" n="8">
+			      <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+		    </graphic>
+		    <graphic xml:id="EIAD0055_image-text-8" url="EIAD0055_5a.jpg" n="9">
+			      <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+		    </graphic>
+		    <graphic xml:id="EIAD0055_image-text-9" url="EIAD0055_5b.jpg" n="10">
+			      <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+		    </graphic>
+		    <graphic xml:id="EIAD0055_image-seal" url="EIAD0055_6.jpg" n="11">
+			      <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition">
+				        <ab xml:lang="san-Latn">
+					          <pb type="plate" n="1b"/>
+					          <lb n="1"/>
+					          <w xml:id="tok3115">siddham·</w>
+					          <pc>||</pc>
+					          <w xml:id="tok3117">namo</w>
+					          <w xml:id="tok3118">bhagavatos</w>
+					          <w xml:id="tok3824">sarvvajñāyā</w>
+					          <pc>||</pc>
+				        </ab>
+				        <ab xml:lang="pra-Latn">
+					          <w xml:id="tok3121">vijayakkhaṁ<lb n="2" break="no"/>dhāvārā</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3123">dhaṁṇakaḍāto</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3125">māhārājā</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3127">°asamedha<lb n="3" break="no"/>yāji°akkhayahiraṁṇakoḍippadāyiḥ</w>
+					          <w xml:id="tok3128">°ikkhākūṇaṁ</w>
+					          <pb type="plate" n="2a"/>
+					          <lb n="4"/>
+					          <w xml:id="tok3129">raṁño</w>
+					          <w xml:id="tok3130">sirī°ehavalacāntamūlavaṁmmā</w>
+					          <w xml:id="tok3131">°aṇavetī</w>
+					          <lb n="5"/>
+					          <w xml:id="tok3132">°ettha</w>
+					          <w xml:id="tok3133">pithuṁḍe</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3135">sābhittāṇehi</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3137">mahāvihārasa</w>
+					          <w xml:id="tok3138">°ava<lb n="6" break="no"/>raddāre</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3140">cātusāle</w>
+					          <w xml:id="tok3141">°amhehi</w>
+					          <w xml:id="tok3142">kāritaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3144">°etassa</w>
+					          <w xml:id="tok3145">ya</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3147">khaṇḍa<pb type="plate" n="2b"/>
+                  <lb n="7" break="no"/>pullasaṇṭhappasa</w>
+					          <w xml:id="tok3148">cātusāle</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3150">°āgaṁtukavatthavvāṇa</w>
+					          <w xml:id="tok3151">pavva<lb n="8" break="no"/>yitāṇaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3153">vissāmaṇatthaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3155">rañ<unclear>o</unclear>
+					          </w>
+					          <w xml:id="tok3156">°ehalavatthamāṇavattha<lb n="9" break="no"/>vehi</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3158">pavvayitehi</w>
+					          <w xml:id="tok3159">avaraddāraseliyehi</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <pb type="plate" n="3a"/>
+					          <lb n="10"/>
+					          <w xml:id="tok3161">°aryyayakkhapamuhehi</w>
+					          <w xml:id="tok3162">°aṇuṭṭhiya</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3164">sāsanaṁ</w>
+					          <lb n="11"/>
+					          <w xml:id="tok3165">kāritaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3167">°akkhayanivviṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3169">kātūṇaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3171">raño</w>
+					          <w xml:id="tok3172">°appaṇo</w>
+					          <lb n="12"/>
+					          <w xml:id="tok3173">puṇṇappāyaṇāyubalavaddhaṇatṭhaṁ</w>
+					          <w xml:id="tok3174">°ayandatāraka<supplied reason="omitted">ṁ</supplied>
+					          </w>
+					          <pb type="plate" n="3b"/>
+					          <lb n="13"/>
+					          <w xml:id="tok3175">kātūṇa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3177">pithuṇḍe</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3179">mahāvihārasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3181">nagarassa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3183">°uttaradi<lb n="14" break="no"/>sāye</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3185">mahāsetīye</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3187">mahācelakasa</w>
+					          <w xml:id="tok3188">°eṭṭhassa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3190">k<unclear>ū</unclear>la<lb n="15" break="no"/>tthapaddaggāmapatthe</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3192">halaṁkkhettasa</w>
+					          <w xml:id="tok3193">niyattāṇā</w>
+					          <w xml:id="tok3194">bat<unclear>t</unclear>ī<supplied reason="lost">sa</supplied>
+					          </w>
+					          <pb type="plate" n="4a"/>
+					          <lb n="16"/>
+					          <num xml:id="cmp35" value="32">
+						            <num xml:id="tok3195" value="30">30</num>
+						            <num xml:id="tok3196" value="2">2</num>
+					          </num>
+					          <w xml:id="tok3197">nidejaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3199">nipoli</w>
+					          <pc>||</pc>
+					          <w xml:id="tok3201">pithuṇḍassa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3203">°uttaradisāye</w>
+					          <w xml:id="tok3204">va</w>
+					          <lb n="17"/>
+					          <w xml:id="tok3205">hatthivārī</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3207">pachimadisāye</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3209">pupphakalase</w>
+					          <w xml:id="tok3210">ha<lb n="18" break="no"/>laṁkkhettasa</w>
+					          <w xml:id="tok3211">niyattaṇacatusaṭṭhi</w>
+					          <num xml:id="cmp36" value="64">
+						            <num xml:id="tok3212" value="60">60</num>
+						            <num xml:id="tok3213" value="4">4</num>
+					          </num>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3215">nidejaṁ</w>
+					          <w xml:id="tok3216">nippoli</w>
+					          <pb type="plate" n="4b"/>
+					          <lb n="19"/>
+					          <w xml:id="tok3217">°avaraddārī</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3219">cātusālassa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3221">halo</w>
+					          <w xml:id="tok3222">bhikhubhogaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3224">kātūṇa</w>
+					          <lb n="20"/>
+					          <w xml:id="tok3225">samyadattaṁ</w>
+					          <w xml:id="tok3226">°āṇattī</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3228">mahātalavara</w>
+					          <w xml:id="tok3229">°aggasūro</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3231">saṁvacharaṁ</w>
+					          <lb n="21"/>
+					          <w xml:id="tok3232">himā</w>
+					          <num xml:id="tok3233" value="4">4</num>
+					          <w xml:id="tok3234">divasaṁ</w>
+					          <num xml:id="tok3235" value="3">3</num>
+					          <w xml:id="tok3236">jeca</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3238">°ettakā</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3240">rājāṇo</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3242">raja<lb n="22" break="no"/>mattā</w>
+					          <pb type="plate" n="5a"/>
+					          <w xml:id="tok3243">vā</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3245">talavaramahātalavarā</w>
+					          <w xml:id="tok3246">vā</w>
+					          <w xml:id="tok3247">jo</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3249">°etassa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3251">halaṁbhi<supplied reason="omitted">kkhu</supplied><lb n="23" break="no"/>bhogassa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3253">rāgeṇa</w>
+					          <w xml:id="tok3254">kodhena</w>
+					          <w xml:id="tok3255">vā</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3257">lobheṇa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3259">moheṇa</w>
+					          <w xml:id="tok3260">vā</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <lb n="24"/>
+					          <w xml:id="tok3262">harati</w>
+					          <w xml:id="tok3263">harāveti</w>
+					          <w xml:id="tok3264">vā</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok3266">haraṁntaṁ</w>
+					          <w xml:id="tok3267">vā</w>
+					          <w xml:id="tok3268">°aṇuvattati</w>
+					          <w xml:id="tok3269">so</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <pb type="plate" n="5b"/>
+					          <w xml:id="tok3271">
+						            <lb n="25"/>
+						            <unclear>paṁ</unclear>ca<unclear>ma</unclear>ha<unclear>pāta</unclear>k<unclear>e</unclear>ṇa</w>
+					          <w xml:id="tok3272">sa<unclear>ṁy</unclear>ujyatītt<unclear>i</unclear>
+					          </w>
+				        </ab>
+			      </div>
+			      <!-- AG to resume revision here -->
+			      <div type="apparatus">
+				        <p><!--external apparatus criticus (if applicable)--></p>
+				        <listApp>
+					          <app loc="1">
+						            <lem>bhagavatos</lem>
+						            <note>Understand <foreign xml:lang="san-Latn">bhagavatas</foreign> or <foreign xml:lang="san-Latn">bhagavate</foreign>. Cf. same form in EIAD <ref target="#EIAD0054">54</ref>.</note>
+					          </app>
+					          <app loc="1">
+						            <lem>sarvva-</lem>
+						            <rdg source="eiad-bibl:Falka">sarva-</rdg>
+					          </app>
+					          <app loc="3">
+						            <lem>hiraṁṇakoḍi-</lem>
+						            <rdg source="eiad-bibl:Falka">hiraṇakoḍi-</rdg>
+					          </app>
+					          <app loc="4">
+						            <lem>raṁño</lem>
+						            <rdg source="eiad-bibl:Falka">rāñāṁ</rdg>
+					          </app>
+					          <app loc="5">
+						            <lem>cātusāle</lem>
+						            <rdg source="eiad-bibl:Falka">cātusālaṁ</rdg>
+					          </app>
+					          <app loc="8">
+						            <lem>vissāmaṇatthaṁ</lem>
+						            <rdg source="eiad-bibl:Falka">vissamaṇatthaṁ</rdg>
+					          </app>
+					          <app loc="10">
+						            <lem>sāsanaṁ</lem>
+						            <rdg source="eiad-bibl:Falka">sāsaṇa</rdg>
+					          </app>
+					          <app loc="12">
+						            <lem>°ayandatāraka<supplied reason="omitted">ṁ</supplied>
+						            </lem>
+						            <rdg source="eiad-bibl:Falka">°ayandatārakaṁ</rdg>
+					          </app>
+					          <app loc="14-15">
+						            <lem>k<unclear>ū</unclear>latthapaddaggāmapatthe</lem>
+						            <rdg source="eiad-bibl:Falka">kulatthapaṭṭaggāmapanthe</rdg>
+					          </app>
+					          <app loc="15">
+						            <lem>bat<unclear>t</unclear>ī<supplied reason="lost">sa</supplied>
+						            </lem>
+						            <rdg source="eiad-bibl:Falka">batī<unclear>sa</unclear>
+						            </rdg>
+					          </app>
+					          <app loc="16">
+						            <lem>nidejaṁ <space type="horizontal" quantity="1" unit="character"/> nipoli</lem>
+						            <rdg source="eiad-bibl:Falka">ti dejaṁ <space type="horizontal" quantity="1" unit="character"/> ti poli</rdg>
+					          </app>
+					          <app loc="17">
+						            <lem>puppha-</lem>
+						            <rdg source="eiad-bibl:Falka">puppa-</rdg>
+						            <note>Cf. <foreign xml:lang="pra-Latn">puppa-</foreign> in <ref target="#EIAD0053">EIAD 53</ref>, l. 1. But it seems possible to read <foreign xml:lang="pra-Latn">puppha-</foreign> here.</note>
+					          </app>
+					          <app loc="18">
+						            <lem>nidejaṁ nippoli</lem>
+						            <rdg source="eiad-bibl:Falka">ti dejaṁ ti ppoli</rdg>
+					          </app>
+					          <app loc="21">
+						            <lem>raja-</lem>
+						            <rdg source="eiad-bibl:Falka">rāj<unclear>ā</unclear>-</rdg>
+					          </app>
+					          <app loc="22-23">
+						            <lem source="eiad-bibl:Falka">halaṁbhi<supplied reason="omitted">kkhu</supplied>bhogassa</lem>
+						            <note>The restoration of akṣara <seg type="graphemic">kkhu</seg> is imposed by <foreign xml:lang="pra-Latn">halo bhikhubhogaṁ</foreign> in l. 19.</note>
+					          </app>
+					          <app loc="24">
+						            <lem>harāveti</lem>
+						            <rdg source="eiad-bibl:Falka">hārāveti</rdg>
+					          </app>
+					          <app loc="24">
+						            <lem>haraṁntaṁ</lem>
+						            <rdg source="eiad-bibl:Falka">haraṁttaṁ</rdg>
+					          </app>
+					          <app loc="25">
+						            <lem>
+							              <unclear>paṁ</unclear>ca<unclear>ma</unclear>ha<unclear>pāta</unclear>k<unclear>e</unclear>ṇa</lem>
+						            <rdg source="eiad-bibl:Falka">
+							              <gap reason="lost" quantity="2" unit="character"/> mahāpātareṇa</rdg>
+					          </app>
+					          <app loc="25">
+						            <lem>sa<unclear>ṁy</unclear>ujyatītt<unclear>i</unclear>
+						            </lem>
+						            <rdg source="eiad-bibl:Falka">
+							              <gap reason="lost" quantity="1" unit="character"/> ujjati ti</rdg>
+						            <note>The last akṣara might also be read <seg type="graphemic">ttī</seg>. We in fact expect <foreign xml:lang="pra-Latn">ti</foreign>.</note>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				        <p>
+               <seg type="translatedlines">(1)</seg> Success! Homage to the Bhagavant, the Omniscient One!</p>
+				        <p>
+               <seg type="translatedlines">(1–4)</seg> From the victorious royal headquarters<!--or/war-camp-->, from Dhaṇṇakaḍa (Dhānyakaṭaka), the King Siri-Ehavalacāntamūlavamma of the Ikṣvākus, Great King, sacrificer of the Aśvamedha, giver of unperishing tens of millions of (pieces of) gold, gives (the following) order: </p>
+				        <p>
+               <seg type="translatedlines">(5–11)</seg> “Here in Pithuṇḍa we caused to be made by <foreign xml:lang="pra-Latn">sābhittāna</foreign>s (?) a quadrangular compound at the western gate of the Great Monastery. For its repair of broken and shattered (parts), for the repose of renunciants who (will) arrive and who (presently) reside in the quadrangular compound, the (following) royal order was issued, to be carried out (<foreign xml:lang="pra-Latn">anuṣṭheya</foreign> ?) by the Avaraddāraseliya renunciants residing in the plot of King Eha[va]la, headed by Aryayakkha (Āryayakṣa): 
+				
+				</p>
+				        <p>
+               <seg type="translatedlines">(11–20)</seg> ‘Having made a permanent endowment, having made (it permanent) as long as moon and stars, in order to expand the king’s own merit and to increase his lifespan and power, to the Great Monastery in Pithuṇḍa 32 <foreign xml:lang="san-Latn">nivartana</foreign>s of plowable land are to be given (<foreign xml:lang="san-Latn">nideya</foreign>) (and) registered (?), in the northern direction of the town, at the Great Shrine of the <foreign xml:lang="san-Latn">mahācelaka</foreign> Eṭṭha, on the road (leading to) the village Kulatthapadda. North of Pithuṇḍa, west of the elephant grove, in Pupphakalasa, sixty-four — 64 — <foreign xml:lang="san-Latn">nivartana</foreign>s of plowable land are to be given (and) registered (?). Having made (this) plowable land (<foreign xml:lang="san-Latn">hala</foreign>) the revenue of the monks of the quadrangular compound at the western gate, the gift is completed (<foreign xml:lang="san-Latn">samyagdattam</foreign>).’</p>
+				        <p>
+               <seg type="translatedlines">(20–25)</seg>The executor is the Great Talavara Aggasūra (Agraśūra). In the year, in the 4th (fortnight) of winter, on the 3rd day. Who (among) the local kings and king’s officers, or Talavaras and Great Talavaras, out of passion, anger, greed or delusion, takes away or causes to be taken away plowable land from this monks’ revenue, or accepts one who takes away, is endowed with the five great sins.” </p>
+			      </div>
+			      <div type="commentary">
+				        <listApp>
+					          <app loc="5">
+						            <lem>sābhittāṇehi</lem>
+                  <note> 
+                     <bibl>
+                        <ptr target="eiad-bibl:Falka"/>: <citedRange>276</citedRange>
+                     </bibl> relates this word to <foreign xml:lang="san-Latn">abhitrāṇa</foreign>, and proposes to interpret it as “preservation worker”.</note>			
+					          </app>
+					          <app loc="14">
+					             <lem>mahāsetīye</lem>
+                  <note> The reading <seg type="graphemic">tī</seg> is secure, although <bibl>
+                        <ptr target="eiad-bibl:Falka"/>: <citedRange>279</citedRange>
+                     </bibl> contemplates reading <seg type="graphemic">khī</seg>. Since alternation of spellings <seg type="graphemic">c</seg>/<seg type="graphemic">s</seg> is not unknown in South India, we are inclined to agree with <bibl>
+                        <ptr target="eiad-bibl:Ramachandra_Murthy1999"/>: <citedRange>114</citedRange>
+                     </bibl> that we should understand <foreign xml:lang="san-Latn">mahācetīye</foreign>, a term commonly occurring in the Nagarjunakonda inscriptions.</note>			
+					          </app>
+					          <app loc="14">
+					             <lem>mahācelakasa</lem>
+                  <note> This epithet may be interpreted as either pointing to a prominent standard-bearer (PD, s.v. <foreign xml:lang="san-Latn">celaka</foreign>), as <bibl>
+                        <ptr target="eiad-bibl:Falka"/>: <citedRange>279</citedRange>
+                     </bibl> did,  or as a religious figure, since P./BSkt. <foreign xml:lang="san-Latn">cellaka</foreign> (also BSkt. <foreign xml:lang="san-Latn">cailaka</foreign>) occurs in Buddhist texts, where it qualifies either novices or monks. Cf. BHSD, s.v. <foreign xml:lang="san-Latn">celaka</foreign>; PD, s.v. <foreign xml:lang="pli-Latn">celaka</foreign>; <bibl>
+                        <ptr target="eiad-bibl:Oguibénine2005"/>: <citedRange>48</citedRange>
+                     </bibl>. Hence, <bibl>
+                        <ptr target="eiad-bibl:Ramachandra_Murthy1999"/>: <citedRange>114</citedRange>
+                     </bibl> translates this compound as “chief mendicant”. We tentatively favor the second interpretation.</note>
+					          </app>
+               <app loc="16">
+	                 <lem>nipoli</lem>
+	                 <note>We tentatively assume that this hapax legomenon is an abbreviation for a MIA expression equivalent to Sanskrit <foreign xml:lang="san-Latn">nibandhapustake likhitavyam</foreign> (cf. Arthaśāstra 2.7.1–2 <foreign xml:lang="san-Latn">nibandha-pustaka</foreign>).</note>
+                  <!--cf. formula in Sātavāhana inscriptions.-->
+               </app>
+					          <app loc="17">
+						            <lem>hatthivārī</lem>
+						            <note>Cf. MW, s.v. <foreign xml:lang="san-Latn">vāri</foreign>: “a place for tying or catching an elephant”. The Sanskrit equivalent <foreign xml:lang="san-Latn">hastivārī</foreign> is also found in <ref target="#EIAD0188">EIAD 188</ref>, l. 20.</note>			
+					          </app>		
+				        </listApp>
+			      </div>
+			      <div type="bibliography">
+				        <p>First edited by <bibl>
+						            <ptr target="eiad-bibl:Ramachandra_Murthy1999"/>
+					          </bibl>; improved edition in <bibl>
+						            <ptr target="eiad-bibl:Falka"/>
+					          </bibl>. Re-edited here from our own photographs.</p>
+				        <listBibl type="secondary-bibliography">
+					<!--<bibl><ptr target="eiad-bibl:Srinivasan1979a"/><citedRange>—</citedRange></bibl>-->
+					<!--<bibl><ptr target="eiad-bibl:Tsukamoto1996"/><citedRange>—</citedRange></bibl>-->
+					          <bibl>
+						            <ptr target="eiad-bibl:zoteroItem_G9CH6AGA"/>
+						            <citedRange>1997-98: no. A.1</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:zoteroItem_R4S8D3K2"/>
+						            <citedRange>1997-98: 206 (4)</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Raghunath2001"/>: <citedRange>152-3 (no. 37A)</citedRange>
+					          </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

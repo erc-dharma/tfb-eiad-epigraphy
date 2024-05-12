@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-05-17T13:36:55.949+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 136
+[2] Raghunath no.: —
+[3] Srinivasan & Sankaranarayanan no.: —
+[4] Tsukamoto no.: Jaga 4
+[5] Lüders no.: —
+[6] Support : Buddha in stone
+[7] (Faces:) Lines: 5
+[8] H: 108
+[9] W: 62
+[10] D: 11
+[11] H: indeterminable
+[12] W: 51
+[13] Language(s): Sanskrit
+[14] Original locality: Jaggayyapeta
+[15] Present locality: CGM, acc. no. indeterminable
+[16] Primary bibliography: Burgess 1882: 57.
+[17] Secondary bibliography: Burgess 1887: 111-2. — Ramachandran 1946-47 (II); 1953: 28-9. — Aiyappan & Srinivasan 1998 [1952]: 43. — Hanumantha Rao et al. 1998: 181-2.
+[18] Visual documentation: Burgess 1887, pl. LV (5), LXIII (4).
+[19] Substance of inscription: 
+[20] Remarks: text and translation owed to J.F. Fleet
+[21] : 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Stela with standing Buddha image from Jaggayyapeta</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+						            <surname>Strauch</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+						            <forename>Emmanuelle</forename>
+						            <surname>Morlock</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+						            <forename>Andrew</forename>
+						            <surname>Ollett</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0136</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths, Ingo Strauch and
+                            Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons Attribution 3.0 Unported
+                            License. To view a copy of this license, visit
+                            http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative
+                            Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041,
+                            USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0136_inv-eiad" type="inv-eiad">EIAD 136</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Chennai Government Museum</repository>
+							              <idno xml:id="EIAD0136_museum-inventory">acc. no. indeterminable</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="san-Brah">Sanskrit language, Southern
+                                Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <objectType>Buddha</objectType> in stone; <dimensions unit="cm">
+											                      <height>108</height>
+											                      <width>62</width>
+											                      <depth>11</depth>
+										                    </dimensions>.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout writtenLines="5">
+									                  <dimensions unit="cm">
+										                    <height>unavailable</height>
+										                    <width>51</width>
+									                  </dimensions>.</layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote>The inscription is engraved on the pedestal of a standing
+                                Buddha on a lotus, carved in a niche. On a band at the top are a
+                                Bodhi tree and geometrical figures. On either side are also carved a
+                                mountain with a gandharva on it, a stupa, a five-hooded serpent and
+                                a devotee.</decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>
+                        <placeName>Jaggayyapeta</placeName>
+                     </origPlace>
+							              <origDate calendar="Julian"
+                               notBefore="0500"
+                               notAfter="0600"
+                               precision="low"> Attributable to the 6th century CE on
+                                palaeographic grounds. </origDate>
+						            </origin>
+						            <provenance type="found" when="1882">
+							              <p>Discovered by J. Burgess on the path on the west side of the stūpa, in the course of his visit on the site in 1882.</p>
+						            </provenance>
+						            <provenance type="observed" when="2016-02">
+							              <p>Identified at Chennai Government Museum (acc. no. indeterminable) in
+                                February 2016.</p>
+						            </provenance>
+						            <provenance type="not-observed">
+							<!-- information about a specific, unsuccessful attempt to locate an object in a presumed or previously recorded location --></provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates><!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl>Burgess 1887, pl. LV (5), LXIII (4)</bibl>
+							              </listBibl>
+							              <listBibl ana="#photo-estampage">
+								                <bibl>Burgess 1887, pl. LXIII (4)</bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="san-Latn">Sanskrit language, romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines and the latest
+                Schema version <ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-05-17">Creation of the file - automatic
+                conversion.</change>
+			      <change who="#CC" when="2017-05-19">Merging with READ file</change>
+			      <change who="#MS" when="2017-06-03">Added listApp in apparatus and organised
+                surrogates.</change>
+			      <change who="#MS" when="2017-06-20">Modified title.</change>
+			      <change who="#MS" when="2017-07-03">Killed spaces in edition and apparatus.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic url="photograph of text or monument">
+			      <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="san-Latn">
+				        <ab>
+					          <lb n="1"/>
+					          <w xml:id="tok5198">svasti</w>
+					          <w xml:id="tok5199">bhadantanāgārjunācāryyasya</w>
+					          <lb n="2"/>
+					          <w xml:id="tok5200">śiṣya</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok5202">jayaprabhācāryya</w>
+					          <w xml:id="tok5203">tacchiṣyeṇa</w>
+					          <w xml:id="tok5204">ca<supplied reason="lost">ndra</supplied>
+                  <lb n="3" break="no"/>prabheṇa</w>
+					          <w xml:id="tok5206">kārāpitā</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok5208">satusugatagataprasādaviśeṣaviśiṣṭasaṁsāre</w>
+					          <w xml:id="tok5209">devamanu<supplied reason="lost">ṣ</supplied>
+                  <unclear>ya</unclear>
+                  <lb n="4" break="no"/>vibhūtipūrvvakaṁ</w>
+					          <w xml:id="tok5211">buddhattvaprāptinimittaṁ</w>
+					          <w xml:id="tok5212">buddhapratimā</w>
+					          <w xml:id="tok5213">pratisthāpitā</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok5215">°anumodanā</w>
+					          <lb n="5"/>
+					          <w xml:id="tok5216">kurvvantu</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok5218">sarvve</w>
+					          <w xml:id="tok5219">saugatyāpyetyo</w>
+					          <w xml:id="tok5220">pi</w>
+					          <pc>:</pc>
+					          <w xml:id="tok5222">||</w>
+					          <w xml:id="tok5223">||</w>
+					          <pc>–</pc>
+					          <g type="dextrorotatory-spiral"/>
+					          <w xml:id="tok5226">||</w>
+					          <w xml:id="tok5227">||</w>
+					          <pc>–</pc>
+				        </ab>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="1">
+						            <lem>nāgārjunācāryyasya</lem>
+						            <note>corr. nāgārjuṇācāryyasya.</note>
+					          </app>
+					          <app loc="2">
+						            <lem>śiṣya</lem>
+						            <note>So Burgess, who suggests to emend <foreign xml:lang="san-Latn">śiṣyo</foreign>.</note>
+						            <rdg source="eiad-bibl:Ramachandranb">śiṣya<supplied reason="omitted">ḥ</supplied>
+						            </rdg>
+					          </app>
+					          <app loc="2">
+						            <lem>jayaprabhācāryya</lem>
+						            <rdg source="eiad-bibl:Burgess1882">jayaprabhācāryya<unclear>ḥ</unclear>
+						            </rdg>
+						            <rdg source="eiad-bibl:Ramachandranb">jayaprabhācāryya<supplied reason="omitted">ḥ</supplied>
+						            </rdg>
+						            <note>Emend <foreign xml:lang="san-Latn">jayaprabhācāryyas</foreign>.</note>
+					          </app>
+					          <app loc="3">
+						            <lem>kārāpitā</lem>
+						            <rdg source="eiad-bibl:Burgess1882">kārāpitāṁ</rdg>
+						            <rdg source="eiad-bibl:Ramachandranb">kārāpitāṁ</rdg>
+					          </app>
+					          <app loc="3">
+						            <lem>satu-</lem>
+						            <note>So Burgess, who suggests emending <foreign xml:lang="san-Latn">satya-</foreign>
+						            </note>
+						            <rdg source="eiad-bibl:Ramachandranb">satya-</rdg>
+					          </app>
+					          <app loc="3">
+						            <lem>devamanu<supplied reason="lost">ṣ</supplied>
+                     <unclear>ya</unclear>
+                  </lem>
+						            <rdg source="eiad-bibl:Burgess1882">devamanu<supplied reason="lost">ja</supplied>
+						            </rdg>
+						            <rdg source="eiad-bibl:Ramachandranb">devamanu<supplied reason="lost">ja</supplied>
+						            </rdg>
+					          </app>
+					          <app loc="4">
+						            <lem>buddhattva-</lem>
+						            <note> Emend <foreign xml:lang="san-Latn">buddhatva-</foreign>.</note>
+					          </app>
+					          <app loc="4">
+						            <lem>buddhapratimā</lem>
+						            <rdg source="eiad-bibl:Burgess1882">buddhapratimāṁ</rdg>
+						            <rdg source="eiad-bibl:Ramachandranb">buddhapratimāṁ</rdg>
+					          </app>
+					          <app loc="4">
+						            <lem>pratisthāpitā <space type="horizontal" quantity="1" unit="character"/>
+						            </lem>
+						            <rdg source="eiad-bibl:Burgess1882">pratisthāpitāṁ</rdg>
+						            <note>Burgess suggests emending <foreign xml:lang="san-Latn">pratiṣṭhāpitāṁ</foreign>
+						            </note>
+						            <rdg source="eiad-bibl:Ramachandranb">pratiṣṭhāpitāṁ</rdg>
+					          </app>
+					          <app loc="5">
+						            <lem>kurvvantu</lem>
+						            <rdg source="eiad-bibl:Burgess1882">
+							              <supplied reason="lost">pakṣe?</supplied> kurvvantu</rdg>
+					          </app>
+					          <app loc="5">
+						            <lem>saugatyāpyetyo</lem>
+						            <rdg source="eiad-bibl:Burgess1882">saugatyāgryā(?)nyo</rdg>
+						            <rdg source="eiad-bibl:Ramachandranb">saugatyāgraya(?)ṇyo</rdg>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				        <ab>Prosperity! Jayaprabhācārya (was) the pupil of the Venerable Nāgārjunācārya. His
+                    pupil Candraprabha caused to be made (this) image of the Buddha, which was
+                    established for the attainment of Buddhahood, preceeded by the fortune among the
+                    gods and humans in the <foreign xml:lang="san-Latn">saṃsāra</foreign> that is
+                    characterized by the faith, that comes from the true (?) Well-Gone. May all
+                    followers of the Well-Gone (<foreign xml:lang="san-Latn">saugatyā api</foreign>
+                    ?) rejoice (...).</ab>
+			      </div>
+			      <div type="commentary">
+				        <listApp>
+					          <app loc="3">
+						            <lem>satusugata-</lem>
+						            <note>Perhaps for satsugata.</note>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="bibliography">
+				        <p>First described and edited by <bibl>
+						            <ptr target="eiad-bibl:Burgess1882"/>: <citedRange>57</citedRange>
+					          </bibl>. Re-edited here from published documentation and after autopsy of the
+                    stone.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+						            <ptr target="eiad-bibl:Burgess1887"/>: <citedRange>111-2</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Ramachandranb"/>: <citedRange>no. II</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Ramachandran1953"/>: <citedRange>28-9</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Aiyappan1960"/>: <citedRange>43</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Tsukamoto1996"/>: <citedRange>no. Jaga 4</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Hanumantha_Rao1998"/>: <citedRange>181-2 (no.
+                            2)</citedRange>
+					          </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

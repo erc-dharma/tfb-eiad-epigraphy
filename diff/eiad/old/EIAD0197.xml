@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-06-06T10:30:28.773+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 197
+[2] Raghunath no.: 
+[3] Srinivasan & Sankaranarayanan no.: 
+[4] Tsukamoto no.: 
+[5] Lüders no.: 
+[6] Support : drum slab
+[7] (Faces:) Lines: 1
+[8] H: 136
+[9] W: 98
+[10] D: 12.5
+[11] H: >70
+[12] W: 3
+[13] Language(s): MIA
+[14] Original locality: Dupadu
+[15] Present locality: AM&IC AM-17
+[16] Primary bibliography: Hanumantha Rao et al. 1998: 124. — Padmanabha Sastry 2004: 164 (6).
+[17] Secondary bibliography: ARIE 1984-85: B.36
+[18] Visual documentation: Est. ASI = ARIE 1984-85, pl. I. — photos JM 2017
+[19] Substance of inscription: 
+[20] Remarks: 
+[21] : 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Drum slab from Dupadu</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+               <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </editor>
+            <editor role="general">
+               <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+                  <surname>Strauch</surname>
+               </persName>
+				        </editor>
+            <editor role="general">
+               <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+                  <surname>Tournier</surname>
+               </persName>
+            </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+                  <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+                  <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+                  <forename>Emmanuelle</forename>
+                  <surname>Morlock</surname>
+               </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+                  <forename>Andrew</forename>
+                  <surname>Ollett</surname>
+               </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0197</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+                  <p>Copyright (c)
+							2017 by Stefan Baums, Arlo Griffiths, Ingo Strauch and Vincent
+							Tournier.</p>
+                  <p>This work is licensed under the Creative Commons
+							Attribution 3.0 Unported License. To view a copy of this license, visit
+							http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative
+							Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041,
+							USA.</p>
+               </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0197_inv-eiad" type="inv-eiad">EIAD 197</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Amaravathi Museum and Interpretation Centre</repository>
+							              <idno xml:id="EIAD0197_museum-inventory">AM-17</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indo-Aryan, Southern
+								Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+                           <p>
+                              <objectType>Drum slab</objectType>; <dimensions unit="cm">
+											                      <height>136</height>
+											                      <width>98</width>
+											                      <depth>12.5</depth>
+										                    </dimensions>.</p>
+                        </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout writtenLines="1">
+                           <dimensions unit="cm">
+										                    <height atLeast="70">70</height>
+										                    <width>3</width>
+									                  </dimensions>.</layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote><!-- description of decoration or iconography --></decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+                     <origPlace>
+                        <placeName>Dupadu</placeName>
+                     </origPlace>
+							              <origDate calendar="Julian"
+                               notBefore="0001"
+                               notAfter="0200"
+                               precision="low">
+								Undated. Attributable to the period between the 1st and 2nd century CE on palaeographic grounds.
+							</origDate>
+                  </origin>
+						            <provenance type="found" notBefore="1984" notAfter="1985">
+							              <p>The precise findspot and date of discovery are unknown.</p>
+						            </provenance>
+						            <provenance type="observed" when="2016-02">
+							              <p>Identified at Amaravathi Museum and Interpretation Centre (acc. no. AM-17) in February 2016.</p>
+						            </provenance>
+						            <provenance type="not-observed"> </provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates><!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl>Est. ASI = ARIE 1984-85, pl. I</bibl>
+								                <bibl>photos JM 2017</bibl>
+							              </listBibl>
+                  </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan, romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines and the latest
+				Schema version <ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+         </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-06-06">Creation of the file - automatic
+				conversion.</change>
+			      <change who="#CC" when="2017-06-19">Merging with READ file</change>
+			      <change who="#MS" when="2017-07-06">Hid commentary div as comment and adjusted title</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+		       <change who="#VT" when="2019-09-29">Changed edition and added translation.</change>
+		       <change who="#VT" when="2019-10-19">Changed bibliography and secondary bibliography.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic url="photograph of text or monument">
+			      <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab>
+               <lb n="1"/>
+               <milestone unit="fragment" type="lost" subtype="left"/>
+					          <w xml:id="tok6871">samaṇikāya</w>
+					          <w xml:id="tok6872">saghaya</w>
+					         <w xml:id="tok6873">ya</w>
+				           <w xml:id="tok6874"><unclear>°i</unclear>darakhi<unclear>ta</unclear>ya</w>  <w xml:id="tok6874bis">ya</w>
+					          <space type="horizontal" quantity="1" unit="chars"/>
+					          <w xml:id="tok6875">d<unclear>e</unclear>yadha<unclear>ma</unclear>
+               </w>
+					          <w xml:id="tok6876">
+                  <unclear>pa</unclear><supplied reason="lost">ṭo</supplied>
+               </w>
+				        </ab>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="1">
+						            <lem>samaṇikāya</lem>
+						            <rdg source="eiad-bibl:Hanumantha_Rao1998">
+                     <supplied reason="lost">siri</supplied>sama<unclear>ṇ</unclear>ṇikāya</rdg>
+					          </app>
+					          <app loc="1">
+						            <lem>saghaya ya</lem>
+						            <rdg source="eiad-bibl:Hanumantha_Rao1998">sa<unclear>ṃ</unclear>ghaya śī</rdg>
+					          </app>
+					          <app loc="1">
+						            <lem>
+                     <unclear>°i</unclear>darakhi<unclear>ta</unclear>ya ya</lem>
+						            <rdg source="eiad-bibl:Hanumantha_Rao1998">si<supplied reason="lost">m</supplied>ghapi<unclear>ya</unclear>ja</rdg>
+					          </app>
+					          <app loc="1">
+						            <lem>d<unclear>e</unclear>yadha<unclear>ma</unclear>
+							              <unclear>pa</unclear><supplied reason="lost">ṭo</supplied>
+                  </lem>
+						            <rdg source="eiad-bibl:Hanumantha_Rao1998">kiya dhamma</rdg>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				<ab> A slab as pious gift of ... and of the religious Saghā (Skt. Saṅghā) and Idarakhitā (Skt. Indrarakṣitā).
+				</ab>
+			</div>
+			<!--<div type="commentary">
+				[Revision required]
+				<listApp>
+					<app loc="lineNumber">
+						<note/>
+					</app>
+				</listApp>
+			</div>-->
+			      <div type="bibliography">
+			         <p>First described and edited by <bibl>
+			            <ptr target="eiad-bibl:zoteroItem_G9CH6AGA"/>
+			            <citedRange>1984-85: B.36</citedRange></bibl>, followed by <bibl>
+                  <ptr target="eiad-bibl:Hanumantha_Rao1998"/>: <citedRange>124</citedRange>
+               </bibl> and then by <bibl>
+                  <ptr target="eiad-bibl:Parasher2004a"/>: <citedRange>164 (6)</citedRange>
+               </bibl>.
+					Padmanabha Sastry reproduces the faulty text of the former, but with different spacing. Only the reading published in Hanumantha Rao is recorded in our apparatus.</p>
+				        <listBibl type="secondary-bibliography">
+				           <bibl>
+				              <ptr target="eiad-bibl:zoteroItem_R4S8D3K2"/>
+				              <citedRange>1976-77: 3</citedRange>
+				           </bibl>  
+				           <bibl>Pant and Subba Reddy 1988: 665</bibl><!-- add ptr target -->
+				           <bibl>Subha Reddy 2005-2006: 1441-1442</bibl> <!-- add ptr target -->
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

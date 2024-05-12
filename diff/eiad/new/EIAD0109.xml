@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-05-04T13:35:14.205+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 109
+[2] Raghunath no.: —
+[3] Srinivasan & Sankaranarayanan no.: 
+[4] Tsukamoto no.: —
+[5] Lüders no.: 
+[6] Support : Buddhapāda
+[7] (Faces:) Lines: 1
+[8] H: 38
+[9] W: 38
+[10] D: 7.4 (min.), 9.5 (max.)
+[11] H: 1.8
+[12] W: 27
+[13] Language(s): MIA
+[14] Original locality: Phanigiri
+[15] Present locality: TSAM
+[16] Primary bibliography: Subrahmanyam et al. 2008: 33 (1).
+[17] Secondary bibliography: IAR 2004-05: 206 (6).
+[18] Visual documentation: IAR 2004-05, pl. 137. — Subrahmanyam et al. 2008: 25 (e).
+[19] Substance of inscription: 
+[20] Remarks: 
+[21] : 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Buddhapāda from Phanigiri</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+						            <surname>Strauch</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+						            <forename>Emmanuelle</forename>
+						            <surname>Morlock</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+						            <forename>Andrew</forename>
+						            <surname>Ollett</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0109</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths,
+							Ingo Strauch and Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons
+							Attribution 3.0 Unported License. To view a copy of
+							this license, visit
+							http://creativecommons.org/licenses/by/3.0/ or send
+							a letter to Creative Commons, 444 Castro Street,
+							Suite 900, Mountain View, California, 94041,
+							USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0109_inv-eiad">EIAD 109</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Telangana Archaeological State
+								Museum</repository>
+							              <idno xml:id="EIAD0109_museum-inventory">without an acc. no.</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle
+								Indo-Aryan, Southern Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <objectType>Buddhapāda</objectType>;
+										<dimensions unit="cm">
+										                       <height>38</height>
+										                       <width>38</width>
+										                       <depth atLeast="7.4" atMost="9.5">7.4
+										(min.), 9.5 (max.)</depth>
+										                    </dimensions>.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout writtenLines="1">
+									                  <dimensions unit="cm">
+										                    <height>1.8</height>
+										                    <width>27</width>
+									                  </dimensions>
+								                </layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote>This inscription is engraved on a slab
+								with the carving of ornamented foot-prints. The
+								lower part has a frieze of running
+								animals.</decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>
+                        <placeName>Phanigiri</placeName>
+                     </origPlace>
+							              <origDate calendar="Julian"
+                               notBefore="0300"
+                               notAfter="0400"
+                               precision="low">Attributable to
+								the 4th century CE on palaeographic grounds.
+								<!-- CC: I took the IAR datation, but Subrahmanyam says that the inscription belongs to the Satavahana dynasty and is datable of about the 1st/2nd century A.D., which datation do I have to chose ?-->.
+							</origDate>
+						            </origin>
+						            <provenance type="found" notBefore="2001" notAfter="2005">
+							              <p>Discovered in the course of excavations conducted
+								by the State Department of Archaeology and
+								Museums over several seasons from 2001 to 2007.
+								The precise date of discovery is unknown.</p>
+						            </provenance>
+						            <provenance type="observed" when="2016-02">
+							              <p>Identified at the Telangana State Archaeological
+								Museum in February 2016.</p>
+						            </provenance>
+						            <provenance type="not-observed">
+							<!-- information about a specific, unsuccessful attempt to locate an object in a presumed or previously recorded location --></provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates><!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl>Subrahmanyam et al. 2008: 25 (e)</bibl>
+								                <bibl>photos AL 2017</bibl>
+							              </listBibl>
+							              <listBibl ana="photo-estampage">
+								                <bibl>IAR 2004-05, pl. 137</bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan,
+					romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines
+				and the latest Schema version
+					<ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of
+							estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-02-25">Creation of the file - automatic
+				conversion.</change>
+			      <change who="#CC" when="2017-05-15">Merging with READ file</change>
+			      <change who="#MS" when="2017-06-03">Added listApp in apparatus and
+				organised surrogates.</change>
+			      <change who="#MS" when="2017-06-20">Modified titles.</change>
+			      <change who="#SB" when="2017-07-29">Changed translation. Removed comment.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+		    	<change who="#VT" when="2020-03-27">Changed edition, apparatus, and translation.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic url="photograph_of_text_or_monument">
+			      <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab>
+					          <lb n="1"/>
+					          <w xml:id="tok4843">sidhaṁ</w>
+					          <w xml:id="tok4844">bhayata</w>
+					          <w xml:id="tok4844bis">
+					          	<unclear>kacana</unclear>sa</w>
+					          <w xml:id="tok4849">natukasa</w>
+					          <w xml:id="tok4850">bodhikasa</w>
+					          <w xml:id="tok4851">deyadhaṁmaṁ</w>
+					          <w xml:id="tok4852">padasa<unclear>ṁ</unclear>ghaḍa</w>
+				        </ab>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="1">
+						            <lem>bhayata</lem>
+						            <rdg source="eiad-bibl:Hinüber2013b">bhaya<supplied reason="lost">ṁ</supplied>ta</rdg>
+					          </app>
+					          <app loc="1">
+					          	<lem><unclear>kacana</unclear>sa</lem>
+						            <rdg source="eiad-bibl:Hinüber2013b">
+							              <gap reason="lost" quantity="3" unit="character"/>
+							sa</rdg>
+					          </app>
+					          <app loc="1">
+						            <lem>deyadhaṁmaṁ</lem>
+						            <rdg source="eiad-bibl:Hinüber2013b">deyadhama</rdg>
+					          </app>
+					          <app loc="1">
+						            <lem>padasa<unclear>ṁ</unclear>ghaḍa</lem>
+						            <rdg source="eiad-bibl:Hinüber2013b">pādasaghāḍa</rdg>
+						            <note>There is in fact not a single <seg type="graphemic">ā</seg> in the inscription, so
+							this lack of representation of the long vowels might
+							be considered a practice of the lapicide.</note>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				        <ab>Success! (This) pair of feet as pious gift of Bodhika, grandson of the venerable Kaccāna (Skt. Kātyāyana).</ab>
+			      </div>
+			      <!-- CC: The [ca] wasn't take into consideration into the traduction -->
+			      <div type="bibliography">
+				        <p>First described and edited by <bibl>
+						            <ptr target="eiad-bibl:Chenna_Reddy2008"/>:
+							<citedRange>33 (1)</citedRange>
+					          </bibl>. Re-edited here from published documentation and
+					after autopsy of the stone.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+						            <ptr target="eiad-bibl:Hinüber2013b"/>:
+							<citedRange>11, n. 16</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:zoteroItem_R4S8D3K2"/>
+						            <citedRange>2004-05: 206 (6)</citedRange>
+					          </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

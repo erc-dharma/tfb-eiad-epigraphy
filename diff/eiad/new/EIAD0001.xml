@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory_1-50.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 1
+[2] Raghunath no.: 1
+[3] Srinivasan & Sankaranarayanan no.: —
+[4] Tsukamoto no.: Naga 69
+[5] Lüders no.: 
+[6] Support : octagonal pillar, bottom part
+[7] (Faces:) Lines: 4
+[8] H: 116
+[9] W: 31
+[10] D: 22.5
+[11] H: 21.5
+[12] W: 29
+[13] Language(s): MIA
+[14] Original locality: Nagarjunakonda Site-126 (?)
+[15] Present locality: NM 79
+[16] Primary bibliography: Sarkar 1965-66.
+[17] Secondary bibliography: Sarkar 1960: 84 (postcript by editor). — ARIE 1962-63: B.147. — Raghunath
+                        2001: 67-8 (1).
+[18] Visual documentation: Sarkar; Raghunath.
+[19] Substance of inscription: gift of a pillar 
+[20] Remarks: ARIE states: "Slab discovered in Site No. 125, near the Royal Burning Ghat
+                        No. 127"
+
+
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Octagonal pillar from Nagarjunakonda — reign of Gotamīputta Siri-Vijayasātakaṇṇi, year 6</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+						            <surname>Strauch</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+						            <forename>Emmanuelle</forename>
+						            <surname>Morlock</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+						            <forename>Andrew</forename>
+						            <surname>Ollett</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0001</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths,
+							Ingo Strauch and Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons
+							Attribution 3.0 Unported License. To view a copy of
+							this license, visit
+							http://creativecommons.org/licenses/by/3.0/ or send
+							a letter to Creative Commons, 444 Castro Street,
+							Suite 900, Mountain View, California, 94041,
+							USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).--></note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0001_inv-eiad" type="inv-eiad">EIAD
+							1</idno>
+						            <!--<altIdentifier type="Raghunath">
+							<idno>1</idno>
+						</altIdentifier>
+						<altIdentifier type="Srinivasan-Sankaranarayanan">
+							<idno>—</idno>
+						</altIdentifier>
+						<altIdentifier type="Tsukamoto">
+							<idno>Naga 69</idno>
+						</altIdentifier>
+						<altIdentifier type="Lüders">
+							<idno/>
+						</altIdentifier>-->
+						            <altIdentifier type="museum-inventory">
+							              <repository>Nagarjunakonda Museum</repository>
+							              <idno xml:id="EIAD0001_museum-inventory">79</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indo-Aryan, Southern Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>Bottom part of an octagonal
+										<objectType>pillar</objectType>. Dimensions:
+										<dimensions unit="cm">
+										                       <height atLeast="116">116</height>
+										                       <width>31</width>
+										                       <depth>22.5</depth>
+										                    </dimensions>.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout>Inscribed area:
+									                  <dimensions unit="cm">
+										                    <height>21.5</height>
+										                    <width>29</width>
+									                  </dimensions>; the vertical space between
+									lines 1 and 2 is larger than between the
+									following lines.</layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote><!-- description of decoration or iconography --></decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>Presumed to have been erected originally at or near findspot.</origPlace>
+							              <origDate calendar="Julian" notBefore="0200" notAfter="0235">Sixth regnal year of Siri-Vijayasātakaṇṇi, approximately 221
+								CE.</origDate>
+                     <!--See http://www.stoa.org/epidoc/gl/latest/supp-historigdate.html-->
+							              <!-- On dates of this king, check S. Bhandare's chronology, and perhaps refer to it. -->
+						            </origin>
+						            <provenance type="found" when="1962-05-29">
+						            	  <p>Found at <placeName type="modern" key="eiad-geo:NK">Nagarjunakonda</placeName> 
+                        <quote>quite close to Site 126</quote>
+								according to <bibl>
+                           <ptr target="eiad-bibl:Sarkara"/>
+                        </bibl>. In ARIE, however, we read <quote>Slab discovered in Site No. 125, near the Royal Burning Ghat No. 127</quote>.</p>
+						            </provenance>
+						            <provenance type="observed" when="2016-02">
+							              <p>Identified at Nagarjunakonda Museum (acc. no.
+								79) in February
+								2016.</p>
+							              <!-- Modern location(s) (if different from repository, above); is used to encode information about subsequent modern observation -->
+						            </provenance>
+						            <provenance type="not-observed">
+							<!-- information about a specific, unsuccessful attempt to locate an object in a presumed or previously recorded location -->
+						</provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object -->
+						</provenance>
+					          </history>
+					          <additional>
+						            <surrogates>
+							              <listBibl ana="#photo">
+								                <bibl>AL 2017</bibl>
+							              	  <bibl>JM 2017</bibl>
+							              </listBibl>
+							              <listBibl ana="#photo-estampage">
+								                <bibl>
+                           <ptr target="eiad-bibl:Sarkara"/>
+                        </bibl>
+								                <bibl>
+                           <ptr target="eiad-bibl:Raghunath2001"/>
+                        </bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan,
+					romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="en">This file encoded to comply with EpiDoc Guidelines
+				and the latest Schema version
+					<ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of
+							estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-02-25">Creation of the file - automatic
+				conversion.</change>
+			      <change who="#AG" when="2017-02-26">Merging with READ file and
+				further modified.</change>
+			      <change who="#AG" when="2017-03-08">Modified layoutDesc.</change>
+			      <change who="#EM" when="2017-03-16">Corrected processing instruction
+				pointing to schema</change>
+			      <change who="#MS" when="2017-04-20">Standardised secondary
+				bibliography.</change>
+			      <change who="#AG" when="2017-05-07">Removed comments EM and applied
+				correct xml:ids for bibl items</change>
+			      <change who="#AG" when="2017-05-14">Corrected two cases of ptr/ref;
+				applied break="no" at lb 4</change>
+			      <change who="#MS" when="2017-05-25">Added reference to
+				surrogates.</change>
+			      <change who="#AG" when="2017-06-11">Modified title.</change>
+		    	  <change who="#AG" when="2017-06-22">Changes regarding lb 2</change>
+		    	  <change who="#AG" when="2017-06-24">Changes regarding use of placeName in origin and provenance</change>
+		    	  <change who="#AG" when="2017-07-07">Changes re. dimensions in support and layout</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+		    	<change who="#VT" when="2019-02-02">Changed date to agree with Bhandare and Ajay Mitra Shastri chronology.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+	  	  <graphic xml:id="EIAD0001_image-general" url="EIAD0001_0.jpg" n="1">
+	  		    <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+	  	  </graphic>
+	  	  <graphic xml:id="EIAD0001_image-est-ASI196263B147"
+               url="EIAD0001_1.jpg"
+               n="2">
+	  		    <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+	  	  </graphic>
+	  	  <graphic xml:id="EIAD0001_image-text" url="EIAD0001_2.jpg" n="3">
+	  		    <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+	  	  </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab xml:space="preserve">
+					<w xml:id="tok1">
+						<lb n="1"/>
+						<unclear>na</unclear>mo</w>
+					<w xml:id="tok2">bhagavato</w>
+					<space type="horizontal" quantity="1" unit="character"/>
+					<w xml:id="tok4">°agapogalasa</w>
+					<lb n="2"/>
+					<w xml:id="tok5">raṁño</w>
+					<w xml:id="tok6">gotamiputasa</w>
+					<space type="horizontal" quantity="1" unit="character"/>
+					<w xml:id="tok8">sirivijayasa<lb n="3" break="no"/>takaṁṇṇisa</w>
+					<space type="horizontal" quantity="1" unit="character"/>
+					<w xml:id="tok10">sava</w>
+					<num xml:id="tok11" value="6">6</num>
+					<w xml:id="tok12">gipa</w>
+					<num xml:id="tok13" value="4">4</num>
+					<w xml:id="tok14">diva</w>
+					<w xml:id="tok15">vesa<lb n="4" break="no"/>khapuṇima</w>
+					<!--<pc>:</pc>-->
+				</ab>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="2">
+						            <lem>raṁño</lem>
+						            <rdg source="eiad-bibl:Sarkara">raño</rdg>
+					          </app>
+					          <app loc="2-3">
+						            <lem>-satakaṁṇṇisa</lem>
+						            <rdg source="eiad-bibl:Sarkara">-satakaṇṇisa</rdg>
+					          </app>
+					          <app loc="3-4">
+						            <lem>vesakhapuṇima</lem>
+						            <rdg source="eiad-bibl:Sarkara">vesākhapuṇima</rdg>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				        <p>Homage to the Bhagavant, highest man! 6th year of King
+					Gotamīputta Siri-Vijayasātakaṇṇi, 4th fortnight of the hot
+					season, full-moon day of Vaiśākha.</p>
+			      </div>
+			      <div type="commentary">
+				        <listApp>
+					          <app loc="4">
+						            <note>According to <bibl>
+								                <ptr target="eiad-bibl:Raghunath2001"/>
+						               </bibl>, two visarga-like dots at the end of the inscription serve to denote the end of the
+						            	record, but we consider these accidental.</note>
+						           </app>
+				        </listApp>
+			      </div>
+			      <div type="bibliography">
+				        <p>First described and edited by <bibl>
+						            <ptr target="eiad-bibl:Sarkara"/>
+					          </bibl>. Re-edited here on the basis of available documents and
+					after autopsy of the stone.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+						            <ptr target="eiad-bibl:Sarkar1960"/>: <citedRange>84
+							(postcript by editor)</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:zoteroItem_R4S8D3K2"/>
+						            <citedRange>1961-62: 77</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:zoteroItem_G9CH6AGA"/>
+						            <citedRange>1962-63: no. B.147</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Tsukamoto1996"/>: <citedRange>no. Naga
+							69</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Raghunath2001"/>:
+							<citedRange>67-8 (no. 1)</citedRange>
+					          </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

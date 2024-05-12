@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-03-29T17:32:11.51+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 75
+[2] Raghunath no.: 57
+[3] Srinivasan & Sankaranarayanan no.: 58
+[4] Tsukamoto no.: —
+[5] Lüders no.: 
+[6] Support : memorial stela
+[7] (Faces:) Lines: 5
+[8] H: 122
+[9] W: 43
+[10] D: 12
+[11] H: 26.5
+[12] W: 23
+[13] Language(s): MIA
+[14] Original locality: Nagarjunakonda Site-59, near svastika stūpa, sector IV, division 83, trench A 2
+[15] Present locality: NM, w/out no.
+[16] Primary bibliography: Sircar 1963-64a: 16 (6.C.I).
+[17] Secondary bibliography: ARIE 1958-59: B.82. — Sarkar 1982: 204-5. — Raghunath 2001: 174-5 (57).
+[18] Visual documentation: Sircar; Raghunath.
+[19] Substance of inscription:  erected in honour of the foreman of the artisans
+[20] Remarks: the support is not a pillar
+[21] : 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Memorial stela from site 59 at Nagarjunakonda</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+						            <surname>Strauch</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+						            <forename>Emmanuelle</forename>
+						            <surname>Morlock</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+						            <forename>Andrew</forename>
+						            <surname>Ollett</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0075</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths,
+							Ingo Strauch and Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons
+							Attribution 3.0 Unported License. To view a copy of
+							this license, visit
+							http://creativecommons.org/licenses/by/3.0/ or send
+							a letter to Creative Commons, 444 Castro Street,
+							Suite 900, Mountain View, California, 94041,
+							USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0075_inv-eiad" type="inv-eiad">EIAD
+							75</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Nagarjunakonda Museum</repository>
+							              <idno xml:id="EIAD0075_museum-inventory">w/out acc.
+								no.</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle
+								Indo-Aryan, Southern Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>Erroneously described as a pillar in <bibl>
+										                       <ptr target="eiad-bibl:Sircara"/>
+										                    </bibl> and <bibl>
+										                       <ptr target="eiad-bibl:Settar1982b"/>
+										                    </bibl>, a <objectType>memorial
+										stela</objectType>; <dimensions unit="cm">
+										                       <height>122</height>
+										                       <width>43</width>
+										                       <depth>12</depth>
+										                    </dimensions>.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout>
+									                  <dimensions unit="cm">
+										                    <height>26.5</height>
+										                    <width>23</width>
+									                  </dimensions>
+								                </layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote>A motif has been incised above the
+								inscription. It has been described as <cit>
+									                  <quote>a narrow-necked vase, perhaps the
+										guild-mark of Mūlabhūta</quote>
+									                  <bibl>
+										                    <ptr target="eiad-bibl:Settar1982b"/>:
+										<citedRange>204-5</citedRange>
+									                  </bibl>
+								                </cit>.</decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>
+                        <placeName type="modern" key="eiad-geo:NK">Nagarjunakonda</placeName>
+                     </origPlace>
+							              <origDate calendar="Julian"
+                               notBefore="0250"
+                               notAfter="0350"
+                               precision="low"> Undated.
+								Attributable to the period 250-350 CE on
+								palaeographic grounds.</origDate>
+						            </origin>
+						            <provenance type="found" notAfter="1959">
+							              <p>Discovered no later than 1959 at Site-59, near
+									<foreign xml:lang="san-Latn">svastika</foreign>
+								                <foreign xml:lang="san-Latn">stūpa</foreign>,
+								sector IV, division 83, trench A 2.</p>
+						            </provenance>
+						            <provenance type="observed" when="2016-02">
+							              <p>Identified in February 2016 at Nagarjunakonda
+								Museum (without an acc. no.).</p>
+						            </provenance>
+						            <provenance type="not-observed">
+							<!-- information about a specific, unsuccessful attempt to locate an object in a presumed or previously recorded location --></provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates><!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl>photos AL 2017</bibl>
+								                <bibl>photos JM 2017</bibl>
+							              </listBibl>
+							              <listBibl ana="#photo-estampage">
+								                <bibl>Sircar</bibl>
+								                <bibl>Raghunath</bibl>
+								                <!--<bibl>Soundara Rajan, pl. ???</bibl>-->
+							              </listBibl>
+							              <listBibl ana="#rti">
+								                <bibl>RTI JM 2017</bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan,
+					romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines
+				and the latest Schema version
+					<ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of
+							estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-02-25">Creation of the file - automatic
+				conversion.</change>
+			      <change who="#MS" when="2017-04-23">Merging with READ data.</change>
+			      <change who="#AG" when="2017-05-25">Added Soundara Rajan to sec.
+				bibl.</change>
+			      <change who="#MS" when="2017-06-03">Organised surrogates.</change>
+			      <change who="#MS" when="2017-06-09">Hid commentary div as
+				comment.</change>
+			      <change who="#MS" when="2017-06-20">Modified title.</change>
+			      <change who="#VT" when="2017-07-04">Modified translation and apparatus.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic url="photograph of text or monument">
+			      <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab>
+					          <lb n="1"/>
+					          <w xml:id="tok4149">
+						            <unclear>pa</unclear>toyatakasa</w>
+					          <lb n="2"/>
+					          <w xml:id="tok4150">°āvesanikasa</w>
+					          <lb n="3"/>
+					          <w xml:id="tok4151">
+						            <unclear>ta</unclear>mal<unclear>o</unclear>yakarasa</w>
+					          <lb n="4"/>
+					          <w xml:id="tok4152">m<unclear>ū</unclear>labhutasa</w>
+					          <lb n="5"/>
+					          <w xml:id="tok4153">chāyapaṭo</w>
+				        </ab>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="1">
+						            <lem>
+							              <unclear>pa</unclear>toyatakasa</lem>
+						            <rdg source="eiad-bibl:Sircara">pa<unclear>va</unclear>yātakasa </rdg>
+					          </app>
+					          <app loc="3">
+						            <lem>
+							              <unclear>ta</unclear>mal<unclear>o</unclear>yakarasa</lem>
+						            <!--MS:
+                        This contradicts the edition above where we have
+                        "<unclear>ta</unclear>mal<unclear>o</unclear>yakarasa"-->
+						            <rdg source="eiad-bibl:Sircara">tamaṇiyakarasa</rdg>
+						            <note>The first akṣara could also be read <seg type="graphemic">na</seg>.</note>
+						            <!--MS: The lema is
+                            currently <na>. Maybe this is a situation where we
+                            should use the choice element, III.3 in
+                            cheatsheet.-->
+					          </app>
+					          <app loc="5">
+						            <lem>chāyapaṭo</lem>
+						            <rdg source="eiad-bibl:Sircara">chāyatha<unclear>bha</unclear>
+						            </rdg>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				        <ab>Memorial slab (<foreign xml:lang="pra-Latn">chāyāpaṭa</foreign>) of the <foreign xml:lang="pra-Latn">tamaloya</foreign>-maker (?) Mūlabhuta,
+					artisan (<foreign xml:lang="pra-Latn">āvesanika</foreign>)
+					from (?) Patayataka.</ab>
+			      </div>
+			      <!--<div type="commentary">
+				<listApp>
+					<app loc="lineNumber">
+						<note>@loc = number of the line commented here in the note element.</note>
+					</app>
+				</listApp>
+			</div>-->
+			      <div type="bibliography">
+				        <p>First described and edited by <bibl>
+						            <ptr target="eiad-bibl:Sircara"/>: <citedRange>16
+							(6.C.I)</citedRange>
+					          </bibl>. Re-edited here from available documentation and
+					after autopsy of the stone.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+						            <ptr target="eiad-bibl:zoteroItem_G9CH6AGA"/>
+						            <citedRange>1958-59: no. B.82</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Srinivasan1979a"/>:
+							<citedRange>no. 58</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Settar1982b"/>:
+							<citedRange>204-5</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Raghunath2001"/>:
+							<citedRange>174-5 (no. 57)</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Soundara_Rajan2006"/>:
+							<citedRange>192</citedRange>
+					          </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

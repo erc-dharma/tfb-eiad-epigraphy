@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-06-06T10:30:28.773+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 193
+[2] Raghunath no.: —
+[3] Srinivasan & Sankaranarayanan no.: —
+[4] Tsukamoto no.: —
+[5] Lüders no.: 
+[6] Support : drum slab
+[7] (Faces:) Lines: 1
+[8] H: 
+[9] W: 
+[10] D: 
+[11] H: 
+[12] W: 
+[13] Language(s): MIA
+[14] Original locality: Dhulikatta, 8 km from Peddabankur
+[15] Present locality: unknown
+[16] Primary bibliography: Krishna Sastry 1983: 145, 226. — ARDAM 1975-76 (1986): 8.
+[17] Secondary bibliography: Hanumantha Rao et al 1998: 115 (no. 1).
+[18] Visual documentation: 
+[19] Substance of inscription: gahapatino pathalasa mathuya samaya danam
+[20] Remarks: 
+[21] : 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Slab from Dhulikatta with image of Mucilinda</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+               <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </editor>
+            <editor role="general">
+               <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+                  <surname>Strauch</surname>
+               </persName>
+				        </editor>
+            <editor role="general">
+               <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+                  <surname>Tournier</surname>
+               </persName>
+            </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+                  <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+                  <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+                  <forename>Emmanuelle</forename>
+                  <surname>Morlock</surname>
+               </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+                  <forename>Andrew</forename>
+                  <surname>Ollett</surname>
+               </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0193</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+                  <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths, Ingo Strauch and Vincent Tournier.</p>
+                  <p>This work is licensed
+							under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative
+							Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+               </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0193_inv-eiad" type="inv-eiad">EIAD 193</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>unavailable</repository>
+							              <idno xml:id="EIAD0193_museum-inventory">unavailable</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indo-Aryan, Southern Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+                           <p>
+                              <objectType>Drum slab</objectType>; <dimensions unit="cm">
+											                      <height>unavailable</height>
+											                      <width>unavailable</width>
+											                      <depth>unavailable</depth>
+										                    </dimensions>.</p>
+                        </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout writtenLines="1">
+                           <dimensions unit="cm">
+										                    <height>unavailable</height>
+										                    <width>unavailable</width>
+									                  </dimensions>.</layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote>The slab bears a five-hooded <foreign xml:lang="san-Latn">nāga</foreign>.</decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+                     <origPlace>
+                        <placeName>Dhulikatta</placeName>, 8 km from <placeName>Peddabankur</placeName>
+                     </origPlace>
+							              <origDate calendar="Julian"
+                               notBefore="-0200"
+                               notAfter="0200"
+                               precision="low"> Undated. Attributable to the period between the 2nd century B.C to the 2nd century CE on
+								palaeographic grounds and by comparison with other artifacts that the site has delivered. </origDate>
+						            </origin>
+						            <provenance type="found" notBefore="1975" notAfter="1976">
+							              <p>Discovered during the year 1975-1976 between the eastern and the northern Ayaka platforms of the Dhulikatta Stūpa, by the Department of Archaeology and Museums,
+								Government of Andhra Pradesh.</p>
+						            </provenance>
+						            <provenance type="observed">
+							<!-- Modern location(s) (if different from repository, above); is used to encode information about subsequent modern observation --></provenance>
+						            <provenance type="not-observed" notBefore="2016">
+							              <p>Not identified during fieldwork from February 2016 onward.</p>
+						            </provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates><!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl/>
+							              </listBibl>
+                  </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan, romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines and the latest Schema version <ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+         </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-06-06">Creation of the file - automatic conversion.</change>
+			      <change who="#CC" when="2017-06-17">Merging with READ file</change>
+			      <change who="#MS" when="2017-07-06">Hid commentary div as comment and put diacritic on nāga</change>
+			      <change who="#EM" when="2017-07-16">corrected illegal character in commented commentary</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+		       <change who="#VT" when="2019-09-02">Modified publication history.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic url="photograph of text or monument">
+			      <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab>
+					          <lb n="1"/>
+					          <w xml:id="tok6860">piṭhanaṁdiputasa</w>
+					          <w xml:id="tok6861">duhutaya</w>
+					          <w xml:id="tok6862">sayonija</w>
+					          <w xml:id="tok6863">dānaṁ</w>
+				        </ab>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="1">
+						            <lem>piṭhanaṁdiputasa duhutaya sayonija dānaṁ</lem>
+						            <rdg source="eiad-bibl:Krishna_Sastry1983">pitha nandi puthasa duhuthuya sayonija sanam</rdg>
+					          </app>
+					          <app loc="1">
+						            <lem>piṭhanaṁdiputasa duhutaya sayonija dānaṁ</lem>
+						            <rdg source="eiad-bibl:ARDAM">pitha nandi puthasa – duruthuya sayonija danam</rdg>
+					          </app>
+					          <app loc="1">
+						            <lem>piṭhanaṁdiputasa duhutaya sayonija dānaṁ</lem>
+						            <rdg source="eiad-bibl:Hanumantha_Rao1998">piṭha naṅdi puthasa duhuthuya sayonija dānam</rdg>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				        <ab>gahapatino pathalasa mathuya samaya danam</ab>
+			      </div>
+			      <!--<div type="commentary">
+				<listApp>
+					<app loc="lineNumber">
+						<note><!-\-@loc = number of the line commented here in the note element.-\-></note>
+					</app>
+				</listApp>
+			</div>-->
+			      <div type="bibliography">
+				        <p>No visual
+					documentation seems to have been published for the present one, for which nearly identical readings have been published by <bibl>
+                  <ptr target="eiad-bibl:Krishna_Sastry1983"/>:
+							<citedRange>145</citedRange>
+               </bibl>, <bibl>
+                  <ptr target="eiad-bibl:ARDAM"/>
+						            <citedRange>1975-76 (1986): 8</citedRange>
+               </bibl> and <bibl>
+                  <ptr target="eiad-bibl:Hanumantha_Rao1998"/>: <citedRange>115 (no. 2)</citedRange>
+               </bibl> Not having identified the
+					slab bearing this inscription, we are unable to verify the published readings. The text is an attempt to interpret and normalize the published readings.</p>
+				        <!--<listBibl type="secondary-bibliography">
+					 <bibl><ptr target="eiad-bibl:xxx"/>: <citedRange>115 (no. 1)</citedRange></bibl>
+				</listBibl>-->
+			      </div>
+		    </body>
+	  </text>
+</TEI>

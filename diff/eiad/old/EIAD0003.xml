@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--
+Author: @emma_morlock - Last revision: 2017-02-26
+
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory_1-50.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 3
+[2] Raghunath no.: 3
+[3] Srinivasan & Sankaranarayanan no.: 2
+[4] Tsukamoto no.: Kesa 16
+[5] Lüders no.: 
+[6] Support : octagonal pillar, fragment
+[7] (Faces:) Lines: 4
+[8] H: 72
+[9] W: 22
+[10] D: unavailable
+[11] H: unavailable
+[12] W: 50
+[13] Language(s): MIA
+[14] Original locality: Kēsānapalli, Palnad Taluk, Guntur District
+[15] Present locality: AM&IC AM-42
+[16] Primary bibliography: Subrahmanyam 1969. — Khan 1969: 2. — Sankaranarayan 1969-70.
+[17] Secondary bibliography: Raghunath 2001: 70-1 (3). — Hanumantha Rao et al. 1998: 178.
+[18] Visual documentation: Subrahmanyam; Khan, pl. XXIII; Sankaranarayanan; Raghunath.
+[19] Substance of inscription: erection of a Buddha statue
+[20] Remarks: text written lengthwise, parallel to the boundaries between the facets of
+the stone. Cf. 056, and inscription at Nat. Mus. Colombo.
+
+
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Octagonal pillar from Kesanapalli — reign of Vāsiṭṭhīputta Siri-Cāntamūla, year 13</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+				        </principal>
+            <editor role="general">
+               <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </editor>
+            <editor role="general">
+               <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+                  <surname>Tournier</surname>
+               </persName>
+            </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+               <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+                  <surname>Strauch</surname>
+               </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+                  <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+                  <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+                  <forename>Emmanuelle</forename>
+                  <surname>Morlock</surname>
+               </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+                  <forename>Andrew</forename>
+                  <surname>Ollett</surname>
+               </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0003</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+                  <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths, Ingo Strauch and Vincent Tournier.</p>
+                  <p>This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+               </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!--The pillar is currently set in a concrete stand; Cf. 056, and inscription at Nat. Mus. Colombo.--></note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0003_inv-eiad" type="inv-eiad">EIAD 3</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Amaravathi Museum and Interpretation Centre</repository>
+							              <idno xml:id="EIAD0003_museum-inventory">AM-42</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indo-Aryan, Southern Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+                           <p>Fragment of what was apparently an octagonal <objectType>pillar</objectType>; <dimensions unit="cm">
+											                      <height>72</height>
+											                      <width>22</width>
+											                      <depth>unavailable</depth>
+										                    </dimensions>.</p>
+                        </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout>Text written lengthwise, parallel to the boundaries between the facets of the stone; <dimensions unit="cm">
+										                    <height>unavailable</height>
+										                    <width>50</width>
+									                  </dimensions>.</layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote><!-- description of decoration or iconography --></decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+                     <origPlace>Presumed to have been erected originally at or near findspot.</origPlace>
+		                   <origDate calendar="Julian"
+                               notBefore-custom="0200"
+                               notAfter-custom="0250"
+                               precision="medium">Thirteenth regnal year of Siri-Cāntamūla, approximately between 200 and 250 CE.</origDate>
+						            </origin>
+				              <provenance type="found" notAfter="1965">
+		                   <p>
+                        <bibl>
+                           <ptr target="eiad-bibl:Sankaranarayanana"/>
+                        </bibl> states that it was discovered before 1965 in a Buddhist stūpa at the village <placeName type="modern" key="eiad-geo:kesanapalli">Kesanapalli</placeName>.</p>
+						            </provenance>
+						            <provenance type="observed" when="2016-02">
+							              <p>Identified at Amaravathi Museum and Interpretation Centre (acc. no. AM-42) in February 2016.</p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <surrogates><!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (one per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl>photos JM 2017</bibl>
+							              </listBibl>
+							              <listBibl ana="#photo-estampage">
+								                <bibl>Est. ASI: Subrahmanyam, Khan, pl. XXIII, Raghunath</bibl>
+								                <bibl>Sankaranarayanan</bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan, romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines and the latest Schema version <ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+         </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-02-25">Creation of the file - automatic conversion.</change>
+			      <change who="#AO" when="2017-02-26">Merging with READ file</change>
+			      <change who="#AG" when="2017-03-02">Small further adaptations of encoding</change>
+			      <change who="#AG" when="2017-03-08">Meddled with milestone and space elements</change>
+			      <change who="#EM" when="2017-03-16">Corrected processing instruction pointing to schema</change>
+			      <change who="#MS" when="2017-04-20">Standardised secondary bibliography.</change>
+			      <change who="#MS" when="2017-05-20">Organised surrogates.</change>
+			      <change who="#MS" when="2017-06-08">Hid commentary div as comment</change>
+			      <change who="#AG" when="2017-06-11">Modified title.</change>
+		    	      <change who="#AG" when="2017-06-30">Added comment on budhinikhambha.</change>
+		    	  <change who="#VT" when="2017-07-07">Edited facsmile.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+		       <change who="#VT" when="2020-03-26">Fixed typo apparatus.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic xml:id="EIAD0003_image-general" url="EIAD0003_0.jpg" n="1">
+			      <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+		    </graphic>
+		    <graphic xml:id="EIAD0003_image-general-2" url="EIAD0003_1.jpg" n="2">
+			      <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+		    </graphic>
+		    <graphic xml:id="EIAD0003_image-text" url="EIAD0003_2.jpg" n="3">
+			      <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab>
+					          <lb n="1"/>
+				        	  <w xml:id="tok72">
+                  <supplied reason="lost">vāsi</supplied>
+                  <milestone unit="fragment" type="lost" subtype="left"/>ṭhīputasa</w>
+					          <w xml:id="tok73">siricāṁtamūlasa</w>
+					          <w xml:id="tok74">saṁvacharaṁ</w>
+					          <!--<w xml:id="cmp1">
+						<w xml:id="tok75">10</w>
+						<w xml:id="tok76">3</w>
+					</w>-->
+					          <num xml:id="tok75" value="13">
+						            <num value="10">10</num>
+						            <num value="3">3</num>
+					          </num>
+					          <w xml:id="tok77">hemaṁtonaṁ</w>
+					          <num xml:id="tok78" value="1">1</num>
+					          <w xml:id="tok79">diva</w>
+					          <num xml:id="tok80" value="1">1</num>
+					          <w xml:id="tok81">mahāraṭhisa</w>
+               <milestone unit="fragment" type="lost" subtype="right"/>
+					          <lb n="2"/>
+               <milestone unit="fragment" type="lost" subtype="left"/>
+					          <w xml:id="tok84">gāme</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok86">niḍiṁgale</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok88">nigājasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok90">bahusutīyānaṁ</w>
+				        	  <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok92">mūlavasiviharacetike</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok94">gaṁ</w>
+               <milestone unit="fragment" type="lost" subtype="right"/>
+					          <lb n="3"/>
+               <milestone unit="fragment" type="lost" subtype="left"/>
+					          <w xml:id="tok97">budhisa</w>
+					          <w xml:id="tok98">putehi</w>
+					          <w xml:id="tok99">vānikinīya</w>
+					          <w xml:id="tok100">haṁgāya</w>
+					          <w xml:id="tok101">putehi</w>
+				        	  <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok102">v<unclear>ā</unclear>ṇijakehi</w>
+				        	  <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok104">mahācaṁdena</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok106">cula</w>
+               <milestone unit="fragment" type="lost" subtype="right"/>
+					          <lb n="4"/>
+               <milestone unit="fragment" type="lost" subtype="left"/>
+					          <w xml:id="tok109">sasehi</w>
+					          <w xml:id="tok110">ca</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok112">nīgasaṁbaṁdhīvagehi</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok114">°ekat<unclear>o</unclear>
+               </w>
+					          <w xml:id="tok115">h<unclear>o</unclear>tuṇa</w>
+					          <w xml:id="tok116">mahācetike</w>
+					          <w xml:id="tok5374">budhinikhaṁbho</w>
+				        	  <w xml:id="tok118">pa<supplied reason="lost">t</supplied>i<milestone unit="fragment" type="lost" subtype="right"/>
+                  <supplied reason="lost">ṭhapito</supplied>
+               </w>
+				        </ab>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="1">
+						            <lem>hemaṁtonaṁ</lem>
+						            <rdg source="eiad-bibl:Sankaranarayanana">hemaṁtānaṁ <supplied reason="omitted">pakhaṁ</supplied>
+                  </rdg>
+						            <note>We suggest emending instead <foreign xml:lang="pra-Latn">hemaṁtapakhaṁ</foreign>, taking into consideration the likely miswriting of <seg type="graphemic">naṁ</seg> for <seg type="graphemic">khaṁ</seg>, and the omission of <seg type="graphemic">pa</seg>. Alternatively, the intended text might have been the abbreviated <foreign xml:lang="pra-Latn">hemaṁta pa</foreign>.</note>
+					          </app>
+					          <app loc="2">
+						            <lem>niḍiṁgale</lem>
+						            <rdg source="eiad-bibl:Sankaranarayanana">niḍigale</rdg>
+					          </app>
+					          <app loc="2">
+						            <lem>-vihara-</lem>
+						            <rdg source="eiad-bibl:Sankaranarayanana">-vihāra-</rdg>
+					          </app>
+					          <app loc="2">
+						            <lem>gaṁ</lem>
+						            <note>The akṣara <seg type="graphemic">gaṁ</seg>, still visible on the estampage, is now covered by concrete. It is possible to restore here <foreign xml:lang="pra-Latn">gaṁ(dhakuḍi)</foreign>, cf. <ref target="#EIAD0097">EIAD 97</ref>, l. 3. <bibl>
+                        <ptr target="eiad-bibl:Sankaranarayanana"/>
+                     </bibl> (n. 10) proposes instead <foreign xml:lang="pra-Latn">gaṁ(jikūṭavathavasa vaṇijakasa)</foreign>, after <ref target="#EIAD0002">EIAD 2</ref>, ll. 4-5.</note>
+					          </app>
+					          <app loc="3">
+						            <lem>v<unclear>ā</unclear>ṇijakehi</lem>
+						            <rdg source="eiad-bibl:Sankaranarayanana">vaṇijakehi</rdg>
+					          </app>
+					          <app loc="3">
+						            <lem>cula</lem>
+						            <note>These two akṣaras, still visible on the estampage, are now covered by concrete.</note>
+					          </app>
+					          <app loc="4">
+						            <lem>nīga-</lem>
+						            <note>One may tentatively understand this word as deriving from <foreign xml:lang="pra-Latn">nija(ka)</foreign>. Cf. <ref target="#EIAD0054">EIAD 54</ref>, l. 1: <foreign xml:lang="pra-Latn">svajanasaṁbandhivargena</foreign>.</note>
+					          </app>
+					          <app loc="4">
+						            <lem>°ekat<unclear>o</unclear> h<unclear>o</unclear>tuṇa</lem>
+						            <rdg source="eiad-bibl:Sankaranarayanana">ekatahetuno</rdg>
+						            <note>Cf. <ref target="#EIAD0105">EIAD 105</ref>, l. 9: <foreign xml:lang="pra-Latn">°ekato hotūna</foreign>.</note>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+            <p>
+               <seg type="translatedlines">(1)</seg>13th year of (King) Vāsiṭṭhīputta Siri-Cāntamūla 1st (fortnight) of winter, 1st day. 
+</p>
+            <p>
+               <seg type="translatedlines">(1-4)</seg> At the village of Niḍiṁgala ... of the governor, at the shrine of the Mūlavāsivihāra of the school of the Bahuśrutīyas, the merchants Mahācanda and Cūla ... — sons of Budhi, the ... and of the merchant-wife Haṅgā — having united with ... and the groups of their own relatives, established a pillar for Budhi at the Great Shrine.</p>
+			      </div>
+			      <div type="commentary">
+				        <listApp>
+					          <app loc="4">
+						            <lem>budhinikhaṁbho</lem>
+						            <note>We follow here one of the suggestions offered by <bibl>
+                        <ptr target="eiad-bibl:Sankaranarayanana"/>: <citedRange>316</citedRange>
+                     </bibl>, namely to analyze this compound as <foreign xml:lang="pra-Latn">budhi-nikhaṁbha</foreign> and to interpret the first part as pointing to the donors’ father. The term <foreign xml:lang="pra-Latn">nikhaṁbha</foreign> (Skt. <foreign xml:lang="san-Latn">niṣkambha</foreign>) may be taken as a variant of *<foreign xml:lang="pra-Latn">vikhaṁbha</foreign> (Skt. <foreign xml:lang="san-Latn">viṣkambha</foreign>, cf. MW, s.v. <foreign xml:lang="san-Latn">niṣkambha</foreign>), whose meaning we tentatively take here to be identical to the more common <foreign xml:lang="pra-Latn">khaṁbha</foreign>. The fact that the dedicatee’s name was attached to the pillar being established suggests it had a commemorative function.</note>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="bibliography">
+				        <p>Three editions of this inscription were published almost simultaneously by <bibl>
+                  <ptr target="eiad-bibl:Khan1969"/>: <citedRange>2</citedRange>
+               </bibl>, <bibl>
+                  <ptr target="eiad-bibl:Venkataramanayya1969c"/>
+               </bibl>, and <bibl>
+                  <ptr target="eiad-bibl:Sankaranarayanana"/>
+               </bibl>. The latter is the most reliable. Part of the text is currently hidden by cement, so besides autopsy and our own photos of the stone, we rely for this re-edition on published photographs.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+                  <ptr target="eiad-bibl:Srinivasan1979a"/>: <citedRange>no. 2</citedRange>
+               </bibl>
+					          <bibl>
+                  <ptr target="eiad-bibl:Tsukamoto1996"/>: <citedRange>no. Kesa 16</citedRange>
+               </bibl>
+					          <bibl>
+                  <ptr target="eiad-bibl:Hanumantha_Rao1998"/>: <citedRange>178 (no. 1)</citedRange>
+               </bibl>
+					          <bibl>
+                  <ptr target="eiad-bibl:Raghunath2001"/>: <citedRange>70-1 (no. 3)</citedRange>
+               </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

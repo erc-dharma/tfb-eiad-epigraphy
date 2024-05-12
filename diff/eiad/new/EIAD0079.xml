@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-03-29T17:32:11.51+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 79
+[2] Raghunath no.: 60
+[3] Srinivasan & Sankaranarayanan no.: 69
+[4] Tsukamoto no.: Naga 48
+[5] Lüders no.: 
+[6] Support : Āyaka pillar, lower fragment
+[7] (Faces:) Lines: 3
+[8] H: 148
+[9] W: 33.5
+[10] D: 24
+[11] H: 18.5
+[12] W: 29
+[13] Language(s): MIA
+[14] Original locality:  Nagarjunakonda Site-9
+[15] Present locality: NM 559
+[16] Primary bibliography: Vogel 1931-32: 68 (N).
+[17] Secondary bibliography: Raghunath 2001: 179 (60).
+[18] Visual documentation: Vogel; Raghunath
+[19] Substance of inscription: contains only names
+[20] Remarks: fragmentary
+[21] : 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Āyaka pillar from site 9 at Nagarjunakonda</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+						            <surname>Strauch</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+						            <forename>Emmanuelle</forename>
+						            <surname>Morlock</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+						            <forename>Andrew</forename>
+						            <surname>Ollett</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0079</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths,
+							Ingo Strauch and Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons
+							Attribution 3.0 Unported License. To view a copy of
+							this license, visit
+							http://creativecommons.org/licenses/by/3.0/ or send
+							a letter to Creative Commons, 444 Castro Street,
+							Suite 900, Mountain View, California, 94041,
+							USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0079_inv-eiad" type="inv-eiad">EIAD
+							79</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Nagarjunakonda Museum</repository>
+							              <idno xml:id="EIAD0079_museum-inventory">559</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle
+								Indo-Aryan, Southern Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>Lower fragment of an <objectType>Āyaka
+										pillar</objectType>; <dimensions unit="cm">
+										                       <height>148</height>
+										                       <width>33.5</width>
+										                       <depth>24</depth>
+										                    </dimensions>.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout>
+									                  <dimensions unit="cm">
+										                    <height>18.5</height>
+										                    <width>29</width>
+									                  </dimensions>
+								                </layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote><!-- description of decoration or iconography --></decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>Nagarjunakonda</origPlace>
+							              <origDate calendar="Julian"
+                               notBefore="0200"
+                               notAfter="0250"
+                               precision="low">Undated. Attributable to the period 200-250 CE on palaeographic grounds.</origDate>
+						            </origin>
+						            <provenance type="found" notAfter="1932">
+							              <p>Found at Site-9 in the course of Longhurst’s
+								excavations. The precise date of discovery is
+								unknown.</p>
+						            </provenance>
+						            <provenance type="observed" when="2016-02">
+							              <p>Inscription noticed at Nagarjunakonda Museum
+								(acc. no. 559) in February 2016.</p>
+						            </provenance>
+						            <provenance type="not-observed">
+							<!-- information about a specific, unsuccessful attempt to locate an object in a presumed or previously recorded location --></provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates><!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl>photos AL 2017</bibl>
+								                <bibl>photos JM 2017</bibl>
+							              </listBibl>
+							              <listBibl ana="#photo-estampage">
+								                <bibl>Vogel</bibl>
+								                <bibl>Raghunath</bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan,
+					romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines
+				and the latest Schema version
+					<ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of
+							estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-02-25">Creation of the file - automatic
+				conversion.</change>
+			      <change who="#CC" when="2017-04-28">Merging with READ file</change>
+			      <change who="#MS" when="2017-06-03">Organised surrogates and added
+				listApp.</change>
+			      <change who="#MS" when="2017-06-09">Hid commentary div as
+				comment.</change>
+			      <change who="#MS" when="2017-06-20">Modified title.</change>
+			      <change who="#MS" when="2017-07-01">Killed unwanted spaces.</change>
+			      <change who="#SB" when="2017-07-28">Fixed formatting. Changed translation to agree with text.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+		      <change who="#VT" when="2020-08-04">Editors reorganized by name via XSLT.</change>
+			  <change who="#AG" when="2023-04-12">Edited dating estimate and reading in line 3.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic url="photograph_of_text_or_monument">
+			      <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab>
+					          <lb n="1"/>
+					          <gap reason="lost" extent="unknown"/>
+               <w xml:id="tok4260">rinaṁkānaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok4262">mulasirinaka<supplied reason="lost">sa</supplied></w>
+					          <w xml:id="tok4262bis">sidhatha<lb n="2" break="no"/>kasa</w>
+					          <w xml:id="tok4265">cadamukhasa</w>
+					          <w xml:id="tok4266">pudhiṁnakasa</w>
+					          <w xml:id="tok4267">bālika</w>
+					          <lb n="3"/>
+					          <w xml:id="tok4268">maha<unclear>tu</unclear>vaṇika</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok4270">sidhaṭhaṁṇikā</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok4272">jakha<unclear>s</unclear>
+                  <supplied reason="lost">i</supplied>
+                  <unclear>r</unclear>
+                  <supplied reason="lost">i</supplied>
+                  <gap reason="lost" extent="unknown"/>
+               </w>
+				        </ab>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="1">
+						            <lem>mulasirinaka<unclear>sa</unclear>
+						            </lem>
+						            <rdg source="eiad-bibl:Vogelb">mūlasirinaka<unclear>sa</unclear>
+						            </rdg>
+					          </app>
+					          <app loc="2">
+						            <lem>pudhiṁnakasa</lem>
+						            <rdg source="eiad-bibl:Vogelb">pudhinakasa</rdg>
+					          </app>
+					          <app loc="2">
+						            <lem>bālika</lem>
+						            <note>Vogel suggests to emend <foreign xml:lang="pra-Latn">bālikā</foreign>.</note>
+					          </app>
+				          <!--We formerly read maha<unclear>kha</unclear>vaṇika with the following note: <app loc="3">
+						            <lem>maha<unclear>kha</unclear>vaṇika</lem>
+						            <rdg source="eiad-bibl:Vogelb">maha<unclear>tu</unclear>vaṇika</rdg>
+						            <note>The akṣara read by Vogel as <seg type="graphemic">tu</seg> seems to us much closer to a <seg type="graphemic">kha</seg>, except that we don’t
+							usually expect a serif on that letter.</note>
+					          </app>. The only possible alternative that comes to mind is maha<unclear>bhu</unclear>vaṇika-->
+					          <app loc="3">
+						            <lem>jakha<unclear>s</unclear>
+                     <supplied reason="lost">i</supplied>
+                     <unclear>r</unclear>
+                     <supplied reason="lost">i</supplied>
+                     <gap reason="lost" extent="unknown"/>ya</lem>
+						            <rdg source="eiad-bibl:Vogelb">jakhana</rdg>
+						            <note>The akṣara we read as <seg type="graphemic">
+								                <unclear>s</unclear>
+							              </seg> is flat and poorly realized. Our
+							reconstruction is influenced by <foreign xml:lang="pra-Latn">jakhasiriya</foreign> in
+							EIAD <ref target="#EIAD0049">49</ref>.</note>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				        <ab> ... the <foreign xml:lang="pra-Latn">mahātuvaṇikā</foreign> Sidhaṭhaṁṇikā, 
+					daughter of  Pudhinnaka, (and related to?) Mūlasirinnaka, Sidhathaka (Skt. Siddhārthaka), (and) Cadamukha (Skt. Candramukha) of the ...rinaṁkas, (and) 
+					Jakhasiri (<foreign xml:lang="pra-Latn">Yakṣaśrī</foreign>) ...</ab>
+			      </div>
+			      <div type="commentary">
+				        <listApp>
+					          <app>
+					            <note>Sidhaṭhaṁṇikā might well be the same individual also known from a set of Jaggayyapeta inscriptions (EIAD 31–33, 90).  Indeed, not only she appears there as daughter of Budhinnaka (of which Pudhinnaka is naturally an orthographic variant), but also as the cousin of a Mūlasiri (possibly identical to Mūlasirinnaka), niece of the artisan Sidhathaka — the main donor of the inscribed <foreign xml:lang="pra-Latn">āyaka</foreign>  pillars found at Jaggayyapeta — and sister of Candasiri, which may or may not be identical to Cadamukha. A Jakhasiri is also known in the Alluru inscription EIAD <ref target="#EIAD0049">49</ref>, l. 3, where it however appears among name different to the group active at Jaggayyapeta. The term <foreign xml:lang="pra-Latn">mahātuvaṇikā</foreign>, possibly a title, remains obscure at present.</note>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="bibliography">
+				        <p>First edited and described by <bibl>
+						            <ptr target="eiad-bibl:Vogelb"/>: 68 (N)</bibl>.
+					Re-edited here from published documentation and after
+					autopsy of the stone.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+						            <ptr target="eiad-bibl:Srinivasan1979a"/>:
+							<citedRange>no. 69</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Raghunath2001"/>: <citedRange>179
+							(60)</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Tsukamoto1996"/>: <citedRange>no. Naga
+							48</citedRange>
+					          </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

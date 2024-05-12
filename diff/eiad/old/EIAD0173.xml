@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-05-17T13:36:55.949+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 173
+[2] Raghunath no.: 
+[3] Srinivasan & Sankaranarayanan no.: 
+[4] Tsukamoto no.: ?
+[5] Lüders no.: 
+[6] Support : boulder
+[7] (Faces:) Lines: 6
+[8] H: 
+[9] W: 
+[10] D: 
+[11] H: 
+[12] W: 
+[13] Language(s): MIA
+[14] Original locality: Hyderabad, Dilsukhnagar, Chaitanyapuri colony, on rock wall at Phanigiri Lakshmi-Nrusimha Temple
+[15] Present locality: in situ
+[16] Primary bibliography: Parabrahma Sastry 1982 (Bharati); 1984.
+[17] Secondary bibliography: ARIE 1983-84: B.4. — ARDAM 1982-83 (1988): 50-51; 1986-87 (1990): 33. — Schopen 1997: 268, 283, n. 47. — Hanumantha Rao et al. 1998: 196-7.
+[18] Visual documentation: Parabrahma Sastry 1984, pl. III.
+[19] Substance of inscription: Gift by Saṁghadeva of a residence
+[20] Remarks: 
+[21] : VK2 Tummalagudem Plates Set I
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Boulder at Chaitanyapuri, Hyderabad</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+						            <surname>Strauch</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+						            <forename>Emmanuelle</forename>
+						            <surname>Morlock</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+						            <forename>Andrew</forename>
+						            <surname>Ollett</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0173</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths,
+							Ingo Strauch and Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons
+							Attribution 3.0 Unported License. To view a copy of
+							this license, visit
+							http://creativecommons.org/licenses/by/3.0/ or send
+							a letter to Creative Commons, 444 Castro Street,
+							Suite 900, Mountain View, California, 94041,
+							USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0173_inv-eiad" type="inv-eiad">EIAD
+							173</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>in situ</repository>
+							              <idno xml:id="EIAD0173_museum-inventory">none</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle
+								Indo-Aryan, Southern Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <objectType>Boulder</objectType>;
+										<dimensions unit="cm">
+											                      <height>unavailable</height>
+											                      <width>unavailable</width>
+											                      <depth>unavailable</depth>
+										                    </dimensions>.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout writtenLines="6">
+									                  <dimensions unit="cm">
+										                    <height>unavailable</height>
+										                    <width>unavailable</width>
+									                  </dimensions>.</layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote>Below the inscription, on the wall of a
+								small cavity of the boulder is carved an image
+								of Narasimha.</decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>
+								                <placeName>Hyderabad</placeName>,
+									<placeName>Dilsukhnagar</placeName>,
+									<placeName>Chaitanyapuri</placeName>
+								colony</origPlace>
+							              <origDate type="found"
+                               calendar="Julian"
+                               notBefore="0350"
+                               notAfter="0400"
+                               precision="low">Unspecified regnal year of Govindavarman of the
+								Viṣṇukuṇḍin dynasty. Attributable to the latter
+								half of the 4th century C.E. on palaeographic
+								grounds.</origDate>
+						            </origin>
+						            <provenance type="found" notBefore="1979" notAfter="1984">
+							              <p>The inscription was noticed on a rock wall at the
+								Phanigiri Lakshmi-Narasimha Temple five years
+								prior to the publication of <bibl>
+									                  <ptr target="eiad-bibl:Parabrahma_Sastry1984"/>
+								                </bibl>. The precise date of discovery is
+								unknown.</p>
+						            </provenance>
+						            <provenance type="observed" when="2017-01-10">
+							              <p>Identified during fieldwork on 10 January
+								2017.</p>
+						            </provenance>
+						            <provenance type="not-observed"> </provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates><!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl>Parabrahma Sastry 1984, pl. III.</bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan,
+					romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines
+				and the latest Schema version
+					<ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of
+							estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-05-17">Creation of the file - automatic
+				conversion.</change>
+			      <change who="#CC" when="2017-05-26">Merging with READ file</change>
+			      <change who="#CC" when="2017-06-04">Corrections of previous
+				work</change>
+			      <change who="#AG" when="2017-06-05">Revision of CC's work</change>
+			      <change who="#AG" when="2017-06-09">Added explanation of
+				"Ed.".</change>
+			      <change who="#MS" when="2017-06-10">Hid commentary div as
+				comment.</change>
+			      <change who="#AG" when="2017-06-16">Changed @source to @rend for
+				"Ed.". See README.</change>
+			      <change who="#AG" when="2017-06-20">Added translation, edited text
+				and apparatus after suggestions VT</change>
+			      <change who="#MS" when="2017-06-20">Modified title.</change>
+			      <change who="#MS" when="2017-07-03">Checked edition for unwanted spaces and made updates according to modifications in rtf file.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic url="photograph of text or monument">
+			      <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab>
+					          <lb n="1"/>
+					          <w xml:id="tok5391">purimavi<unclear>ḍā</unclear>lapāda<unclear>mūla</unclear>vāsaṁ</w>
+					          <w xml:id="tok5393">puphagirimahā<lb n="2" break="no"/>vihārapatiṭhāpakasa</w>
+					          <w xml:id="tok5395">vasudevasirīdāmasa</w>
+					          <w xml:id="tok5396">mahā<lb n="3" break="no"/>vītarāgasa</w>
+					          <w xml:id="tok5398">
+                  <unclear>madā</unclear>
+               </w>
+					          <gap reason="illegible" quantity="1" unit="character"/>
+					          <w xml:id="tok5399">piṁḍapātika<unclear>dāma</unclear>dharasa</w>
+					          <lb n="4"/>
+					          <w xml:id="tok5401">para<unclear>ṁ</unclear>parāgatasa</w>
+					          <w xml:id="tok5402">
+                  <unclear>bamha</unclear>deva<unclear>ṭhe</unclear>virasa</w>
+					          <w xml:id="tok5403">sisena</w>
+					          <w xml:id="tok5404">
+                  <unclear>bhadaṁ</unclear>ta<lb n="5" break="no"/>saṁghadevena</w>
+					          <w xml:id="tok5406">govidaṁrājavihārasa</w>
+					          <w xml:id="tok5407">gaṁdhakuṭivārike<unclear>na</unclear>
+               </w>
+					          <w xml:id="tok5408">°ima</w>
+					          <lb n="6"/>
+					          <w xml:id="tok5411">
+                  <gap reason="illegible" quantity="2" unit="character"/>tasela</w>
+					          <pc>||</pc>
+					          <w xml:id="tok5413">
+                  <unclear>sa</unclear>ṁvāsa<unclear>va</unclear>raṁ</w>
+					          <w xml:id="tok5414">pa<unclear>ti</unclear>
+                  <space type="horizontal" quantity="1" unit="character"/>ṭhāpitaṁ</w>
+				        </ab>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="1">
+						            <lem>purimavi<unclear>ḍā</unclear>lapāda<unclear>mūla</unclear>vāsaṁ</lem>
+						            <rdg source="eiad-bibl:Parabrahma_Sastry1984">purimavi<unclear>ḍā</unclear>la
+							pādaṁhulavāsaṁ</rdg>
+						            <rdg rend="Ed.">purimavi<unclear>ḍā</unclear>la
+							pāṁḍahulāvāsaṁ</rdg>
+					          </app>
+					          <app loc="1">
+						            <lem rend="Ed.">puphagiri-</lem>
+						            <rdg source="eiad-bibl:Parabrahma_Sastry1984">puḍhagiri</rdg>
+					          </app>
+					          <app loc="2">
+						            <lem>patiṭhāpakasa</lem>
+						            <rdg source="eiad-bibl:Parabrahma_Sastry1984">patithāpakasa</rdg>
+					          </app>
+					          <app loc="2">
+						            <lem>vasudevasirīdāmasa</lem>
+						            <rdg source="eiad-bibl:Parabrahma_Sastry1984">vasudevasiridāmasa</rdg>
+						            <note>It is tempting to see in <seg type="graphemic">dā</seg> both in this line and in the following
+							a mistake for <seg type="graphemic">dha</seg>.<!--According to <bibl><ptr target="eiad-bibl:Parabrahma_Sastry1984"/></bibl>, the vowel mark of the <seg type="graphemic">ra</seg> might in fact be read <seg type="graphemic">ri</seg>.--></note>
+					          </app>
+					          <app loc="3">
+						            <lem>
+                     <unclear>madā</unclear>
+                     <gap reason="illegible" quantity="1" unit="character"/>
+                  </lem>
+						            <rdg source="eiad-bibl:Parabrahma_Sastry1984">madāja</rdg>
+						            <rdg rend="Ed.">mahā</rdg>
+						            <note>This last reading ignores the third akṣara, which
+							could be read as <seg type="graphemic">ku</seg>.</note>
+					          </app>
+					          <app loc="3">
+						            <lem source="eiad-bibl:Parabrahma_Sastry1984">-<unclear>dāma</unclear>dharasa</lem>
+						            <rdg rend="Ed.">-vāmadharasa</rdg>
+						            <note>The reading <foreign xml:lang="pra-Latn">vāmadharasa</foreign> is indeed possible, but
+							it is not less difficult to make sense of. The
+							epithet <foreign xml:lang="pra-Latn">dha[ṁ]madhara</foreign> (Skt. <foreign xml:lang="san-Latn">dharmadhara</foreign>) would
+							fit well within a compound having <foreign xml:lang="pra-Latn">pi[ṁ]ḍapātika</foreign> as
+							first element, and we suggest to emend
+							accordingly.</note>
+					          </app>
+					          <app loc="4">
+						            <lem>para<unclear>ṁ</unclear>parāgatasa</lem>
+						            <rdg source="eiad-bibl:Parabrahma_Sastry1984">paraṁaparāgatasa</rdg>
+						            <note>Printing error.</note>
+					          </app>
+					          <app loc="4">
+						            <lem>
+                     <unclear>bamha</unclear>deva<unclear>ṭhe</unclear>virasa</lem>
+						            <rdg source="eiad-bibl:Parabrahma_Sastry1984">bamradeva
+								<unclear>the</unclear>virasa</rdg>
+						            <rdg rend="Ed.">bahmadevathīvirasa</rdg>
+						            <note>The reading of the first akṣara as <seg type="graphemic">ṭhe</seg> is tentative and this
+							could also be read <seg type="graphemic">kha</seg>.
+							The context however invites us to see in the second
+							part of the compound a monastic title corresponding
+							to Skt. <foreign xml:lang="san-Latn">sthavira</foreign>, P. <foreign xml:lang="pli-Latn">thera</foreign>, Pkt.
+								<foreign xml:lang="pra-Latn">ṭhavira/ṭhera</foreign>. The form
+								<foreign>ṭhevira</foreign>, unattested so far,
+							may be considered a hybrid comparable to the one
+							leading to BHS <foreign>sthera</foreign>. Cf.
+							CDIAL<!-- AG: we should encode this reference to Turner. -->,
+							s.v. <foreign xml:lang="san-Latn">sthavira</foreign>.</note>
+					          </app>
+					          <app loc="5">
+						            <lem>govidaṁrājavihārasa</lem>
+						            <rdg source="eiad-bibl:Parabrahma_Sastry1984">goviddaṁrāja - vihārasa</rdg>
+						            <note>Emend <foreign>goviṁdarāja-</foreign>.</note>
+					          </app>
+					          <app loc="5">
+						            <lem>gaṁdhakuṭivārike<unclear>na</unclear> °ima</lem>
+						            <rdg source="eiad-bibl:Parabrahma_Sastry1984">gaṁdhaka
+							civarika</rdg>
+						            <rdg rend="Ed.">gaṁdhakuṭi vārikena °ima</rdg>
+						            <note>
+                     <bibl>
+                        <ptr target="eiad-bibl:Parabrahma_Sastry1984"/>
+                     </bibl> ignored the last three akṣaras on the line.</note>
+					          </app>
+					          <app loc="6">
+						            <lem source="eiad-bibl:Parabrahma_Sastry1984">
+                     <gap reason="illegible" quantity="2" unit="character"/>tasela <pc>||</pc>
+                  </lem>
+						            <rdg rend="Ed.">ṁ üdita sela</rdg>
+						            <note>This part of the inscription is almost invisible.
+							The second akṣara, though, looks like a <seg type="graphemic">da</seg> rarher than a <seg type="graphemic">ta</seg>. Several printing
+							errors make it difficult to understand what Ed.
+							actually meant.</note>
+					          </app>
+					          <app loc="6">
+						            <lem>saṁvāsa<unclear>va</unclear>raṁ</lem>
+						            <rdg source="eiad-bibl:Parabrahma_Sastry1984">saṁvāsa
+							dharaṁ</rdg>
+						            <note>
+                     <bibl>
+                        <ptr target="eiad-bibl:Parabrahma_Sastry1984"/>
+                     </bibl> suggests emending <foreign xml:lang="pra-Latn">gharaṁ</foreign>. Ed.
+							suggests instead reading <foreign>varaṁ</foreign>,
+							which is not altogether impossible, in light of the
+							unusual shape of the preceding <seg type="graphemic">vā</seg>.</note>
+					          </app>
+					          <app loc="7">
+						            <lem>pa<unclear>ti</unclear>
+                     <space type="horizontal" quantity="1" unit="character"/>ṭhāpitaṁ</lem>
+						            <note>The reading of the second akṣara is unclear, but
+								<seg type="graphemic">ti</seg> is possible.
+							Still, there is enough space for an additional
+							akṣara before <seg type="graphemic">ṭhā</seg>, and
+							it is possible that an irregularity in the stone has
+							caused the engraver to introduce a space, although
+							he does not otherwise use spacing between words or
+							part of words.</note>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				        <ab>At the residence lying at the foot of the Eastern Vidāḷa,
+					the reverend Saṅghadeva, keeper of the Perfume Chamber of
+					King Govinda's monastery, disciple of the venerable
+					Bamhadeva—who stems from the line of Vasudevasirīdhama, he
+					who established the great monastery at Puphagiri, who was
+					entirely freed from passions, ... who lived [only] on begged
+					food, and was a preserver of the Dharma—(within the?) …
+					rock, established this excellent residence.</ab>
+			      </div>
+			      <!--<div type="commentary"></div>-->
+			      <div type="bibliography">
+				        <p>First described and edited by Parabrahma Sastry 1982
+					(Bharati)<!-- CC: I don't have the bibliographical reference -->
+					and <bibl>
+						            <ptr target="eiad-bibl:Parabrahma_Sastry1984"/>
+					          </bibl> (with alternative readings supplied by the editor of
+					the journal, marked Ed. in the apparatus). Re-edited here
+					from published documentation. Autopsy of the boulder was
+					unfortunately not very helpful.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+						            <ptr target="eiad-bibl:zoteroItem_G9CH6AGA"/>
+						            <citedRange>1983-84: no. B.4</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:ARDAM"/>
+						            <citedRange>1982-83 (1988): 50-51</citedRange>
+					          </bibl>
+					          <!-- CC : I wasn't sure about the bibliographical reference to "ARDAM", but I made it similar to ARIE. -->
+					          <bibl>
+						            <ptr target="eiad-bibl:ARDAM"/>
+						            <citedRange>1986-87 (1990): 33</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Schopen1997"/>: <citedRange>268,
+							283 n. 47</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Hanumantha_Rao1998"/>:
+							<citedRange>196-7</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Silk"/>:
+							<citedRange>120-1</citedRange>
+					          </bibl>
+					          <!--                <bibl>
+                  <ptr target="eiad-bibl:Tsukamoto1996"/>: <citedRange>no. ?</citedRange>
+               </bibl>-->
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

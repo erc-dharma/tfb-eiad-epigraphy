@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-05-04T13:35:14.205+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 96
+[2] Raghunath no.: 77
+[3] Srinivasan & Sankaranarayanan no.: 52
+[4] Tsukamoto no.: Naga 64
+[5] Lüders no.: 
+[6] Support : Buddhapāda
+[7] (Faces:) Lines: 1
+[8] H: 2''
+[9] W: 12''
+[10] D: 9''
+[11] H: 
+[12] W: 
+[13] Language(s): MIA
+[14] Original locality: Nagarjunakonda Site-4
+[15] Present locality: NMND 50.24
+[16] Primary bibliography: Vogel 1929-30b.
+[17] Secondary bibliography: Longhurst 1938: 24, pl. XIXa. — Raghunath 2001: 191 (77).
+[18] Visual documentation: —
+[19] Substance of inscription: gift of the footprint slab
+[20] Remarks: 
+[21] : 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Buddhapāda from site 4 at Nagarjunakonda</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+						            <surname>Strauch</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+						            <forename>Emmanuelle</forename>
+						            <surname>Morlock</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+						            <forename>Andrew</forename>
+						            <surname>Ollett</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0096</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths,
+							Ingo Strauch and Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons
+							Attribution 3.0 Unported License. To view a copy of
+							this license, visit
+							http://creativecommons.org/licenses/by/3.0/ or send
+							a letter to Creative Commons, 444 Castro Street,
+							Suite 900, Mountain View, California, 94041,
+							USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0096_inv-eiad">EIAD 96</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>National Museum New Delhi</repository>
+							              <idno xml:id="EIAD0096_museum-inventory">50.24</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle
+								Indo-Aryan, Southern Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <objectType>Buddhapāda</objectType>; 
+										<dimensions unit="cm">
+										                       <height>5.1</height>
+										                       <width>30.5</width>
+										                       <depth>22.9</depth>
+										                    </dimensions>.</p>
+                           <!-- Longhurst: measures 12 inches by 9 inches and is 2 inches in thickness -->
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout writtenLines="1">1 line. The akṣaras measure ½–1¼" in height (<dimensions unit="cm">
+                              <height atLeast="1.3" atMost="3.2">1.3–3.2</height>
+                              <!--<width>unavailable</width>-->
+                           </dimensions>).
+								</layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote><!--A top view (excluding the inscription) is furnished in Longhurst's plate.--></decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>Presumably installed originally at findspot.</origPlace>
+							              <origDate notBefore="0200" notAfter="0300" precision="low">Undated. Attributable to the 3rd
+								century CE on palaeographic grounds.
+							</origDate>
+						            </origin>
+						            <provenance type="found" notAfter="1930">
+							              <p>Found at <placeName key="eiad-geo:NK004">Nagarjunakonda, Site 4</placeName> in the course of A.H. Longhurst’s excavations between 1927 and 1931.<!-- AG/CC: la découverte s'est faite entre le début des fouilles de Longhurst en 1927 et leur fin en février 1931 (Longhurst 1938: 4) --></p>
+						            </provenance>
+						            <provenance type="observed" when="2016-02">
+							              <p>Identified at the National Museum New Delhi (acc.
+								no. 50.24), in February 2016.</p>
+						            </provenance>
+						            <provenance type="not-observed">
+							<!-- information about a specific, unsuccessful attempt to locate an object in a presumed or previously recorded location --></provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates><!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl>Parul Pandya Dhar 2016</bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan,
+					romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines
+				and the latest Schema version
+					<ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of
+							estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-02-25">Creation of the file - automatic
+				conversion.</change>
+			      <change who="#CC" when="2017-05-06">Merging with READ file</change>
+			      <change who="#MS" when="2017-06-03">Added listApp in
+				apparatus.</change>
+			      <change who="#MS" when="2017-06-03">Hid commentary div as
+				comment.</change>
+			      <change who="#MS" when="2017-06-20">Modified title.</change>
+			      <change who="#MS" when="2017-07-03">Modified title.</change>
+			      <change who="#VT" when="2017-07-12">Modified translation.</change>
+			      <change who="#AG" when="2017-07-13">Encoded placeName; supplied surrogates to resolve #189.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+		    	<change who="#VT" when="2020-03-23">Modified Edition and apparatus.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic url="photograph_of_text_or_monument">
+			      <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab>
+					          <lb n="1"/>
+					          <w xml:id="tok4537">sid<unclear>dhaṁ</unclear></w>
+					          <w xml:id="tok4538">sakasa</w>
+					          <w xml:id="tok4539">moḍasa</w>
+					          <w xml:id="tok4540">bakanaya</w>
+					          <w xml:id="tok4541">budhaya</w>
+					          <w xml:id="tok4542">pat<unclear>i</unclear>padā</w>
+					          <w xml:id="tok4543">deyadha<add place="below">ma</add>
+               </w>
+				        </ab>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+				        	<app loc="1">
+				        		<lem>moḍasa</lem>
+				        		<rdg source="eiad-bibl:Vogela">modasa</rdg>
+				        	</app>
+					          <app loc="1">
+						            <lem>bakanaya</lem>
+						            <rdg source="eiad-bibl:Vogela">bak<unclear>i</unclear>n<unclear>i</unclear>ya</rdg>
+					          </app>
+					          <app loc="1">
+						            <lem>budhaya</lem>
+						            <rdg source="eiad-bibl:Vogela">budh<unclear>i</unclear>ya</rdg>
+					          </app>
+					          <app loc="1">
+						            <lem>deyadha<add place="below">ma</add>
+						            </lem>
+						            <note>The scribe lacked space and inserted the <seg type="graphemic">ma</seg> below the line.</note>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				        <p>Success! (This) footprint slab (<foreign xml:lang="pra-Latn">patipadā</foreign>) is the pious gift of Budhā, sister
+						(<foreign xml:lang="pra-Latn">bhaginī</foreign>?) of the
+					Saka Moḍa.</p>
+			      </div>
+			      <!--<div type="commentary"></div>-->
+			      <div type="bibliography">
+				        <p>First edited by <bibl>
+						            <ptr target="eiad-bibl:Vogela"/>
+					          </bibl>. Re-edited here from photographs and
+					after autopsy of the stone.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+						            <ptr target="eiad-bibl:Longhurst1938"/>: <citedRange>24,
+							pl. XIXa</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Srinivasan1979a"/>:
+							<citedRange>no. 52</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Raghunath2001"/>: <citedRange>191
+							(no. 77)</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Tsukamoto1996"/>: <citedRange>no. Naga
+							64</citedRange>
+					          </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

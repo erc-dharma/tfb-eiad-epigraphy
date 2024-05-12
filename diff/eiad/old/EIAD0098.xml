@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-05-04T13:35:14.205+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 98
+[2] Raghunath no.: 79
+[3] Srinivasan & Sankaranarayanan no.: 74
+[4] Tsukamoto no.: Ghan 2
+[5] Lüders no.: 
+[6] Support : white marble pillar
+[7] (Faces:) Lines: 3
+[8] H: 257
+[9] W: 39
+[10] D: 24
+[11] H: 29
+[12] W: 31
+[13] Language(s): MIA
+[14] Original locality: Ghantasala
+[15] Present locality: Ghantasala Museum, w/out no.
+[16] Primary bibliography: Vogel 1947-48 (B). — Somasekhara Sarma 1974 (B).
+[17] Secondary bibliography: ARIE 1944-45: B.91. — Raghunath 2001: 192 (79).
+[18] Visual documentation: Vogel; Somasekhara Sarma
+[19] Substance of inscription: erection of a maṇḍapa
+[20] Remarks: 
+[21] : 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Pillar from Ghantasala</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+						            <surname>Strauch</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+						            <forename>Emmanuelle</forename>
+						            <surname>Morlock</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+						            <forename>Andrew</forename>
+						            <surname>Ollett</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0098</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths,
+							Ingo Strauch and Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons
+							Attribution 3.0 Unported License. To view a copy of
+							this license, visit
+							http://creativecommons.org/licenses/by/3.0/ or send
+							a letter to Creative Commons, 444 Castro Street,
+							Suite 900, Mountain View, California, 94041,
+							USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0098_inv-eiad">EIAD 98</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Ghantasala Museum</repository>
+							              <idno xml:id="EIAD0098_museum-inventory">Without
+								no.</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle
+								Indo-Aryan, Southern Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>
+                              <material>White marble</material>
+										                    <objectType>pillar</objectType>;
+										<dimensions unit="cm">
+										                       <height>257</height>
+										                       <width>39</width>
+										                       <depth>24</depth>
+										                    </dimensions>.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout writtenLines="3">
+									                  <dimensions unit="cm">
+										                    <height>29</height>
+										                    <width>31</width>
+									                  </dimensions>
+								                </layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote>Above the inscribed surface is a frieze
+								of boars running from the right to the
+								left.</decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>
+                        <placeName>Ghantasala</placeName>
+                     </origPlace>
+							              <origDate notBefore="0200" notAfter="0300" precision="low">Undated. Attributable to the 3rd
+								century CE on palaeographic grounds.
+							</origDate>
+						            </origin>
+						            <provenance type="found" notAfter="1945">
+							              <p>Discovered near the Ramaṇamma tank at Ghantasala
+								and copied by Dr. Chhabra on the 1st January
+								1945.</p>
+						            </provenance>
+						            <provenance type="observed" when="2016-02">
+							              <p>Identified at Ghantasala Museum, in February
+								2016.</p>
+						            </provenance>
+						            <provenance type="not-observed">
+							<!-- information about a specific, unsuccessful attempt to locate an object in a presumed or previously recorded location --></provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates><!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo-estampage">
+								                <bibl>Vogel</bibl>
+								                <bibl>Somasekhara Sarma</bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan,
+					romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines
+				and the latest Schema version
+					<ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of
+							estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-02-25">Creation of the file - automatic
+				conversion.</change>
+			      <change who="#CC" when="2017-05-06">Merging with READ file</change>
+			      <change who="#MS" when="2017-06-03">Added listApp in apparatus and
+				organised surrogates.</change>
+			      <change who="#MS" when="2017-06-03">Hid commentary div as
+				comment.</change>
+			      <change who="#MS" when="2017-06-20">Modified title.</change>
+			      <change who="#MS" when="2017-07-03">Killed unwanted spaces.</change>
+			      <change who="#VT" when="2017-07-12">Modified translation.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+		    	<change who="#VT" when="2019-01-21">Modified decodesc.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic url="photograph of text or monument">
+			      <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab>
+					          <lb n="1"/>
+					          <w xml:id="tok4559">sidhaṁ</w>
+					          <pc>–</pc>
+					          <w xml:id="tok4561">°ukhasirivadhaman<unclear>e</unclear>
+               </w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok4563">kaṁṭakas<unclear>ā</unclear>lavatha<supplied reason="lost">vena</supplied>
+               </w>
+					          <lb n="2"/>
+					          <w xml:id="tok4564">dhaṁmavāniyapute<unclear>na</unclear>
+               </w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok4566">budhisirigahapatinā</w>
+					          <w xml:id="tok4567">
+                  <supplied reason="lost">°imaṁ</supplied>
+               </w>
+					          <lb n="3"/>
+					          <w xml:id="tok4568">selamaṁḍapo</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok4570">sagaṁdhak<unclear>u</unclear>ḍivetikatoraṇo</w>
+					          <w xml:id="tok4571">k<supplied reason="lost">ārito</supplied>
+               </w>
+					          <w xml:id="tok4572">
+                  <supplied reason="lost">ti</supplied>
+               </w>
+				        </ab>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="1">
+						            <lem>-vadhama<supplied reason="lost">n</supplied>е</lem>
+						            <rdg source="eiad-bibl:Vogelc">-vadhamāne</rdg>
+						            <note>No trace of <seg type="graphemic">ā</seg> is
+							detectable on the stone.</note>
+					          </app>
+					          <app loc="2">
+						            <lem>-kasāla-</lem>
+						            <rdg source="eiad-bibl:Vogelc">-kasola-</rdg>
+						            <note>But see <bibl>
+								                <ptr target="eiad-bibl:Vogelc"/>:
+									<citedRange>68</citedRange>
+							              </bibl>.</note>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				        <ab>Success! In the estate of Ukhasiri, the notable (<foreign xml:lang="pra-Latm">gahapati</foreign>) Budhisiri, son of Dhaṁmavāniya, resident of Kaṁṭakasala, caused to be made this stone
+						<foreign xml:lang="pra-Latn">maṇḍapa</foreign>, together
+					with a <foreign xml:lang="pra-Latn">gandhakuṭī</foreign>, a
+					railing (<foreign xml:lang="pra-Latn">vedikā</foreign>), and
+					a portal (<foreign xml:lang="pra-Latn">toraṇa</foreign>).</ab>
+			      </div>
+			      <!--<div type="commentary">
+			</div>-->
+			      <div type="bibliography">
+				        <p>First edited and described by <bibl>
+						            <ptr target="eiad-bibl:Vogelc"/>:
+							<citedRange>(B)</citedRange>
+					          </bibl> and then by <bibl>
+						            <ptr target="eiad-bibl:Venkataramanayya1974b"/>:
+							<citedRange>(B)</citedRange>
+					          </bibl>. Re-edited here from published documentation and
+					after autopsy of the stone.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+						            <ptr target="eiad-bibl:zoteroItem_G9CH6AGA"/>
+						            <citedRange>1944-45: B.91</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Srinivasan1979a"/>:
+							<citedRange>no. 74</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Raghunath2001"/>: <citedRange>192
+							(79)</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Tsukamoto1996"/>: <citedRange>no. Ghan
+							2</citedRange>
+					          </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

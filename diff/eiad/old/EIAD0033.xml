@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-03-16T17:42:40.642+01:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 33
+[2] Raghunath no.: 17B
+[3] Srinivasan & Sankaranarayanan no.: 22
+[4] Tsukamoto no.: Jaga 1
+[5] Lüders no.: 1202
+[6] Support : Āyaka pillar
+[7] (Faces:) Lines: 7
+[8] H: 204
+[9] W: 38
+[10] D: 26
+[11] H: 47
+[12] W: 46
+[13] Language(s): MIA
+[14] Original locality: Jaggayyapeta
+[15] Present locality: ASM 306 (alt. 831)
+[16] Primary bibliography: Bühler 1882: 258-9 (III). — Burgess 1882: 55-6; 1887: 110-1 (3).
+[17] Secondary bibliography: Franke 1896: 601. — ARIE 1965-66: B.273. — Raghunath 2001: 120 (17B). — Gupta 2008: 51 (301).
+[18] Visual documentation: Burgess 1887, plate LXIII (3).
+[19] Substance of inscription: erection of 5 Āyaka pillars for welfare and happiness
+[20] Remarks: this pillar seem to have been moved from Chennai to Amaravati: perhaps among the material mentioned by Kannan 2014: 69.
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Āyaka pillar from Jaggayyapeta — reign of
+					Siri-Vīrapurisadatta, year 20</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+						            <surname>Strauch</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+						            <forename>Emmanuelle</forename>
+						            <surname>Morlock</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0033</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths,
+							Ingo Strauch and Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons
+							Attribution 3.0 Unported License. To view a copy of
+							this license, visit
+							http://creativecommons.org/licenses/by/3.0/ or send
+							a letter to Creative Commons, 444 Castro Street,
+							Suite 900, Mountain View, California, 94041,
+							USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0033_inv-eiad" type="inv-eiad">EIAD
+							33</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Amaravati Site Museum</repository>
+							              <idno xml:id="EIAD0033_museum-inventory">306 (alt.
+								831)</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle
+								Indo-Aryan, Southern Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <objectType>Āyaka pillar</objectType>;
+										<dimensions unit="cm">
+										                       <height>204</height>
+										                       <width>38</width>
+										                       <depth>26</depth>
+										                    </dimensions>.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout writtenLines="7">7 lines. Inscribed area:
+									<dimensions unit="cm">
+										                    <height>47</height>
+										                    <width>46</width>
+									                  </dimensions>.
+								</layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote><!-- description of decoration or iconography --></decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>Originally erected on the eastern Āyaka platform of the Stūpa near <placeName key="eiad-geo:jaggayyapeta">Jaggayyapeta</placeName>.</origPlace>
+							              <origDate calendar="Julian"
+                               notBefore="0225"
+                               notAfter="0275"
+                               precision="low">The 20th regnal
+								year of Siri-Vīrapurisadatta, i.e., approximately
+								between 225 and 275 CE.</origDate>
+						            </origin>
+						            <provenance type="found" when="1882-02">
+							              <p>Discovered during excavations organised by
+								Burgess in February 1882.</p>
+						            </provenance>
+						            <provenance type="observed" when="2017-01">
+							              <p>Identified at Amaravati Site Museum (acc. no.
+								306, alt. 831) in January 2017.</p>
+						            </provenance>
+						            <provenance type="not-observed">
+							<!-- information about a specific, unsuccessful attempt to locate an object in a presumed or previously recorded location --></provenance>
+						            <provenance type="transferred">
+							              <p>This pillar seems to have been moved from Chennai
+								to Amaravati: perhaps among the material
+								mentioned by <bibl>
+									                  <ptr target="eiad-bibl:Kannan2014"/>:
+										<citedRange>69</citedRange>
+								                </bibl>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <surrogates><!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl>JM 2017</bibl>
+							              </listBibl>
+							              <listBibl ana="#photo-estampage">
+								                <bibl>Burgess 1887, plate LXIII (3)</bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan,
+					romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines
+				and the latest Schema version
+					<ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of
+							estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-02-25">Creation of the file - automatic
+				conversion.</change>
+			      <change who="#CC" when="2017-04-02">Merging with READ file</change>
+			      <change who="#AG" when="2017-04-02">Added sec. bibl. items that were
+				missing from metadata export used by CC</change>
+			      <change who="#AG" when="2017-04-06">Checked previous work by CC,
+				made improvements, inserted comments</change>
+			      <change who="#CC" when="2017-04-06">Correction of previous
+				work</change>
+			      <change who="#CC" when="2017-04-08">Corrections of previous
+				work</change>
+			      <change who="#MS" when="2017-04-17">Changes in secondary
+				bibliography.</change>
+			      <change who="#MS" when="2017-04-21">Standardised secondary
+				bibliography.</change>
+			      <change who="#MS" when="2017-05-23">Organised surrogates and
+				enclosed apparatus within listApp element.</change>
+			      <change who="#MS" when="2017-05-25">Added reference to
+				surrogates.</change>
+			      <change who="#MS" when="2017-06-08">Hid commentary div as
+				comment.</change>
+			      <change who="#MS" when="2017-06-19">Modified title.</change>
+			      <change who="#VT" when="2017-06-28">Ajusted translation's structure.</change>
+			      <change who="#AG" when="2017-07-14">Modified origin; other minor edits.</change>
+			      <change who="#SB" when="2017-07-29">Fixed spelling of king’s name.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+		    	<change who="#AG" when="2018-06-03">Repetition "in in" corrected.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic xml:id="EIAD0033_image-est-Burgess" url="EIAD0033_1.jpg" n="1">
+			      <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab>
+					          <lb n="1"/>
+					          <w xml:id="tok2031">sidhaṁ</w>
+					          <pc>–</pc>
+					          <w xml:id="tok2033">raño</w>
+					          <w xml:id="tok2034">māḍhariputasa</w>
+					          <w xml:id="tok2035">°ikhākunā</w>
+					          <w xml:id="tok2036">sirivirapurisadatasa</w>
+					          <w xml:id="tok2037">saṁvachara</w>
+					          <num xml:id="tok2038" value="20">20</num>
+					          <w xml:id="tok2039">vāsāpakhaṁ</w>
+					          <num xml:id="tok2040" value="6">6</num>
+					          <w xml:id="tok2041">divasaṁ</w>
+					          <lb n="2"/>
+					          <num xml:id="tok2042" value="10">10</num>
+					          <w xml:id="tok2043">ka<unclear>ṁ</unclear>mākaraṭhe</w>
+					          <w xml:id="tok2044">toḍature</w>
+					          <w xml:id="tok2045">°āve<supplied reason="omitted">sa</supplied>nisa</w>
+					          <w xml:id="tok2046">nākacaṁdasa</w>
+					          <w xml:id="tok2047">pūto</w>
+					          <w xml:id="tok2048">gāme</w>
+					          <w xml:id="tok2049">mahākāṁḍurūre</w>
+					          <w xml:id="tok2050">°āvesani</w>
+					          <lb n="3"/>
+					          <w xml:id="tok2051">sidhatho</w>
+					          <w xml:id="tok2052">°apaṇo</w>
+					          <w xml:id="tok2053">mātaraṁ</w>
+					          <w xml:id="tok2054">nāgilaniṁ</w>
+					          <w xml:id="tok2055">purato</w>
+					          <w xml:id="tok2056">kātunaṁ</w>
+					          <w xml:id="tok2057">gharaniṁ</w>
+					          <w xml:id="tok2058">ca</w>
+					          <w xml:id="tok2059">samudaniṁ</w>
+					          <w xml:id="tok2060">bālakaṁ</w>
+					          <w xml:id="tok2061">ca</w>
+					          <w xml:id="tok2062">mūlasiriṁ</w>
+					          <lb n="4"/>
+					          <w xml:id="tok2063">bālikāṁ</w>
+					          <w xml:id="tok2064">ca</w>
+					          <w xml:id="tok2065">nākabudhanika<unclear>ṁ</unclear>
+					          </w>
+					          <w xml:id="tok2066">bhatuka<unclear>ṁ</unclear>
+					          </w>
+					          <w xml:id="tok2067">ca</w>
+					          <w xml:id="tok2068">budhinakaṁ</w>
+					          <w xml:id="tok2069">tasa</w>
+					          <w xml:id="tok2070">gharaniṁ</w>
+					          <w xml:id="tok2072">°ekanikaṁ</w>
+					          <!-- AG to colleagues: probably we should read/emend ca kanikaṁ here, as in 31 and 32 -->
+					          <w xml:id="tok2073">bālakā</w>
+					          <w xml:id="tok2074">ce</w>
+					          <w xml:id="tok2075">nāgasiri</w>
+					          <w xml:id="tok2076">caṁda<lb n="5" break="no"/>siri</w>
+					          <w xml:id="tok2077">bālikaṁ</w>
+					          <w xml:id="tok2078">ya</w>
+					          <w xml:id="tok2079">s<unclear>i</unclear>dhathanika<supplied reason="lost">ṁ</supplied>
+					          </w>
+					          <w xml:id="tok2080">°eva<supplied reason="lost">ṁ</supplied>
+					          </w>
+					          <w xml:id="tok2081">nātimitasaṁbadhivagena</w>
+					          <w xml:id="tok2082">saha</w>
+					          <w xml:id="tok2083">gāme</w>
+					          <w xml:id="tok2084">velagiriyaṁ</w>
+					          <w xml:id="tok2085">bhagavato</w>
+					          <lb n="6"/>
+					          <w xml:id="tok2086">budhasa</w>
+					          <w xml:id="tok2087">mahācetiyapuvad<unclear>ā</unclear>re</w>
+					          <w xml:id="tok2088">°āyakakhaṁbhe</w>
+					          <num xml:id="tok2089" value="5">5</num>
+					          <w xml:id="tok2090">saveniyute</w>
+					          <w xml:id="tok2091">°apaṇo</w>
+					          <w xml:id="tok2092">deyadhaṁmaṁ</w>
+					          <w xml:id="tok2093">savasatānaṁ</w>
+					          <w xml:id="tok2094">hi<lb n="7" break="no"/>tasukhāya</w>
+					          <w xml:id="tok2095">patiṭhapita</w>
+					          <w xml:id="tok2096">ti</w>
+					          <pc>||</pc>
+					          <pc>–</pc>
+				        </ab>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="1">
+						            <lem>6</lem>
+						            <rdg source="eiad-bibl:Burgess1887">8</rdg>
+					          </app>
+					          <app loc="1">
+						            <lem>°ikhākunā</lem>
+						            <rdg source="eiad-bibl:Burgess1887">°ikhākunaṁ</rdg>
+					          </app>
+					          <app loc="2">
+						            <lem>toḍature</lem>
+						            <rdg source="eiad-bibl:Burgess1887">ṇaḍature</rdg>
+					          </app>
+					          <app loc="2">
+						            <lem>°āve<supplied reason="omitted">sa</supplied>nisa</lem>
+						            <rdg source="eiad-bibl:Burgess1887">°āvenisa</rdg>
+					          </app>
+					          <app loc="3">
+						            <lem>°apaṇo</lem>
+						            <rdg source="eiad-bibl:Burgess1887">°āpaṇo</rdg>
+					          </app>
+					          <app loc="3">
+						            <lem>kātunaṁ</lem>
+						            <rdg source="eiad-bibl:Burgess1887">katūnaṁ</rdg>
+					          </app>
+					          <app loc="4">
+						            <lem>bālikāṁ</lem>
+						            <rdg source="eiad-bibl:Burgess1887">bālikaṁ</rdg>
+					          </app>
+					          <app loc="4">
+						            <lem>°ekanikaṁ</lem>
+						            <!-- AG to colleagues: probably needs to be changed -->
+						            <rdg source="eiad-bibl:Burgess1887">ca kanikaṁ</rdg>
+					          </app>
+					          <app loc="4">
+						            <lem>ce</lem>
+						            <rdg source="eiad-bibl:Burgess1887">ca</rdg>
+						            <note>Emend <foreign xml:lang="pra-Latn">ca</foreign>.</note>
+					          </app>
+					          <app loc="5">
+						            <lem>saha</lem>
+						            <rdg source="eiad-bibl:Burgess1887">sahā</rdg>
+					          </app>
+					          <app loc="6">
+						            <lem>saveniyute</lem>
+						            <rdg source="eiad-bibl:Burgess1887">savaniyute</rdg>
+						            <note>Emend <foreign xml:lang="pra-Latn">savaniyute</foreign> as in EIAD <ref target="#EIAD0032">32</ref>.</note>
+					          </app>
+					          <app loc="7">
+						            <lem>patiṭhapita</lem>
+						            <rdg source="eiad-bibl:Burgess1887">paṭithapita</rdg>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				        <p>
+               <seg type="translatedlines">(1–2)</seg>(Success!) In the 20th year of king Māṭharīputta
+					Siri-Vīrapurisadatta of the Ikṣvākus, (in the 6th fortnight
+					of the rainy season), on the 10th day. </p>
+				        <p>
+               <seg type="translatedlines">(2–7)</seg>The artisan (<foreign xml:lang="pra-Latn">āvesani</foreign>) Sidhatha
+					(Siddhārtha), resident in Big Kāṇḍurūra, son of the artisan
+					Nākacanda (Nāgacandra), resident in the village Toḍatūra
+					in the province (<foreign xml:lang="pra-Latn">raṭha</foreign>) Kammāka, together with his mother
+					Nāgilani as the foremost, and (his) distinguished wife (<foreign xml:lang="pra-Latn">gharaṇī</foreign>) Samudani, and
+					(his) son Mūlasiri, (and his) daughter Nākabudhanikā, and
+					(his) brother Budhinnaka, (and) the latter’s wife Ekanikā, and
+					sons Nāgasiri (and) Candasiri, and daughter Sidhathanikā —
+					thus together with the group of kinsmen, friends and
+					relatives, established in the village Velagiri, at the
+					eastern gate at the Great Shrine of the Bhagavant, the
+					Buddha, 5 āyaka pillars, equipped with everything, as his
+					pious gift, for the well-being and happiness of all
+					beings.</p>
+			      </div>
+			      <!--<div type="commentary">
+				<listApp>
+					<app loc="lineNumber">
+						<note>@loc = number of the line commented here in the note element.</note>
+					</app>
+				</listApp>
+			</div>-->
+			      <div type="bibliography">
+				<!--[Revision required]-->
+				<!--Prose description of the history of the publication. Example of bibl element: <ptr target="eiad-bibl:Khan1969"/>: <citedRange>2</citedRange>-->
+				        <p>First described and edited by <bibl>
+						            <ptr target="eiad-bibl:Bühler1882"/>: <citedRange>258-9
+							(III)</citedRange>
+					          </bibl>, followed by <bibl>
+						            <ptr target="eiad-bibl:Burgess1882"/>:
+							<citedRange>55-6</citedRange>
+					          </bibl> (reading and translation by Bhagvanlal Indraji) and
+					then <bibl>
+						            <ptr target="eiad-bibl:Burgess1887"/>: <citedRange>110-1
+							(3)</citedRange>
+					          </bibl> (new reading, with Bühler’s translation). Re-edited
+					here from the estampage published by Burgess.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+						            <ptr target="eiad-bibl:Franke1896"/>:
+							<citedRange>601</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Lüders1912"/>: <citedRange>no.
+							1202</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:zoteroItem_G9CH6AGA"/>
+						            <citedRange>1965-66: no. B.273</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Srinivasan1979a"/>:
+							<citedRange>no. 22</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Tsukamoto1996"/>: <citedRange>no. Jaga
+							1</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Raghunath2001"/>: <citedRange>120
+							(no. 17B)</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Gupta2008"/>: <citedRange>51 (no.
+							301)</citedRange>
+					          </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

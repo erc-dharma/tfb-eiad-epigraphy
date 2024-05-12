@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-03-16T17:42:40.642+01:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 20
+[2] Raghunath no.: 11
+[3] Srinivasan & Sankaranarayanan no.: 17
+[4] Tsukamoto no.: Naga 41
+[5] Lüders no.: 
+[6] Support : floor slabs (3)
+[7] (Faces:) Lines: 4
+[8] H: 92/99/89
+[9] W: 229+320+82 (total 631)
+[10] D: 2005/05/10 00:00
+[11] H: 47
+[12] W: 600
+[13] Language(s): MIA
+[14] Original locality: Nagarjunakonda Site-1_2, Naharallabodu, Apsidal shrine no. II
+[15] Present locality: NM 543, 552, 564
+[16] Primary bibliography: Vogel 1929-30a: 14, 22-3 (F).
+[17] Secondary bibliography: Raghunath 2001: 102-5 (11).
+[18] Visual documentation: estampage Leiden N10 (two separate sheets). — Vogel; Raghunath.
+[19] Substance of inscription: construction of a chaitya hall
+[20] Remarks: Text extends over 3 originally separate slabs.
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Floor slab from apsidal temple of site 43 at Nagarjunakonda — reign of Māṭharīputta, year 14</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+						            <surname>Strauch</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+						            <forename>Emmanuelle</forename>
+						            <surname>Morlock</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+						            <forename>Andrew</forename>
+						            <surname>Ollett</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0020</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths, Ingo Strauch and Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).--></note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0020_inv-eiad" type="inv-eiad">EIAD 20</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Nagarjunakonda Museum</repository>
+							              <idno xml:id="EIAD0020_museum-inventory-1">543</idno>
+						            </altIdentifier>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Nagarjunakonda Museum</repository>
+							              <idno xml:id="EIAD0020_museum-inventory-2">552</idno>
+						            </altIdentifier>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Nagarjunakonda Museum</repository>
+							              <idno xml:id="EIAD0020_museum-inventory-3">564</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indo-Aryan, Southern Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>Three originally separate <objectType>floor slabs</objectType>; <!--MS: I'm not sure how to encode the respective
+                      dimensions of each fragment. I tried to look for a suitable
+                      solution in the Epidoc guidelines - could the
+                      elements <msFrag> or <msPart> perhaps correspond to this
+                      particular case ? I don't
+                      know how to apply them here though.-->
+										<!-- AG: I added you to the discussion <https://github.com/arlogriffiths/iksvaku-inscriptions/issues/7>. Let's take our time and read the article referred to by EM and then come up with a way to handle this same issue for a cases of inscriptions covering multiple fragments. Leave this as it is for now.  -->
+										<dimensions type="FragA" unit="cm">
+											                      <height>92</height>
+											                      <width>229</width>
+											                      <depth>8</depth>
+										                    </dimensions>
+										                    <dimensions type="FragB" unit="cm">
+											                      <height>99</height>
+											                      <width>320</width>
+											                      <depth>5</depth>
+										                    </dimensions>
+										                    <dimensions type="FragC" unit="cm">
+											                      <height>89</height>
+											                      <width>82</width>
+											                      <depth>5</depth>
+										                    </dimensions>.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout>
+									                  <p>The opening word <foreign xml:lang="pra-Latn">sidhaṁ</foreign> stands in the margin. <!-- AG2EM: quoi faire avec ce genre de remarque? Et faut-il encoder le phénomène dans div type=edition? -->
+										<dimensions unit="cm">
+											                      <height>47</height>
+											                      <width>600</width>
+										                    </dimensions>.</p>
+								                </layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote><!-- description of decoration or iconography --></decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>Placed originally at findspot.</origPlace>
+							              <origDate calendar="Julian"
+                               notBefore="0225"
+                               notAfter="0275"
+                               precision="medium">Fourteenth regnal year of a king Māṭharīputta, presumably Siri-Vīrapurisadatta, i.e., approximately between 225 and 275 CE.</origDate>
+						            </origin>
+						            <provenance type="found" notBefore="1926-03" notAfter="1927-10">
+							              <p>Discovered between March 1926 and October 1927 at <placeName key="eiad-geo:NK043">Nagarjunakonda, Site 43</placeName>, forming the floor of the Apsidal shrine no. II, on the mound Nāharāḷḷabōḍu.</p>
+						            </provenance>
+						            <provenance type="observed" when="2016-02">
+							              <p>Three fragments identified at Nagarjunakonda Museum (A = acc. no. 543; B = acc. no. 552, C = acc. no. 564) in February 2016.</p>
+						            </provenance>
+						            <provenance type="not-observed">
+							<!-- information about a specific, unsuccessful attempt to locate an object in a presumed or previously recorded location --></provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates>
+							<!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo-estampage">
+								                <bibl>estampage Leiden N10 (two separate sheets).</bibl>
+								                <bibl>Est. ASI: Vogel</bibl>
+								                <bibl>Raghunath</bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan, romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines and the latest Schema version <ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-02-25">Creation of the file - automatic conversion.</change>
+			      <change who="#MS" when="2017-03-24">Merging with READ data.</change>
+			      <change who="#AG" when="2017-03-29">Checked previous work by MS, inserted comments.</change>
+			      <change who="#MS" when="2017-03-31">Some corrections, following comments by AG.</change>
+			      <change who="#AG" when="2017-04-01">Added sec. bibl. items that were missing in initial metadata export</change>
+			      <change who="#AG" when="2017-04-19">Added Sircar refs. and made further clean-ups in bibliography.</change>
+			      <change who="#MS" when="2017-04-21">Standardised secondary bibliography bibliography.</change>
+			      <change who="#AG" when="2017-05-09">Enclosed entire apparatus in listApp.</change>
+			      <change who="#AG" when="2017-05-13">Removed linefeeds between closing bibl and cit tags.</change>
+			      <change who="#MS" when="2017-05-21">Organised surrogates.</change>
+			      <change who="#MS" when="2017-06-18">Organised surrogates.</change>
+			      <change who="#AG" when="2017-07-01">Encoded placeName; resolved issue #113.</change>
+			      <change who="#SB" when="2017-07-27">Fixed spacing in transcription of damaged name.</change>
+			      <change who="#SB" when="2017-07-29">Fixed spelling of king’s names..</change>
+			      <change who="#VT" when="2018-03-03">Changes in translation and commentary.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+		       <change who="#VT" when="2018-12-09">Minor changes in translation.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic url="photograph of text or monument">
+			      <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab>
+					<!--<milestone unit="fragment" n="#EIAD20-A"/>-->
+					<!-- AG: this looks good. So we'll later have to define what EIAD20-A is, by connecting this to a particular idno of fragment A. This is again related to issue #7. -->
+					          <w xml:id="tok987">sidhaṁ</w>
+					          <pc>–</pc>
+					          <lb n="1"/>
+					          <w xml:id="tok988">namo</w>
+					          <w xml:id="tok989">bhagavato</w>
+					          <w xml:id="tok990">°ikhākurājapavararisisatapabhavavaṁsasaṁbhavasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok992">devamanusasavasata<space type="horizontal" quantity="1" unit="character"/>hitasukhamagadesikasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok994">jitakāmakodha<space type="horizontal" quantity="1" unit="character"/>bhayaharisatarisa<space type="horizontal" quantity="1" unit="character"/>mohadosa<space type="horizontal" quantity="1" unit="character"/>sadapitamārabala<space type="horizontal" quantity="1" unit="character"/>dapamānapasamanakarasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok996">dasabalamah<supplied reason="omitted">ā</supplied>balasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok998">°aṭhagamagadhamacakapavatakasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1000">cakalakhaṇasukumāra<space type="horizontal" quantity="1" unit="character"/>sujātacaraṇasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1002">taruṇadivasakarapabhasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1004">saradasasisomadarisanasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1006">savalokacitamahitasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1008">budhasa</w>
+					          <w xml:id="tok1009">raṁño</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1011">m<unclear>āṭha</unclear>ri<unclear>p</unclear>u<unclear>tasa</unclear>
+               </w>
+					          <gap reason="lost" quantity="4" unit="character"/>
+					          <gap reason="illegible" quantity="1" unit="character"/>
+					          <num xml:id="tok1018" value="14">
+						            <num value="10">10</num>
+						            <num value="4">4</num>
+					          </num>
+					          <w xml:id="tok1019">hemaṁtapakhaṁ</w>
+					          <w xml:id="tok1020">chaṭhaṁ</w>
+					          <num xml:id="tok1021" value="6">6</num>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1023">divasaṁ</w>
+					          <w xml:id="tok1024">teraṁ</w>
+					          <num xml:id="tok1025" value="13">
+						            <num value="10">10</num>
+						            <num value="3">3</num>
+					          </num>
+					          <w xml:id="tok1027">
+                  <supplied reason="lost">°a</supplied>
+                  <unclear>caṁ</unclear>tarājācarīyānaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1033">kasmīragaṁdhāra<space type="horizontal" quantity="1" unit="character"/>cīnacilāta<space type="horizontal" quantity="1" unit="character"/>tosalī°avaraṁta<space type="horizontal" quantity="1" unit="character"/>veṁgavanavāsī<space type="horizontal" quantity="1" unit="character"/>ya<unclear>vanada</unclear>
+                  <supplied reason="lost">m</supplied>i<unclear>lapa</unclear>lurataṁbapaṁṇidīpapas<unclear>ā</unclear>dakānaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1035">theriyānaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1037">taṁbapa<unclear>ṁ</unclear>ṇakānaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1039">suparigahe</w>
+					          <lb n="2"/>
+					          <w xml:id="tok1040">siripavate</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1042">vijayapurīya</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1044">puvadisābhāge</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1046">vihāre</w>
+					          <w xml:id="tok1047">culadhaṁmagirīyaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1049">cetiyagharaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1051">sapaṭasaṁtharaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1053">sacetīyaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1055">savaniyutaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1057">kāritaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1059">°uvāsikāya</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1061">bodhisiriya</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1063">°apano</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1065">bhatuno</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1067">budhiṁnakasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1069">pituno</w>
+					          <w xml:id="tok1070">ca</w>
+					          <w xml:id="tok1071">se</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1073">govagāmavathavasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1075">revatagahapatisa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1077">mātuya</w>
+					          <w xml:id="tok1078">ca</w>
+					          <w xml:id="tok1079">sa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1081">budhaṁnikāya</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1083">bhātunaṁ</w>
+					          <w xml:id="tok1084">ca</w>
+					          <w xml:id="tok1085">se</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1087">caṁdamukhanasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1089">karuṁbudhinasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1091">haṁghaṁnasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1093">bhaginīya</w>
+					          <w xml:id="tok1094">ca</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1096">revatiṁnikāya</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1098">bhātuputānaṁ</w>
+					          <w xml:id="tok1099">ca</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1101">mahācaṁdamukhaculacaṁdamukhānaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1103">bhāgineyānaṁ</w>
+					          <w xml:id="tok1104">ca</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1106">mahāmūlaculamūlānaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1108">°apano</w>
+					          <w xml:id="tok1109">ca</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1111">°ayakasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1113">mūlavāniyasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1115">°ayikāya</w>
+					          <w xml:id="tok1116">budhavān<unclear>i</unclear>k<unclear>i</unclear><space type="horizontal" quantity="1" unit="character"/><unclear>nāya</unclear>
+               </w>
+               <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1117">mātulaka<unclear>sa</unclear>
+               </w>
+					          <w xml:id="tok1118">
+                  <supplied reason="lost">ca</supplied>
+               </w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1120">koṭhakārikasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1122">bhadesa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1124">bodhisaṁmasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1126">caṁda<unclear>sa</unclear>
+					          </w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1128">bodhikasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1130">mahāmātukāya</w>
+					          <w xml:id="tok1131">bha <gap reason="illegible" quantity="1" unit="aksarapart"/>i <gap reason="lost" quantity="1" unit="character"/> 
+                  <unclear>l</unclear>āya</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1133">bodhiya</w>
+					          <w xml:id="tok1134">ca</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1136">°apano</w>
+					          <w xml:id="tok1137">pituno</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1139">budhi<supplied reason="lost">vā</supplied>niyasa</w>
+					          <w xml:id="tok1140">m<unclear>ātuya</unclear>
+               </w>
+					          <gap reason="illegible" quantity="2" unit="character"/>
+					          <lb n="3"/>
+					          <w xml:id="tok1142">bhātuno</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1144">mūlasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1146">bhaginīnaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1148">budhaṁnikāya</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1150">mūlaṁnikāya</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1152">nāgabodhinikāya</w>
+					          <w xml:id="tok1153">ca</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1155">dhūtuya</w>
+					          <w xml:id="tok1157">vīraṁnikāya</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1159">putānaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1161">nāgaṁnasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1163">vīraṁnasa</w>
+					          <w xml:id="tok1164">ca</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1166">suṁnhānaṁ</w>
+					          <w xml:id="tok1167">ca</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1169">bhadasirimisīnaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1171">°evām</w>
+					          <w xml:id="tok1172">eva</w>
+					          <w xml:id="tok1173">ca</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1175">kulahavihāre</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1177">cetiyagharaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1179">sīhaḷavihāre</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1181">bodhirukhapāsādā</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1183">mahādhaṁmagirīyaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1185">°ovarako</w>
+					          <num xml:id="tok1186" value="1">1</num>
+					          <w xml:id="tok1187">mahāvi<supplied reason="omitted">hā</supplied>re</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1189">maṁḍavakhaṁbho</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1191">devagiriyaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1193">padhānasālā</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1195">puvasele</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1197">taḷākaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1199">°aḷaṁdāmaḍavo</w>
+					          <w xml:id="tok1200">ca</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1202">kaṁṭakasole</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1204">mahācetiyasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1206">puvadāre</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1208">selamaṁḍavo</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1210">hirumuṭhuve</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1212">°ovarakā</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1214">tiṁṇi</w>
+					          <num xml:id="tok1215" value="3">3</num>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1217">papilāyaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1219">°ovarakā</w>
+					          <w xml:id="tok1220">sata</w>
+					          <num xml:id="tok1221" value="7">7</num>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1223">puphagirīya</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1225">selamaṁḍavo</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1227">dhaṁ</w>
+					          <gap reason="illegible" quantity="1" unit="character"/>
+					          <gap reason="lost" quantity="7" unit="character"/>
+					          <w xml:id="tok1235">vihāre</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1237">selamaḍavo</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1239">°etaṁ</w>
+					          <w xml:id="tok1240">ca</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1242">savaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1244">°uvarivaṁṇ<unclear>i</unclear><supplied reason="lost">taṁ</supplied>
+               </w>
+					          <supplied reason="lost">
+                  <space type="horizontal" quantity="1" unit="character"/>
+               </supplied>
+					          <w xml:id="tok1247">
+                  <supplied reason="lost">sā</supplied>dh<unclear>u</unclear>vagasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1250">°acaṁ<unclear>ta</unclear>hitasu<unclear>khā</unclear>ya</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1252">thavitaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1254">sava<unclear>sa</unclear>
+					          </w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1256">ca</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1258">lokasa</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1260">°imaṁ</w>
+					          <w xml:id="tok1261">navakaṁmaṁ</w>
+					          <w xml:id="tok1262">tiṁhi</w>
+					          <w xml:id="tok1263">navaka<unclear>ṁ</unclear>mikehi</w>
+					          <w xml:id="tok1264">kāritaṁ</w>
+					          <space type="horizontal" quantity="1" unit="character"/>
+					          <w xml:id="tok1266">caṁdamukhaṭherena</w>
+					          <w xml:id="tok1267">ca</w>
+					          <lb n="4"/>
+					          <w xml:id="tok1268">dhaṁmanaṁditherena</w>
+					          <w xml:id="tok1269">ca</w>
+					          <w xml:id="tok1270">nāgatherena</w>
+					          <w xml:id="tok1271">ca</w>
+					          <w xml:id="tok1272">selavaḍhākisa</w>
+					          <w xml:id="tok1273">vidhikasa</w>
+					          <w xml:id="tok1274">kaṁmaṁ</w>
+					          <w xml:id="tok1275">ti</w>
+					          <pc>—</pc>
+				        </ab>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="1">
+						            <lem>-sadapita-</lem>
+						            <!--<note>We should possibly understand or emend <foreign xml:lang="pra-Latn">sadāpita</foreign>, as suggested by Vogel. Hirananda Sastri, the editor of the <hi rend="italic">EI</hi> volume containing Vogel's publication, accepts the reading as is, but suggests to divide the expression as two compounds: <foreign xml:lang="pra-Latn">-mohadosasa dapitamāra-</foreign> (<bibl><ptr target="eiad-bibl:Vogeld"/>: <citedRange>22 n. 1</citedRange></bibl>). The placement of the punctuation space, used repeatedly in this text to cut long compounds, does not support this otherwise attractive suggestion.</note>-->
+						            <note>Vogel suggests emending sadāpita. The editor of the <bibl>
+                        <ptr target="eiad-bibl:zoteroItem_RMUWTUN7"/>
+                     </bibl> volume containing Vogel’s publication, Hirananda Sastri, accepts the reading as is, but suggests to divide the expression as two compounds: <foreign xml:lang="pra-Latn">-mohadosasa dapitamāra- </foreign> (<bibl>
+                        <ptr target="eiad-bibl:Vogeld"/>: <citedRange>22 n. 1</citedRange>
+                     </bibl>). The placement of the punctuation space does not support this otherwise attractive suggestion, and we believe we can make sense of <foreign xml:lang="pra-Latn">sadapita</foreign> as it is, corresponding to Skt. <foreign xml:lang="san-Brah">saṁdarpita</foreign>.</note>
+					          </app>
+					          <app loc="1">
+						            <lem>
+							              <gap reason="lost" extent="4" unit="character"/>
+							              <gap reason="illegible" extent="1" unit="character"/>
+						            </lem>
+						            <note>Possible restorations are here <foreign xml:lang="pra-Latn">saṁvachare</foreign> or <foreign xml:lang="pra-Latn">vase cudase</foreign>. Vogel remarks: <cit>
+								                <quote>The <hi rend="italic">akshara</hi>
+									                  <hi rend="italic">ṭha</hi> of Māṭhariputasa is partly preserved. After this word some five or six <hi rend="italic">aksharas</hi> are lost. In the absence of any traces of <hi rend="italic">i</hi> strokes, the missing word cannot have been <hi rend="italic">Siri-Purisadatasa</hi>. In all probability it was <hi rend="italic">saṁvacharaṁ</hi>, followed by a word expressing “fourteenth” (<hi rend="italic">chodaṁ</hi> ?)</quote>
+                        <bibl>
+                           <ptr target="eiad-bibl:Vogeld"/>: <citedRange>22 n. 2</citedRange>
+                        </bibl>
+                     </cit>.</note>
+					          </app>
+					          <app loc="1">
+						            <lem>teraṁ</lem>
+						            <note>Emend <foreign xml:lang="pra-Latn">terasaṁ</foreign>.</note>
+					          </app>
+					          <app loc="1">
+						            <lem>
+                     <supplied reason="lost">°a</supplied>
+                     <unclear>caṁ</unclear>tarājācarīyānaṁ</lem>
+						            <rdg source="eiad-bibl:Vogeld">. . .ta <unclear>rā</unclear>jācarīyānaṁ</rdg>
+						            <note>
+                     <bibl>
+                        <ptr target="eiad-bibl:Vogeld"/>: <citedRange>22 n. 3</citedRange>
+							              </bibl> notes: <quote>Perhaps <hi rend="italic">bhadaṁta-rāj-ācariyānaṁ</hi> ?</quote>. In his edition of <ref target="#EIAD0069">EIAD 69</ref>, an inscription also recovered from site 43 and bearing the same toponym, Sircar found the compound <hi rend="italic">°acaṁtarājācariyānaṁ</hi>, whose meaning was obscure to him. He tentatively suggested <cit>
+								                <quote>the expression <hi rend="italic">achaṁtarāj-āchariya</hi> would mean ‘teachers of (or from) Achaṁtarāja’ or better ‘teachers of the Achaṁtarāja school or community’. Unfortunately we do not know of any king or locality called Achaṁtarāja or a community of Buddhist teachers characterised by that name</quote>
+                        <bibl>
+                           <ptr target="eiad-bibl:Sircarm"/>: <citedRange>212</citedRange>
+                        </bibl>
+                     </cit>. Our restitution depends on the comparison with <ref target="#EIAD0069">EIAD 69</ref> and the probable re-occurence of the keyword <foreign xml:lang="pra-Latn">°acaṁta</foreign> towards the end of line 3.</note>
+					          </app>
+					          <app loc="1">
+						            <lem>kasmīra-</lem>
+						            <rdg source="eiad-bibl:Vogeld">kasmira-</rdg>
+					          </app>
+					          <app loc="1">
+						            <lem>-tosalī-</lem>
+						            <rdg source="eiad-bibl:Vogeld">-tosali-</rdg>
+					          </app>
+					          <app loc="1">
+						            <lem>-veṁgavanavāsī-</lem>
+						            <rdg source="eiad-bibl:Vogeld">-vaṁgavanavāsi-</rdg>
+						            <note>We adopt Vogel’s silent emendation.</note>
+					          </app>
+					          <app loc="1">
+						            <lem>-ya<unclear>vanada</unclear>
+                     <supplied reason="lost">m</supplied>i<unclear>lapa</unclear>lura-</lem>
+						            <rdg source="eiad-bibl:Vogeld">yavanada<unclear>milapa</unclear>lura-</rdg>
+						            <note>Vogel notes: <cit>
+								                <quote>The words which I read <hi rend="italic">Yavana-Damila-Palura</hi> are not quite certain. The <hi rend="italic">Da</hi> of <hi rend="italic">Damila</hi> is still legible and the long-drawn top strokes of the remaining two <hi rend="italic">aksharas</hi> have led me to the conjectural reading <hi rend="italic">mila</hi>, the body of the akshara <hi rend="italic">m</hi> being partly preserved. The <hi rend="italic">Pa</hi> of <hi rend="italic">Palura</hi> is conjectural</quote> 
+                        <bibl>
+                           <ptr target="eiad-bibl:Vogeld"/>: <citedRange>22 n. 4</citedRange>
+                        </bibl>
+                     </cit>.</note>
+					          </app>
+					          <app loc="2">
+						            <lem>vijayapurīya</lem>
+						            <rdg source="eiad-bibl:Vogeld">vijapuriya-</rdg>
+					          </app>
+					          <app loc="2">
+						            <lem>haṁghaṁnasa</lem>
+						            <rdg source="eiad-bibl:Vogeld">haghaṁnasa</rdg>
+					          </app>
+					          <app loc="2">
+						            <lem>°ayikāya</lem>
+						            <rdg source="eiad-bibl:Vogeld">°ayīkāya</rdg>
+					          </app>
+					          <app loc="2">
+						            <lem>bhadesa</lem>
+						            <rdg source="eiad-bibl:Vogeld">bhadasa</rdg>
+						            <note>Emend in accordance with Vogel's reading.</note>
+					          </app>
+					          <app loc="2">
+						            <lem>mātulaka<unclear>sa</unclear>
+						            </lem>
+						            <note>Vogel notes: <cit>
+								                <quote>The <hi rend="italic">akshara</hi>
+									                  <hi rend="italic">sa</hi> of <hi rend="italic">mātulakasa</hi> is conjectural. As the word is followed by several personal names in the genitive case, one would expect <hi rend="italic">mātulakānaṁ</hi>, but the <hi rend="italic">akshara</hi>
+									                  <hi rend="italic">ka</hi> shows no trace of an <hi rend="italic">ā</hi>-stroke</quote>
+                        <bibl>
+                           <ptr target="eiad-bibl:Vogeld"/>: <citedRange>22 n. 5</citedRange>
+                        </bibl>
+                     </cit>.</note>
+					          </app>
+					          <app loc="2">
+						            <lem>koṭhakārikasa</lem>
+						            <rdg source="eiad-bibl:Vogeld">koṭh<supplied reason="lost">ā</supplied>kārikasa</rdg>
+						            <!-- <note>Compare Skt. <foreign xml:lang="san-Latn">koṣṭhāgāra</foreign>.</note>  -->
+					          </app>
+					          <app loc="2">
+						            <lem>bha<gap reason="illegible" quantity="1" unit="aksarapart"/>i<gap reason="lost" quantity="1" unit="character"/>
+							              <unclear>l</unclear>āya</lem>
+						            <rdg source="eiad-bibl:Vogeld">bhadi<unclear>lā</unclear>ya</rdg>
+					          </app>
+					          <app loc="2">
+						            <lem>m<unclear>ātuya</unclear>
+							              <gap reason="illegible" quantity="2" unit="character"/>
+						            </lem>
+						            <note>Since the slab has peeled off at the end of the line, and since the length of lines vary in this inscription, it is difficult to determine how many akṣaras are missing here, and we can only estimate.</note>
+					          </app>
+					          <app loc="3">
+						            <lem>°evām</lem>
+						            <rdg source="eiad-bibl:Vogeld">°evam</rdg>
+						            <note>Emend in accordance with Vogel's reading.</note>
+					          </app>
+					          <app loc="3">
+						            <lem>bodhirukhapāsādā</lem>
+						            <rdg source="eiad-bibl:Vogeld">bodhirukhapāsādo</rdg>
+						            <note>Emend in accordance with Vogel's silent emendation.</note>
+					          </app>
+					          <app loc="3">
+						            <lem>°aḷaṁdāmaḍavo</lem>
+						            <rdg source="eiad-bibl:Vogeld">°aḷaṁdāma<supplied reason="omitted">ṁ</supplied>ḍavo</rdg>
+					          </app>
+					          <app loc="3">
+						            <lem>kaṁṭakasole</lem>
+						            <rdg source="eiad-bibl:Vogeld">kaṁṭakasele</rdg>
+					          </app>
+					          <app loc="3">
+						            <lem>puphagirīya</lem>
+						            <rdg source="eiad-bibl:Vogeld">puphagirīya<supplied reason="lost">ṁ</supplied>
+						            </rdg>
+					          </app>
+					          <app loc="3">
+						            <lem>selamaḍavo</lem>
+						            <rdg source="eiad-bibl:Vogeld">selama<supplied reason="lost">ṁ</supplied>ḍavo</rdg>
+					          </app>
+					          <app loc="3">
+						            <lem>°uvarivaṁṇ<unclear>i</unclear><supplied reason="lost">taṁ</supplied>
+							              <supplied reason="lost">
+								                <space type="horizontal" quantity="1" unit="character"/>
+							              </supplied>
+							              <supplied reason="lost">sā</supplied>dh<unclear>u</unclear>
+						            </lem>
+						            <rdg source="eiad-bibl:Vogeld">°uvarivaṁṇi<supplied reason="lost">taṁ….sā</supplied>dhu</rdg>
+						            <note>Vogel notes: <cit>
+								                <quote>The <hi rend="italic">akshara</hi>
+									                  <hi rend="italic">taṁ</hi> is conjectural. Perhaps <hi rend="italic">tasa</hi>
+                        </quote>
+                        <bibl>
+                           <ptr target="eiad-bibl:Vogeld"/>: <citedRange>22 n. 8</citedRange>
+                        </bibl>
+                     </cit>; and <cit>
+								                <quote>The first <hi rend="italic">akshara</hi>
+									                  <hi rend="italic">sā</hi> has been restored tentatively. The <hi rend="italic">u</hi>-stroke of <hi rend="italic">dhu</hi> is still faintly visible</quote>
+                        <bibl>
+                           <ptr target="eiad-bibl:Vogeld"/>: <citedRange>22 n. 9</citedRange>
+                        </bibl>
+                     </cit>. We assume instead that a punctuation space was left blank between the two words.</note>
+					          </app>
+					          <app loc="3">
+						            <lem>-ṭherena</lem>
+						            <rdg source="eiad-bibl:Vogeld">-therena</rdg>
+						            <note>It is tempting to emend here <foreign xml:lang="pra-Latn">-therena</foreign>, but note that a retroflex <seg type="graphemic">ṭha</seg> for <seg type="graphemic">tha</seg>seg&gt; is encountered earlier in <foreign xml:lang="pra-Latn">hirumuṭhuve</foreign> earlier in this line.<!--AG2VT: This interpretation, assuming ṭhuve is connected with stūpa, perhaps to be reviewed.--></note>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				        <p>
+               <seg type="translatedlines">(1)</seg>Success! Homage to the Bhagavant, born in the lineage that descended from the hundreds of excellent sages [stemming from] king Ikṣvāku, who explains the path of well-being and happiness to gods, men and all beings, who has conquered desire, anger, fear, joy, thirst, hatred and delusion and who has calmed the haughtiness and pride of Māra’s haughty forces, who has the great power of the ten powers, who sets in motion the Dharma wheel of the eight-limbed path, whose soft and well-formed feet have the sign of the wheel, who has the shine of the young sun, who is pleasant to see as the autumn moon, who is praised and celebrated by all people, the Buddha. </p>
+				        <p>
+               <seg type="translatedlines">(1-3)</seg>(Fourteenth) — 14th — year of King Māṭharīputta, sixth — 6th — fortnight of winter, thirteenth — 13th — day. In the firm possession of those who are supreme teachers of kings, who brought the faith to Kasmīra-Gandhāra, Cīna-Cilāta; to Tosalī and Avaranta; to Vaṁga, Vanavāsi, [the country of the] the Yavanas, the Damilas, the Paluras and to the island of Tambapaṇṇī; the Theriyas, Tambapaṇṇakas, in the monastery on Siripavvata, on the eastern side of Vijayapurī, on Small Dharma Hill, a shrine hall (<foreign xml:lang="pra-Latn">cetiyaghara</foreign>) with a flooring of slabs, with a shrine and equipped with everything, was caused to be built by the lay follower Bodhisirī (for the sake of) her own husband Budhinnaka; and his father the notable (<foreign xml:lang="pra-Latm">gahapati</foreign>) Revata, a resident of the village Gova; and his mother Budhannikā; and his brothers Candamukhanna, Karumbudhinna and Haṅghanna; and (his) sister Revatinnikā; and his brothers’<!-- AG to colleagues: or brother's? --> sons Big Candamukha and Little Candamukha; and his sister’s sons Big Mūla and Little Mūla; as well as her own paternal grandfather Mūlavāniya, (her) maternal grandmother Budhavānikinā; and (her) maternal uncle the treasurer Bhada; and Bodhisamma, Canda, Bodhika; (her) <foreign xml:lang="pra-Latn">mahāmātukā</foreign> ... and Bodhi; her own father Budhivāniya; (her) mother ...; (her) brother Mūla; (her) sisters Budhannikā, Mūlannikā and Nāgabodhinnikā; (her) daughter Vīrannikā; (her) sons Nāganna and Vīranna; and her daughters-in-law Bhadasirī and Misī. And in just the same way, in Kulaha Monastery a shrine hall; in Sīhaḷa Monastery a <foreign xml:lang="san-Latn">bodhi</foreign>-tree temple; at Big Dharma Hill 1 cell; at the Great Monastery a pavillion pillar; at Deva Mountain a hall of spiritual exertion; at the Eastern Mountain a pond and a terrace and hall; at Kaṇṭakasola, at the eastern gate of the Great Shrine, a stone pavillion; at Hirumuṭhuva three — 3 — cells; at Papilā seven — 7 — cells; at Flower Hill a stone pavillion; at ... Monastery a stone pavillion. And all this described above has been erected for the supreme<!-- AG to colleagues: we may want a translation that accords better with how °acaṁta- will be translated above. --> well-being and happiness of the group of good people and of the whole world. </p>
+				        <p>
+               <seg type="translatedlines">(3-4)</seg>This construction was caused to be made by three superintendents of construction: Elder Candamukha, Elder Dhammanandi and Elder Nāga. It is the work of the stonemason Vidhika.</p>
+			      </div>
+			      <div type="commentary">
+				        <listApp>
+					<!-- <app loc="">
+            <note>Bhātuputānaṃ, "his brothers's sons", could alternatively be rendeded as "his
+              brother's sons".</note>
+          </app>  -->
+					          <app loc="1">
+						            <lem>savalokacitamahitasa</lem>
+						            <note>The compound <foreign xml:lang="pra-Latn">savalokacitamahita-</foreign> is ambiguous. We tentatively take it as corresponding to Skt. <foreign xml:lang="san-Latn">sarvalokārcitamahita</foreign>. It is however also possible to interpret it as Vogel did, corresponding to Skt. <foreign xml:lang="san-Latn">sarvalokacittamahita</foreign>, and meaning “who is magnified by the thoughts of all the world”.</note>
+               </app>
+					          <app loc="1">
+						            <lem>
+                     <supplied reason="lost">°a</supplied>
+                     <unclear>caṁ</unclear>tarājācarīyānaṁ ... taṁbapa<unclear>ṁ</unclear>ṇakānaṁ</lem>
+						            <note>For a lengthy discussion of this series of titles, see <bibl>
+							                 <ptr target="eiad-bibl:Tournier2018"/>: <citedRange>55–63</citedRange>
+						               </bibl>.</note>
+               </app>
+					          <app loc="4">
+						            <lem>vidhikasa</lem>
+						            <note>The same proper name is found in EIAD <ref target="#EIAD0085">85</ref> and <ref target="#EIAD0086">86</ref>. See <bibl>
+                        <ptr target="eiad-bibl:Sarkarb"/>
+                     </bibl>.</note>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="bibliography">
+				        <p>First described and edited by <bibl>
+						            <ptr target="eiad-bibl:Vogeld"/>: <citedRange>14, 22-3 (F)</citedRange>
+					          </bibl>. Edited again, from the EI estampage, by <bibl>
+						            <ptr target="eiad-bibl:Sircar1942"/>: <citedRange>224–7</citedRange>
+					          </bibl> and <bibl>
+						            <ptr target="eiad-bibl:Sircar1965"/>: <citedRange>233–6</citedRange>
+					          </bibl>. Re-edited here from the Leiden estampage and after autopsy of the stone.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+						            <ptr target="eiad-bibl:Srinivasan1979a"/>: <citedRange>no. 17</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Tsukamoto1996"/>: <citedRange>no. Naga 41</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Raghunath2001"/>: <citedRange>102–5 (no. 11)</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Soundara_Rajan2006"/>: <citedRange>154</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Tournier2018"/>: <citedRange>47–69</citedRange>
+					          </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

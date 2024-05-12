@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-03-29T17:32:11.51+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 81
+[2] Raghunath no.: 62
+[3] Srinivasan & Sankaranarayanan no.: 67
+[4] Tsukamoto no.: Naga 47
+[5] Lüders no.: 
+[6] Support : Āyaka frieze
+[7] (Faces:) Lines: 1
+[8] H: 33
+[9] W: 238+89=327
+[10] D: 22
+[11] H: 3
+[12] W: 163+27=190 preserved
+[13] Language(s): MIA
+[14] Original locality: Nagarjunakonda Site-6
+[15] Present locality: NM 611, 613
+[16] Primary bibliography: right part edited in Vogel 1929-30a: 25 (K).
+[17] Secondary bibliography: ARIE 1945-46: B.196. — Raghunath 2001: 181 (62).
+[18] Visual documentation: Est. ASI; Rosen Stone 1994, ill. 36, 37, 41, 42.
+[19] Substance of inscription: gift of a slab
+[20] Remarks: Vogel, Raghunath, S&S and Tsukamoto take into account only the part which is NM 613, but Rosen Stone, ill. 36 shows that 611 and 613 belong together. See detailed argument VT in text file.
+[21] : 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Āyaka frieze from site 6 at Nagarjunakonda</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+						            <surname>Strauch</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+						            <forename>Emmanuelle</forename>
+						            <surname>Morlock</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+						            <forename>Andrew</forename>
+						            <surname>Ollett</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0081</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths, Ingo Strauch and Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0081_inv-eiad" type="inv-eiad">EIAD 81</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Nagarjunakonda Museum</repository>
+							              <idno xml:id="EIAD0081_museum-inventory-1">611</idno>
+						            </altIdentifier>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Nagarjunakonda Museum</repository>
+							              <idno xml:id="EIAD0081_museum-inventory-2">613</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indo-Aryan, Southern Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>Two fragments of an <objectType>Āyaka frieze</objectType>; <dimensions unit="cm">
+											                      <height>33</height>
+											                      <width>238+89=327</width>
+											                      <depth>22</depth>
+										                    </dimensions>.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout>One line of writing inscribed along the lower edge of a long sculptured beam preserved in two fragments, here called <ref target="EIAD0081_link-1" rend="no-link">NM611</ref> and <ref target="EIAD0081_link-2" rend="no-link">NM613</ref>. Inscribed area: <dimensions unit="cm">
+										                    <height>3</height>
+										                    <width>163+27=190</width>
+									                  </dimensions> (preserved); a small fragment connecting the two pieces has not yet been identified.</layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote>A scene to the left of NM613 represents the birth of the Buddha-to-be; his mother Māyā is represented standing.<!-- description of decoration or iconography --></decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>Presumably installed originally at findspot.</origPlace>
+							              <origDate calendar="Julian"
+                               notBefore="0250"
+                               notAfter="0350"
+                               precision="low">Undated. Attributable to the period 250-350 CE on palaeographic grounds.<!--See http://www.stoa.org/epidoc/gl/latest/supp-historigdate.html-->
+							</origDate>
+						            </origin>
+						            <provenance type="found" notBefore="1926-03" notAfter="1927-10">
+							              <p>Discovered between March 1926 and October 1927 at <placeName key="eiad-geo:NK006">Nagarjunakonda, Site 6</placeName>.</p>
+						            </provenance>
+						            <provenance type="observed" when="2016-02">
+							              <p>Fragments identified at Nagarjunakonda Museum (acc. no. 611 and acc. no. 613) in February 2016.</p>
+						            </provenance>
+						            <provenance type="not-observed">
+							<!-- information about a specific, unsuccessful attempt to locate an object in a presumed or previously recorded location --></provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates><!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl>JM 2017</bibl>
+								                <bibl>Rosen Stone 1994, ill. 36, 37, 41, 42. While Vogel, Raghunath, Srinivasan &amp; Sankaranarayanan and Tsukamoto take into account only the part which is NM 613, Rosen Stone, ill. 36, shows that 611 and 613 belong together.<!--MS: Should this
+                                            rather be mentioned in the
+                                            bibliography description, or in both
+                                            ?-->
+								</bibl>
+							              </listBibl>
+							              <listBibl ana="#photo-estampage">
+								                <bibl>Est. ASI</bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan, romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines and the latest Schema version <ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-02-25">Creation of the file - automatic conversion.</change>
+			      <change who="#MS" when="2017-04-28">Merging with READ data.</change>
+			      <change who="#MS" when="2017-06-03">Organised surrogates.</change>
+			      <change who="#MS" when="2017-06-20">Modified title.</change>
+			      <change who="#MS" when="2017-07-01">Removed unwanted spaces from edition.</change>
+			      <change who="#VT" when="2017-07-10">Changed edition and translation.</change>
+			      <change who="#AG" when="2017-07-11">Encoded placeName; applied textPart xml:ids etc. following model of EIAD 43.</change>
+			      <change who="#EM" when="2017-07-16">Structure pb (apparatus child of text rather than of edition)</change>
+			      <change who="#EM" when="2017-07-17">Various small edits.</change>
+			      <change who="#SB" when="2017-07-28">Fixed translation to agree with text. Fixed formatting.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic url="photograph of text or monument">
+			      <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <div type="textpart"
+                 subtype="fragment"
+                 n="NM611"
+                 xml:id="EIAD0081_textPart1">
+					          <ab>
+						            <lb n="1"/>
+						            <gap reason="lost" quantity="11" unit="character"/>
+						            <w xml:id="tok4280EIAD81">
+                     <unclear>bh</unclear>
+                     <gap reason="illegible" quantity="1" unit="aksarapart"/>
+                  </w>
+						            <gap reason="lost" quantity="10" unit="character"/>
+						            <gap reason="illegible" quantity="1" unit="character"/>
+						            <w xml:id="tok4281EIAD81">
+                     <unclear>°āpan</unclear>
+                     <supplied reason="lost">o</supplied>
+                  </w>
+						            <gap reason="lost" quantity="6" unit="character"/>
+						            <gap reason="illegible" quantity="1" unit="character"/>
+						            <w xml:id="tok4282EIAD81">
+                     <unclear>devām</unclear>
+                     <gap reason="illegible" quantity="1" unit="aksarapart"/>
+                  </w>
+						            <gap reason="lost" quantity="1" unit="character"/>
+						            <w xml:id="tok4283EIAD81">
+                     <unclear>s</unclear>ā<unclear>nā</unclear>
+                  </w>
+						            <w xml:id="tok4284EIAD81">kha<gap reason="illegible" quantity="1" unit="aksarapart"/>
+                     <unclear>iv</unclear>
+                     <gap reason="illegible" quantity="1" unit="aksarapart"/>
+                  </w>
+						            <!--MS: the element <gap
+                                reason="illegible" quantity="1"
+                                unit="aksarapart"/> does not seem to be allowed
+                                inside the <unclear> element-->
+						            <w xml:id="tok4285EIAD81">
+                     <unclear>ṇ</unclear>
+                     <gap reason="illegible" quantity="1" unit="aksarapart"/>
+                  </w>
+						            <!--MS: I'm not sure if I
+                                should put this akṣara in a separate <w>
+                                element, as <ṇ> does not occur, I think, in initial
+                                syllables. The rtf file however makes a
+                                distinction between the previous unclear
+                                syllable and this one ([.iv.] and [ṇ.])-->
+						            <gap reason="illegible" quantity="1" unit="character"/>
+						            <gap reason="lost" quantity="11" unit="character"/>
+					          </ab>
+				        </div>
+				        <div type="textpart"
+                 subtype="fragment"
+                 n="NM613"
+                 xml:id="EIAD0081_textPart2">
+					          <ab>
+						            <gap reason="lost" extent="unknown"/>
+						            <gap reason="illegible" quantity="1" unit="character"/>
+						            <w xml:id="tok4309">saputakāna</w>
+						            <w xml:id="tok4310">ca</w>
+						            <space type="horizontal" quantity="1" unit="character"/>
+						            <w xml:id="tok4311">dha<unclear>ṁ</unclear>masa</w>
+						            <space type="horizontal" quantity="1" unit="character"/>
+						            <w xml:id="tok4312">padumasa</w>
+						            <w xml:id="tok4313">ca</w>
+						            <space type="horizontal" quantity="1" unit="character"/>
+						            <w xml:id="tok4314">
+                     <unclear>khā</unclear>dasa</w>
+						            <w xml:id="tok4315">haghasa</w>
+						            <space type="horizontal" quantity="1" unit="character"/>
+						            <w xml:id="tok4316">saputikāna</w>
+						            <w xml:id="tok4316bis">ca</w>
+						            <space type="horizontal" quantity="1" unit="character"/>
+						            <w xml:id="tok4316ter">
+                     <unclear>khadayā</unclear>
+                  </w>
+						            <w xml:id="tok4317">
+                     <unclear>ca</unclear>
+                  </w>
+						            <space type="horizontal" quantity="1" unit="character"/>
+						            <w xml:id="tok4318">
+                     <gap reason="lost" quantity="1" unit="character"/> 
+                     <unclear>t</unclear>
+                     <gap reason="illegible" quantity="1" unit="aksarapart"/>
+                  </w>
+						            <w xml:id="tok4319">hidāya</w>
+						            <space type="horizontal" quantity="1" unit="character"/>
+						            <w xml:id="tok4320">budhaya</w>
+						            <space type="horizontal" quantity="1" unit="character"/>
+						            <w xml:id="tok4321">padumāya</w>
+						            <w xml:id="tok4322">m<unclear>isā</unclear>ya</w>
+						            <space type="horizontal" quantity="1" unit="character"/>
+						            <w xml:id="tok4323">culabudhaya</w>
+						            <w xml:id="tok4324">nāk<unclear>ā</unclear>ya</w>
+						            <w xml:id="tok4325">ca</w>
+						            <space type="horizontal" quantity="1" unit="character"/>
+						            <w xml:id="tok4326">sajāmatukānaṁ</w>
+						            <space type="horizontal" quantity="1" unit="character"/>
+						            <w xml:id="tok4327">sanatukānaṁ</w>
+						            <space type="horizontal" quantity="1" unit="character"/>
+						            <w xml:id="tok4328">sanatinaṁ</w>
+						            <w xml:id="tok4329">ca</w>
+						            <w xml:id="tok4330">sanādimitabaṁdhavāna<unclear>ṁ</unclear>
+                  </w>
+						            <w xml:id="tok4331">ca</w>
+						            <space type="horizontal" quantity="1" unit="character"/>
+						            <w xml:id="tok4332">deyadhaṁmaṁ</w>
+						            <space type="horizontal" quantity="1" unit="character"/>
+						            <w xml:id="tok4333">paṭani</w>
+						            <w xml:id="tok4334">be</w>
+						            <num xml:id="tok4334bis" value="2">2</num>
+						            <w xml:id="tok4335">sapadākani</w>
+						            <w xml:id="tok4336">
+                     <unclear>bi</unclear>
+                  </w>
+						            <gap reason="lost" extent="unknown"/>
+					          </ab>
+				        </div>
+			      </div>
+			      <div type="apparatus">
+				        <listApp corresp="#EIAD0081_textPart1">
+					          <app>
+						            <lem>
+                     <unclear>devām</unclear>
+                     <gap reason="illegible" quantity="1" unit="aksarapart"/>
+							              <gap reason="lost" quantity="1" unit="character"/>
+							              <unclear>s</unclear>ā<unclear>nā</unclear>
+							kha<gap reason="illegible" quantity="1" unit="aksarapart"/>
+                     <unclear>iv</unclear>
+							              <gap reason="illegible" quantity="1" unit="aksarapart"/>
+                     <unclear>ṇ</unclear>
+                     <gap reason="illegible" quantity="1" unit="aksarapart"/>
+						            </lem>
+						            <note>It is tempting to restore this as <foreign xml:lang="pra-Latn">
+                        <unclear>devām</unclear>
+                        <supplied reason="lost">anu</supplied>
+                        <unclear>s</unclear>ā<unclear>nā</unclear>
+								                <supplied reason="omitted">su</supplied>kha<unclear>niv</unclear>
+                        <supplied reason="lost">ā</supplied>
+                        <unclear>ṇ</unclear>
+                        <supplied reason="lost">athanāya</supplied>
+                     </foreign>.</note>
+					          </app>
+				        </listApp>
+				        <listApp corresp="#EIAD0081_textPart2">
+					          <app>
+						            <lem>saputak<unclear>ā</unclear>na</lem>
+						            <rdg source="eiad-bibl:Vogeld">saputak<unclear>ā</unclear>na<unclear>ṁ</unclear>
+						            </rdg>
+					          </app>
+					          <app>
+						            <lem>saputak<unclear>ā</unclear>na</lem>
+						            <rdg source="eiad-bibl:Vogeld">saputak<unclear>ā</unclear>na<unclear>ṁ</unclear>
+						            </rdg>
+					          </app>
+					          <app>
+						            <lem>dha<unclear>ṁ</unclear>masa</lem>
+						            <rdg source="eiad-bibl:Vogeld">dhamasa</rdg>
+					          </app>
+					          <app>
+						            <lem>
+							              <unclear>khā</unclear>dasa haghasa</lem>
+						            <rdg source="eiad-bibl:Vogeld">
+							              <unclear>bha</unclear>dasa hughasa</rdg>
+					          </app>
+					          <app>
+						            <lem>saputikāna</lem>
+						            <rdg source="eiad-bibl:Vogeld">saputik<unclear>ā</unclear>na<unclear>ṁ</unclear>
+						            </rdg>
+					          </app>
+					          <app>
+						            <lem>
+							              <unclear>khadayā</unclear>
+							              <unclear>ca</unclear>
+						            </lem>
+						            <rdg source="eiad-bibl:Vogeld">...</rdg>
+					          </app>
+					          <app>
+						            <lem>
+							              <unclear>t</unclear>
+							              <gap reason="illegible" quantity="1" unit="aksarapart"/> hidāya</lem>
+						            <rdg source="eiad-bibl:Vogeld">... had<unclear>ā</unclear>ya</rdg>
+					          </app>
+					          <app>
+						            <lem>budhaya</lem>
+						            <rdg source="eiad-bibl:Vogeld">budh<unclear>ā</unclear>ya</rdg>
+					          </app>
+					          <app>
+						            <lem>culabudhaya</lem>
+						            <rdg source="eiad-bibl:Vogeld">culabudh<unclear>ā</unclear>ya</rdg>
+					          </app>
+					          <app>
+						            <lem>sajāmatukānaṁ</lem>
+						            <rdg source="eiad-bibl:Vogeld">saj<unclear>ā</unclear>m<unclear>ā</unclear>tuk<unclear>ā</unclear>na<unclear>ṁ</unclear>
+						            </rdg>
+					          </app>
+					          <app>
+						            <lem>sanatukānaṁ</lem>
+						            <rdg source="eiad-bibl:Vogeld">san<unclear>ā</unclear>tuk<unclear>ā</unclear>na<unclear>ṁ</unclear>
+						            </rdg>
+					          </app>
+					          <app>
+						            <lem>deyadhaṁmaṁ</lem>
+						            <rdg source="eiad-bibl:Vogeld">deyadham<unclear>o</unclear>
+						            </rdg>
+					          </app>
+					          <app>
+						            <lem>be 2</lem>
+						            <rdg source="eiad-bibl:Vogeld">ba</rdg>
+					          </app>
+					          <app>
+						            <lem>sapadākani <unclear>bi</unclear>
+						            </lem>
+						            <rdg source="eiad-bibl:Vogeld">sapadaka . . . . </rdg>
+						            <note>Vogel notes: <quote>Perhaps <hi rend="italic">sapāduka-paṭṭa</hi>
+							              </quote>, to which the editor of the relevant <bibl>
+                        <ptr target="eiad-bibl:zoteroItem_RMUWTUN7"/>
+                     </bibl> volume adds: <quote>Perhaps the reading is ‘<hi rend="italic">paṭāni be sapādukāni</hi>’, meaning two slabs with footprints</quote>.</note>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				        <p>... for (the sake) of his (?) happiness among gods (and humans) and for <foreign xml:lang="san-Latn">nirvāṇa</foreign> ... together with his/her sons (i.e.) Dhama and Paduma, Khāda (and) Hagha, and together with his/her daughters, (i.e.) Khadā, ... Hidā, Budhā, Padumā, Misā, Culabudhā, and Nākā, together with his/her son-in-laws, together with his/her grandsons, and together with his/her granddaughters, and together with his/her relatives, friends, and kinsmen ... two slabs and ... (were established?) as pious gift.</p>
+			      </div>
+			      <div type="commentary">
+				        <p>Vogel notes: <quote>The transcript and translation of inscriptions J and K should be regarded as provisional</quote>.</p>
+			      </div>
+			      <div type="bibliography">
+				        <p>Only the right part of this inscription was described and edited by <bibl>
+						            <ptr target="eiad-bibl:Vogeld"/>: <citedRange>15, 25 (K)</citedRange>
+					          </bibl>. We edit the text here integrally, from the ASI estampage as well as the pictures published in <bibl>
+                  <ptr target="eiad-bibl:Rosen_Stone1994"/>
+               </bibl>, our own photographs, and after autopsy of the stone.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+						            <ptr target="eiad-bibl:zoteroItem_G9CH6AGA"/>
+						            <citedRange>1945-46: no. B.196</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Srinivasan1979a"/>: <citedRange>no. 67</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Tsukamoto1996"/>: <citedRange>no. Naga 47</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Raghunath2001"/>: <citedRange>181 (no. 62)</citedRange>
+					          </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

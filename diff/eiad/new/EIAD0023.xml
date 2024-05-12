@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-03-16T17:42:40.642+01:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 23
+[2] Raghunath no.: 48.2
+[3] Srinivasan & Sankaranarayanan no.: Ābhīras 4
+[4] Tsukamoto no.: —
+[5] Lüders no.: 
+[6] Support : conch-shell
+[7] (Faces:) Lines: 1
+[8] H: 17
+[9] W: 9
+[10] D: 10
+[11] H: 5
+[12] W: 2
+[13] Language(s): MIA
+[14] Original locality: Nagarjunakonda 
+[15] Present locality: NM, arts & crafts reg. 194
+[16] Primary bibliography: Sarma 1970: 2, fig. 3.
+[17] Secondary bibliography: IAR 1958-59: 8. — Raghunath 2001: 165 (48.2).
+[18] Visual documentation: IAR 1958-59, pl. V (B); Sarma; Raghunath.
+[19] Substance of inscription: 
+[20] Remarks: 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Conch-shell from site 29 at Nagarjunakonda</title>
+            <principal>
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </principal>
+            <editor role="general">
+					          <persName key="eiad-part:AG">
+						            <forename>Arlo</forename>
+						            <surname>Griffiths</surname>
+					          </persName>
+				        </editor>
+            <editor role="general">
+					          <persName key="eiad-part:VT">
+						            <forename>Vincent</forename>
+						            <surname>Tournier</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:SB">
+						            <forename>Stefan</forename>
+						            <surname>Baums</surname>
+					          </persName>
+				        </editor>
+            <editor role="contributor">
+					          <persName key="eiad-part:IS">
+						            <forename>Ingo</forename>
+						            <surname>Strauch</surname>
+					          </persName>
+				        </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:CC">
+						            <forename>Chloé</forename>
+						            <surname>Chollet</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata
+						verification</resp>
+					          <persName key="eiad-part:MS">
+						            <forename>Marine</forename>
+						            <surname>Schoettel</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+						            <forename>Emmanuelle</forename>
+						            <surname>Morlock</surname>
+					          </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+						            <forename>Andrew</forename>
+						            <surname>Ollett</surname>
+					          </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0023</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+						            <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths,
+							Ingo Strauch and Vincent Tournier.</p>
+						            <p>This work is licensed under the Creative Commons
+							Attribution 3.0 Unported License. To view a copy of
+							this license, visit
+							http://creativecommons.org/licenses/by/3.0/ or send
+							a letter to Creative Commons, 444 Castro Street,
+							Suite 900, Mountain View, California, 94041,
+							USA.</p>
+					          </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+				</note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0023_inv-eiad" type="inv-eiad">EIAD
+							23</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Nagarjunakonda Museum, arts &amp; crafts
+								register</repository>
+							              <idno xml:id="EIAD0023_museum-inventory">194</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle
+								Indo-Aryan, Southern Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <objectType>Conch-shell</objectType>;
+										<dimensions unit="cm">
+										                       <height>17</height>
+										                       <width>9</width>
+										                       <depth>10</depth>
+										                    </dimensions>.</p>
+								                </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout writtenLines="1">
+									                  <dimensions unit="cm">
+										                    <height>5</height>
+										                    <width>2</width>
+									                  </dimensions>
+								                </layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote><!-- description of decoration or iconography --></decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>
+								                <placeName type="modern" key="eiad-geo:NK">Nagarjunakonda</placeName>
+								Site-29</origPlace>
+							              <origDate>
+								<!--See http://www.stoa.org/epidoc/gl/latest/supp-historigdate.html-->
+							</origDate>
+						            </origin>
+						            <provenance type="found" notAfter="1958">Reported to
+							have been found in a temple complex with three
+							shrine chambers, in the northeastern corner of the
+							valley (i.e., Site-29) in <bibl>
+								                <ptr target="eiad-bibl:zoteroItem_R4S8D3K2"/>
+								                <citedRange>1958-59: 8</citedRange>
+							              </bibl>. </provenance>
+						            <provenance type="observed" when="2016-02">Identified at
+							Nagarjunakonda Museum (arts &amp; crafts reg. 194)
+							in February 2016.</provenance>
+						            <provenance type="not-observed">
+							<!-- information about a specific, unsuccessful attempt to locate an object in a presumed or previously recorded location --></provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates><!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl>photos EIAD 2016</bibl>
+							              </listBibl>
+							              <listBibl ana="#photo-estampage">
+								                <bibl>IAR 1958-59, pl. V (B), Sarma, fig. 3,
+									Srinivasan &amp; Sankaranarayanan Raghunath,
+									Soundara Rajan<note>All publications
+										reproduce the same plate.</note>
+								                </bibl>
+							              </listBibl>
+						            </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan,
+					romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines
+				and the latest Schema version
+					<ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+			      </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of
+							estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-02-25">Creation of the file - automatic
+				conversion.</change>
+			      <change who="#MS" when="2017-03-25">Merging with READ data.</change>
+			      <change who="#AG" when="2017-03-31">Checked and corrected previous
+				work by MS.</change>
+			      <change who="#AG" when="2017-04-01">Added sec. bibl. items that were
+				missing in initial metadata export</change>
+			      <change who="#MS" when="2017-04-04">Made corrections according to
+				previous comments by AG.</change>
+			      <change who="#MS" when="2017-04-21">Standardised secondary
+				bibliography.</change>
+			      <change who="#AG" when="2017-05-11">Added writtenLines="1", hid
+				Commentary, made various small edits in sec. bibl.</change>
+			      <change who="#MS" when="2017-05-21">Organised surrogates.</change>
+			      <change who="#MS" when="2017-06-18">Modified title.</change>
+			      <change who="#AG" when="2017-06-27">Added required bibl in apparatus.</change>
+			      <change who="#VT" when="2017-07-07">Edited facsmile.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+      </revisionDesc>
+	  </teiHeader>
+   <facsimile>
+	  	  <graphic xml:id="EIAD0023_image-general" url="EIAD0023_0.JPG" n="1">
+	  		    <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+	  	  </graphic>
+	  	  <graphic xml:id="EIAD0023_image-text" url="EIAD0023_1.JPG" n="2">
+	  		    <desc>CAPTION. CREATOR, CREATION DATE, COPYRIGHT.</desc>
+	  	  </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab>
+					          <lb n="1"/>
+					          <w xml:id="tok1313">°ucc<unclear>i</unclear>takaṇasa<unclear>kha</unclear>
+					          </w>
+				        </ab>
+			      </div>
+			      <div type="apparatus">
+				        <listApp>
+					          <app loc="1">
+						            <lem>°ucc<unclear>i</unclear>ta-</lem>
+						            <rdg source="eiad-bibl:Sarma1970">°uccita-</rdg>
+						            <note>
+                     <bibl>
+                        <ptr target="eiad-bibl:Sarma1970"/>
+                     </bibl> alternatively
+							proposes to read <foreign xml:lang="pra-Latn">raccita-</foreign>.</note>
+						            <!-- AG: here we would need to use the tags <choice>, but I'm note sure how. -->
+					          </app>
+					          <app loc="1">
+						            <lem>-sa<unclear>kha</unclear>
+						            </lem>
+						            <rdg source="eiad-bibl:Sarma1970">-saro</rdg>
+					          </app>
+				        </listApp>
+			      </div>
+			      <div type="translation" xml:lang="eng">
+				        <ab>Uccitakaṇa’s conch.</ab>
+			      </div>
+			      <!--<div type="commentary">
+                [Revision required]-\->
+                <!-\-<listApp>
+                    <app loc="lineNumber">
+                        <note><!-\\-@loc = number of the line commented here in the note element.-\\-></note>
+                    </app>
+                </listApp>
+            </div>-->
+			      <div type="bibliography">
+				        <p>The first serious reading to be published was that of <bibl>
+						            <ptr target="eiad-bibl:Sarma1970"/>: <citedRange>2,
+							caption of fig. 3</citedRange>
+					          </bibl>. Re-edited here after autopsy of the object.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+						            <ptr target="eiad-bibl:zoteroItem_R4S8D3K2"/>
+						            <citedRange>1958-59: 8</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Srinivasan1979a"/>:
+							<citedRange>no. Ābhīras 4</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Raghunath2001"/>: <citedRange>165
+							(no. 48.2)</citedRange>
+					          </bibl>
+					          <bibl>
+						            <ptr target="eiad-bibl:Soundara_Rajan2006"/>:
+							<citedRange>225</citedRange>
+					          </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

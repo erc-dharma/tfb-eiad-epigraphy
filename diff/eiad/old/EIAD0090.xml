@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-06-20T10:50:05.525+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 90
+[2] Raghunath no.: —
+[3] Srinivasan & Sankaranarayanan no.: —
+[4] Tsukamoto no.: —
+[5] Lüders no.: —
+[6] Support : Āyaka pillar
+[7] (Faces:) Lines: 6
+[8] H: 61
+[9] W: 26
+[10] D: 24
+[11] H: 35
+[12] W: 26+
+[13] Language(s): MIA
+[14] Original locality: Jaggayyapeta
+[15] Present locality: ASM 506
+[16] Primary bibliography: unpublished
+[17] Secondary bibliography: Gupta 2008: 52 (316).
+[18] Visual documentation: Photos JM 2017
+[19] Substance of inscription: 
+[20] Remarks: apparently a fourth āyaka pillar from Jaggayyapeta, so far unmentioned in the literature: see 031-033
+[21] : 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+            <title>Āyaka pillar from Jaggayyapeta</title>
+            <principal>
+               <persName key="eiad-part:AG">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+				        </principal>
+            <editor role="general">
+               <persName key="eiad-part:AG">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </editor>
+            <editor role="general">
+               <persName key="eiad-part:VT">
+                  <forename>Vincent</forename>
+                  <surname>Tournier</surname>
+               </persName>
+            </editor>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:CC">
+                  <forename>Chloé</forename>
+                  <surname>Chollet</surname>
+               </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>assistance with XML encoding and metadata verification</resp>
+					          <persName key="eiad-part:MS">
+                  <forename>Marine</forename>
+                  <surname>Schoettel</surname>
+               </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:EM">
+                  <forename>Emmanuelle</forename>
+                  <surname>Morlock</surname>
+               </persName>
+				        </respStmt>
+            <respStmt>
+					          <resp>digital humanities consultant</resp>
+					          <persName key="eiad-part:AO">
+                  <forename>Andrew</forename>
+                  <surname>Ollett</surname>
+               </persName>
+				        </respStmt>
+         </titleStmt>
+			      <publicationStmt>
+				        <authority>Early Inscriptions of Āndhradeśa</authority>
+				        <idno type="filename">EIAD0090</idno>
+				        <availability>
+					          <licence target="http://creativecommons.org/licenses/by/3.0/">
+                  <p>Copyright (c) 2017 by Arlo Griffiths and Vincent Tournier.</p>
+                  <p>This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+               </licence>
+				        </availability>
+			      </publicationStmt>
+			      <notesStmt>
+				        <note><!-- apparently a fourth āyaka pillar from Jaggayyapeta, so far unmentioned in the literature: see 031-033 --></note>
+			      </notesStmt>
+			      <sourceDesc>
+				        <msDesc>
+					          <msIdentifier>
+						            <institution>EFEO</institution>
+						            <idno xml:id="EIAD0090_inv-eiad" type="inv-eiad">EIAD 90</idno>
+						            <altIdentifier type="museum-inventory">
+							              <repository>Amaravati Site Museum</repository>
+							              <idno xml:id="EIAD0090_museum-inventory">ASM 506</idno>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <msContents>
+						            <msItem>
+							              <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indo-Aryan language, Southern Brāhmī script</textLang>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc>
+							              <supportDesc>
+								                <support>
+                           <p>Fragment of an <objectType>Āyaka pillar</objectType>; <dimensions unit="cm">
+											                      <height>61</height>
+											                      <width>26</width>
+											                      <depth>24</depth>
+										                    </dimensions>.</p>
+                        </support>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout writtenLines="6">6 lines. Inscribed area:
+										<dimensions unit="cm">
+										                    <height>35</height>
+										                    <width atLeast="26">26+</width>
+									                  </dimensions>.</layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote><!-- description of decoration or iconography --></decoNote>
+						            </decoDesc>
+					          </physDesc>
+					          <history>
+						            <origin>
+							              <origPlace>Originally erected on the eastern Āyaka platform of the Stūpa near <placeName key="eiad-geo:jaggayyapeta">Jaggayyapeta</placeName>.</origPlace>
+							              <origDate calendar="Julian"
+                               notBefore="0225"
+                               notAfter="0275"
+                               precision="low">Date lost, but it must have been the 20th regnal
+								year of Siri-Vīrapurisadatta, i.e., approximately
+								between 225 and 275 CE.</origDate>
+                  </origin>
+						            <provenance type="found" when="1882-02">
+							              <p>No information is available on the provenance of this fragment. It was presumably discovered along with the other known Āyaka pillars from the same site (EIAD <ref target="#EIAD0031">31</ref>, <ref target="#EIAD0032">32</ref> and <ref target="#EIAD0033">33</ref>) during excavations organised by Burgess in February 1882.</p>
+							           </provenance>
+						            <provenance type="observed" when="2017-01">
+							              <p>Found in the reserve collection of the Amaravati Site Museum (acc. no.
+								506) in January 2017.</p>
+						            </provenance>
+						            <provenance type="not-observed">
+							<!-- information about a specific, unsuccessful attempt to locate an object in a presumed or previously recorded location --></provenance>
+						            <provenance type="transferred">
+							<!-- information about documentable modern relocations of the text-bearing object --></provenance>
+					          </history>
+					          <additional>
+						            <surrogates><!-- [Revision required] -->
+							<!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+							              <listBibl ana="#photo">
+								                <bibl>JM 2017</bibl>
+							              </listBibl>
+                  </surrogates>
+					          </additional>
+					          <msPart>
+						            <msIdentifier/>
+						            <physDesc/>
+						            <history/>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="eng">English</language>
+				        <language ident="pra-Latn">Middle Indo-Aryan, romanized</language>
+			      </langUsage>
+			      <textClass>
+				        <keywords>
+					          <term><!--each keyword in a <term/> element --></term>
+				        </keywords>
+			      </textClass>
+		    </profileDesc>
+		    <encodingDesc>
+			      <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines and the latest Schema version <ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+         </p>
+			      <classDecl>
+				        <taxonomy xml:lang="eng">
+					          <category xml:id="photo">
+						            <catDesc>Digital or digitized photographs</catDesc>
+					          </category>
+					          <category xml:id="rti">
+						            <catDesc>Reflectance Transformation Imaging</catDesc>
+					          </category>
+					          <category xml:id="photo-estampage">
+						            <catDesc>Digital or digitized photographs of estampages</catDesc>
+					          </category>
+					          <category xml:id="representation">
+						            <catDesc>Digitized other representations</catDesc>
+					          </category>
+				        </taxonomy>
+			      </classDecl>
+		    </encodingDesc>
+		    <revisionDesc>
+			      <change who="#EM" when="2017-06-20">Creation of the file - automatic conversion.</change>
+			      <change who="#AG" when="2017-07-14">Initial encoding; resolves #188</change>
+			      <change who="#SB" when="2017-07-29">Stylistic change.</change>
+		       <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic url="photograph of text or monument">
+			      <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+		    </graphic>
+	  </facsimile>
+	  <text>
+		    <body>
+			      <div type="edition" xml:lang="pra-Latn">
+				        <ab>					
+					          <lb n="1"/>
+					          <gap reason="lost" extent="unknown"/>
+					          <milestone unit="fragment" type="lost" subtype="left"/>
+					          <gap reason="illegible" quantity="1" unit="character"/>
+					          <milestone unit="fragment" type="lost" subtype="right"/>
+					          <gap reason="lost" extent="unknown"/>
+					          <lb n="2"/>
+					          <gap reason="lost" extent="unknown"/>
+					          <milestone unit="fragment" type="lost" subtype="left"/>
+					          <w xml:id="tokEIAD0090-01">
+                  <unclear>k</unclear>
+                  <supplied reason="lost">ā</supplied>tūnaṁ</w>
+					          <w xml:id="tok2057">gharaniṁ</w>
+					          <w xml:id="tok2058">ca</w>
+					          <w xml:id="tok2059">sa<milestone unit="fragment" type="lost" subtype="right"/>
+                  <supplied reason="lost">mudaniṁ</supplied>
+               </w>
+					          <gap reason="lost" extent="unknown"/>
+					          <lb n="4"/>
+					          <gap reason="lost" extent="unknown"/>
+					          <milestone unit="fragment" type="lost" subtype="left"/>
+					          <w xml:id="tok2081">nāt<unclear>i</unclear>m<unclear>i</unclear>tasa<unclear>ṁ</unclear>ba<unclear>ṁ</unclear>dhivagena</w>
+					          <w xml:id="tok2082">sa<milestone unit="fragment" type="lost" subtype="right"/>
+                  <supplied reason="lost">ha</supplied>
+               </w>
+					          <gap reason="lost" extent="unknown"/>
+					          <lb n="5"/>
+					          <gap reason="lost" extent="unknown"/>
+					          <w xml:id="tok2087">
+                  <supplied reason="lost">mahācetiyapuvadā</supplied>
+                  <milestone unit="fragment" type="lost" subtype="left"/>re</w>
+					          <w xml:id="tok2088">°ayakakhaṁbhe</w>
+					          <num xml:id="tok2089" value="5">5</num>
+					          <w xml:id="tok2090">saveni<unclear>y</unclear>
+                  <supplied reason="lost">u</supplied>
+                  <milestone unit="fragment" type="lost" subtype="right"/>te</w>
+					          <gap reason="lost" extent="unknown"/>
+					          <lb n="6"/>
+					          <gap reason="lost" extent="unknown"/>
+					          <w xml:id="tok2093">
+                  <supplied reason="lost">savasa</supplied>
+                  <milestone unit="fragment" type="lost" subtype="left"/>tānaṁ</w>
+					          <w xml:id="tok2094">hitasukhāya</w>
+					          <w xml:id="tok2095">pati<unclear>ṭha</unclear>
+                  <supplied reason="lost">pita</supplied>
+               </w>
+					          <w xml:id="tok2096">
+                  <supplied reason="lost">ti</supplied>
+               </w>
+					          <pc>
+                  <supplied reason="lost">||</supplied>
+               </pc>
+					          <pc>
+                  <supplied reason="lost">–</supplied>
+               </pc>
+				        </ab>
+			      </div>
+			      <!--<div type="apparatus">
+				<!-\-[Revision required] -\->
+				<app loc="lineNumber">
+					<lem/>
+					<rdg source="eiad-bibl:identifier"/>
+					<note/>
+				</app>
+			</div>-->
+			      <!--<div type="translation" xml:lang="eng">
+				<ab/>
+			</div>-->
+			      <div type="commentary">
+				        <p>Except in a brief catalog entry, this fourth Āyaka pillar from Jaggayyapeta appears to be entirely unmentioned in the literature. What remains of the text is completely parallel to EIAD <ref target="#EIAD0031">31</ref>, <ref target="#EIAD0032">32</ref> and <ref target="#EIAD0033">33</ref>. The text being intact in those inscriptions, we refer to them for a translation.</p>
+			      </div>
+			      <div type="bibliography">
+				        <p>Unpublished. Edited here from our photographs.</p>
+				        <listBibl type="secondary-bibliography">
+					          <bibl>
+                  <ptr target="eiad-bibl:Gupta2008"/>: <citedRange>52 (no. 316)</citedRange>
+               </bibl>
+				        </listBibl>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

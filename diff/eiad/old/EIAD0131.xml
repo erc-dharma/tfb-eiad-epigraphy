@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--Last xsl transformation: 2017-05-17T13:36:55.949+02:00
+Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
+- - - - - - - - - 
+[1] Inventory no. EIAD: 131
+[2] Raghunath no.: 
+[3] Srinivasan & Sankaranarayanan no.: 
+[4] Tsukamoto no.: 
+[5] Lüders no.: 
+[6] Support : Buddha in stone, on the base
+[7] (Faces:) Lines: 2
+[8] H: 77.5
+[9] W: 31.5
+[10] D: 14
+[11] H: 8
+[12] W: 23.5
+[13] Language(s): MIA
+[14] Original locality: Ghantasala (?)
+[15] Present locality: Musée Guimet 17850
+[16] Primary bibliography: Japanese catalog
+[17] Secondary bibliography: Amina Okada catalog
+[18] Visual documentation: 
+[19] Substance of inscription: 
+[20] Remarks: 
+[21] : 
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+            <title>Stela with Buddha image presumably from
+                    Ghantasala</title>
+            <principal>
+                    <persName key="eiad-part:AG">
+                        <forename>Arlo</forename>
+                        <surname>Griffiths</surname>
+                    </persName>
+                </principal>
+            <editor role="general">
+                    <persName key="eiad-part:AG">
+                        <forename>Arlo</forename>
+                        <surname>Griffiths</surname>
+                    </persName>
+                </editor>
+            <editor role="general">
+                    <persName key="eiad-part:VT">
+                        <forename>Vincent</forename>
+                        <surname>Tournier</surname>
+                    </persName>
+                </editor>
+            <respStmt>
+                    <resp>assistance with XML encoding and metadata
+                        verification</resp>
+                    <persName key="eiad-part:CC">
+                        <forename>Chloé</forename>
+                        <surname>Chollet</surname>
+                    </persName>
+                </respStmt>
+            <respStmt>
+                    <resp>assistance with XML encoding and metadata
+                        verification</resp>
+                    <persName key="eiad-part:MS">
+                        <forename>Marine</forename>
+                        <surname>Schoettel</surname>
+                    </persName>
+                </respStmt>
+            <respStmt>
+                    <resp>digital humanities consultant</resp>
+                    <persName key="eiad-part:EM">
+                        <forename>Emmanuelle</forename>
+                        <surname>Morlock</surname>
+                    </persName>
+                </respStmt>
+            <respStmt>
+                    <resp>digital humanities consultant</resp>
+                    <persName key="eiad-part:AO">
+                        <forename>Andrew</forename>
+                        <surname>Ollett</surname>
+                    </persName>
+                </respStmt>
+         </titleStmt>
+            <publicationStmt>
+                <authority>Early Inscriptions of Āndhradeśa</authority>
+                <idno type="filename">EIAD0131</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths,
+                            Ingo Strauch and Vincent Tournier.</p>
+                        <p>This work is licensed under the Creative Commons
+                            Attribution 3.0 Unported License. To view a copy of
+                            this license, visit
+                            http://creativecommons.org/licenses/by/3.0/ or send
+                            a letter to Creative Commons, 444 Castro Street,
+                            Suite 900, Mountain View, California, 94041,
+                            USA.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note><!-- [Revision required] --><!--Notes describing the inscription as a whole. If the comments concern specific elements, these must be associated with the relevant TEI/EpiDoc elements (as notes or other elements/attributes preferably).-->
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>EFEO</institution>
+                        <idno xml:id="EIAD0131_inv-eiad" type="inv-eiad">EIAD
+                            131</idno>
+                        <altIdentifier type="museum-inventory">
+                            <repository>Musée Guimet</repository>
+                            <idno xml:id="EIAD0131_museum-inventory">17850</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <textLang xml:lang="eng" mainLang="pra-Brah">Middle
+                                Indo-Aryan, Southern Brāhmī script</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        <objectType>Stela</objectType> carved
+                                        with Buddha image in stone; <dimensions unit="cm">
+                                        <height>77.5</height>
+                                        <width>31.5</width>
+                                        <depth>14</depth>
+                                        </dimensions>.</p>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="2">Engraved on the base;
+                                        <dimensions unit="cm">
+                                        <height>8</height>
+                                        <width>23.5</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote><!-- description of letters, possibly including <height>letter-heights</height> --></handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote>The sculpture in high-relief, showing
+                                traces of polychromy, represents the Buddha
+                                Śākyamuni standing in a frontal pose, in front
+                                of a <foreign xml:lang="san-Latn">toraṇa</foreign> gate. His right arm — now
+                                broken off — was raised to display the <foreign xml:lang="san-Latn">abhaya mudra</foreign>.
+                                The end of his heavy monastic robe is passed
+                                over his left forearm and falls
+                                vertically.</decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName>Ghantasala</placeName>
+                                (?)</origPlace>
+                            <origDate calendar="Julian"
+                               notBefore="0200"
+                               notAfter="0350"
+                               precision="low">Attributable to
+                                the period 200 - 350 CE on palaeographic
+                                grounds.</origDate>
+                        </origin>
+                        <provenance type="found">
+                            <p>Nothing is known with certainty about date and
+                                location of discovery of this sculptural
+                                stela.</p>
+                        </provenance>
+                        <provenance type="observed" when="2017-02">
+                            <p>Identified at the Musée Guimet (acc. no. 17850)
+                                in February 2017.</p>
+                        </provenance>
+                        <provenance type="not-observed">
+                            <!-- information about a specific, unsuccessful attempt to locate an object in a presumed or previously recorded location --></provenance>
+                        <provenance type="transferred">
+                            <!-- information about documentable modern relocations of the text-bearing object --></provenance>
+                    </history>
+                    <additional>
+                        <surrogates><!-- [Revision required] -->
+                            <!--Organize the surrogates by category with <listBibl> (on per category) and use @ana to link to the categories defined in the taxonomy below -->
+                            <listBibl ana="#photo">
+                                <bibl>Amina Okada catalogue, cat. </bibl>
+                            </listBibl>
+                        </surrogates>
+                    </additional>
+                    <msPart>
+                        <msIdentifier/>
+                        <physDesc/>
+                        <history/>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="pra-Latn">Middle Indo-Aryan,
+                    romanized</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term><!--each keyword in a <term/> element --></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <p xml:lang="eng">This file encoded to comply with EpiDoc Guidelines
+                and the latest Schema version
+                    <ref>http://www.stoa.org/epidoc/gl/latest/</ref>
+            </p>
+            <classDecl>
+                <taxonomy xml:lang="eng">
+                    <category xml:id="photo">
+                        <catDesc>Digital or digitized photographs</catDesc>
+                    </category>
+                    <category xml:id="rti">
+                        <catDesc>Reflectance Transformation Imaging</catDesc>
+                    </category>
+                    <category xml:id="photo-estampage">
+                        <catDesc>Digital or digitized photographs of
+                            estampages</catDesc>
+                    </category>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="#EM" when="2017-05-17">Creation of the file - automatic
+                conversion.</change>
+            <change who="#MS" when="2017-05-20">Merging with READ data.</change>
+            <change who="#AG" when="2017-05-24">Solved validation
+                problem.</change>
+            <change who="#MS" when="2017-06-10">Hid translation and commentary
+                divs as comments.</change>
+            <change who="#MS" when="2017-06-20">Modified title.</change>
+        <change who="#EM" when="2018-04-09">Editors reorganized by name via XSLT.</change>
+      </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="photograph of text or monument">
+            <desc><!-- images : illustrations for the edition (not just surrogates) --></desc>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:lang="pra-Latn">
+                <ab>
+                    <lb n="1"/>
+                    <w xml:id="tok01-EIAD131">dha<unclear>ṁ</unclear>makatikaya</w>
+                    <w xml:id="tok02-EIAD131">parabudhay<unclear>ā</unclear>ya</w>
+                    <lb n="2"/>
+                    <w xml:id="tok03-EIAD131">°atevās<unclear>i</unclear>kāya</w>
+                    <space type="horizontal" quantity="1" unit="character"/>
+                    <w xml:id="tok04-EIAD131">cul<unclear>ā</unclear>ya</w>
+                    <w xml:id="tok05-EIAD131">paṭimā</w>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <listApp>
+                    <app loc="1">
+                        <lem>dha<unclear>ṁ</unclear>makatikaya</lem>
+                        <rdg source="eiad-bibl:zoteroItem_KJ39I28D">dhamakatikaya</rdg>
+                    </app>
+                    <app loc="1">
+                        <lem>parabudhay<unclear>ā</unclear>ya</lem>
+                        <rdg source="eiad-bibl:zoteroItem_KJ39I28D">parabudhayaya</rdg>
+                    </app>
+                    <app loc="2">
+                        <lem>°atevās<unclear>i</unclear>kāya</lem>
+                        <rdg source="eiad-bibl:zoteroItem_KJ39I28D">°atevasikāya</rdg>
+                    </app>
+
+                    <app loc="2">
+                        <lem>cul<unclear>ā</unclear>ya</lem>
+                        <rdg source="eiad-bibl:zoteroItem_KJ39I28D">culaya</rdg>
+                    </app>
+                    <app loc="2">
+                        <lem>paṭim<unclear>ā</unclear>
+                        </lem>
+                        <rdg source="eiad-bibl:zoteroItem_KJ39I28D">patimā</rdg>
+                    </app>
+                </listApp>
+            </div>
+            <!--<div type="translation" xml:lang="eng">
+                <ab></ab>
+            </div>-->
+            <!--<div type="commentary">
+                <listApp>
+                    <app loc="lineNumber">
+                        <note>@loc = number of the line commented here in the note element.-\-></note>
+                    </app>
+                </listApp>
+            </div>-->
+            <div type="bibliography">
+                <p>First described and edited in a Japanese newspaper called <hi rend="italic">Bukkyo times</hi> by Akira Sadakata, whose
+                    reading is cited in <bibl>
+                        <ptr target="eiad-bibl:zoteroItem_KJ39I28D"/>:
+                            <citedRange>46</citedRange>
+                    </bibl>. Re-edited here from our photographs and after
+                    autopsy of the stone.</p>
+                <listBibl type="secondary-bibliography">
+                    <bibl>
+                        <ptr target="eiad-bibl:Okada2000"/>: <citedRange>no.
+                            Amina Okada catalog<!--add no.--></citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>
