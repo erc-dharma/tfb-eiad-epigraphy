@@ -23,14 +23,14 @@ jobs:
 
 # create a package with the resulting XML files.
        - name: Archive XML
-         uses: actions/upload-artifact@v2
+         uses: actions/upload-artifact@v4
          with:
            name: DHARMA_XMLCollection
            path: texts/workflow-output/editedxml
 
        # create a package with the resulting html files.
        - name: Archive HTML
-         uses: actions/upload-artifact@v2
+         uses: actions/upload-artifact@v4
          with:
            name: DHARMA_HTMLCollection
            path: texts/workflow-output/html
