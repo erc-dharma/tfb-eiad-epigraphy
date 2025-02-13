@@ -7,35 +7,34 @@
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
-      
+       
        <fileDesc>
-         
-          <titleStmt>
-            <title>Copper plates concerning the village Vidētūrapallikā — reign of Nandivarman II, year 8</title>
-             <respStmt>
-                 <resp>author of digital edition</resp>
-                 <persName ref="part:emfr">
-                     <forename>Emmanuel</forename>
-                     <surname>Francis</surname>
-                 </persName>
-             </respStmt>
-         </titleStmt>
-         
-          <publicationStmt>
-            <authority>DHARMA</authority>
-            <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSEIAD00165new</idno>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
-                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
-                        Licence. To view a copy of the licence, visit
-                        https://creativecommons.org/licenses/by/4.0/ or send a letter to
-                        Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-                        California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by .</p>
-               </licence>
-            </availability>
-            <date from="2019" to="2025">2019-2025</date>
+           <titleStmt>
+               <title>Copper plates concerning the village Vidētūrapallikā — reign of Nandivarman II, year 8</title>
+               <respStmt>
+                   <resp>author of digital edition</resp>
+                   <persName ref="part:emfr">
+                       <forename>Emmanuel</forename>
+                       <surname>Francis</surname>
+                   </persName>
+               </respStmt>
+           </titleStmt>
+           
+           <publicationStmt>
+               <authority>DHARMA</authority>
+               <pubPlace>Paris</pubPlace>
+               <idno type="filename">DHARMA_INSEIAD00165</idno>
+               <availability>
+                   <licence target="https://creativecommons.org/licenses/by/4.0/">
+                       <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                           Licence. To view a copy of the licence, visit
+                           https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                           Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                           California, 94041, USA.</p>
+                       <p>Copyright (c) 2019-2025 by .</p>
+                   </licence>
+               </availability>
+               <date from="2019" to="2025">2019-2025</date>
          </publicationStmt>
          
         <!--
@@ -200,33 +199,48 @@
         <pb n="1v"/>
         <fw n="1v" place="left">1</fw>
         
-        <lb n="1"/>svasti vijayaveṅgīpurād bhagavaccitrarathasvāmipādānuddhyāto bappabha
+        <lb n="1"/>svasti
+    </ab>
+    
+    <p>
+        vijayaveṅgīpurād bhagavaccitrarathasvāmipādānuddhyāto bappabha
         <lb n="2" break="no"/>ṭṭārakapādabhaktaḫ paramabhāgavataś śālaṅk<unclear>ā</unclear>yāno mahārājāca
         
         <pb n="2r"/>
         <fw n="2r" place="left">2</fw>
         
         <lb n="3" break="no"/>ṇḍavarmmaṇas sūnur jyeṣṭho mahārājaśrīvijayanandivarmmā ku<unclear>drā</unclear>hāraviṣaye
-        <lb n="4"/>videtūrapallikāgrāme mutuḍasahitā<unclear>n</unclear> <unclear>gr</unclear>āmy<supplied reason="omitted">ā</supplied>n samājñāpayati °asti
-        
+        <lb n="4"/>videtūrapallikāgrāme mutuḍasahitā<unclear>n</unclear> <unclear>gr</unclear>āmy<supplied reason="omitted">ā</supplied>n samājñāpayati
+    </p>
+    <p>        
+        Asti
         <pb n="2v"/>
-        <lb n="5"/>Asmābhir asmatkulagotradharmmaya<supplied reason="omitted">śa</supplied>ẖkāntikīrttipravarddhanāya °eteṣā<supplied reason="omitted">ṁ</supplied> k<unclear>u</unclear>rava
+        <lb n="5"/>Asmābhir asmatkulagotradharmmaya<supplied reason="omitted">śa</supplied>ẖkāntikīrttipravarddhanāya Eteṣā<supplied reason="omitted">ṁ</supplied> k<unclear>u</unclear>rava
         <lb n="6" break="no"/>kaśrīvarāgrāhāravastavyānā<unclear>m·</unclear> nānāgotracaraṇasvāddhyāyānām·
         
         <pb n="3r"/>
         <fw n="2r" place="left">3</fw>
         
-        <lb n="7"/>saptapañcāśaduttaraśatānām brāhmaṇānām eṣa grāmaḫ pratta<supplied reason="omitted">ḥ</supplied> tad avetya
+        <lb n="7"/>saptapañcāśaduttaraśatānām brāhmaṇānām eṣa grāmaḫ pratta<supplied reason="omitted">ḥ</supplied>
+    </p>
+    <p>
+        tad avetya
         <lb n="8"/>deśādhipatyāyuktakavallabharājapuruṣādibhis sarvvaparihāraiḥ
         
         <pb n="3v"/>
-        <lb n="9"/>pariharttavyo rakṣitavyaś ca pravarddhamānavijayarājyasaptamasa<supplied reason="omitted">ṁ</supplied>vatsara
-        <lb n="10" break="no"/>sya <space quantity="1" unit="character"/>pauṣyamāsakr̥ṣṇapakṣasyāṣṭamyām paṭṭikā dattā <g type="ddanda">.</g> tatrājñāpti<supplied reason="omitted">ḥ</supplied>
+        <lb n="9"/>pariharttavyo rakṣitavyaś ca
+    </p>
+    <p>
+        pravarddhamānavijayarājyasaptamasa<supplied reason="omitted">ṁ</supplied>vatsara
+        <lb n="10" break="no"/>sya <space quantity="1" unit="character"/>pauṣyamāsakr̥ṣṇapakṣasyāṣṭamyām paṭṭikā dattā <g type="ddanda">.</g>
+    </p>    
+    <p>
+        tatrājñāpti<supplied reason="omitted">ḥ</supplied>
         
         <pb n="4r"/>        
         <fw n="4r" place="left">4</fw>
         
-        <lb n="11"/>mūlakurabhojaka<unclear>ḥ</unclear> <g type="ddanda">.</g></ab>
+        <lb n="11"/>mūlakurabhojaka<unclear>ḥ</unclear> <g type="ddanda">.</g></p>
     
     <lg met="Anuṣṭubh" n="1">
         <l n="a">bahubhir vvasudhā dattā</l>
@@ -238,8 +252,8 @@
     <lg met="Anuṣṭubh" n="2">
         <l n="a"><lb n="13"/>ṣaṣṭivarṣasahasrāṇi</l>
         <l n="b">svargge k<supplied reason="omitted">r</supplied>īḍati bhūmida<supplied reason="omitted">ḥ</supplied></l>
-        <l n="c">°ākṣeptā cābhimantā ca</l>
-        <l n="d">tāny eva na<supplied reason="omitted">ra</supplied>ke vase<supplied reason="omitted">t·</supplied> <supplied reason="omitted"><g type="ddanda">.</g></supplied></l>
+        <l n="c">Ākṣeptā cābhimantā ca</l>
+        <l n="d">tāny eva na<supplied reason="omitted">ra</supplied>ke vase<supplied reason="omitted">t· <g type="ddanda">.</g></supplied></l>
     </lg>
 </div>
             
@@ -248,7 +262,7 @@
     <listApp>
         <app loc="1">
             <lem>-pādānuddhyāto</lem>
-            <note><bibl><ptr target="bib:Fleet1876_05"/></bibl> corrects to <foreign xml:lang="san-Latn">-pādānudhyāto</foreign>.</note></app>
+            <note><ptr target="bib:Fleet1876_05"/> corrects to <foreign xml:lang="san-Latn">-pādānudhyāto</foreign>.</note></app>
         
         <app loc="2">
             <lem>śālaṅkay<unclear>ā</unclear>no</lem>
@@ -257,9 +271,9 @@
         
         <app loc="2-3">
             <lem>mahārājācaṇḍavarmmaṇas</lem>
-            <note><bibl><ptr target="bib:Fleet1876_05"/></bibl> emends to <foreign xml:lang="san-Latn">mahārāja-caṇḍavarmmaṇas</foreign>. But the text is correct as it stands, for the name of the king is Acaṇḍavarman; see <bibl><ptr target="bib:Sircar1965-1966_01"/></bibl> (p. 3).</note></app>
+            <note><ptr target="bib:Fleet1876_05"/> emends to <foreign xml:lang="san-Latn">mahārāja-caṇḍavarmmaṇas</foreign>. But the text is correct as it stands, for the name of the king is Acaṇḍavarman; see <bibl><ptr target="bib:Sircar1965-1966_01"/></bibl> (p. 3).</note></app>
         
-        <app loc="3"><lem>ku<unclear>drā</unclear>hāra-</lem><rdg source="bib:Fleet1876_05">kuḍu(?)hāra-</rdg><note>The reading is unclear, possibly due to deficiency of the visual documentation, but is confirmed by EIAD <ref target="DHARMA_INSEIAD00167.xml">167</ref>, line 7.</note></app>
+        <app loc="3"><lem>ku<unclear>drā</unclear>hāra-</lem><rdg source="bib:Fleet1876_05">kuḍu(?)hāra-</rdg><note>The reading is unclear, possibly due to deficiency of the visual documentation, but is confirmed by <ref target="DHARMA_INSEIAD00167.xml">EIAD 167</ref>, line 7.</note></app>
         
         <app loc="4">
             <lem>videtūrapallikā</lem>
@@ -270,7 +284,7 @@
             <lem>mutuḍa-</lem>
             <rdg source="bib:Burnell1874_01">munyaḍa-</rdg>
             <rdg source="bib:Fleet1876_05">mutyada-</rdg>
-            <note>See Fleet’s note on p. 176. On Fleet’s facsimile, we seem to have ma, but on Burnell’s we clearly have <foreign>mu</foreign>. On the term <foreign xml:lang="san-Latn">mutuḍa-</foreign>, see <bibl><ptr target="bib:Sircar1966_01"/></bibl> (p. 207).</note></app>
+            <note>See Fleet’s note on p. 176. On Fleet’s facsimile, we seem to have <foreign>ma</foreign>, but on Burnell’s we clearly have <foreign>mu</foreign>. On the term <foreign xml:lang="san-Latn">mutuḍa-</foreign>, see <bibl><ptr target="bib:Sircar1966_01"/></bibl> (p. 207).</note></app>
         
         <app loc="5-6">
             <lem>k<unclear>u</unclear>ravaka-</lem>
@@ -278,53 +292,60 @@
             <rdg source="bib:Fleet1876_05">kuravaka</rdg></app>
         
         <app loc="6">
-            <lem>-svāddhyāyānām·</lem><note><bibl><ptr target="bib:Fleet1876_05"/></bibl> emends to <foreign xml:lang="san-Latn">-svādhyāyānām·</foreign>.</note></app>
+            <lem>-svāddhyāyānām·</lem>
+            <note><ptr target="bib:Fleet1876_05"/> emends to <foreign xml:lang="san-Latn">-svādhyāyānām·</foreign>.</note></app>
         
         <app loc="7">
             <lem>pratta<supplied reason="omitted">ḥ</supplied></lem>
-            <rdg source="bib:Burnell1874_01">prattaḥ</rdg>
-            <rdg source="bib:Fleet1876_05">prattaḥ</rdg></app>
+            <rdg source="bib:Burnell1874_01 bib:Fleet1876_05">prattaḥ</rdg></app>
         
         <app loc="10">
             <lem>tatrājñāpti<supplied reason="omitted">ḥ</supplied></lem>
-            <note>Understand <foreign xml:lang="san-Latn">tatrājñaptiḥ</foreign>. But the same spelling is found at EIAD <ref target="DHARMA_INSEIAD00166.xml">166</ref>, line 20.</note></app>
+            <note>Understand <foreign xml:lang="san-Latn">tatrājñaptiḥ</foreign>. But the same spelling is found at <ref target="DHARMA_INSEIAD00166.xml">EIAD 166</ref>, line 20.</note></app>
         
         <app loc="11">
             <lem>mūlakurabhojakaḥ</lem>
-            <note><bibl><ptr target="bib:Fleet1876_05"/></bibl> emends to <foreign xml:lang="san-Latn">mūlakarabhojakā</foreign>. But this is not warranted. See EIAD <ref target="DHARMA_INSEIAD00166.xml">166</ref>, line 20.</note></app>
+            <note><ptr target="bib:Fleet1876_05"/> emends to <foreign xml:lang="san-Latn">mūlakarabhojakā</foreign>. But this is not warranted. See <ref target="DHARMA_INSEIAD00166.xml">EIAD 166</ref>, line 20.</note>
+        </app>
+        
         <app loc="13">
-            <lem>vase<supplied reason="omitted">t·</supplied><supplied reason="omitted">||</supplied></lem>
+            <lem>vase<supplied reason="omitted">t· <g type="ddanda">.</g></supplied></lem>
             <note>Fleet notes: <cit><quote>This letter [t] … and the mark of punctuation after it, are omitted altogether in the original, through want of space at the end of the plate.</quote><bibl><ptr target="bib:Fleet1876_05"/><citedRange unit="page">177</citedRange></bibl></cit>.</note></app></listApp>
             
-            </div>
-            
+</div>    
             
 <div type="translation" resp="part:emfr part:argr">
                 
-    <p n="1-4"> Hail! From the victorious Veṅgīpura, the great king, the illustrious and victorious (<foreign xml:lang="san-Latn">śrī-vijaya</foreign>) Nandivarman, blessed by the feet of the Lord Citrarathasvāmin, devotee of the feet of Bappabhaṭṭāraka, devout worshiper of the Lord, the Śālaṅkāyana, eldest son of the great king Acaṇḍavarman, gives an order to the villagers with their headman (<foreign xml:lang="san-Latn">mutuḍa</foreign>), in the village Videtūrapallikā, in the Kuḍuhāra district:</p>
-    <p n="4-7"> “By us, for the purpose of increasing the merit (<foreign xml:lang="san-Latn">dharma</foreign>), fame, beauty and renown of our family and gotra, this village has been given to these hundred and fifty-seven Brahmins, studying various schools and belonging to various gotras, residents of the Kuravaka and Śrīvara <foreign xml:lang="san-Latn">agrahāra</foreign>s.</p>
-    <p n="7-11"> Having understood this, governors, appointees/officers, courtiers/those dear to [us], and royal servants, should exempt it from all taxes and protect it. A charter was given on the eighth of the waning fortnight of the month Pauṣya of the seventh year of [his] prosperous and victorious reign. The executor (<foreign xml:lang="san-Latn">ājñapti</foreign>) was the freeholder (<foreign xml:lang="san-Latn">bhojaka</foreign>) of Mūlakura.”</p>
-    
-    <p n="1" rend="stanza">By numerous [kings], land has been given; and by many it has been protected. Whoever holds land at a given moment, to him does the fruit then belong.</p>
-    
-    <p n="2" rend="stanza">The giver of land revels sixty thousand years in heaven; the one who confiscates [land] as well as the one who agrees [to the confiscation] will reside as many [years] in hell. </p></div>
+    <p n="1-4">Hail! From the victorious Veṅgīpura, the great king, the illustrious and victorious <supplied reason="explanation"><foreign xml:lang="san-Latn">śrī-vijaya</foreign></supplied> Nandivarman, blessed by the feet of the Lord Citrarathasvāmin, devotee of the feet of Bappabhaṭṭāraka, devout worshiper of the Lord, the Śālaṅkāyana, eldest son of the great king Acaṇḍavarman, gives an order to the villagers with their headman <supplied reason="explanation"><foreign xml:lang="san-Latn">mutuḍa</foreign></supplied>, in the village Videtūrapallikā, in the Kuḍuhāra district:</p>
+    <p n="4-7">“By us, for the purpose of increasing the merit <supplied reason="explanation"><foreign xml:lang="san-Latn">dharma</foreign></supplied>, fame, beauty and renown of our family and <foreign>gotra</foreign>, this village has been given to these hundred and fifty-seven Brahmins, studying various schools and belonging to various <foreign>gotr</foreign>as, residents of the Kuravaka and Śrīvara <foreign xml:lang="san-Latn">agrahāra</foreign>s.</p>
+    <p n="7-9">Having understood this, governors, appointees/officers, courtiers/those dear to <supplied reason="subaudible">us</supplied>, and royal servants, should exempt it from all taxes and protect it.</p>
+    <p n="9-10">A charter was given on the eighth of the waning fortnight of the month Pauṣya of the seventh year of <supplied reason="subaudible">his</supplied> prosperous and victorious reign.</p>
+    <p>The executor <supplied reason="explanation"><foreign xml:lang="san-Latn">ājñapti</foreign></supplied> was the freeholder <supplied reason="explanation"><foreign xml:lang="san-Latn">bhojaka</foreign></supplied> of Mūlakura.”</p>    
+    <p n="1" rend="stanza">By numerous <supplied reason="subaudible">kings</supplied>, land has been given; and by many it has been protected. Whoever holds land at a given moment, to him does the fruit then belong.</p>    
+    <p n="2" rend="stanza">The giver of land revels sixty thousand years in heaven; the one who confiscates <supplied reason="subaudible">land</supplied> as well as the one who agrees <supplied reason="subaudible">to the confiscation</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.</p>
+
+</div>
             
 <div type="commentary">
-    <p>The name of the village with which the grant has become associated in scholarship was so far generally been misread as Vidēnūrapallikā; the correct reading, already observed by <!--<bibl><ptr target="bib:Nilakantha_Sastri"/><citedRange unit="page">281</citedRange></bibl>-->, is Vidētūrapallikā.</p>
-    <p n="6"><term>-śrīvarāgrāhāra-</term>. Compare this occurrence of <foreign xml:lang="san-Latn">agrāhāra</foreign> (rather than <foreign xml:lang="san-Latn">agrahāra</foreign>) with Ghosh 2015: 8 <!-- CC: I don't have the eiad_bibliography reference for it. -->(on Bagh copper-plate inscriptions).</p></div>
+    <p>The name of the village with which the grant has become associated in scholarship was so far generally been misread as Vidēnūrapallikā; the correct reading, already observed by <bibl><ptr target="bib:NilakantaSastri+Gopalachari1937–1938_01"/><citedRange unit="page">281</citedRange></bibl>, is Vidētūrapallikā.</p>
+    <p n="6"><term>-śrīvarāgrāhāra-</term>. Compare this occurrence of <foreign xml:lang="san-Latn">agrāhāra</foreign> (rather than <foreign xml:lang="san-Latn">agrahāra</foreign>) with <bibl><ptr target="bib:Ghosh2015_01"/><citedRange unit="page">8</citedRange></bibl> (on Bagh copper-plate inscriptions).</p></div>
             
 <div type="bibliography">
                 
-    <p>First described and translated by Elliot 1840. Text first published by Burnell 1874: 86‒7. Reedited by Fleet 1876: 175‒7, and Burnell 1878: 135‒6. The text is re-edited here by Emmanuel Francis and Arlo Griffiths from the available visual documentation, whose fidelity to the original is not entirely certain.</p>
+    <p>First described and translated by <bibl><ptr target="bib:Elliott1840_01"/></bibl>. Text first published by <bibl><ptr target="bib:Burnell1874_01"/><citedRange unit="page">86-87</citedRange></bibl>. Reedited by <bibl><ptr target="bib:Fleet1876_05"/><citedRange unit="page">175-177</citedRange></bibl>, and <bibl><ptr target="bib:Burnell1878_01"/><citedRange unit="page">135-136</citedRange></bibl>. The text is re-edited here by Emmanuel Francis and Arlo Griffiths from the available visual documentation, whose fidelity to the original is not entirely certain.</p>
                 
     <listBibl type="primary">
         
-        <bibl n="F">
-            <ptr target="bib:Fleet1876_05"/>
+        <bibl n="E">
+            <ptr target="bib:Elliott1840_01"/>
         </bibl>
         
         <bibl n="B1874">
             <ptr target="bib:Burnell1874_01"/>
+        </bibl>
+        
+        <bibl n="F">
+            <ptr target="bib:Fleet1876_05"/>
         </bibl>
         
         <bibl n="B1878">
@@ -334,30 +355,32 @@
         <bibl n="S">
             <ptr target="bib:Sircar1965-1966_01"/>
             <citedRange>74</citedRange>
-        </bibl>
-        
+        </bibl>        
         
     </listBibl>
     
-                <listBibl type="secondary">
-                    
-                    <bibl>
-                        <ptr target="bib:Gopalan1928_01"/>
-                        <citedRange>74</citedRange>
-                    </bibl> 
-                    
-                     <bibl>
-                        <ptr target="bib:NilakantaSastri+Gopalachari1937–1938_01"/>
-                    </bibl>
-                    
-                    <bibl>
-                        <ptr target="bib:Sircar1966_01"/>
-                        <citedRange>74</citedRange>
-                    </bibl>                    
-                    
-                </listBibl>
+    <listBibl type="secondary">
+        
+        <bibl>
+            <ptr target="bib:Gopalan1928_01"/>
+            <citedRange>74</citedRange>
+        </bibl> 
+        
+         <bibl>
+            <ptr target="bib:Ghosh2015_01"/>
+        </bibl>
+        
+        <bibl>
+            <ptr target="bib:NilakantaSastri+Gopalachari1937–1938_01"/>
+        </bibl>
+        
+        <bibl>
+            <ptr target="bib:Sircar1966_01"/>
+        </bibl>                    
+        
+    </listBibl>
     
-            </div>
-        </body>
+</div>
+</body>
 </text>
 </TEI>
