@@ -17,6 +17,10 @@
                        <forename>Emmanuel</forename>
                        <surname>Francis</surname>
                    </persName>
+                   <persName ref="part:argr">
+                       <forename>Arlo</forename>
+                       <surname>Griffiths</surname>
+                   </persName>
                </respStmt>
            </titleStmt>
            
@@ -271,7 +275,7 @@
         
         <app loc="2-3">
             <lem>mahārājācaṇḍavarmmaṇas</lem>
-            <note><ptr target="bib:Fleet1876_05"/> emends to <foreign xml:lang="san-Latn">mahārāja-caṇḍavarmmaṇas</foreign>. But the text is correct as it stands, for the name of the king is Acaṇḍavarman; see <bibl><ptr target="bib:Sircar1965-1966_01"/></bibl> (p. 3).</note></app>
+            <note><ptr target="bib:Fleet1876_05"/> emends to <foreign xml:lang="san-Latn">mahārāja-caṇḍavarmmaṇas</foreign>. But the text is correct as it stands, for the name of the king is Acaṇḍavarman (see <bibl><ptr target="bib:Sircar1965-1966_01"/><citedRange unit="page">3</citedRange></bibl>).</note></app>
         
         <app loc="3"><lem>ku<unclear>drā</unclear>hāra-</lem><rdg source="bib:Fleet1876_05">kuḍu(?)hāra-</rdg><note>The reading is unclear, possibly due to deficiency of the visual documentation, but is confirmed by <ref target="DHARMA_INSEIAD00167.xml">EIAD 167</ref>, line 7.</note></app>
         
@@ -284,7 +288,7 @@
             <lem>mutuḍa-</lem>
             <rdg source="bib:Burnell1874_01">munyaḍa-</rdg>
             <rdg source="bib:Fleet1876_05">mutyada-</rdg>
-            <note>See Fleet’s note on p. 176. On Fleet’s facsimile, we seem to have <foreign>ma</foreign>, but on Burnell’s we clearly have <foreign>mu</foreign>. On the term <foreign xml:lang="san-Latn">mutuḍa-</foreign>, see <bibl><ptr target="bib:Sircar1966_01"/></bibl> (p. 207).</note></app>
+            <note>See <ptr target="bib:Fleet1876_05"/>’s note on p. 176. On Fleet’s facsimile, we seem to have <foreign>ma</foreign>, but on Burnell’s we clearly have <foreign>mu</foreign>. On the term <foreign xml:lang="san-Latn">mutuḍa-</foreign>, see <bibl><ptr target="bib:Sircar1966_01"/><citedRange unit="page">207</citedRange></bibl>.</note></app>
         
         <app loc="5-6">
             <lem>k<unclear>u</unclear>ravaka-</lem>
@@ -310,7 +314,7 @@
         
         <app loc="13">
             <lem>vase<supplied reason="omitted">t· <g type="ddanda">.</g></supplied></lem>
-            <note>Fleet notes: <cit><quote>This letter [t] … and the mark of punctuation after it, are omitted altogether in the original, through want of space at the end of the plate.</quote><bibl><ptr target="bib:Fleet1876_05"/><citedRange unit="page">177</citedRange></bibl></cit>.</note></app></listApp>
+            <note><ptr target="bib:Fleet1876_05"/> notes: <cit><quote>This letter [t] … and the mark of punctuation after it, are omitted altogether in the original, through want of space at the end of the plate.</quote><bibl><ptr target="bib:Fleet1876_05"/><citedRange unit="page">177</citedRange></bibl></cit>.</note></app></listApp>
             
 </div>    
             
@@ -328,7 +332,7 @@
             
 <div type="commentary">
     <p>The name of the village with which the grant has become associated in scholarship was so far generally been misread as Vidēnūrapallikā; the correct reading, already observed by <bibl><ptr target="bib:NilakantaSastri+Gopalachari1937–1938_01"/><citedRange unit="page">281</citedRange></bibl>, is Vidētūrapallikā.</p>
-    <p n="6"><term>-śrīvarāgrāhāra-</term>. Compare this occurrence of <foreign xml:lang="san-Latn">agrāhāra</foreign> (rather than <foreign xml:lang="san-Latn">agrahāra</foreign>) with <bibl><ptr target="bib:Ghosh2015_01"/><citedRange unit="page">8</citedRange></bibl> (on Bagh copper-plate inscriptions).</p></div>
+    <p n="6"><foreign>-śrīvarāgrāhāra-</foreign>. Compare this occurrence of <foreign xml:lang="san-Latn">agrāhāra</foreign> (rather than <foreign xml:lang="san-Latn">agrahāra</foreign>) with <bibl><ptr target="bib:Ghosh2015_01"/><citedRange unit="page">8</citedRange></bibl> (on Bagh copper-plate inscriptions).</p></div>
             
 <div type="bibliography">
                 
