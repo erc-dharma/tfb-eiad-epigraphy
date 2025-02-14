@@ -7,7 +7,7 @@
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
-       <!--To be updated to acknowledge reuse from EIAD according to final rules--> 
+       <!--To be updated according to final rules to acknowledge reuse from EIAD--> 
        <fileDesc>
            <titleStmt>
                <title>Copper plates concerning the village Vidētūrapallikā — reign of Nandivarman II, year 8</title>
@@ -147,7 +147,7 @@
         <fw n="2r" place="left">2</fw>
         
         <lb n="3" break="no"/>ṇḍavarmmaṇas sūnur jyeṣṭho mahārāja-śrī-vijaya-nandivarmmā ku<unclear>drā</unclear>hāra-viṣaye
-        <lb n="4"/>videtūrapallikā-grāme mutuḍa-sahitā<unclear>n</unclear> <unclear>gr</unclear>āmy<supplied reason="omitted">ā</supplied>n samājñāpayati
+        <lb n="4"/>videtūrapallikā-grāme mutuḍa-sahitā<unclear>n</unclear> <unclear>gr</unclear>āmy<choice><sic>a</sic><corr>ā</corr></choice>n samājñāpayati
     </p>
     <p>        
         Asti
