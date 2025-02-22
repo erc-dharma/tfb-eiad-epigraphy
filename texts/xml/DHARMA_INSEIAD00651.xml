@@ -130,7 +130,7 @@
 </app>
 <app loc="2">
 	<lem>vijayā<gap reason="lost" quantity="8" unit="character"/></lem>
-	<note>Our translatio below assumes that we must something like <foreign>vijayābhivr̥ddhaye</foreign>.<!--(Francis, Pallavas, vol. II, p. 466)--></note>
+	<note>Our translation below assumes that we must restore something like <foreign>vijayābhivr̥ddhaye</foreign>.<!--(Francis, Pallavas, vol. II, p. 466)--></note>
 </app>
 <app loc="3">
 <lem>naś ca hitārtthaM</lem>
@@ -172,7 +172,7 @@ L. 3. kā[rt]tik(eyo) py ātta: alternatively, kārttikeya °ity ātta, kārttik
 	<lem>saṁvatsaraḫ pañcamaḥ</lem>
 	<rdg source="bib:Munirathnam2018_01">savatsaraṟ pañcamaḥ</rdg>
 	<rdg source="bib:Munirathnam2020-2021_01">saṁvatsara pañcamaḥ</rdg>
-	<note>In his 2018 publication, Munirathnam actually prints a <foreign>r</foreign> with double underdot (that we cannot reproduce) before the <foreign>p</foreign>. We suppose he may have imagined that we are dealing with one of the Dravidian consonants <foreign>ṟ</foreign> or <foreign>ḻ</foreign>. From both of his editions it is clear that has not recognized any of the <foreign>upadhmānīya</foreign> and <foreign>jihvāmūlīya</foreign> characters in this inscription.</note>	
+	<note>In his 2018 publication, Munirathnam actually prints an <foreign>r</foreign> with double underdot (that we cannot reproduce) before the <foreign>p</foreign>. We suppose he may have imagined that we are dealing with one of the Dravidian consonants <foreign>ṟ</foreign> or <foreign>ḻ</foreign>. From both of his editions it is clear that has not recognized any of the <foreign>upadhmānīya</foreign> and <foreign>jihvāmūlīya</foreign> characters in this inscription.</note>	
 </app>
 <app loc="7">
 <lem><abbr>hepa</abbr> <num>7</num></lem>
@@ -181,7 +181,10 @@ L. 3. kā[rt]tik(eyo) py ātta: alternatively, kārttikeya °ity ātta, kārttik
                </listApp>
          </div>
          <div type="translation" resp="part:argr part:vito">
-<p>.. by the man ... boat/young ... — for the purpose of <supplied reason="lost">the increase of</supplied> victory of the king and for <supplied reason="lost">his own</supplied> benefit, in Tāmbrāpa — [who] as Kārttikeya has also gained the good name ..., has been commissioned the pavilion of the Lady Śaktimātṛkā. And on this there is a stanza: ‘Man should duly commission towers and pavilions for the gods ...’. Fifth year, 7th fortnight of the cold season, day 4..</p>
+<p n="1-5"><gap reason="lost"/> by the man <gap reason="lost"/> boat/young <gap reason="lost"/> — for the purpose of <supplied reason="lost">the increase of</supplied> victory of the king and for <supplied reason="lost">his own</supplied> benefit, in Tāmbrāpa — <supplied reason="subaudible">who</supplied> as Kārttikeya has also gained the good name <gap reason="lost"/>, has been commissioned the pavilion of the Lady Śaktimātr̥kā.</p> 
+<p n="5">And on this there is a stanza:</p>
+<p rend="stanza" n="5-6">Man should duly commission towers and pavilions for the gods <gap reason="lost"/>.</p> 
+<p n="7">Fifth year 5, 7th fortnight of the cold season, day 4.</p>
          </div>
          <div type="commentary">
             <p>The toponym Tāmrāpa also figures in <ref target="DHARMA_INSEIAD00650.xml">EIAD 650</ref> (in its Prakrit guise Tabāva) and in the <ref target="DHARMA_INSPallava00005.xml">Oṁgoḍu grant, time of Skandavarman, year 33</ref>.</p>
