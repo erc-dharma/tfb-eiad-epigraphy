@@ -114,7 +114,7 @@
 		<lem>manuṣyeṇa <gap reason="lost" unit="character" quantity="8"/></lem>
 		<rdg source="bib:Munirathnam2018_01"><unclear>mātru dakṣaṇo</unclear></rdg>
 		<rdg source="bib:Munirathnam2020-2021_01">mātru dakṣiṇo</rdg>
-		<note>Neither here not in any line below does Munirathna indicate any loss of characters.</note>
+		<note>Neither here not in any line below does Munirathnam indicate any loss of characters.</note>
 </app>
 <app loc="2">
 	<lem><gap reason="illegible" unit="character" quantity="4" precision="low"/>la-potena</lem>
@@ -188,7 +188,7 @@ L. 3. kā[rt]tik(eyo) py ātta: alternatively, kārttikeya °ity ātta, kārttik
 	<p>Munirathnam's publication assume a connection with a Satavahana king called Vijaya which is based on a misunderstanding of the text.</p>
          </div>
         <div type="bibliography">
-           <p>Reported in <bibl><ptr target="bib:ARIE2015-2016"/></bibl>; published twice, with slightly differing but both quite unreliable editions, both without translation, by K. Munirathnam (<bibl rend="omitname"><ptr target="bib:Munirathnam2018_01"/></bibl> and <bibl rend="omitname"><ptr target="bib:Munirathnam2020-2021_01"/></bibl>). Re-edited by Arlo Griffiths &amp; Vincent Tournier on the basis of the published photo of the ASI rubbing as well as photos made on the site in 2019.</p>
+           <p>Reported in <bibl><ptr target="bib:ARIE2015-2016"/></bibl>; published twice, with slightly differing editions both full or errors and both without translation, by K. Munirathnam (<bibl rend="omitname"><ptr target="bib:Munirathnam2018_01"/></bibl> and <bibl rend="omitname"><ptr target="bib:Munirathnam2020-2021_01"/></bibl>). Re-edited by Arlo Griffiths &amp; Vincent Tournier on the basis of the published photo of the ASI rubbing as well as photos made on the site in 2019.</p>
         	<listBibl type="primary">
 	<bibl n="M1"><ptr target="bib:Munirathnam2018_01"/></bibl>
 	<bibl n="M2"><ptr target="bib:Munirathnam2020-2021_01"/><citedRange unit="page">119-120, 127</citedRange></bibl>
