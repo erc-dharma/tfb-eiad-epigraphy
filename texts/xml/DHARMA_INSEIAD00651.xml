@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-            	<title>Pillar from the Bhīmeśvara temple in Chebrolu (EIAD 650)</title>
+            	<title>Pillar from the Bhīmeśvara temple in Chebrolu (EIAD 651)</title>
             	<respStmt>
             		<resp>EpiDoc Encoding</resp>
             		<persName ref="part:argr">
@@ -31,7 +31,7 @@
         	<publicationStmt>
         		<authority>DHARMA</authority>
         		<pubPlace>Jakarta</pubPlace>
-        		<idno type="filename">DHARMA_INSEIAD00650</idno>
+        		<idno type="filename">DHARMA_INSEIAD00651</idno>
         		<availability>
         			<licence target="https://creativecommons.org/licenses/by/4.0/">
         				<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -86,39 +86,44 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
- <div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209">
+ <div type="edition" xml:lang="san-Latn" rendition="class:83225 maturity:83209">
 	<!-- class:83225 = southern class Brāhmī, maturity:83209 = middle Brāhmī -->
-<p><lb n="1"/>tabāva-vāsino bha<unclear>ga</unclear><lb 
-n="2" break="no"/>vato dhaḍusa maṭavo
-<lb n="3"/>cātusāla ca <space quantity="2" unit="character"/>
-<lb n="4"/>catuna ca vetānaṁ</p>
+<p><lb n="1"/><gap reason="illegible" unit="character" quantity="4"/><unclear>rmmā</unclear>ṇaḥ <gap reason="illegible" unit="character" quantity="1"/> manuṣyeṇa <gap reason="lost" unit="character" quantity="8"/>
+<lb n="2"/> ? r. ne ? ? lapotena <space/> rājñ<choice><sic>aḥ</sic><corr>o</corr></choice> vijayā<gap reason="lost" quantity="8" unit="character"/>
+<lb n="3" break="no"/>naś ca hitārtthaM tāmmrāpe <space/> kā<unclear>rt</unclear>tik<unclear>eyo</unclear> <supplied reason="subaudible">'</supplied>py ātta-<gap reason="lost" quantity="8" unit="character"/>
+<lb n="4" break="no"/><unclear>t</unclear> sa<unclear>n-nā</unclear>madheyaḥ <space/> bhagavatyāḥ <space/> śakti-mātr̥kāyāḥ <gap reason="lost" quantity="8" unit="character"/>
+<lb n="5"/><unclear>ma</unclear>ṇḍapaẖ kāritaḥ</p> <p>bhavati cātra ślokaḥ <space/></p> 
+<lg met="anuṣṭubh">
+<l n="a"><seg met="====-++="><gap reason="lost" quantity="8" unit="character"/></seg></l>
+<!-- the first aksara could be da or du -->
+<l n="b"><lb n="6"/>naraḫ prāsāda-maṇḍapāN</l>
+<l n="c">devānāṅ kārayet sammyaK</l> 
+<l n="d"><seg met="====-+-="><gap reason="lost" quantity="8" unit="character"/></seg></l>
+<!-- ====-++=/ ====-+-=  -->
+</lg>
+<p><lb n="7"/>Iti <space/> saṁvatsaraḫ pañcamaḥ <num value="5">5</num> <abbr>hepa</abbr> <num>7</num> <abbr>diva</abbr> <num>4</num></p>
          </div>
          <div type="apparatus">
                <listApp>
                   <app loc="2">
-                     <lem>dhaḍusa</lem>
-                     <rdg source="bib:Munirathnam2020-2021_01">ga<supplied reason="undefined">ṁ</supplied>dasa</rdg>
-<note><seg rend="check">Or is possible to read <foreign>Eḍusa</foreign>?</seg></note>
-                  </app>
-	<app loc="4">
-                     <lem>vetānaṁ</lem>
-                     <rdg source="bib:Munirathnam2020-2021_01">ve<choice><sic>tā</sic><corr>dha</corr></choice>naṁ</rdg><note>As Munirathnam does not indicate his interpretation of the final word of the inscription, it is hard to interpret the meaning of the parenthentic element in the string <foreign>vetā(dha)naṁ </foreign>in his edition.</note>
+                     <lem>...</lem>
+                     <rdg source="bib:Munirathnam2020-2021_01">...</rdg>
                   </app>
                </listApp>
          </div>
          <div type="translation" resp="part:argr part:vito">
-<p>The pavillion and the four-halled <supplied reason="subaudible">building</supplied> belong to the Lord Dhaḍu who resides in Tabāva <supplied reason="explanation">i.e., Tāmrāpa</supplied> — as well as the canopy of the four <supplied reason="subaudible">hall</supplied>.</p>
+<p>.</p>
          </div>
          <div type="commentary">
-            <p>The toponym Tāmrāpa also figures in <ref target="DHARMA_INSEIAD00651.xml">EIAD 651</ref> and in the <ref target="DHARMA_INSPallava00005.xml">Oṁgoḍu grant, time of Skandavarman, year 33</ref>.</p>
+            <p>The toponym Tāmrāpa also figures in <ref target="DHARMA_INSEIAD00650.xml">EIAD 650</ref> (in its Prakrit guise Tabāva) and in the <ref target="DHARMA_INSPallava00005.xml">Oṁgoḍu grant, time of Skandavarman, year 33</ref>.</p>
          </div>
         <div type="bibliography">
-           <p>Reported in <bibl><ptr target="bib:ARIE2015-2016"/></bibl>; published without translation in <bibl><ptr target="bib:Munirathnam2020-2021_01"/></bibl>. Re-edited by Arlo Griffiths &amp; Vincent Tournier on the basis of the published photo of the ASI rubbing as well as photos shared by R. Phalguna Rao.</p>
+           <p>Reported in <bibl><ptr target="bib:ARIE2015-2016"/></bibl>; published without translation in <bibl><ptr target="bib:Munirathnam2020-2021_01"/></bibl>. Re-edited by Arlo Griffiths &amp; Vincent Tournier on the basis of the published photo of the ASI rubbing as well as photos made on the site in 2019.</p>
         	<listBibl type="primary">
-		<bibl n="M"><ptr target="bib:Munirathnam2020-2021_01"/><citedRange unit="page">118-119, 126</citedRange></bibl>
+		<bibl n="M"><ptr target="bib:Munirathnam2020-2021_01"/><citedRange unit="page">XYZ</citedRange></bibl>
 	</listBibl>
            <listBibl type="secondary">
-              <bibl><ptr target="bib:ARIE2015-2016"/><citedRange unit="appendix">B</citedRange><citedRange unit="item">15</citedRange></bibl>
+              <bibl><ptr target="bib:ARIE2015-2016"/><citedRange unit="appendix">B</citedRange><citedRange unit="item">14</citedRange></bibl>
            </listBibl>
         </div>
       </body>
