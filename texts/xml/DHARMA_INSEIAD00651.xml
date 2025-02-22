@@ -89,7 +89,7 @@
  <div type="edition" xml:lang="san-Latn" rendition="class:83225 maturity:83209">
 	<!-- class:83225 = southern class Brāhmī, maturity:83209 = middle Brāhmī -->
 <p><lb n="1"/><gap reason="illegible" unit="character" quantity="4"/><unclear>rmmā</unclear>ṇaḥ <gap reason="illegible" unit="character" quantity="1"/> manuṣyeṇa <gap reason="lost" unit="character" quantity="8"/>
-<lb n="2"/> ? r. ne ? ? lapotena <space/> rājñ<choice><sic>aḥ</sic><corr>o</corr></choice> vijayā<gap reason="lost" quantity="8" unit="character"/>
+<lb n="2"/><gap reason="illegible" unit="character" quantity="4" precision="low"/>la-potena <space/> rājñ<choice><sic>aḥ</sic><corr>o</corr></choice> vijayā<gap reason="lost" quantity="8" unit="character"/>
 <lb n="3" break="no"/>naś ca hitārtthaM tāmmrāpe <space/> kā<unclear>rt</unclear>tik<unclear>eyo</unclear> <supplied reason="subaudible">'</supplied>py ātta-<gap reason="lost" quantity="8" unit="character"/>
 <lb n="4" break="no"/><unclear>t</unclear> sa<unclear>n-nā</unclear>madheyaḥ <space/> bhagavatyāḥ <space/> śakti-mātr̥kāyāḥ <gap reason="lost" quantity="8" unit="character"/>
 <lb n="5"/><unclear>ma</unclear>ṇḍapaẖ kāritaḥ</p> <p>bhavati cātra ślokaḥ <space/></p> 
@@ -99,28 +99,99 @@
 <l n="b"><lb n="6"/>naraḫ prāsāda-maṇḍapāN</l>
 <l n="c">devānāṅ kārayet sammyaK</l> 
 <l n="d"><seg met="====-+-="><gap reason="lost" quantity="8" unit="character"/></seg></l>
-<!-- ====-++=/ ====-+-=  -->
 </lg>
 <p><lb n="7"/>Iti <space/> saṁvatsaraḫ pañcamaḥ <num value="5">5</num> <abbr>hepa</abbr> <num>7</num> <abbr>diva</abbr> <num>4</num></p>
          </div>
          <div type="apparatus">
                <listApp>
-                  <app loc="2">
-                     <lem>...</lem>
-                     <rdg source="bib:Munirathnam2020-2021_01">...</rdg>
+                  <app loc="1">
+                     <lem><gap reason="illegible" unit="character" quantity="4"/><unclear>rmmā</unclear>ṇaḥ</lem>
+                    	<rdg source="bib:Munirathnam2018_01 bib:Munirathnam2020-2021_01"><gap reason="undefined" unit="character" quantity="3"/>varmmaṇaḥ</rdg>
+		<note>Restore <foreign>dharmmāṇaḥ</foreign>?</note>
+<!-- ? [rmmā]ṇaḥ ? manuṣyeṇa: (dha)[rmmā]ṇaḥ °i⟪ti⟫ manuṣyeṇa? -->
                   </app>
+	<app loc="1">
+		<lem>manuṣyeṇa <gap reason="lost" unit="character" quantity="8"/></lem>
+		<rdg source="bib:Munirathnam2018_01"><unclear>mātru dakṣaṇo</unclear></rdg>
+		<rdg source="bib:Munirathnam2020-2021_01">mātru dakṣiṇo</rdg>
+		<note>Neither here not in any line below does Munirathna indicate any loss of characters.</note>
+</app>
+<app loc="2">
+	<lem><gap reason="illegible" unit="character" quantity="4" precision="low"/>la-potena</lem>
+	<rdg source="bib:Munirathnam2018_01"><gap reason="undefined" unit="character" quantity="2"/> ra <gap reason="undefined" unit="character" quantity="3"/>lo pā tena</rdg>
+	<rdg source="bib:Munirathnam2020-2021_01"><gap reason="undefined" unit="character" quantity="2"/> ra <gap reason="undefined" unit="character" quantity="3"/>lopa tena</rdg>
+	<note>Imaginable readings include <foreign>purāṇa-maṅgala-potena</foreign>, <foreign>purāṇāṅ śaila-potena</foreign>, <foreign>purāṇāM śaila-potena</foreign> and <foreign>pūrṇe maṅgala-potena</foreign>.</note>
+</app>
+<!-- Read sute/suto/sūnor/puṇye/pūrṇe maṅgalapotena?  -->
+<app loc="2">
+	<lem>rājñ<choice><sic>aḥ</sic><corr>o</corr></choice></lem>
+	<rdg source="bib:Munirathnam2018_01">rājña</rdg>
+	<rdg source="bib:Munirathnam2020-2021_01">rājñā</rdg>
+</app>
+<app loc="2">
+	<lem>vijayā<gap reason="lost" quantity="8" unit="character"/></lem>
+	<note>Our translatio below assumes that we must something like <foreign>vijayābhivr̥ddhaye</foreign>.<!--(Francis, Pallavas, vol. II, p. 466)--></note>
+</app>
+<app loc="3">
+<lem>naś ca hitārtthaM</lem>
+	<rdg source="bib:Munirathnam2018_01"><gap reason="undefined" quantity="1" unit="character"/><supplied reason="undefined"><supplied reason="undefined">hi</supplied>śca</supplied> hatārthaṁ</rdg>
+	<rdg source="bib:Munirathnam2020-2021_01"><gap reason="undefined" quantity="1" unit="character"/>hi śca hitārthaṁ</rdg>
+	<note>If the suggestion in the previous note is accepted, then the text on line 2 may have continued with <foreign>cātma-</foreign> so we would get <foreign>cātmanaś ca hitārtthaM</foreign>.</note>
+</app>
+<app loc="3">
+<lem>tāmmrāpe</lem>
+	<rdg source="bib:Munirathnam2018_01">tāmprāpe</rdg>
+	<rdg source="bib:Munirathnam2020-2021_01">tāmbrāpe</rdg>
+</app>
+<app loc="3">
+	<lem>kā<unclear>rt</unclear>tik<unclear>eyo</unclear> <supplied reason="subaudible">'</supplied>py ātta-<gap reason="lost" quantity="8" unit="character"/></lem>
+	<rdg source="bib:Munirathnam2018_01 bib:Munirathnam2020-2021_01">kārtika <unclear>pra</unclear>kyātta</rdg>
+</app>
+<!-- 
+L. 3. kā[rt]tik(eyo) py ātta: alternatively, kārttikeya °ity ātta, kārttikeyasyātta
+ -->
+<app loc="4">
+	<lem><unclear>t</unclear> sa<unclear>n-nā</unclear>madheyaḥ</lem>
+	<rdg source="bib:Munirathnam2018_01"><gap reason="undefined" quantity="1" unit="character"/> nāmadheyaḥ</rdg>
+	<rdg source="bib:Munirathnam2020-2021_01">nāmadheyaḥ</rdg>
+</app>
+<app loc="5">
+	<lem><unclear>ma</unclear>ṇḍapaẖ kāritaḥ</lem>
+	<rdg source="bib:Munirathnam2018_01"><unclear>ma</unclear>ṇḍpañca kāritaḥ</rdg>
+	<rdg source="bib:Munirathnam2020-2021_01"><unclear>ma</unclear>ṇḍapāñca kāritaḥ</rdg>
+</app>
+<app loc="6">
+	<lem>naraḫ</lem>
+	<rdg source="bib:Munirathnam2018_01 bib:Munirathnam2020-2021_01">su</rdg>
+</app>
+<app loc="6">
+<lem>devānāṅ kārayet</lem>
+<rdg source="bib:Munirathnam2018_01 bib:Munirathnam2020-2021_01">devānāṅ kārayet</rdg>
+</app>
+<app loc="7">
+	<lem>saṁvatsaraḫ pañcamaḥ</lem>
+	<rdg source="bib:Munirathnam2018_01">savatsaraṟ pañcamaḥ</rdg>
+	<rdg source="bib:Munirathnam2020-2021_01">saṁvatsara pañcamaḥ</rdg>
+	<note>In his 2018 publication, Munirathnam actually prints a <foreign>r</foreign> with double underdot (that we cannot reproduce) before the <foreign>p</foreign>. We suppose he may have imagined that we are dealing with one of the Dravidian consonants <foreign>ṟ</foreign> or <foreign>ḻ</foreign>. From both of his editions it is clear that has not recognized any of the <foreign>upadhmānīya</foreign> and <foreign>jihvāmūlīya</foreign> characters in this inscription.</note>	
+</app>
+<app loc="7">
+<lem><abbr>hepa</abbr> <num>7</num></lem>
+<rdg source="bib:Munirathnam2018_01 bib:Munirathnam2020-2021_01">he pakhe</rdg>
+</app>
                </listApp>
          </div>
          <div type="translation" resp="part:argr part:vito">
-<p>.</p>
+<p>.. by the man ... boat/young ... — for the purpose of <supplied reason="lost">the increase of</supplied> victory of the king and for <supplied reason="lost">his own</supplied> benefit, in Tāmbrāpa — [who] as Kārttikeya has also gained the good name ..., has been commissioned the pavilion of the Lady Śaktimātṛkā. And on this there is a stanza: ‘Man should duly commission towers and pavilions for the gods ...’. Fifth year, 7th fortnight of the cold season, day 4..</p>
          </div>
          <div type="commentary">
             <p>The toponym Tāmrāpa also figures in <ref target="DHARMA_INSEIAD00650.xml">EIAD 650</ref> (in its Prakrit guise Tabāva) and in the <ref target="DHARMA_INSPallava00005.xml">Oṁgoḍu grant, time of Skandavarman, year 33</ref>.</p>
+	<p>Munirathnam's publication assume a connection with a Satavahana king called Vijaya which is based on a misunderstanding of the text.</p>
          </div>
         <div type="bibliography">
-           <p>Reported in <bibl><ptr target="bib:ARIE2015-2016"/></bibl>; published without translation in <bibl><ptr target="bib:Munirathnam2020-2021_01"/></bibl>. Re-edited by Arlo Griffiths &amp; Vincent Tournier on the basis of the published photo of the ASI rubbing as well as photos made on the site in 2019.</p>
+           <p>Reported in <bibl><ptr target="bib:ARIE2015-2016"/></bibl>; published twice, with slightly differing but both quite unreliable editions, both without translation, by K. Munirathnam (<bibl rend="omitname"><ptr target="bib:Munirathnam2018_01"/></bibl> and <bibl rend="omitname"><ptr target="bib:Munirathnam2020-2021_01"/></bibl>). Re-edited by Arlo Griffiths &amp; Vincent Tournier on the basis of the published photo of the ASI rubbing as well as photos made on the site in 2019.</p>
         	<listBibl type="primary">
-		<bibl n="M"><ptr target="bib:Munirathnam2020-2021_01"/><citedRange unit="page">XYZ</citedRange></bibl>
+	<bibl n="M1"><ptr target="bib:Munirathnam2018_01"/></bibl>
+	<bibl n="M2"><ptr target="bib:Munirathnam2020-2021_01"/><citedRange unit="page">119-120, 127</citedRange></bibl>
 	</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:ARIE2015-2016"/><citedRange unit="appendix">B</citedRange><citedRange unit="item">14</citedRange></bibl>
