@@ -55,7 +55,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>Characters of the 1st c. CE.</p>
+                            <p>Characters of the 4th or 5th c. CE.</p>
                             <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -188,7 +188,7 @@ L. 3. kā[rt]tik(eyo) py ātta: alternatively, kārttikeya °ity ātta, kārttik
          </div>
          <div type="commentary">
             <p>The toponym Tāmrāpa also figures in <ref target="DHARMA_INSEIAD00650.xml">EIAD 650</ref> (in its Prakrit guise Tabāva) and in the <ref target="DHARMA_INSPallava00005.xml">Oṁgoḍu grant, time of Skandavarman, year 33</ref>.</p>
-	<p>Munirathnam's publication assume a connection with a Satavahana king called Vijaya which is based on a misunderstanding of the text.</p>
+	<p>Munirathnam's publications assume that the inscription was issued by the Satavahana king called Vijaya-Sātakaṇṇi, but this is based on a misunderstanding of the text.</p>
          </div>
         <div type="bibliography">
            <p>Reported in <bibl><ptr target="bib:ARIE2015-2016"/></bibl>; published twice, with slightly differing editions both full or errors and both without translation, by K. Munirathnam (<bibl rend="omitname"><ptr target="bib:Munirathnam2018_01"/></bibl> and <bibl rend="omitname"><ptr target="bib:Munirathnam2020-2021_01"/></bibl>). Re-edited by Arlo Griffiths &amp; Vincent Tournier on the basis of the published photo of the ASI rubbing as well as photos made on the site in 2019.</p>
