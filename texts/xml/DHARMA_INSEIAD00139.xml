@@ -34,31 +34,28 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
       <fileDesc>
          <titleStmt>
             <title>Octagonal pillar from Manchikallu — reign of Sīhavamma</title>
-            <respStmt>
-               <resp>EpiDoc Encoding</resp>
-               <persName ref="part:jodo">
-                  <forename>John</forename>
-                  <surname>Doe</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:jodo">
-                  <forename>John</forename>
-                  <surname>Doe</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>Conversion of encoding for DHARMA</resp>
-               <persName ref="part:jodo">
-                  <forename>John</forename>
-                  <surname>Doe</surname>
-               </persName>
-            </respStmt>
+         	<respStmt>
+         		<resp>EpiDoc Encoding</resp>
+         		<persName ref="part:argr">
+         			<forename>Arlo</forename>
+         			<surname>Griffiths</surname>
+         		</persName>
+         	</respStmt>
+         	<respStmt>
+         		<resp>intellectual authorship of edition</resp>
+         		<persName ref="part:argr">
+         			<forename>Arlo</forename>
+         			<surname>Griffiths</surname>
+         		</persName>
+         		<persName ref="part:vito">
+         			<forename>Vincent</forename>
+         			<surname>Tournier</surname>
+         		</persName>
+         	</respStmt>
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
-            <pubPlace>Paris</pubPlace>
+            <pubPlace>Paris, Jakarta</pubPlace>
             <idno type="filename">DHARMA_INSEIAD00139</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -67,7 +64,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
                         https://creativecommons.org/licenses/by/4.0/ or send a letter to
                         Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                         California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by .</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Vincent Tournier.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
