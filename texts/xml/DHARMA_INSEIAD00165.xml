@@ -120,8 +120,8 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
-          <change when="2025-02-13" who="part:emfr" status="draft">cleaning file.</change>
+          <change when="2025-02-13" who="part:emfr" status="draft">further conversion to DHARMA encoding structure.</change>
+          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
 
       </revisionDesc>
    </teiHeader>
