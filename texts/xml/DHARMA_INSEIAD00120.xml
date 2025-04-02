@@ -97,7 +97,7 @@
 <p>
 <lb n="1"/><gap reason="lost" extent="unknown"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ā</seg> vāca<unclear>kāna</unclear> <gap reason="illegible" unit="character" quantity="1"/>
 <!-- EIAD 6 line 11: paṁṇagāmavathavānaṁ dīghamajhimapaṁcamātukadesaka**vācakānaṁ** °ācariyānaṁ °ayirahaṁghāna -->
-<lb n="2"/><gap reason="lost" extent="unknown"/> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg>isirina A<lb 
+<lb n="2"/><gap reason="lost" extent="unknown"/> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg>sirina A<lb 
 n="3" break="no"/><gap reason="lost" extent="unknown"/> <unclear>A</unclear>khaya-ni<lb 
 n="4" break="no"/><supplied reason="lost">vī</supplied> <gap reason="lost" extent="unknown"/>ni ca
 <lb n="5"/><gap reason="lost" extent="unknown"/> <unclear>t</unclear>āna 
@@ -106,7 +106,7 @@ n="4" break="no"/><supplied reason="lost">vī</supplied> <gap reason="lost" exte
 <div type="apparatus">
 	<listApp>
 		<app loc="2">
-		<lem><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg>isirina</lem>
+		<lem><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg>sirina</lem>
 		<note>Perhaps restore <foreign><supplied reason="lost">dhi</supplied>sirina</foreign>: cf. <ref target="DHARMA_INSEIAD00105.xml">EIAD 105</ref>, l. 18: <foreign>Ācariya-budhisirina</foreign>.</note>
 		</app>
 </listApp></div>
