@@ -107,7 +107,7 @@ n="4" break="no"/><supplied reason="lost">vī</supplied> <gap reason="lost" exte
 	<listApp>
 		<app loc="2">
 		<lem><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg>sirina</lem>
-		<note>Perhaps restore <foreign><supplied reason="lost">dhi</supplied>sirina</foreign>: cf. <ref target="DHARMA_INSEIAD00105.xml">EIAD 105</ref>, l. 18: <foreign>Ācariya-budhisirina</foreign>.</note>
+		<note>Perhaps restore <foreign><supplied reason="lost">dh</supplied>isirina</foreign>: cf. <ref target="DHARMA_INSEIAD00105.xml">EIAD 105</ref>, l. 18: <foreign>Ācariya-budhisirina</foreign>.</note>
 		</app>
 </listApp></div>
 <!--<div type="translation">...</div>-->
