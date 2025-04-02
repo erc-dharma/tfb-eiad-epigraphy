@@ -4,56 +4,27 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<!--Last xsl transformation: 2017-05-04T13:35:14.205+02:00
-Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
-- - - - - - - - - 
-[1] Inventory no. EIAD: 120
-[2] Raghunath no.: —
-[3] Srinivasan & Sankaranarayanan no.: 
-[4] Tsukamoto no.: —
-[5] Lüders no.: 
-[6] Support : broken slab
-[7] (Faces:) Lines: 2
-[8] H: 
-[9] W: 
-[10] D: 
-[11] H: 
-[12] W: 
-[13] Language(s): MIA
-[14] Original locality: Phanigiri
-[15] Present locality: unknown
-[16] Primary bibliography: Subrahmanyam et al. 2008: 36 (7). 
-[17] Secondary bibliography: 
-[18] Visual documentation: no image published
-[19] Substance of inscription: 
-[20] Remarks: 
-[21] : 
--->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Broken slab from Phanigiri — presumably reign of
-					Siri-Vīrapurisadatta</title>
+            <title>Pillar fragment slab from Phanigiri</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
-               <persName ref="part:jodo">
-                  <forename>John</forename>
-                  <surname>Doe</surname>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
                </persName>
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
-               <persName ref="part:jodo">
-                  <forename>John</forename>
-                  <surname>Doe</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>Conversion of encoding for DHARMA</resp>
-               <persName ref="part:jodo">
-                  <forename>John</forename>
-                  <surname>Doe</surname>
+            	<persName ref="part:argr">
+            		<forename>Arlo</forename>
+            		<surname>Griffiths</surname>
+            	</persName>
+               <persName ref="part:vito">
+                  <forename>Vincent</forename>
+                  <surname>Tournier</surname>
                </persName>
             </respStmt>
          </titleStmt>
@@ -68,122 +39,32 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
                         https://creativecommons.org/licenses/by/4.0/ or send a letter to
                         Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                         California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by .</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Vincent Tournier.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
          </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Broken slab from Phanigiri — presumably reign of
-					Siri-Vīrapurisadatta</title>
-                  <principal>
-                     <persName ref="part:argr">
-                        <forename>Arlo</forename>
-                        <surname>Griffiths</surname>
-                     </persName>
-                  </principal>
-                  <editor role="general">
-                     <persName ref="part:argr">
-                        <forename>Arlo</forename>
-                        <surname>Griffiths</surname>
-                     </persName>
-                  </editor>
-                  <editor role="general">
-                     <persName ref="part:vito">
-                        <forename>Vincent</forename>
-                        <surname>Tournier</surname>
-                     </persName>
-                  </editor>
-                  <editor role="contributor">
-                     <persName ref="http://viaf.org/viaf/107394149">
-                        <forename>Stefan</forename>
-                        <surname>Baums</surname>
-                     </persName>
-                  </editor>
-                  <editor role="contributor">
-                     <persName ref="http://viaf.org/viaf/22395449">
-                        <forename>Ingo</forename>
-                        <surname>Strauch</surname>
-                     </persName>
-                  </editor>
-                  <respStmt>
-                     <resp>assistance with XML encoding and metadata
-                        verification</resp>
-                     <persName ref="part:chch">
-                        <forename>Chloé</forename>
-                        <surname>Chollet</surname>
-                     </persName>
-                  </respStmt>
-                  <respStmt>
-                     <resp>assistance with XML encoding and metadata
-                        verification</resp>
-                     <persName ref="part:masc">
-                        <forename>Marine</forename>
-                        <surname>Schoettel</surname>
-                     </persName>
-                  </respStmt>
-                  <respStmt>
-                     <resp>digital humanities consultant</resp>
-                     <persName ref="part:emmo">
-                        <forename>Emmanuelle</forename>
-                        <surname>Morlock</surname>
-                     </persName>
-                  </respStmt>
-                  <respStmt>
-                     <resp>digital humanities consultant</resp>
-                     <persName ref="part:anol">
-                        <forename>Andrew</forename>
-                        <surname>Ollett</surname>
-                     </persName>
-                  </respStmt>
-               </titleStmt>
-               <editionStmt>
-                  <p>First digital edition made by École française d'Extrême-Orient (Paris, France), realized in collaboration with the HiSoMA Research Centre (Lyon, France) and hosted by TGIR Huma-Num (France) as <ref target="http://hisoma.huma-num.fr/exist/apps/EIAD/index2.html">Early Inscriptions of Āndhradeśa, in 2015-2017.</ref>
-                  </p>
-               </editionStmt>
-               <publicationStmt>
-                  <authority>Early Inscriptions of Āndhradeśa</authority>
-                  <idno type="filename">DHARMA_INSEIAD00120</idno>
-                  <availability>
-                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p>Copyright (c) 2017 by Stefan Baums, Arlo Griffiths,
-							Ingo Strauch and Vincent Tournier.</p>
-                        <p>This work is licensed under the Creative Commons
-							Attribution 3.0 Unported License. To view a copy of
-							this license, visit
-							http://creativecommons.org/licenses/by/3.0/ or send
-							a letter to Creative Commons, 444 Castro Street,
-							Suite 900, Mountain View, California, 94041,
-							USA.</p>
-                     </licence>
-                  </availability>
-               </publicationStmt>
-            </biblFull>
-            <msDesc>
-               <msIdentifier>
-                  <repository>DHARMAbase</repository>
-                  <idno/>
-                  <altIdentifier type="EIAD">
-                     <institution>EFEO</institution>
-                     <idno>EIAD 120</idno>
-                  </altIdentifier>
-                  <altIdentifier type="museum-inventory">
-                     <repository>unavailable</repository>
-                     <idno>unavailable</idno>
-                  </altIdentifier>
-               </msIdentifier>
-               <msContents>
-                  <summary/>
-               </msContents>
-               <physDesc>
-                  <handDesc>
-                     <p/>
-                  </handDesc>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
+      	<sourceDesc><!-- only the handDesc can be filled in at this stage -->
+      		<msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+      			<msIdentifier>
+      				<repository>DHARMAbase</repository>
+      				<idno/><!-- don't modify this -->
+      			</msIdentifier>
+      			<msContents><!-- describe the intellectual content of an inscription -->
+      				<summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+      			</msContents>
+      			<physDesc>
+      				<handDesc>
+      					<p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+      					<!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+      				</handDesc>
+      			</physDesc>
+      		</msDesc>
+      	</sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
@@ -206,23 +87,36 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+         <change when="2025-04-02" who="part:argr" status="draft">stripped previous version of EIAD 120 which concerned a fragment now merged into EIAD 107; encoded the inscription now numbered 120 (ex-625)</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>srivira<unclear>pu</unclear> <lb n="2"/>ka amashara <lb n="3"/>napusa sa </ab></div><!--<div type="apparatus">
-				<app loc="lineNumber">
-					<lem/>
-					<rdg source="eiad-bibl:identifier"/>
-					<note/>
-				</app>
-			</div>--><div type="translation"><ab>(...) of Siri-Vīrapu(risadata) (...)</ab></div><!--<div type="commentary">
-				<listApp>
-					<app loc="lineNumber">
-						<note>@loc = number of the line commented here in the note element.</note>
-					</app>
-				</listApp>
-			</div>--><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Chenna_Reddy2008"/>:
-							<citedRange>36 (7)</citedRange></bibl>. In the absence of any visual documentation, we give
-					here a conjecturally emended reading based on the latter’s
-					edition.</p><!--<listBibl type="secondary-bibliography"></listBibl>--></div></body></text>
+   <text xml:space="preserve">
+<body>
+<div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209">
+	<!-- class:83225 = southern class Brāhmī, maturity:83209 = middle Brāhmī -->
+<p>
+<lb n="1"/><gap reason="lost" extent="unknown"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ā</seg> vāca<unclear>kāna</unclear> <gap reason="illegible" unit="character" quantity="1"/>
+<!-- EIAD 6 line 11: paṁṇagāmavathavānaṁ dīghamajhimapaṁcamātukadesaka**vācakānaṁ** °ācariyānaṁ °ayirahaṁghāna -->
+<lb n="2"/><gap reason="lost" extent="unknown"/> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg>isirina A<lb 
+n="3" break="no"/><gap reason="lost" extent="unknown"/> <unclear>A</unclear>khaya-ni<lb 
+n="4" break="no"/><supplied reason="lost">vī</supplied> <gap reason="lost" extent="unknown"/>ni ca
+<lb n="5"/><gap reason="lost" extent="unknown"/> <unclear>t</unclear>āna 
+</p>
+</div>
+<div type="apparatus">
+	<listApp>
+		<app loc="2">
+		<lem><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg>isirina</lem>
+		<note>Perhaps restore <foreign><supplied reason="lost">dhi</supplied>sirina</foreign>: cf. <ref target="DHARMA_INSEIAD00105.xml">EIAD 105</ref>, l. 18: <foreign>Ācariya-budhisirina</foreign>.</note>
+		</app>
+</listApp></div>
+<!--<div type="translation">...</div>-->
+<!--<div type="commentary">...</div>-->
+<div type="bibliography">
+<p>Estampage included in the presentation given by Munirathnam at Pondicherry in 2017, but we are not aware of this fragment having been included in any ARIE yet. What remains of the text is deciphered by Arlo Griffiths &amp; Vincent Tournier from photos provided by M.A. Vasu and Nagaraju (2024).<note>The item published as EIAD 120 in <bibl><ptr target="bib:Griffiths+al2017_02"/></bibl> has since been merged into <ref target="DHARMA_INSEIAD00107.xml">EIAD 107</ref>.</note></p>
+<!-- The items published at EIAD 120  -->
+<!--<listBibl type="secondary-bibliography"></listBibl>-->
+</div>
+</body>
+</text>
 </TEI>
