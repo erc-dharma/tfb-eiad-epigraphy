@@ -89,13 +89,13 @@
 <div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209">
 	<!-- class:83225 = southern class Brāhmī, maturity:83209 = middle Brāhmī -->
 <div type="textpart" subtype="zone" n="A">
-<head xml:lang="eng">Left of the drainage hole</head>
+<head xml:lang="eng">A. Left of the drainage hole</head>
 <p>
 <lb n="1"/><gap reason="lost" extent="unknown"/>sa dānaṁ Upāsikāya budharakhitāya dānaṁ
 </p>
 </div>
 <div type="textpart" subtype="zone" n="B">
-<head xml:lang="eng">Right of the drainage hole</head>
+<head xml:lang="eng">B. Above the drainage hole</head>
 <p>
 <lb n="1"/>Upāsikāya budharakhitāya dānaṁ
 </p>
@@ -104,11 +104,11 @@
          <div type="apparatus"/>
          <div type="translation" resp="part:argr part:vito">
  	<div type="textpart" subtype="zone" n="A">
-<head xml:lang="eng">Left of the drainage hole</head>
-<p n="1">Gift of <gap reason="lost" extent="unknown"/></p>
+<head xml:lang="eng">A. Left of the drainage hole</head>
+<p n="1">Gift of <gap reason="lost" extent="unknown"/>.</p>
 </div>
 <div type="textpart" subtype="zone" n="B">
-<head xml:lang="eng">Right of the drainage hole</head>
+<head xml:lang="eng">B. Above of the drainage hole</head>
 <p n="1">Gift of the lay woman Budharakhitā.</p>
 </div>
 </div>
