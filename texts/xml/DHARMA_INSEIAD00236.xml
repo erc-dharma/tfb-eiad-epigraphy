@@ -55,7 +55,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>Lettering typical of the 2nd century CE.<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <p>Lettering typical of the 1st century CE.<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
                             <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -90,9 +90,7 @@
 	<!-- class:83225 = southern class Brāhmī, maturity:83209 = middle Brāhmī -->
 <div type="textpart" subtype="zone" n="A">
 <head xml:lang="eng">A. Left of the drainage hole</head>
-<p>
-<lb n="1"/><gap reason="lost" extent="unknown"/>sa dānaṁ Upāsikāya budharakhitāya dānaṁ
-</p>
+<p><lb n="1"/><gap reason="lost" extent="unknown"/>sa dānaṁ</p>
 </div>
 <div type="textpart" subtype="zone" n="B">
 <head xml:lang="eng">B. Above the drainage hole</head>
