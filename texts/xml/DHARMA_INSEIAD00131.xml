@@ -150,15 +150,12 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 </listApp>
 </div>-->
 <div type="translation" resp="part:argr part:vito">
-              <p>Image <supplied reason="subaudible">gifted</supplied> by the junior <supplied reason="explanation">female</supplied> pupil, the <foreign>dharma</foreign> reciter Parabudhā.</p>
+              <p>Image <supplied reason="subaudible">gifted</supplied> by Cullā, female pupil of the <foreign>dharma</foreign> reciter Parabudhāyā.</p>
 </div>
-<!--<div type="commentary">
-                <listApp>
-                    <app loc="lineNumber">
-                        <note>@loc = number of the line commented here in the note element.-\-></note>
-                    </app>
-                </listApp>
-            </div>-->
+<div type="commentary">
+<!-- The suffix ending -āyā is not entirely unparalleled, although we will have to have a closer look at this. -->
+           <p>This is a rare inscription where the senior figure, to whom is attached a female donor as pupil (<foreign>antevāsinī</foreign>), is herself female. Indeed, the use of the feminine <foreign>dhammakathikā</foreign> is unique in our corpus. See also <ref target="DHARMA_INSEIAD00255.xml">EIAD 255</ref> and <ref target="DHARMA_INSEIAD00334.xml">EIAD 334</ref>; in the second case, the senior figure is marked as the donor’s preceptor (<foreign>uvajjhāyinī</foreign>), but she is herself a disciple of a senior monk.</p>     
+</div>
 <div type="bibliography">
 <p>First described and edited in a Japanese newspaper called <hi rend="italic">Bukkyo times</hi> by Akira Sadakata, whose reading is cited (but without any diacritics or editorial apparatus) in <bibl><ptr target="bib:TobuNaraNagoyaNHK1998_01"/></bibl>. This digital edition by Arlo Griffiths &amp; Vincent Tournier from our photographs and after  autopsy of the stone.</p>
 <listBibl type="primary">
