@@ -118,7 +118,9 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 		<graphic xml:id="EIAD0034_image-partA-text" url="EIAD0034_A_1.jpg" n="3"/>
 	</facsimile>
 	<text xml:space="preserve">
-<body><div type="edition" xml:lang="pra-Latn">
+<body>
+<div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209">
+	<!-- class:83225 = southern class Brāhmī, maturity:83209 = middle Brāhmī -->
 <p>
 <lb n="1"/><supplied reason="lost">mahā</supplied><milestone unit="fragment" n="a"/><unclear>r</unclear><supplied reason="lost">āja</supplied><unclear>sa</unclear> Asamedha-yā<unclear>j</unclear><milestone unit="fragment" n="b"/><supplied reason="lost">isa</supplied> <supplied reason="lost">Aneka-hi</supplied><lb 
 n="2" break="no"/><unclear>ra</unclear>ṇa-k<unclear>o</unclear>ṭ<milestone unit="fragment" n="a"/><supplied reason="lost">i-go-sata-sahasa-hala-sata-sahasa-pa</supplied><lb 
