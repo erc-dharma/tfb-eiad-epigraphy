@@ -165,9 +165,8 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 <bibl/>
 </listBibl>
 <listBibl type="secondary">
-<bibl n="S"><ptr target="bib:TobuNaraNagoyaNHK1998_01"/><citedRange unit="page">46</citedRange></bibl>
-<bibl><ptr target="bib:Okada2000_01"/><citedRange unit="item">19</citedRange><citedRange unit="page">56-58</citedRange>
-</bibl>
+<bibl><ptr target="bib:TobuNaraNagoyaNHK1998_01"/><citedRange unit="item">20</citedRange><citedRange unit="page">46</citedRange></bibl>
+<bibl><ptr target="bib:Okada2000_01"/><citedRange unit="item">19</citedRange><citedRange unit="page">56-58</citedRange></bibl>
 </listBibl>
 </div>
 </body>
