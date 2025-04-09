@@ -180,18 +180,12 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -215,7 +209,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 					whose will was unimpeded in all matters, (established) by (his) uterine sisters, mothers, (and) queens Anatasirī, Khandasirī, Vijhab(o)dhisirī, Mitasirī, Samusirī, Nāgavasusirī,
 					Maṅgusirī, Khandakoṭisirī, Mahisarasirī, Kondamatisirī, Mūlasirī, Ayakoṭusirī, Manduvisirī, Nāgasirī, Rāmasirī, Golasirī, Velisirī, Bodhisirī, Khadasirī, Setilasirī, Perajatisirī,
 					Paṇḍitasirī, Sivanāgasirī, Samudasirī, Bāpisirī, Nadīsirī<!-- AG to colleagues: should this not be Nadīsirī? -->, Ayasiri, Kaṇhasirī, Sivanāgasirī, and the intimate friends
-						(<foreign xml:lang="san-Latn">ābhyantarikā</foreign>) Sarasikā and Kusumalatā.</p></div><div type="commentary"><p n=""><note>A number of punctuation signs appear, here represented as •. None of these was read by <bibl><ptr target="bib:Vogelb"/></bibl>, only a few of them observed by <bibl><ptr target="bib:Sircara"/>: <citedRange>3, 4 n. 1 and 7</citedRange></bibl>.</note></p><p n="3"><term>savacharaṁ vijaya<supplied reason="lost">ṁ</supplied></term><note>See EIAD <ref target="DHARMA_INSEIAD00056.xml">56</ref>, l. 2, and the term <foreign xml:lang="pra-Latn">vijayasaṁvachara</foreign>/<foreign xml:lang="san-Latn">vijayasaṁvatsara</foreign> in EIAD <ref target="DHARMA_INSEIAD00002.xml">2</ref>, ll. 2-3; <ref target="DHARMA_INSEIAD00187.xml">187</ref>, l. 29; <ref target="DHARMA_INSEIAD00188.xml">188</ref>, l. 31. For the possibility for the term <foreign xml:lang="pra-Latn">vijaya</foreign>
+						(<foreign xml:lang="san-Latn">ābhyantarikā</foreign>) Sarasikā and Kusumalatā.</p></div><div type="commentary"><p><note>A number of punctuation signs appear, here represented as •. None of these was read by <bibl><ptr target="bib:Vogelb"/></bibl>, only a few of them observed by <bibl><ptr target="bib:Sircara"/>: <citedRange>3, 4 n. 1 and 7</citedRange></bibl>.</note></p><p n="3"><term>savacharaṁ vijaya<supplied reason="lost">ṁ</supplied></term><note>See EIAD <ref target="DHARMA_INSEIAD00056.xml">56</ref>, l. 2, and the term <foreign xml:lang="pra-Latn">vijayasaṁvachara</foreign>/<foreign xml:lang="san-Latn">vijayasaṁvatsara</foreign> in EIAD <ref target="DHARMA_INSEIAD00002.xml">2</ref>, ll. 2-3; <ref target="DHARMA_INSEIAD00187.xml">187</ref>, l. 29; <ref target="DHARMA_INSEIAD00188.xml">188</ref>, l. 31. For the possibility for the term <foreign xml:lang="pra-Latn">vijaya</foreign>
 							pointing to Jupiter’s sixty-year cycle, see <bibl><ptr target="bib:Sircara"/>: <citedRange>2</citedRange></bibl>, <bibl><ptr target="bib:Mirashi1969"/>: <citedRange>318-22</citedRange></bibl>, and <bibl><ptr target="bib:Vidyadhara_Rao1969"/>: <citedRange>323-5</citedRange></bibl>.</note></p><p n="8"><term>mula<unclear>s</unclear>iriya</term><note>A male Mūlasiri is known from the Jaggayyapeta inscriptions (EIAD 31-33), his name being spelt with <foreign xml:lang="pra-Brah">mula-</foreign> in one of the cases (EIAD
 								<ref target="DHARMA_INSEIAD00032.xml">32</ref>, l. 4).</note></p></div><div type="bibliography"><!--[Revision required]--><!--Prose description of the history of the publication. Example of bibl element:  
 									<ptr target="eiad-bibl:Khan1969"/>: <citedRange>2</citedRange>--><p>First described and edited by <bibl><ptr target="bib:Vogelb"/>: <citedRange>63-4 (L)</citedRange></bibl>; re-edited by <bibl><ptr target="bib:Sircara"/>: <citedRange>1-4 (1.A)</citedRange></bibl>; our edition based on RTI and autopsy of the stone.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:ARIE"/><citedRange>1959-60: no. B.93</citedRange></bibl><bibl><ptr target="bib:Mirashib"/>: <citedRange>70-72</citedRange></bibl><bibl><ptr target="bib:Mirashi1969"/>: <citedRange>318-22</citedRange></bibl><bibl><ptr target="bib:Vidyadhara_Rao1969"/>: <citedRange>323-5</citedRange></bibl><bibl><ptr target="bib:Srinivasan1979a"/>: <citedRange>no. 3</citedRange></bibl><bibl><ptr target="bib:Settar1982b"/>: <citedRange>200-2</citedRange></bibl><bibl><ptr target="bib:Tsukamoto1996"/>: <citedRange>no. Naga 49</citedRange></bibl><bibl><ptr target="bib:Raghunath2001"/>: <citedRange>115-7 (no. 16)</citedRange></bibl></listBibl></div></body></text>
