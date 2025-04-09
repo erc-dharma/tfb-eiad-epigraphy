@@ -205,7 +205,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
    <facsimile>
       <graphic xml:id="EIAD0037_image-est-ASI195960B92" url="EIAD0037_1.jpg" n="1"/>
    </facsimile>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>sidhaṁ kumarasa vira°ar<unclear>ibha</unclear> <gap reason="lost" extent="unknown"/></ab></div><!--<div type="apparatus">
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>sidhaṁ kumarasa viraAr<unclear>ibha</unclear> <gap reason="lost" extent="unknown"/></ab></div><!--<div type="apparatus">
 				<app loc="lineNumber">
 					<lem/>
 					<rdg source="eiad-bibl:identifier"/>

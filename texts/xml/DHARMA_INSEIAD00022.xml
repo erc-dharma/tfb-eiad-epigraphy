@@ -206,7 +206,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
       <graphic xml:id="EIAD0022_image-general" url="EIAD0022_0.JPG" n="1"/>
       <graphic xml:id="EIAD0022_image-text" url="EIAD0022_1.JPG" n="2"/>
    </facsimile>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>bhagavato °aṭhabujasāmisa </ab></div><!--<div type="apparatus">
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>bhagavato Aṭhabujasāmisa </ab></div><!--<div type="apparatus">
                 <app loc="lineNumber">
                     <lem/>
                     <rdg source="eiad-bibl:identifier"/>

@@ -206,7 +206,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
    <facsimile>
       <graphic xml:id="EIAD0041_image-est-Leiden-N9" url="EIAD0041_1.jpg" n="1"/>
    </facsimile>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/><supplied reason="lost">si</supplied><unclear>dha</unclear>ṁ namo bhagavato saṁmasabudhasa dhātuvaraparigahitasa mahāce<unclear>t</unclear>ī<supplied reason="lost">ye</supplied> <lb n="2"/><supplied reason="lost">virūpakhapa</supplied>timahāsenaparigahītasa °a<unclear>g</unclear>ihotāgiṭhomavā<unclear>ja</unclear><supplied reason="lost">peyasamedhayājisa</supplied> <lb n="3"/><supplied reason="lost">gosata</supplied><unclear>sa</unclear>hasaha<unclear>la</unclear><supplied reason="lost">satasahasahasapadāyisa</supplied> </ab></div><!--<div type="apparatus">
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/><supplied reason="lost">si</supplied><unclear>dha</unclear>ṁ namo bhagavato saṁmasabudhasa dhātuvaraparigahitasa mahāce<unclear>t</unclear>ī<supplied reason="lost">ye</supplied> <lb n="2"/><supplied reason="lost">virūpakhapa</supplied>timahāsenaparigahītasa A<unclear>g</unclear>ihotāgiṭhomavā<unclear>ja</unclear><supplied reason="lost">peyasamedhayājisa</supplied> <lb n="3"/><supplied reason="lost">gosata</supplied><unclear>sa</unclear>hasaha<unclear>la</unclear><supplied reason="lost">satasahasahasapadāyisa</supplied> </ab></div><!--<div type="apparatus">
 				<app loc="lineNumber">
 					<lem/>
 					<rdg source="eiad-bibl:identifier"/>

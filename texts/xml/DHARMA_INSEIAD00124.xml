@@ -201,7 +201,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>gahapatino savarasa putasa mahānāvikasa sivakasa <lb n="2"/><unclear>bha</unclear>riyāya gharaniya °utaradataya s<unclear>i</unclear>dhatham<unclear>i</unclear>taya sapatikāya <lb n="3"/><unclear>sa</unclear>duhutukāya samit<unclear>ā</unclear>macāya °ayaka<unclear>tha</unclear>bha <unclear>de</unclear>yadhama </ab></div><!--<div type="apparatus">
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>gahapatino savarasa putasa mahānāvikasa sivakasa <lb n="2"/><unclear>bha</unclear>riyāya gharaniya Utaradataya s<unclear>i</unclear>dhatham<unclear>i</unclear>taya sapatikāya <lb n="3"/><unclear>sa</unclear>duhutukāya samit<unclear>ā</unclear>macāya Ayaka<unclear>tha</unclear>bha <unclear>de</unclear>yadhama </ab></div><!--<div type="apparatus">
 				<app loc="lineNumber">
 					<lem/>
 					<rdg source="eiad-bibl:identifier"/>

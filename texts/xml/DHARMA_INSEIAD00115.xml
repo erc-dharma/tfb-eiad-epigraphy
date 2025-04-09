@@ -201,7 +201,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/><gap reason="lost" quantity="2" unit="character"/><unclear>da</unclear>tāni va <unclear>ku</unclear> va d<unclear>ā</unclear>no ma <gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>sa</unclear> °akāsuraki <unclear>pu</unclear> ma su <gap reason="illegible" quantity="1" unit="character"/></ab></div><!--<div type="apparatus">
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/><gap reason="lost" quantity="2" unit="character"/><unclear>da</unclear>tāni va <unclear>ku</unclear> va d<unclear>ā</unclear>no ma <gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>sa</unclear> Akāsuraki <unclear>pu</unclear> ma su <gap reason="illegible" quantity="1" unit="character"/></ab></div><!--<div type="apparatus">
 				<app loc="lineNumber">
 					<lem/>
 					<rdg source="eiad-bibl:identifier"/>

@@ -201,7 +201,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>°āyamaṇi <g>:</g><g>–</g>pūṣṭikā <g>:</g><g>–</g></ab></div><div type="apparatus"><listApp><app loc="1"><lem source="bib:Sircarn">pūṣṭikā</lem><rdg source="bib:Nilakanta_Sastri1935">pruṣṭikā</rdg></app></listApp></div><!--<div type="translation" xml:lang="eng">
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>Āyamaṇi <g>:</g><g>–</g>pūṣṭikā <g>:</g><g>–</g></ab></div><div type="apparatus"><listApp><app loc="1"><lem source="bib:Sircarn">pūṣṭikā</lem><rdg source="bib:Nilakanta_Sastri1935">pruṣṭikā</rdg></app></listApp></div><!--<div type="translation" xml:lang="eng">
 				<ab/>
 			</div>--><div type="commentary"><p n="1"><note>The punctuation signs :– are represented as / by <bibl><ptr target="bib:Nilakanta_Sastri1935"/></bibl> and as <foreign>h</foreign> by <bibl><ptr target="bib:Sircarn"/></bibl>.
 						</note></p></div><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Nilakanta_Sastri1935"/></bibl> and then by <bibl><ptr target="bib:Sircarn"/></bibl>.

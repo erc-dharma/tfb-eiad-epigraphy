@@ -203,7 +203,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/><unclear>pa</unclear>toyatakasa <lb n="2"/>°āvesanikasa <lb n="3"/><unclear>ta</unclear>mal<unclear>o</unclear>yakarasa <lb n="4"/>m<unclear>ū</unclear>labhutasa <lb n="5"/>chāyapaṭo </ab></div><div type="apparatus"><listApp><app loc="1"><lem><unclear>pa</unclear>toyatakasa</lem><rdg source="bib:Sircara">pa<unclear>va</unclear>yātakasa </rdg></app><app loc="3"><lem><unclear>ta</unclear>mal<unclear>o</unclear>yakarasa</lem><!--MS:
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/><unclear>pa</unclear>toyatakasa <lb n="2"/>Āvesanikasa <lb n="3"/><unclear>ta</unclear>mal<unclear>o</unclear>yakarasa <lb n="4"/>m<unclear>ū</unclear>labhutasa <lb n="5"/>chāyapaṭo </ab></div><div type="apparatus"><listApp><app loc="1"><lem><unclear>pa</unclear>toyatakasa</lem><rdg source="bib:Sircara">pa<unclear>va</unclear>yātakasa </rdg></app><app loc="3"><lem><unclear>ta</unclear>mal<unclear>o</unclear>yakarasa</lem><!--MS:
                         This contradicts the edition above where we have
                         "<unclear>ta</unclear>mal<unclear>o</unclear>yakarasa"--><rdg source="bib:Sircara">tamaṇiyakarasa</rdg><note>The first akṣara could also be read <foreign>na</foreign>.</note><!--MS: The lema is
                             currently <na>. Maybe this is a situation where we

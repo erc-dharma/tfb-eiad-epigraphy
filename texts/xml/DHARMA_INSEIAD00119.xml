@@ -201,7 +201,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>sidhaṁ bhagavato padāni °apano nivāṇasambharāthaṁ karāpitam iti </ab></div><div type="apparatus"><listApp><app loc="1"><note>In the absence of visual documentation, this
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>sidhaṁ bhagavato padāni Apano nivāṇasambharāthaṁ karāpitam iti </ab></div><div type="apparatus"><listApp><app loc="1"><note>In the absence of visual documentation, this
 							constitutes our conjecturally emended reading.
 							Subrahmanyam et al. published this impossible
 							reading: <foreign xml:lang="pra-Latn">sidham
