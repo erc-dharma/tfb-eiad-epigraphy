@@ -34,26 +34,18 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <titleStmt>
             <title>Floor slab from apsidal temple of site 43 at Nagarjunakonda — reign of Māṭharīputta, year 14</title>
             <respStmt>
-               <resp>EpiDoc Encoding</resp>
-               <persName ref="part:jodo">
-                  <forename>John</forename>
-                  <surname>Doe</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:jodo">
-                  <forename>John</forename>
-                  <surname>Doe</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>Conversion of encoding for DHARMA</resp>
-               <persName ref="part:jodo">
-                  <forename>John</forename>
-                  <surname>Doe</surname>
-               </persName>
-            </respStmt>
+		<resp>author of digital edition</resp>
+		<persName ref="part:argr">
+			<forename>Arlo</forename>
+			<surname>Griffiths</surname>
+		</persName>
+		<persName ref="part:vito">
+			<forename>Vincent</forename>
+			<surname>Tournier</surname>
+		</persName>
+	</respStmt>
+            
+            
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>

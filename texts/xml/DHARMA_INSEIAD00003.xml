@@ -39,26 +39,18 @@ the stone. Cf. 056, and inscription at Nat. Mus. Colombo.
          <titleStmt>
             <title>Octagonal pillar from Kesanapalli — reign of Vāsiṭṭhīputta Siri-Cāntamūla, year 13</title>
             <respStmt>
-               <resp>EpiDoc Encoding</resp>
-               <persName ref="part:jodo">
-                  <forename>John</forename>
-                  <surname>Doe</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:jodo">
-                  <forename>John</forename>
-                  <surname>Doe</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>Conversion of encoding for DHARMA</resp>
-               <persName ref="part:jodo">
-                  <forename>John</forename>
-                  <surname>Doe</surname>
-               </persName>
-            </respStmt>
+		<resp>author of digital edition</resp>
+		<persName ref="part:argr">
+			<forename>Arlo</forename>
+			<surname>Griffiths</surname>
+		</persName>
+		<persName ref="part:vito">
+			<forename>Vincent</forename>
+			<surname>Tournier</surname>
+		</persName>
+	</respStmt>
+            
+            
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
