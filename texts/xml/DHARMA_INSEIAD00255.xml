@@ -109,19 +109,8 @@
 <!--<div type="apparatus">
 <listApp>
 <app loc="1">
-<lem>dha<unclear>ṁ</unclear>makatikaya</lem>
-<rdg source="bib:TobuNaraNagoyaNHK1998_01">dhamakatikaya</rdg>
-</app>
-<app loc="1">
-<lem>parabudhay<unclear>ā</unclear>ya</lem>
-<rdg source="bib:TobuNaraNagoyaNHK1998_01">parabudhayaya</rdg></app>
-<app loc="2">
-<lem>°Atevās<unclear>i</unclear>kāya</lem>
-<rdg source="bib:TobuNaraNagoyaNHK1998_01">Atevasikāya</rdg></app>
-<app loc="2"><lem>cul<unclear>ā</unclear>ya</lem>
-<rdg source="bib:TobuNaraNagoyaNHK1998_01">culaya</rdg></app>
-<app loc="2"><lem>paṭim<unclear>ā</unclear></lem>
-<rdg source="bib:TobuNaraNagoyaNHK1998_01">patimā</rdg>
+<lem>Atevāsiniyā</lem>
+<note>Correctly printed in Burgess 1882 and Hultzsch 1883, but affected by a small misprint in Burgess 1883, corrected by Franke.</note>
 </app>
 </listApp>
 </div>-->
