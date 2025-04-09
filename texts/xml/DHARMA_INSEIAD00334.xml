@@ -114,7 +114,7 @@ Burgess 1887. — Photos VT 2017.	gift of a slab		Measurements from Kannan.
 <listApp>
 <app loc="1">
 <lem source="bib:Hultzsch1883_01 bib:Sivaramamurti1942_01">vinaya-dharasa</lem>
-<note>Bühler's reading published in <bibl><ptr target="bib:Burgess1887_01"/></bibl> was <foreign>vinayadhirasa</foreign>. The estampage published in <bibl><ptr target="bib:Burgess1887_01"/></bibl> suggests that one must read <foreign>vinaya<hi rend="bold">ṁ</hi>dharasa</foreign>, and this reading was defended by <bibl><ptr target="bib:Franke1896_01"/></bibl>. But our photos of the stone do not confirm this reading, which would anyhow have been incongruous.</note>
+<note>Bühler's reading published in <bibl><ptr target="bib:Burgess1887_01"/></bibl> was <foreign>vinayadhirasa</foreign>. The estampage published in <bibl><ptr target="bib:Burgess1887_01"/></bibl> suggests that one must read <foreign>vinaya<hi rend="bold">ṁ</hi>dharasa</foreign>, and this idea was defended by <bibl><ptr target="bib:Franke1896_01"/></bibl>. But our photos of the stone do not confirm thsi incongruous reading.</note>
 </app>
 <app loc="1">
 <lem>pādaka</lem>
@@ -136,7 +136,7 @@ Burgess 1887. — Photos VT 2017.	gift of a slab		Measurements from Kannan.
 <p>For the contents, compare <ref target="DHARMA_INSEIAD00131.xml">EIAD 131</ref> and <ref target="DHARMA_INSEIAD00255.xml">EIAD 255</ref>.</p>     
 </div>
 <div type="bibliography">
-<p>First edited and translated by Eugen Hultzsch (<bibl rend="omitname"><ptr target="bib:Hultzsch1883_01"/></bibl>). <bibl><ptr target="bib:Burgess1887_01"/></bibl> cites a reading communicated to him by Georg Bühler. This digital edition by Arlo Griffiths &amp; Vincent Tournier from published estampages, from photographs and after autopsy of the stone.</p>
+<p>First edited and translated by Eugen Hultzsch (<bibl rend="omitname"><ptr target="bib:Hultzsch1883_01"/></bibl>). <bibl><ptr target="bib:Burgess1887_01"/></bibl> cites a reading communicated to him by Georg Bühler. This digital edition by Arlo Griffiths &amp; Vincent Tournier from a published estampage, from photographs and after autopsy of the stone.</p>
 <listBibl type="primary">
 <bibl n="H"><ptr target="bib:Hultzsch1883_01"/><citedRange unit="plate">560-561</citedRange><citedRange unit="item">45</citedRange></bibl>
 <bibl n="S"><ptr target="bib:Sivaramamurti1942_01"/><citedRange unit="page">291</citedRange><citedRange unit="item">70</citedRange><citedRange unit="plate">XXXV (2)</citedRange></bibl>
