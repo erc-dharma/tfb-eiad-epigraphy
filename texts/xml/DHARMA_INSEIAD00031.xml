@@ -222,21 +222,24 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 					Buddha, 5 <foreign xml:lang="pra-Latn">āyaka</foreign>
 					pillars, equipped with everything, as his pious gift, for
 					the well-being and happiness of all beings.</p></div><div type="commentary"><p n="2"><term>Avesanisa</term><!-- CC: I am not sure with the bibliographical references in that commentary --><note>Beside the two other instances from Jaggayyapeta,
-							the word <foreign xml:lang="pra-Latn">āvesani</foreign> also occurs in <bibl><ptr target="bib:Tsukamoto1996"/>: <citedRange>no. Sāñcī 384</citedRange></bibl> and two inscriptions from Amarāvatī (EIAD <ref target="DHARMA_INSEIAD00342.xml">342</ref>, <ref target="DHARMA_INSEIAD00515.xml">515</ref>). <bibl><ptr target="bib:Majumdar1922"/>: <citedRange>34 n. 2</citedRange></bibl> alludes to these inscriptions. The word was rendered <cit><quote>the foreman of artisans</quote></cit> by <bibl><ptr target="bib:Bühler1892c"/>: <citedRange>88</citedRange></bibl>, an interpretation accepted by Lüders but with the simpler translation <quote>artisan</quote> also	adopted in <bibl><ptr target="bib:Sircar1966"/>:
+							the word <foreign xml:lang="pra-Latn">āvesani</foreign> also occurs in <bibl><ptr target="bib:Tsukamoto1996"/>: <citedRange>no. Sāñcī 384</citedRange></bibl> and two inscriptions from Amarāvatī (EIAD <ref target="DHARMA_INSEIAD00342.xml">342</ref>, <ref target="DHARMA_INSEIAD00515.xml">515</ref>). <bibl><ptr target="bib:Majumdar1922"/>: <citedRange>34 n. 2</citedRange></bibl> alludes to these inscriptions. The word was rendered <q><quote>the foreman of artisans</quote></q> by <bibl><ptr target="bib:Buehler1894_01"/><citedRange unit="page">88</citedRange></bibl>, an interpretation accepted by Lüders but with the simpler translation <quote>artisan</quote> also	adopted in <bibl><ptr target="bib:Sircar1966"/>:
 									<citedRange>41</citedRange></bibl>. <bibl><ptr target="bib:Cone"/><citedRange>(s.v.)</citedRange></bibl> translates the related <foreign xml:lang="pra-Latn">āvesana</foreign> as “workshop”. Interesting mentions of <foreign xml:lang="pra-Latn">āveśani</foreign>
 							also occur in the Arthaśāstra, at 2.14.1
 							<foreign>sauvarṇikaḥ paurajānapadānāṁ rūpyasuvarṇam
 							āveśanibhiḥ kārayet |</foreign> and at 2.14.7 <foreign>āveśanibhiḥ
 							suvarṇapudgalalakṣaṇaprayogeṣu tat taj jānīyāt
-							|</foreign>.</note></p></div><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Bühler1882"/>: <citedRange>258–9
-							(I)</citedRange></bibl>, followed by <bibl><ptr target="bib:Burgess1882"/>:
-							<citedRange>55–6</citedRange></bibl> (reading and translation by Bhagvanlal Indraji) and
-					then <bibl><ptr target="bib:Burgess1887"/>: <citedRange>110–1
-							(1)</citedRange></bibl> (new reading, with Bühler’s translation). Re-edited
-					here from the estampage published by Burgess.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Franke1896"/>:
-							<citedRange>601</citedRange></bibl><bibl><ptr target="bib:Lüders1912"/>: <citedRange>no.
-							1204</citedRange></bibl><bibl><ptr target="bib:Srinivasan1979a"/>:
-							<citedRange>no. 24</citedRange></bibl><bibl><ptr target="bib:Tsukamoto1996"/>: <citedRange>no. Jaga
-							2</citedRange></bibl><bibl><ptr target="bib:Raghunath2001"/>: <citedRange>118
-							(no. 17)</citedRange></bibl></listBibl></div></body></text>
+							|</foreign>.</note></p></div>
+<div type="bibliography">
+<p>First described and edited by <bibl><ptr target="bib:Buehler1882_01"/>: <citedRange>258–9 (I)</citedRange></bibl>, followed by <bibl><ptr target="bib:Burgess1882_01"/>:
+							<citedRange>55–6</citedRange></bibl> (reading and translation by Bhagvanlal Indraji) and then <bibl><ptr target="bib:Burgess1887_01"/>: <citedRange>110–1 (1)</citedRange></bibl> (new reading, with Bühler’s translation). Re-edited here from the estampage published by Burgess.</p>
+<listBibl type="primary">
+<bibl/>
+</listBibl>
+<listBibl type="secondary"><bibl><ptr target="bib:Franke1896"/>:<citedRange>601</citedRange></bibl>
+<bibl><ptr target="bib:Lüders1912"/>: <citedRange>no. 1204</citedRange></bibl>
+<bibl><ptr target="bib:Srinivasan1979a"/>: <citedRange>no. 24</citedRange></bibl>
+<bibl><ptr target="bib:Tsukamoto1996"/>: <citedRange>no. Jaga 2</citedRange></bibl>
+<bibl><ptr target="bib:Raghunath2001"/>: <citedRange>118 (no. 17)</citedRange></bibl></listBibl>
+</div>
+</body></text>
 </TEI>

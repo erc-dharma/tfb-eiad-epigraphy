@@ -220,11 +220,9 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 						<note>@loc = number of the line commented here in the note element.</note>
 					</app>
 				</listApp>
-			</div>--><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Bühler1882"/>: <citedRange>258-9
-							(II)</citedRange></bibl>, followed by <bibl><ptr target="bib:Burgess1882"/>:
-							<citedRange>55-6</citedRange></bibl> (reading and translation by Bhagvanlal Indraji) and
-					then <bibl><ptr target="bib:Burgess1887"/>: <citedRange>110-1
-							(2)</citedRange></bibl> (new reading, with Bühler’s translation). Re-edited
+			</div>--><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Buehler1882_01"/><citedRange>258-9
+							(II)</citedRange></bibl>, followed by <bibl><ptr target="bib:Burgess1882_01"/><citedRange>55-6</citedRange></bibl> (reading and translation by Bhagvanlal Indraji) and
+					then <bibl><ptr target="bib:Burgess1887_01"/><citedRange>110-1 (2)</citedRange></bibl> (new reading, with Bühler’s translation). Re-edited
 					here from the estampage published by Burgess.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Franke1896"/>:
 							<citedRange>601</citedRange></bibl><bibl><ptr target="bib:Lüders1912"/>: <citedRange>no.
 							1203</citedRange></bibl><bibl><ptr target="bib:ARIE"/><citedRange>1965-66: no. B.272</citedRange></bibl><bibl><ptr target="bib:Srinivasan1979a"/>:
