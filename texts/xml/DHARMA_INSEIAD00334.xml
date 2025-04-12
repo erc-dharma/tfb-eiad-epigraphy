@@ -108,7 +108,12 @@ Burgess 1887. — Photos VT 2017.	gift of a slab		Measurements from Kannan.
 <listApp>
 <app loc="1">
 <lem source="bib:Hultzsch1883_01 bib:Sivaramamurti1942_01">vinaya-dharasa</lem>
-<note>Bühler's reading published in <bibl><ptr target="bib:Burgess1887_01"/></bibl> was <foreign>vinayadhirasa</foreign>. The estampage published in <bibl><ptr target="bib:Burgess1887_01"/></bibl> suggests that one must read <foreign>vinaya<hi rend="bold">ṁ</hi>dharasa</foreign>, and this idea was defended by <bibl><ptr target="bib:Franke1896_01"/></bibl>. But our photos of the stone do not confirm thsi incongruous reading.</note>
+<note>Bühler's reading published in <bibl><ptr target="bib:Burgess1887_01"/></bibl> was <foreign>vinayadhirasa</foreign>. The estampage published in <bibl><ptr target="bib:Burgess1887_01"/></bibl> suggests that one must read <foreign>vinaya<hi rend="bold">ṁ</hi>dharasa</foreign>, and this idea was defended by <bibl><ptr target="bib:Franke1896_01"/></bibl>. But our photos of the stone do not confirm this incongruous reading.</note>
+</app>
+<app loc="1">
+<lem source="bib:Sivaramamurti1942_01">Uvajhāyiniya</lem>
+<rdg source="bib:Hultzsch1883_01">Uvara<unclear>ḷa</unclear>yiniya</rdg>
+<note>Bühler's reading published in <bibl><ptr target="bib:Burgess1887_01"/></bibl> was <foreign>Uvarayiniya</foreign>. The reading adopted by <bibl><ptr target="bib:Sivaramamurti1942_01"/></bibl> that we also adopt was first prpposed by <bibl><ptr target="bib:Luders1912_01"/></bibl>.</note>
 </app>
 <app loc="1">
 <lem>pādaka</lem>
