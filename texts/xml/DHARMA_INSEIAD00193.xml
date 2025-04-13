@@ -22,8 +22,8 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 [13] Language(s): MIA
 [14] Original locality: Dhulikatta, 8 km from Peddabankur
 [15] Present locality: unknown
-[16] Primary bibliography: Krishna Sastry 1983: 145, 226. — ARDAM 1975-76 (1986): 8.
-[17] Secondary bibliography: Hanumantha Rao et al 1998: 115 (no. 1).
+[16] Primary bibliography: Krishna Sastry 1983: 145, 226. — ARDAM 1975-76 (1986): 8. — Hanumantha Rao et al 1998: 115 (no. 2)
+[17] Secondary bibliography: ...
 [18] Visual documentation: 
 [19] Substance of inscription: gahapatino pathalasa mathuya samaya danam
 [20] Remarks: 
@@ -185,19 +185,42 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:argr" when="2025-04-13" status="draft">started adaptation to DHARMA</change>
          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>piṭhanaṁdiputasa duhutaya sayonija dānaṁ </ab></div><div type="apparatus"><listApp><app loc="1"><lem>piṭhanaṁdiputasa duhutaya sayonija dānaṁ</lem><rdg source="bib:Krishna_Sastry1983">pitha nandi puthasa duhuthuya sayonija sanam</rdg></app><app loc="1"><lem>piṭhanaṁdiputasa duhutaya sayonija dānaṁ</lem><rdg source="bib:ARDAM">pitha nandi puthasa – duruthuya sayonija danam</rdg></app><app loc="1"><lem>piṭhanaṁdiputasa duhutaya sayonija dānaṁ</lem><rdg source="bib:Hanumantha_Rao1998">piṭha naṅdi puthasa duhuthuya sayonija dānam</rdg></app></listApp></div><div type="translation"><ab>gahapatino pathalasa mathuya samaya danam</ab></div><!--<div type="commentary">
-				<listApp>
-					<app loc="lineNumber">
-						<note><!-\-@loc = number of the line commented here in the note element.-\-></note>
-					</app>
-				</listApp>
-			</div>--><div type="bibliography"><p>No visual
-					documentation seems to have been published for the present one, for which nearly identical readings have been published by <bibl><ptr target="bib:Krishna_Sastry1983"/>:
-							<citedRange>145</citedRange></bibl>, <bibl><ptr target="bib:ARDAM"/><citedRange>1975-76 (1986): 8</citedRange></bibl> and <bibl><ptr target="bib:Hanumantha_Rao1998"/>: <citedRange>115 (no. 2)</citedRange></bibl> Not having identified the
-					slab bearing this inscription, we are unable to verify the published readings. The text is an attempt to interpret and normalize the published readings.</p><!--<listBibl type="secondary-bibliography">
-					 <bibl><ptr target="eiad-bibl:xxx"/>: <citedRange>115 (no. 1)</citedRange></bibl>
-				</listBibl>--></div></body></text>
+   <text xml:space="preserve">
+<body>
+<div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209">
+	<!-- class:83225 = southern class Brāhmī, maturity:83209 = middle Brāhmī -->
+<ab>
+<lb n="1"/>piṭhanaṁdiputasa duhutaya sayonija dānaṁ</ab>
+</div>
+<div type="apparatus">
+<listApp>
+<app loc="1">
+<lem>piṭhanaṁdiputasa duhutaya sayonija dānaṁ</lem>
+<rdg source="bib:KrishnaSastry1983_01">pitha nandi puthasa duhuthuya sayonija sanam</rdg>
+<rdg source="bib:ARDAM">pitha nandi puthasa – duruthuya sayonija danam</rdg>
+<rdg source="bib:Hanumantha_Rao1998">piṭha naṅdi puthasa duhuthuya sayonija dānam</rdg>
+</app>
+</listApp>
+</div>
+<div type="translation">
+<ab>gahapatino pathalasa mathuya samaya danam</ab>
+</div>
+<!--<div type="commentary"> ... </div>-->
+<div type="bibliography">
+<p>No visual documentation seems to have been published for the present inscription, for which nearly identical readings have been published. Not having identified the slab bearing this inscription, we are unable to verify the published readings. The text we propose here is an attempt to interpret and normalize the published readings.</p>
+<listBibl type="primary">
+<bibl n="KS"><ptr target="bib:KrishnaSastry1983_01"/><citedRange unit="page">145</citedRange></bibl>
+<bibl n="ARDAM"><ptr target="bib:ARDAM1975-1976_01"/><citedRange>8</citedRange></bibl>
+<bibl n="BIA"><ptr target="bib:HanumanthaRao+al1998_01"/><citedRange unit="page">115</citedRange><citedRange unit="item">2</citedRange></bibl>
+</listBibl>
+<listBibl type="secondary">
+<bibl/>
+</listBibl>
+</div>
+</body>
+</text>
 </TEI>
