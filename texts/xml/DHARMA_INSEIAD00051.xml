@@ -205,7 +205,13 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							visible.</note></app><app loc="7"><lem>Ikhākuna</lem><rdg source="bib:Vogeld">Ikhākuna<unclear>ṁ</unclear></rdg></app><app loc="10"><lem>-catamulasa</lem><rdg source="bib:Vogeld">-c<unclear>ā</unclear>tamūla<unclear>sa</unclear></rdg><note>No traces are visible of <foreign>ā</foreign> or of <foreign>ū</foreign>;
 								<foreign>sa</foreign> is certain
 							enough.</note></app><app loc="10"><lem>bhaginiya vanavāsaka-</lem><rdg source="bib:Vogeld">bhaginiyā
-							vānavāsaka-</rdg></app><app loc="11"><lem>kodaElisiriya-</lem><rdg source="bib:Vogeld">koda<unclear>ba</unclear>lisiriya</rdg></app><app loc="11"><lem source="bib:Nilakantha_Sastri">cetiyaṁ</lem><rdg source="bib:Vogeld">khaniyaṁ</rdg></app><app loc="12"><lem>mahisāsakānaṁ</lem><rdg source="bib:Vogeld">mahi<unclear>sā</unclear>sakānaṁ</rdg><note>Vogel notes <quote>The third syllable <hi rend="italic">sa</hi> is still
+							vānavāsaka-</rdg></app><app loc="11"><lem>kodaElisiriya-</lem><rdg source="bib:Vogeld">koda<unclear>ba</unclear>lisiriya</rdg></app>
+<app loc="11">
+<lem source="bib:Nilakantha_Sastria">cetiyaṁ</lem>
+<rdg source="bib:Vogeld">khaniyaṁ</rdg></app>
+<app loc="12"><lem>mahisāsakānaṁ</lem>
+<rdg source="bib:Vogeld">mahi<unclear>sā</unclear>sakānaṁ</rdg>
+<note>Vogel notes <quote>The third syllable <hi rend="italic">sa</hi> is still
 								traceable,</quote> probably meaning <foreign>sā</foreign>.</note></app><app loc="13"><lem>saghaṁ</lem><rdg source="bib:Vogeld">sa<unclear>ṁ</unclear>ghaṁ</rdg></app><app loc="13"><lem>hitasukhathaṁ</lem><rdg source="bib:Vogeld">hitasukhāthaṁ</rdg></app><app loc="14"><lem source="bib:Vogeld">dhaṁma<unclear>gho</unclear>satherena</lem><note>Vogel notes: <quote>The third <hi rend="italic">akshara</hi> [in
 										Dhaṁma<unclear>gho</unclear>sa-]
 								has become very faint. At first I felt inclined
@@ -236,8 +242,9 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							24-25 (H)</citedRange></bibl>. Edited again, from the EI estampage, by <bibl><ptr target="bib:Sircar1942"/>:
 							<citedRange>230-1</citedRange></bibl> and <bibl><ptr target="bib:Sircar1965"/>:
 							<citedRange>249-50</citedRange></bibl>. Re-edited here from the Leiden estampage and after
-					autopsy of the stone.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Nilakanta_Sastria"/>:
-							<citedRange>279 (VI)</citedRange></bibl><bibl><ptr target="bib:Srinivasan1979a"/>:
+					autopsy of the stone.</p><listBibl type="primary"><bibl/></listBibl>
+<listBibl type="secondary"><bibl><ptr target="bib:Nilakanta_Sastria"/>: <citedRange>279 (VI)</citedRange></bibl>
+<bibl><ptr target="bib:Srinivasan1979a"/>:
 							<citedRange>no. 42</citedRange></bibl><bibl><ptr target="bib:Tsukamoto1996"/>: <citedRange>no. Naga
 							45</citedRange></bibl><bibl><ptr target="bib:Raghunath2001"/>:
 							<citedRange>144-5 (no. 34)</citedRange></bibl><bibl><ptr target="bib:Soundara_Rajan2006"/>:
