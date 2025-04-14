@@ -128,7 +128,7 @@ n="11" break="no"/><unclear>kaṁ</unclear> <unclear>vija</unclear>ya-vejayika�
 <lb n="12"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>tura-maṁḍale Upedagiri-vadha<lb 
 n="13" break="no"/><supplied reason="lost">māne</supplied> <supplied reason="lost">bha</supplied><unclear>ga</unclear>vato budhasa saṁghasa 
 <lb n="14"/><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost">ma</supplied>ḍave selamay<unclear>o</unclear> <unclear>Āya</unclear><lb 
-n="15" break="no" style="text-align: center"/><space/>ka-khaṁbho karito ti <g type="dash">.</g></p>
+n="15" break="no" style="text-align: center"/>ka-khaṁbho karito ti <g type="dash">.</g></p>
 </div>
 <div type="apparatus">
 <listApp>
@@ -211,7 +211,7 @@ n="15" break="no" style="text-align: center"/><space/>ka-khaṁbho karito ti <g 
 <rdg source="bib:Sankaranarayanan1967-1968_01">selāmay<unclear>o</unclear></rdg>
 </app>
 <app loc="14">
-<lem><unclear>Āya</unclear><lb n="15" break="no" style="text-align: center"/><space/>ka-khaṁbho</lem>
+<lem><unclear>Āya</unclear><lb n="15" break="no" style="text-align: center"/>ka-khaṁbho</lem>
 <rdg source="bib:Sankaranarayanan1967-1968_01">Āya<lb n="15" break="no"/><gap reason="lost" unit="character" quantity="5"/>-khabho</rdg>
 <note>Sankaranarayan rightly notes: <q>The broken portion of the pillar here must have been big enough to accommodate five letters. But as the usual expression is <hi rend="italic">āyaka-khabha</hi> or <hi rend="italic">-skaṁbha</hi>, only one letter viz. <hi rend="italic">ka</hi> appears to have been lost. Thus the last line <gap reason="ellipsis"/> appears to have been engraved in the middle.</q></note>
 </app>
