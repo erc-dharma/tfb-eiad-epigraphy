@@ -128,7 +128,7 @@ n="11" break="no"/><unclear>kaṁ</unclear> <unclear>vija</unclear>ya-vejayika�
 <lb n="12"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>tura-maṁḍale Upedagiri-vadha<lb 
 n="13" break="no"/><supplied reason="lost">māne</supplied> <supplied reason="lost">bha</supplied><unclear>ga</unclear>vato budhasa saṁghasa 
 <lb n="14"/><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost">ma</supplied>ḍave selamay<unclear>o</unclear> <unclear>Āya</unclear><lb 
-n="15" break="no"/><supplied reason="lost"><space quantity="1" unit="character"/>ka</supplied>-khaṁbho karito ti <g type="dash">.</g></p>
+n="15" break="no" style="text-align: center"/><space/>ka-khaṁbho karito ti <g type="dash">.</g></p>
 </div>
 <div type="apparatus">
 <listApp>
@@ -210,9 +210,10 @@ n="15" break="no"/><supplied reason="lost"><space quantity="1" unit="character"/
 <lem>selamay<unclear>o</unclear></lem>
 <rdg source="bib:Sankaranarayanan1967-1968_01">selāmay<unclear>o</unclear></rdg>
 </app>
-<app loc="15">
-<lem>-khaṁbho</lem>
-<rdg source="bib:Sankaranarayanan1967-1968_01">-khabho</rdg>
+<app loc="14">
+<lem><unclear>Āya</unclear><lb n="15" break="no" style="text-align: center"/><space/>ka-khaṁbho</lem>
+<rdg source="bib:Sankaranarayanan1967-1968_01">Āya<lb n="15" break="no"/><gap reason="lost" unit="character" quantity="5"/>-khabho</rdg>
+<note>Sankaranarayan rightly notes: <q>The broken portion of the pillar here must have been big enough to accommodate five letters. But as the usual expression is <hi rend="italic">āyaka-khabha</hi> or <hi rend="italic">-skaṁbha</hi>, only one letter viz. <hi rend="italic">ka</hi> appears to have been lost. Thus the last line <gap reason="ellipsis"/> appears to have been engraved in the middle.</q></note>
 </app>
 </listApp>
 </div>
@@ -223,7 +224,6 @@ n="15" break="no"/><supplied reason="lost"><space quantity="1" unit="character"/
 <div type="commentary">
 <p n="2-3">For other instances of the term <foreign>vijayasaṁvacharaṁ</foreign> (Sanskrit <foreign xml:lang="san-Latn">vijayasaṁvatsara</foreign>), whose meaning is disputed, see EIAD <ref target="DHARMA_INSEIAD00030.xml">30</ref>, l. 3 (with note); <ref target="DHARMA_INSEIAD00056.xml">56</ref>, l. 2; <ref target="DHARMA_INSEIAD00159.xml">159</ref>, l. 14; <ref target="DHARMA_INSEIAD00187.xml">187</ref>, l. 29; <ref target="DHARMA_INSEIAD00188.xml">188</ref>, l. 31.<!-- For the possibility that the term vijaya points to Jupiter’s sixty-year cycle, see Sircar 1963-1964: 2, and trace the discussion that followed from it: Sarma 1969, Mirashi 1969, Vidyadhara Rao 1969. Brief allusion to the debate in Ollett et al. 2025, §6.2. --></p>
 <p n="12">The name of the <foreign xml:lang="san-Latn">maṇḍala</foreign> ending in <foreign xml:lang="pra-Latn">-tura</foreign> is reminiscent of the village name <foreign xml:lang="pra-Latn">toḍatura</foreign> in EIAD <ref target="DHARMA_INSEIAD00031.xml">31</ref>, <ref target="DHARMA_INSEIAD00032.xml">32</ref> and <ref target="DHARMA_INSEIAD00033.xml">33</ref>.<!-- Lost in EIAD 90. --></p>
-<p n="15">Sankaranarayan rightly notes: <q>The broken portion of the pillar here must have been big enough to accommodate five letters. But as the usual expression is <hi rend="italic">āyāka-khabha</hi> or <hi rend="italic">-skaṁbha</hi>, only one letter viz. <hi rend="italic">ka</hi> appears to have been lost. Thus the last line <gap reason="ellipsis"/> appears to have been engraved in the middle.</q></p>
 </div>
 <div type="bibliography">
 <p>First edited by <bibl><ptr target="bib:Sankaranarayanan1967-1968_01"/></bibl>. Re-edited and translated by Arlo Griffiths &amp; Vincent Tournier, with contributions by Stefan Baums and Ingo Strauch, making use of photos of the ASI estampage, and published in 2017 on the experimental site <bibl><ptr target="bib:Griffiths+Tournier2017_01"/></bibl>. The XML source code from <bibl><ptr target="bib:Griffiths+Tournier2015-2017_01"/></bibl> was adapted for DHARMA by Arlo Griffiths &amp; Vincent Tournier in 2025.</p>
