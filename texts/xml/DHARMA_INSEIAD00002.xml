@@ -132,10 +132,11 @@ n="15" break="no"/><supplied reason="lost"><space quantity="1" unit="character"/
 </div>
 <div type="apparatus">
 <listApp>
-<app loc="1-2">
-<lem><unclear>vase</unclear><supplied reason="lost">ṭhiputasa</supplied></lem>
-<rdg source="bib:Sankaranarayanan1967-1968_01">vase...</rdg>
-<note>Sankaranarayanan makes clear in his n. 7 that <quote>the damaged letters are obviously <hi rend="italic">ṭhiputasa</hi></quote>.</note></app>
+<app loc="1">
+<lem><unclear>vase</unclear><supplied reason="lost">ṭhi</supplied><lb n="2" break="no"/>-<supplied reason="lost">putasa</supplied></lem>
+<rdg source="bib:Sankaranarayanan1967-1968_01">vase<gap reason="undefined" extent="unknown"/></rdg>
+<note>Sankaranarayanan makes clear in his n. 7 that <q>the damaged letters are obviously <hi rend="italic">ṭhiputasa</hi></q>.</note>
+</app>
 <app loc="2"><lem><unclear>siricaṁ</unclear>tam<unclear>u</unclear>lasa</lem>
 <rdg source="bib:Sankaranarayanan1967-1968_01">siricaṁtamulasa</rdg>
 </app>
