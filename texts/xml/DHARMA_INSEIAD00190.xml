@@ -198,6 +198,6 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 					<note/> 
 				</app> --></div><div type="translation"><ab>mahātalavarasa vajasāmikasa sevasabhā</ab></div><div type="commentary"><!--[Revision required]
 				<listApp>
-					</listApp> --></div><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:IAR"/><citedRange>1974-75: 5</citedRange></bibl>, <bibl><ptr target="bib:Krishna_Sastry1983"/>: <citedRange>186</citedRange></bibl> and in 
-					<bibl><ptr target="bib:ARDAM"/><citedRange>1974-75 (1985): 3</citedRange></bibl>. Re-edited here from published documentation.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Hanumantha_Rao1998"/>: <citedRange>116 (no. 1)</citedRange></bibl></listBibl></div></body></text>
+					</listApp> --></div><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:IAR"/><citedRange>1974-75: 5</citedRange></bibl>, <bibl><ptr target="bib:KrishnaSastry1983_01"/>: <citedRange>186</citedRange></bibl> and in 
+					<bibl><ptr target="bib:ARDAM"/><citedRange>1974-75 (1985): 3</citedRange></bibl>. Re-edited here from published documentation.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:HanumanthaRao+al1998_01"/>: <citedRange>116 (no. 1)</citedRange></bibl></listBibl></div></body></text>
 </TEI>

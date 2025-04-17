@@ -196,6 +196,6 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown"/><lb n="2"/>gahapatikasa tuṁmakasa bhayaya budhaṁṇikā<unclear>ya</unclear> <lb n="3"/>deyadhaṁmaṁ bhagavato mahāpugalasa <unclear>ti</unclear> </ab></div><!--<div type="apparatus"></div>--><div type="translation"><ab>(...) Meritorious gift to the Bhagavant, the Great Man, of
-					Budhaṇṇikā, the wife of the notable (<foreign xml:lang="pra-Latm">gahapati</foreign>) Tummaka.</ab></div><!--<div type="commentary"></div>--><div type="bibliography"><p>First published in <bibl><ptr target="bib:Baums2016"/>:
+					Budhaṇṇikā, the wife of the notable (<foreign xml:lang="pra-Latm">gahapati</foreign>) Tummaka.</ab></div><!--<div type="commentary"></div>--><div type="bibliography"><p>First published in <bibl><ptr target="bib:Baums+al2016_01"/>:
 					<citedRange>377-8</citedRange></bibl>.</p><!--  <listBibl type="secondary-bibliography"> </listBibl> --></div></body></text>
 </TEI>

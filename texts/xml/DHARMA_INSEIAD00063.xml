@@ -193,16 +193,16 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">pera</supplied><milestone unit="fragment" n="left"/><unclear>ma</unclear>ḍ<unclear>i</unclear>bha<unclear>ḍasa</unclear> <milestone unit="fragment" n="right"/><gap reason="lost" extent="unknown"/><lb n="2"/><gap reason="lost" extent="unknown"/><milestone unit="fragment" n="left"/>ch<unclear>ā</unclear>yāthaṁbho </ab></div><div type="apparatus"><listApp><app loc="1"><lem><supplied reason="lost">pera</supplied><unclear>ma</unclear>ḍ<unclear>i</unclear>bha<unclear>ḍasa</unclear></lem><rdg source="bib:Sircarm"><unclear>ma</unclear>ḍabha<unclear>ḍana</unclear></rdg><note>We restore after the parallels in EIAD <ref target="DHARMA_INSEIAD00064.xml">64</ref>, l. 4 and <ref target="DHARMA_INSEIAD00132.xml">132</ref>, l. 2.</note></app><app loc="2"><lem>ch<unclear>ā</unclear>yāthaṁbho</lem><rdg source="bib:Sircarm">ch<unclear>ā</unclear>yaṁthaṁbho</rdg></app></listApp></div><div type="translation"><p>Memorial pillar of ..., ... soldier [fighting under the leadership] of Peramaḷi ...</p></div><!--<div type="commentary">
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">pera</supplied><milestone unit="fragment" n="left"/><unclear>ma</unclear>ḍ<unclear>i</unclear>bha<unclear>ḍasa</unclear> <milestone unit="fragment" n="right"/><gap reason="lost" extent="unknown"/><lb n="2"/><gap reason="lost" extent="unknown"/><milestone unit="fragment" n="left"/>ch<unclear>ā</unclear>yāthaṁbho </ab></div><div type="apparatus"><listApp><app loc="1"><lem><supplied reason="lost">pera</supplied><unclear>ma</unclear>ḍ<unclear>i</unclear>bha<unclear>ḍasa</unclear></lem><rdg source="bib:Sircar1961-1962_03"><unclear>ma</unclear>ḍabha<unclear>ḍana</unclear></rdg><note>We restore after the parallels in EIAD <ref target="DHARMA_INSEIAD00064.xml">64</ref>, l. 4 and <ref target="DHARMA_INSEIAD00132.xml">132</ref>, l. 2.</note></app><app loc="2"><lem>ch<unclear>ā</unclear>yāthaṁbho</lem><rdg source="bib:Sircar1961-1962_03">ch<unclear>ā</unclear>yaṁthaṁbho</rdg></app></listApp></div><div type="translation"><p>Memorial pillar of ..., ... soldier [fighting under the leadership] of Peramaḷi ...</p></div><!--<div type="commentary">
 				<listApp>
 					<app loc="1">
 						<lem></lem>
 						<note></note>
 					</app>
 				</listApp>
-			</div>--><div type="bibliography"><p>First edited by <bibl><ptr target="bib:Sircarm"/>: 209 (I)</bibl>.
-					Re-edited here from published documentation.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:ARIE"/><citedRange>1954–55: B.8</citedRange></bibl><bibl><ptr target="bib:Rama_Rao1955b"/>:
-							<citedRange>42–3</citedRange></bibl><bibl><ptr target="bib:Srinivasan1979a"/>:
-							<citedRange>no. 60</citedRange></bibl><bibl><ptr target="bib:Raghunath2001"/>: <citedRange>161, 206
+			</div>--><div type="bibliography"><p>First edited by <bibl><ptr target="bib:Sircar1961-1962_03"/>: 209 (I)</bibl>.
+					Re-edited here from published documentation.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:ARIE"/><citedRange>1954–55: B.8</citedRange></bibl><bibl><ptr target="bib:Sircar1955_01"/>:
+							<citedRange>42–3</citedRange></bibl><bibl><ptr target="bib:Srinivasan+Sankaranarayanan1979_01"/>:
+							<citedRange>no. 60</citedRange></bibl><bibl><ptr target="bib:Raghunath2001_01"/>: <citedRange>161, 206
 							(no. 45)</citedRange></bibl></listBibl></div></body></text>
 </TEI>

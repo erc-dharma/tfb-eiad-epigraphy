@@ -223,14 +223,14 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 					</app>
 				</listApp>
 			</div>--><div type="bibliography"><!--[Revision required]--><!--Prose description of the history of the publication. Example of bibl element:  
-							<ptr target="eiad-bibl:Khan1969"/>: <citedRange>2</citedRange>--><p>First described by <bibl><ptr target="bib:Vogeld"/>:
+							<ptr target="eiad-bibl:Khan1969"/>: <citedRange>2</citedRange>--><p>First described by <bibl><ptr target="bib:Vogel1929-1930_01"/>:
 							<citedRange>14 (D2)</citedRange></bibl>, but without
 					edition of the text. This was first integrally published by
-							<bibl><ptr target="bib:Raghunath2001"/>:
+							<bibl><ptr target="bib:Raghunath2001_01"/>:
 							<citedRange>97-8 (no. 10B) = 101 (no.
 							10D)</citedRange></bibl>, with two entries for this
 					single inscription, both marred by numerous involuntary
 					errors. We re-edit the text here from the Leiden
-					estampage.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Srinivasan1979a"/>:
+					estampage.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Srinivasan+Sankaranarayanan1979_01"/>:
 							<citedRange>no. 34</citedRange></bibl></listBibl></div></body></text>
 </TEI>

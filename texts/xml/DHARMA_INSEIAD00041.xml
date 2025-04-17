@@ -215,8 +215,8 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 						<note>@loc = number of the line commented here in the note element.</note>
 					</app>
 				</listApp>
-			</div>--><div type="bibliography"><p>First described by <bibl><ptr target="bib:Vogeld"/>: <citedRange>14
+			</div>--><div type="bibliography"><p>First described by <bibl><ptr target="bib:Vogel1929-1930_01"/>: <citedRange>14
 							(D3)</citedRange></bibl>, but without edition of the text. We edit it for the
-					first time from the Leiden estampage.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Srinivasan1979a"/>:
+					first time from the Leiden estampage.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Srinivasan+Sankaranarayanan1979_01"/>:
 							<citedRange>no. 68</citedRange></bibl></listBibl></div></body></text>
 </TEI>

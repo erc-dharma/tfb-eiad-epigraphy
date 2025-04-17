@@ -177,7 +177,7 @@ Tsukamoto China 001
 	<bibl><ptr target="bib:Luders1912_01"/><citedRange unit="item">1340</citedRange></bibl>
 	<bibl><ptr target="bib:Aiyappan+Srinivasan1960_01"/><citedRange unit="item">50</citedRange></bibl>
 	<bibl><ptr target="bib:HanumanthaRao+al1998_01"/><citedRange>128</citedRange></bibl>
-	<bibl><ptr target="bib:Tsukamoto1996-2003_01"/><citedRange unit="volume">1</citedRange><citedRange unit="item">China 001</citedRange></bibl>
+	<bibl><ptr target="bib:Tsukamoto1996_01"/><citedRange unit="volume">1</citedRange><citedRange unit="item">China 001</citedRange></bibl>
            </listBibl>
         </div>
       </body>

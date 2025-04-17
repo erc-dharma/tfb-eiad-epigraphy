@@ -199,15 +199,15 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
       <graphic xml:id="EIAD0027_image-general" url="EIAD0027_0.JPG" n="1"/>
       <graphic xml:id="EIAD0027_image-text" url="EIAD0027_1.JPG" n="2"/>
    </facsimile>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/><gap reason="illegible" quantity="2" unit="character"/><lb n="2"/>Anekahi<milestone unit="fragment" n="right"/><supplied reason="lost">raṇakoṭigosatasahasahalasatasahasa</supplied> <lb n="3"/><supplied reason="lost">pa</supplied><milestone unit="fragment" n="left"/><unclear>d</unclear>āyi<unclear>sa</unclear> <gap reason="lost" extent="unknown"/></ab></div><div type="apparatus"><listApp><app loc="3"><lem><supplied reason="lost">pa</supplied><milestone unit="fragment" n="left"/><unclear>d</unclear>āyi<unclear>sa</unclear></lem><rdg source="bib:Sarkar1969">… yi …</rdg></app></listApp></div><div type="translation"><ab>... giver of many times tens of millions of (pieces of)
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/><gap reason="illegible" quantity="2" unit="character"/><lb n="2"/>Anekahi<milestone unit="fragment" n="right"/><supplied reason="lost">raṇakoṭigosatasahasahalasatasahasa</supplied> <lb n="3"/><supplied reason="lost">pa</supplied><milestone unit="fragment" n="left"/><unclear>d</unclear>āyi<unclear>sa</unclear> <gap reason="lost" extent="unknown"/></ab></div><div type="apparatus"><listApp><app loc="3"><lem><supplied reason="lost">pa</supplied><milestone unit="fragment" n="left"/><unclear>d</unclear>āyi<unclear>sa</unclear></lem><rdg source="bib:Sarkar1969-1970_01">… yi …</rdg></app></listApp></div><div type="translation"><ab>... giver of many times tens of millions of (pieces of)
 					gold(, hundreds of thousands of cows and hundreds of thousands of plows of land) ...</ab></div><!--<div type="commentary">
 				<listApp>
 					<app loc="lineNumber">
 						<note>@loc = number of the line commented here in the note element.</note>
 					</app>
 				</listApp>
-			</div>--><div type="bibliography"><p>First edited by <bibl><ptr target="bib:Sarkar1969"/>: <citedRange>177
-							(M21)</citedRange></bibl>. Re-edited here after autopsy of the fragment.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Tsukamoto1996"/>: <citedRange>no. Naga
-							39</citedRange></bibl><bibl><ptr target="bib:Raghunath2001"/>: <citedRange>110
+			</div>--><div type="bibliography"><p>First edited by <bibl><ptr target="bib:Sarkar1969-1970_01"/>: <citedRange>177
+							(M21)</citedRange></bibl>. Re-edited here after autopsy of the fragment.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Tsukamoto1996_01"/>: <citedRange>no. Naga
+							39</citedRange></bibl><bibl><ptr target="bib:Raghunath2001_01"/>: <citedRange>110
 							(no. 13D) = 127 (no. 24)</citedRange></bibl></listBibl></div></body></text>
 </TEI>

@@ -194,7 +194,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>Uvās<unclear>i</unclear>kāya Ehana<lb n="2" break="no"/>mātūyā sivalay<unclear>e</unclear> <lb n="3"/>dānaṁ </ab></div><div type="apparatus"><listApp><app loc="2"><lem>sivalay<unclear>e</unclear></lem><rdg source="bib:zoteroItem_G9CH6AGA">sivaliya</rdg><note>Cf. <foreign xml:lang="pra-Latn">sivalā</foreign> in EIAD <ref target="DHARMA_INSEIAD00317_inv-eiad.xml">317</ref>. What we
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>Uvās<unclear>i</unclear>kāya Ehana<lb n="2" break="no"/>mātūyā sivalay<unclear>e</unclear> <lb n="3"/>dānaṁ </ab></div><div type="apparatus"><listApp><app loc="2"><lem>sivalay<unclear>e</unclear></lem><rdg source="bib:ARIE">sivaliya</rdg><note>Cf. <foreign xml:lang="pra-Latn">sivalā</foreign> in EIAD <ref target="DHARMA_INSEIAD00317_inv-eiad.xml">317</ref>. What we
                             interpret as a vocalic marker <foreign>-e</foreign> is unsure, and might be an accident.
                             We expect an ending <foreign>-yā</foreign>,
                             but <foreign>-ye</foreign> could be

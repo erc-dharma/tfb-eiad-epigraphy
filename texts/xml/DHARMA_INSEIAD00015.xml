@@ -201,7 +201,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
       <graphic xml:id="EIAD0015_image-est-Leiden-N8" url="EIAD0015_1.jpg" n="2"/>
       <graphic xml:id="EIAD0015_image-text" url="EIAD0015_2.jpg" n="3"/>
    </facsimile>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>sidhaṁ mahārajasa Asamedhayājisa Anekahiraṁṇakoṭigosatasahasahalasata<lb n="2" break="no"/>sahasapadāyisa savathesu Apatihatasaṁkapasa vāsiṭhīputasa Ikhākusa <lb n="3"/>siricā<unclear>ṁ</unclear>tamūlasa duhutā raṁño sirivirapurisadatasa bhagini mahāsenāpatisa mahā<lb n="4" break="no"/>talavarasa mahādaṁḍanāyakasa dhanakānaṁ khaṁdavisākhaṁṇakasa bhayā mahātalavari <g>•</g><lb n="5"/>Aḍavicātisiri Apano Ubhayakulaṁ parināme<supplied reason="omitted">tu</supplied>na Atano ca Ubhayalokahitasukhāvahathanāya <lb n="6"/>bhagavato saṁmasa<supplied reason="omitted">ṁ</supplied>budhasa dhātuvaraparigahītasa mahācetīye Imaṁ khaṁbhaṁ patidhapaṁta ti <g>—</g><lb n="7"/>raṁño sirivirapurisadatasa saṁva <num value="6">6</num>vāpa <num value="6">6</num>diva <num value="10">10</num></ab></div><div type="apparatus"><listApp><app loc="5"><lem>parināme<supplied reason="omitted">tu</supplied>na</lem><rdg source="bib:Vogeld">parināme<unclear>tū</unclear>na</rdg></app><app loc="6"><lem>patidhapaṁta</lem><note>Emend <foreign xml:lang="pra-Latn">patiṭhāpitaṁ</foreign>, following <bibl><ptr target="bib:Vogeld"/><citedRange>n. 1</citedRange></bibl>.</note></app></listApp></div><div type="translation"><p n="1-6"> Success! Aḍavi-Cāntisirī — daughter of Great King
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>sidhaṁ mahārajasa Asamedhayājisa Anekahiraṁṇakoṭigosatasahasahalasata<lb n="2" break="no"/>sahasapadāyisa savathesu Apatihatasaṁkapasa vāsiṭhīputasa Ikhākusa <lb n="3"/>siricā<unclear>ṁ</unclear>tamūlasa duhutā raṁño sirivirapurisadatasa bhagini mahāsenāpatisa mahā<lb n="4" break="no"/>talavarasa mahādaṁḍanāyakasa dhanakānaṁ khaṁdavisākhaṁṇakasa bhayā mahātalavari <g>•</g><lb n="5"/>Aḍavicātisiri Apano Ubhayakulaṁ parināme<supplied reason="omitted">tu</supplied>na Atano ca Ubhayalokahitasukhāvahathanāya <lb n="6"/>bhagavato saṁmasa<supplied reason="omitted">ṁ</supplied>budhasa dhātuvaraparigahītasa mahācetīye Imaṁ khaṁbhaṁ patidhapaṁta ti <g>—</g><lb n="7"/>raṁño sirivirapurisadatasa saṁva <num value="6">6</num>vāpa <num value="6">6</num>diva <num value="10">10</num></ab></div><div type="apparatus"><listApp><app loc="5"><lem>parināme<supplied reason="omitted">tu</supplied>na</lem><rdg source="bib:Vogel1929-1930_01">parināme<unclear>tū</unclear>na</rdg></app><app loc="6"><lem>patidhapaṁta</lem><note>Emend <foreign xml:lang="pra-Latn">patiṭhāpitaṁ</foreign>, following <bibl><ptr target="bib:Vogel1929-1930_01"/><citedRange>n. 1</citedRange></bibl>.</note></app></listApp></div><div type="translation"><p n="1-6"> Success! Aḍavi-Cāntisirī — daughter of Great King
 					Vāsiṭṭhīputta Siri-Cāntamūla the Ikṣvāku, sacrificer of the
 					Aśvamedha, giver of many times tens of millions of (pieces
 					of) gold, hundreds of thousands of cows and hundreds of
@@ -222,10 +222,10 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 					</app>
 				</listApp>
 			</div>--><div type="bibliography"><!--[Revision required]--><!--Prose description of the history of the publication. Example of bibl element:  
-									<ptr target="eiad-bibl:Khan1969"/>: <citedRange>2</citedRange>--><p>First described and edited by <bibl><ptr target="bib:Vogeld"/>: <citedRange>13, 18
+									<ptr target="eiad-bibl:Khan1969"/>: <citedRange>2</citedRange>--><p>First described and edited by <bibl><ptr target="bib:Vogel1929-1930_01"/>: <citedRange>13, 18
 							(B2)</citedRange></bibl>. Re-edited here from the
-					Leiden estampage and after autopsy of the stone.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Srinivasan1979a"/>:
-							<citedRange>no. 10</citedRange></bibl><bibl><ptr target="bib:Tsukamoto1996"/>: <citedRange>no.
-							Naga 11</citedRange></bibl><bibl><ptr target="bib:Raghunath2001"/>:
+					Leiden estampage and after autopsy of the stone.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Srinivasan+Sankaranarayanan1979_01"/>:
+							<citedRange>no. 10</citedRange></bibl><bibl><ptr target="bib:Tsukamoto1996_01"/>: <citedRange>no.
+							Naga 11</citedRange></bibl><bibl><ptr target="bib:Raghunath2001_01"/>:
 							<citedRange>93-4 (no. 10)</citedRange></bibl></listBibl></div></body></text>
 </TEI>

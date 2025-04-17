@@ -205,7 +205,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 						<note>@loc = number of the line commented here in the note element.-\-></note>
 					</app>
 				</listApp>
-			</div>--><div type="bibliography"><p>Published by <bibl><ptr target="bib:Chenna_Reddy2008"/>:
+			</div>--><div type="bibliography"><p>Published by <bibl><ptr target="bib:Subrahmanyam+al2008_03"/>:
 							<citedRange>25 (d)</citedRange></bibl> without an edition; edited here from the published
 					estampage.</p><!--<listBibl type="secondary-bibliography"></listBibl>--></div></body></text>
 </TEI>

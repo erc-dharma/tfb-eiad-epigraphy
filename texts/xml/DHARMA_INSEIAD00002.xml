@@ -115,20 +115,11 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory_1-50.xlsx'
 	<div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209">
 	<!-- class:83225 = southern class Brāhmī, maturity:83209 = middle Brāhmī -->
 <p>
-<lb n="1"/>sidha<unclear>m·</unclear> <g type="dash">.</g> namo bhaga<unclear>vato</unclear> <unclear>raṁño</unclear> <unclear>vase</unclear><supplied reason="lost">ṭhi</supplied><lb 
-n="2" break="no"/>-<supplied reason="lost">putasa</supplied> <unclear>siri-caṁ</unclear>tam<unclear>u</unclear>lasa v<supplied reason="lost">i</supplied>ja<unclear>ya</unclear><lb n="3" break="no"/>-<unclear>saṁ</unclear>vacharaṁ pa<unclear>cama</unclear>ṁ <num value="5"><unclear>5</unclear></num> vās<supplied reason="lost">ā</supplied>ṇa<supplied reason="lost">ṁ</supplied> pa<unclear>khaṁ</unclear> 
-<lb n="4"/>padhama<unclear>ṁ</unclear> <num value="1"><unclear>1</unclear> </num>diva<unclear>saṁ</unclear> <supplied reason="lost">pa</supplied>dha<unclear>ma</unclear>ṁ <num value="1"><unclear>1</unclear></num> nakare gaṁ<lb 
-n="5" break="no"/><unclear>ji</unclear>kaṭ<unclear>e</unclear> vathavasa vanijaka<supplied reason="omitted">sa</supplied> saṁ<unclear>gh</unclear><supplied reason="lost">i</supplied><lb 
-n="6" break="no"/><unclear>la</unclear>sa bhariya<supplied reason="omitted">ya</supplied> ca vaṇijakiṇiya haṁ<lb 
-n="7" break="no"/>ghaya pu<unclear>t</unclear><supplied reason="lost">e</supplied>ṇa vaṇijakena cu<unclear>la-dha</unclear><supplied reason="lost">ṁ</supplied><lb 
-n="8" break="no"/><supplied reason="lost">ma</supplied>siri<unclear>na</unclear> <unclear>sa</unclear>bhariyakena sadhutuke<lb 
-n="9" break="no"/>na sasuṁh<unclear>ā</unclear>-vivāhe<unclear>na</unclear> samita-nat<unclear>u</unclear>ke<unclear>na</unclear> 
-<lb n="10"/><supplied reason="lost">sa</supplied>ha ca bhatuhi Apaṇo Āyu-vadha<unclear>n</unclear><supplied reason="lost">i</supplied><lb 
-n="11" break="no"/><unclear>kaṁ</unclear> <unclear>vija</unclear>ya-vejayikaṁ ca game tuva<gap reason="illegible" quantity="1" unit="character"/>
-<lb n="12"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>tura-maṁḍale Upedagiri-vadha<lb 
-n="13" break="no"/><supplied reason="lost">māne</supplied> <supplied reason="lost">bha</supplied><unclear>ga</unclear>vato budhasa saṁghasa 
-<lb n="14"/><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost">ma</supplied>ḍave selamay<unclear>o</unclear> <unclear>Āya</unclear><lb 
-n="15" break="no" style="text-align: center"/>ka-khaṁbho karito ti <g type="dash">.</g></p>
+<lb n="1"/>sidha<unclear>m·</unclear> <g type="dash">.</g> namo bhaga<unclear>vato</unclear> <unclear>raṁño</unclear> <unclear>vase</unclear><supplied reason="lost">ṭhi</supplied><lb n="2" break="no"/>-<supplied reason="lost">putasa</supplied> <unclear>siri-caṁ</unclear>tam<unclear>u</unclear>lasa v<supplied reason="lost">i</supplied>ja<unclear>ya</unclear><lb n="3" break="no"/>-<unclear>saṁ</unclear>vacharaṁ pa<unclear>cama</unclear>ṁ <num value="5"><unclear>5</unclear></num> vās<supplied reason="lost">ā</supplied>ṇa<supplied reason="lost">ṁ</supplied> pa<unclear>khaṁ</unclear> 
+<lb n="4"/>padhama<unclear>ṁ</unclear> <num value="1"><unclear>1</unclear> </num>diva<unclear>saṁ</unclear> <supplied reason="lost">pa</supplied>dha<unclear>ma</unclear>ṁ <num value="1"><unclear>1</unclear></num> nakare gaṁ<lb n="5" break="no"/><unclear>ji</unclear>kaṭ<unclear>e</unclear> vathavasa vanijaka<supplied reason="omitted">sa</supplied> saṁ<unclear>gh</unclear><supplied reason="lost">i</supplied><lb n="6" break="no"/><unclear>la</unclear>sa bhariya<supplied reason="omitted">ya</supplied> ca vaṇijakiṇiya haṁ<lb n="7" break="no"/>ghaya pu<unclear>t</unclear><supplied reason="lost">e</supplied>ṇa vaṇijakena cu<unclear>la-dha</unclear><supplied reason="lost">ṁ</supplied><lb n="8" break="no"/><supplied reason="lost">ma</supplied>siri<unclear>na</unclear> <unclear>sa</unclear>bhariyakena sadhutuke<lb n="9" break="no"/>na sasuṁh<unclear>ā</unclear>-vivāhe<unclear>na</unclear> samita-nat<unclear>u</unclear>ke<unclear>na</unclear> 
+<lb n="10"/><supplied reason="lost">sa</supplied>ha ca bhatuhi Apaṇo Āyu-vadha<unclear>n</unclear><supplied reason="lost">i</supplied><lb n="11" break="no"/><unclear>kaṁ</unclear> <unclear>vija</unclear>ya-vejayikaṁ ca game tuva<gap reason="illegible" quantity="1" unit="character"/>
+<lb n="12"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>tura-maṁḍale Upedagiri-vadha<lb n="13" break="no"/><supplied reason="lost">māne</supplied> <supplied reason="lost">bha</supplied><unclear>ga</unclear>vato budhasa saṁghasa 
+<lb n="14"/><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost">ma</supplied>ḍave selamay<unclear>o</unclear> <unclear>Āya</unclear><lb n="15" break="no" style="text-align: center"/>ka-khaṁbho karito ti <g type="dash">.</g></p>
 </div>
 <div type="apparatus">
 <listApp>

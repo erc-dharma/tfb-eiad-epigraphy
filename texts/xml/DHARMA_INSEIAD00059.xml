@@ -196,7 +196,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>sidha <g type="dash">.</g>mahādеviya Avidhavāya j<unclear>ī</unclear>vaputāya mahārajasi<unclear>r</unclear>i<unclear>E</unclear>hava<unclear>laca</unclear>tamulapati<unclear>ya</unclear> khaṁḍuvulāya kāritā ti <g type="dash">.</g></ab></div><div type="apparatus"><listApp><app loc="1"><lem>mahādеviya</lem><rdg source="bib:Narasimhaswami">mahādеvīya</rdg></app><app loc="1"><lem>mahāraja</lem><rdg source="bib:Narasimhaswami">mahārāja</rdg></app><app loc="1"><lem><unclear>E</unclear>hava<unclear>laca</unclear>tamula</lem><rdg source="bib:Narasimhaswami"><unclear>Ehavalacaṁtamu</unclear>la</rdg></app></listApp></div><div type="translation"><ab>Success! The Queen Khaṇḍuvulā, whose husband is alive, whose
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>sidha <g type="dash">.</g>mahādеviya Avidhavāya j<unclear>ī</unclear>vaputāya mahārajasi<unclear>r</unclear>i<unclear>E</unclear>hava<unclear>laca</unclear>tamulapati<unclear>ya</unclear> khaṁḍuvulāya kāritā ti <g type="dash">.</g></ab></div><div type="apparatus"><listApp><app loc="1"><lem>mahādеviya</lem><rdg source="bib:Narasimhaswami1951-1952_01">mahādеvīya</rdg></app><app loc="1"><lem>mahāraja</lem><rdg source="bib:Narasimhaswami1951-1952_01">mahārāja</rdg></app><app loc="1"><lem><unclear>E</unclear>hava<unclear>laca</unclear>tamula</lem><rdg source="bib:Narasimhaswami1951-1952_01"><unclear>Ehavalacaṁtamu</unclear>la</rdg></app></listApp></div><div type="translation"><ab>Success! The Queen Khaṇḍuvulā, whose husband is alive, whose
 					sons are alive, wife of Great King Siri-Ehavalacāntamūla,
 					caused (this image) to be made.</ab></div><!--<div type="commentary">
 				<listApp>
@@ -205,12 +205,12 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 					</app>
 				</listApp>
 			</div>--><div type="bibliography"><!--[Revision required]--><!--Prose description of the history of the publication. Example of bibl element:  
-									<ptr target="eiad-bibl:Khan1969"/>: <citedRange>2</citedRange>--><p>First described and edited by <bibl><ptr target="bib:Narasimhaswami"/></bibl>. Part of the text is currently partly covered by the
+									<ptr target="eiad-bibl:Khan1969"/>: <citedRange>2</citedRange>--><p>First described and edited by <bibl><ptr target="bib:Narasimhaswami1951-1952_01"/></bibl>. Part of the text is currently partly covered by the
 					board of the display, so besides autopsy and our own photos
 					of the stone, we rely for this re-edition on published
-					photographs.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:ARIE"/><citedRange>1940-41: B.470</citedRange></bibl><bibl><ptr target="bib:Srinivasan1979a"/>:
-							<citedRange>46</citedRange></bibl><bibl><ptr target="bib:Tsukamoto1996"/>: <citedRange>no. Naga
-							62</citedRange></bibl><bibl><ptr target="bib:Raghunath2001"/>:
-							<citedRange>157, 205 (no. 41)</citedRange></bibl><bibl><ptr target="bib:Soundara_Rajan2006"/>:
+					photographs.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:ARIE"/><citedRange>1940-41: B.470</citedRange></bibl><bibl><ptr target="bib:Srinivasan+Sankaranarayanan1979_01"/>:
+							<citedRange>46</citedRange></bibl><bibl><ptr target="bib:Tsukamoto1996_01"/>: <citedRange>no. Naga
+							62</citedRange></bibl><bibl><ptr target="bib:Raghunath2001_01"/>:
+							<citedRange>157, 205 (no. 41)</citedRange></bibl><bibl><ptr target="bib:SoundaraRajan2006_01"/>:
 							<citedRange>243</citedRange></bibl></listBibl></div></body></text>
 </TEI>

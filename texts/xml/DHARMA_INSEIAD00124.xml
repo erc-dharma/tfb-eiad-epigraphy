@@ -210,8 +210,8 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 						<note>@loc = number of the line commented here in the note element.</note>
 					</app>
 				</listApp>
-			</div>--><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Vogelc"/>: <citedRange>4
-							(E)</citedRange></bibl>, then re-edited by <bibl><ptr target="bib:Venkataramanayya1974b"/>:
-							<citedRange>(E)</citedRange></bibl>. Re-edited here from the published estampages.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:ARIE"/><citedRange>1944-45: no. B.94</citedRange></bibl><bibl><ptr target="bib:Tsukamoto1996"/>: <citedRange>no. Ghan
+			</div>--><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Vogel1947-1948_01"/>: <citedRange>4
+							(E)</citedRange></bibl>, then re-edited by <bibl><ptr target="bib:SomasekharaSarma1974_01"/>:
+							<citedRange>(E)</citedRange></bibl>. Re-edited here from the published estampages.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:ARIE"/><citedRange>1944-45: no. B.94</citedRange></bibl><bibl><ptr target="bib:Tsukamoto1996_01"/>: <citedRange>no. Ghan
 							5</citedRange></bibl></listBibl></div></body></text>
 </TEI>

@@ -232,8 +232,8 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 						<note><!-\-@loc = number of the line commented here in the note element.-\-></note>
 					</app>
 				</listApp>
-			</div>--><div type="bibliography"><p>First edited by <bibl><ptr target="bib:Raghunath2001"/>: <citedRange>85-6, 197 (no. 8A)</citedRange></bibl>;
-					wrongly identified by the same author with <bibl><ptr target="bib:Vogeld"/></bibl>’s C2 (our EIAD
+			</div>--><div type="bibliography"><p>First edited by <bibl><ptr target="bib:Raghunath2001_01"/>: <citedRange>85-6, 197 (no. 8A)</citedRange></bibl>;
+					wrongly identified by the same author with <bibl><ptr target="bib:Vogel1929-1930_01"/></bibl>’s C2 (our EIAD
 						<ref target="DHARMA_INSEIAD00005.xml">5</ref>). We re-edit the text
 					here from our own photos, and after autopsy of the
 					stone.</p><!--<listBibl type="secondary-bibliography">

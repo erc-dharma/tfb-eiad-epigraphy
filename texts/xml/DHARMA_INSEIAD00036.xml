@@ -200,7 +200,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
       <graphic xml:id="EIAD0036_image-est-Sircar" url="EIAD0036_1.jpg" n="2"/>
       <graphic xml:id="EIAD0036_image-text" url="EIAD0036_2.jpg" n="3"/>
    </facsimile>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/><gap reason="lost" extent="unknown"/><milestone unit="fragment" n="left"/>saha <space quantity="1" unit="character"/>vicayapure <space quantity="1" unit="character"/>maharajavaḍhamane <space quantity="1" unit="character"/>bha<unclear>ga</unclear><milestone unit="fragment" n="right"/><supplied reason="lost">vato</supplied> <gap reason="lost" extent="unknown"/><supplied reason="lost">pa</supplied><milestone unit="fragment" n="left"/><unclear>ti</unclear>ṭhavita </ab></div><div type="apparatus"><listApp><app loc="1"><lem>maharajavaḍhamane</lem><rdg source="bib:Sircara">maharajavaḍhamāne</rdg></app><app loc="1"><lem>bha<unclear>ga</unclear><supplied reason="lost">vato</supplied><gap reason="lost" extent="unknown"/><supplied reason="lost">pa</supplied><unclear>ti</unclear>ṭhavita</lem><rdg source="bib:Sircara">bha<unclear>ṭā</unclear>...........<unclear>ti</unclear>ṭhavita</rdg><note>In his notes 6 and 7, <bibl><ptr target="bib:Sircara"/></bibl> suggests that the word intended before the
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/><gap reason="lost" extent="unknown"/><milestone unit="fragment" n="left"/>saha <space quantity="1" unit="character"/>vicayapure <space quantity="1" unit="character"/>maharajavaḍhamane <space quantity="1" unit="character"/>bha<unclear>ga</unclear><milestone unit="fragment" n="right"/><supplied reason="lost">vato</supplied> <gap reason="lost" extent="unknown"/><supplied reason="lost">pa</supplied><milestone unit="fragment" n="left"/><unclear>ti</unclear>ṭhavita </ab></div><div type="apparatus"><listApp><app loc="1"><lem>maharajavaḍhamane</lem><rdg source="bib:Sircar1963-1964_01">maharajavaḍhamāne</rdg></app><app loc="1"><lem>bha<unclear>ga</unclear><supplied reason="lost">vato</supplied><gap reason="lost" extent="unknown"/><supplied reason="lost">pa</supplied><unclear>ti</unclear>ṭhavita</lem><rdg source="bib:Sircar1963-1964_01">bha<unclear>ṭā</unclear>...........<unclear>ti</unclear>ṭhavita</rdg><note>In his notes 6 and 7, <bibl><ptr target="bib:Sircar1963-1964_01"/></bibl> suggests that the word intended before the
 							lacuna may have been <foreign xml:lang="pra-Latn">bhaṭāraka</foreign> (Sanskrit <foreign xml:lang="san-Latn">bhaṭṭāraka</foreign>), while
 							the word after the lacuna was <foreign xml:lang="pra-Latn">patiṭhavita</foreign>. As
 							for the lacuna, <bibl><ptr target="bib:IAR"/><citedRange>1955-56: 24</citedRange></bibl> cites a reading <foreign xml:lang="pra-Latn">(bha)gavato mulache(ti)ya(ye)
@@ -218,13 +218,13 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							unreliable, we do not dare to restore the complete
 							lacuna on the sole evidence of this source.</note><!-- AG: I presume that the mentions of fragments and estampages will need to be interlinked as soon as we have EM's model. --></app></listApp></div><div type="translation"><p>(...), together with (...) established in Vijayapura, in the
 					Mahārāja’s estate (...) (of) the Bhagavant (...)</p></div><div type="commentary"><p n="1"><note>On the technical term <foreign xml:lang="pra-Latn">vaḍhamana</foreign>, which is difficult to
-							translate, see <bibl><ptr target="bib:Falk2013"/>:
+							translate, see <bibl><ptr target="bib:Falk2013_01"/>:
 									<citedRange>323-326</citedRange></bibl> who proposes to understand the term as
-							“plot, estate”.</note></p></div><div type="bibliography"><p>First edited by <bibl><ptr target="bib:Sircara"/>: <citedRange>19
+							“plot, estate”.</note></p></div><div type="bibliography"><p>First edited by <bibl><ptr target="bib:Sircar1963-1964_01"/>: <citedRange>19
 							(7.B.II)</citedRange></bibl>. We re-edit the text here from the published
 					estampages, and after autopsy of the remaining fragment of
-					the stone.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:ARIE"/><citedRange>1959-60: nos. B.94-95</citedRange></bibl><bibl><ptr target="bib:Srinivasan1979a"/>:
-							<citedRange>no. 65</citedRange></bibl><bibl><ptr target="bib:Tsukamoto1996"/>: <citedRange>nos.
-							Naga 60, 66</citedRange></bibl><bibl><ptr target="bib:Raghunath2001"/>: <citedRange>123
+					the stone.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:ARIE"/><citedRange>1959-60: nos. B.94-95</citedRange></bibl><bibl><ptr target="bib:Srinivasan+Sankaranarayanan1979_01"/>:
+							<citedRange>no. 65</citedRange></bibl><bibl><ptr target="bib:Tsukamoto1996_01"/>: <citedRange>nos.
+							Naga 60, 66</citedRange></bibl><bibl><ptr target="bib:Raghunath2001_01"/>: <citedRange>123
 							(no. 19), 190 (no. 74.1)</citedRange></bibl></listBibl></div></body></text>
 </TEI>

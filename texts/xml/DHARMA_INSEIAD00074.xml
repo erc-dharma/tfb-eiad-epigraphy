@@ -194,7 +194,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/><gap reason="lost" extent="unknown"/>rikasa koḍabudhisa bhariyāya <gap reason="illegible" quantity="2" unit="character"/>lāya <gap reason="lost" extent="unknown"/><lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">pa</supplied><milestone unit="fragment" n="left"/><unclear>tiṭhāv</unclear>itaṁ paḍima </ab></div><div type="apparatus"><listApp><app loc="1"><lem source="bib:Sircara">rikasa</lem><note>Sircar notes : “<quote>The intended word was
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/><gap reason="lost" extent="unknown"/>rikasa koḍabudhisa bhariyāya <gap reason="illegible" quantity="2" unit="character"/>lāya <gap reason="lost" extent="unknown"/><lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">pa</supplied><milestone unit="fragment" n="left"/><unclear>tiṭhāv</unclear>itaṁ paḍima </ab></div><div type="apparatus"><listApp><app loc="1"><lem source="bib:Sircar1963-1964_01">rikasa</lem><note>Sircar notes : “<quote>The intended word was
 								something like <hi rend="italic">nāgarika</hi>
 								(i.e. belonging to the city of Vijayapurī) or
 									<hi rend="italic">pāvārika</hi> (Sanskrit
@@ -209,9 +209,9 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 						<note>@loc = number of the line commented here in the note element.</note>
 					</app>
 				</listApp>
-			</div>--><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Sircara"/>: <citedRange>19
-							(7.B.I)</citedRange></bibl>. Re-edited here from the published estampages.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:ARIE"/><citedRange>1958-59: no. B.77</citedRange></bibl><bibl><ptr target="bib:Srinivasan1979a"/>:
-							<citedRange>no. 55</citedRange></bibl><bibl><ptr target="bib:Tsukamoto1996"/>: <citedRange>no. Naga
-							57</citedRange></bibl><bibl><ptr target="bib:Raghunath2001"/>: <citedRange>173
+			</div>--><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Sircar1963-1964_01"/>: <citedRange>19
+							(7.B.I)</citedRange></bibl>. Re-edited here from the published estampages.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:ARIE"/><citedRange>1958-59: no. B.77</citedRange></bibl><bibl><ptr target="bib:Srinivasan+Sankaranarayanan1979_01"/>:
+							<citedRange>no. 55</citedRange></bibl><bibl><ptr target="bib:Tsukamoto1996_01"/>: <citedRange>no. Naga
+							57</citedRange></bibl><bibl><ptr target="bib:Raghunath2001_01"/>: <citedRange>173
 							(no. 56)</citedRange></bibl></listBibl></div></body></text>
 </TEI>

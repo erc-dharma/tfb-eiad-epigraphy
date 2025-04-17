@@ -197,7 +197,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><div type="textpart" subtype="graffiti" n="a"><ab>vasusaṅghat<gap reason="illegible" quantity="1" unit="component"/> <gap reason="lost" extent="unknown"/></ab></div><div type="textpart" subtype="graffiti" n="b"><ab>siṁhavattiḥ stha </ab></div><div type="textpart" subtype="graffiti" n="c"><ab>Aṭhabhujasa </ab></div><div type="textpart" subtype="graffiti" n="d"><ab>devapura paviḥ laya.........ka........... raḥ....... masi </ab></div><div type="textpart" subtype="graffiti" n="e"><ab>bhaya </ab></div></div><div type="apparatus"><listApp><app loc="1"><lem>vasusaṅghat<gap reason="illegible" quantity="1" unit="component"/></lem><rdg source="bib:Raghunath2001">vasu
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><div type="textpart" subtype="graffiti" n="a"><ab>vasusaṅghat<gap reason="illegible" quantity="1" unit="component"/> <gap reason="lost" extent="unknown"/></ab></div><div type="textpart" subtype="graffiti" n="b"><ab>siṁhavattiḥ stha </ab></div><div type="textpart" subtype="graffiti" n="c"><ab>Aṭhabhujasa </ab></div><div type="textpart" subtype="graffiti" n="d"><ab>devapura paviḥ laya.........ka........... raḥ....... masi </ab></div><div type="textpart" subtype="graffiti" n="e"><ab>bhaya </ab></div></div><div type="apparatus"><listApp><app loc="1"><lem>vasusaṅghat<gap reason="illegible" quantity="1" unit="component"/></lem><rdg source="bib:Raghunath2001_01">vasu
 							saṁghāt.</rdg></app></listApp></div><!--<div type="translation" xml:lang="eng">
 				<ab/>
 			</div>--><!--<div type="commentary">
@@ -206,9 +206,9 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 						<note>@loc = number of the line commented here in the note element.</note>
 					</app>
 				</listApp>
-			</div>--><div type="bibliography"><p>First edited by <bibl><ptr target="bib:Raghunath2001"/>: <citedRange>166
+			</div>--><div type="bibliography"><p>First edited by <bibl><ptr target="bib:Raghunath2001_01"/>: <citedRange>166
 							(49), 189 (71)</citedRange></bibl>. Raghunath’s 71 seems to be a partial repetition of
 					his entry 49. Re-edited here from our own photographs after
-					autopsy of the stone.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:ARIE"/><citedRange>1959-60: B.79</citedRange></bibl><bibl><ptr target="bib:Soundara_Rajan2006"/>:
+					autopsy of the stone.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:ARIE"/><citedRange>1959-60: B.79</citedRange></bibl><bibl><ptr target="bib:SoundaraRajan2006_01"/>:
 							<citedRange>234</citedRange></bibl></listBibl></div></body></text>
 </TEI>

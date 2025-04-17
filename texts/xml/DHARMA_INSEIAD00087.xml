@@ -197,7 +197,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
    <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>dhamasa </ab></div><!--<div type="apparatus"></div>--><div type="translation"><ab>Of Dhama (Dharma).</ab></div><div type="commentary"><p><note>Same inscription dhamasa also found on EIAD <ref target="DHARMA_INSEIAD00066.xml">66</ref> (NM 610) as well as
 							an Amaravati inscription (EIAD <ref target="DHARMA_INSEIAD00521.xml">521</ref>).</note></p><p><note>The wording of Raghunath 68 is ambiguous and
 							suggests he may be speaking of two inscriptions
-							under one entry.</note></p></div><div type="bibliography"><p>First edited and described by <bibl><ptr target="bib:ARIE"/><citedRange>1959-60: B.77</citedRange></bibl> and then by <bibl><ptr target="bib:Sarkarb"/>:
-							<citedRange>227</citedRange></bibl>. Re-edited here from published documentation.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Raghunath2001"/>: <citedRange>188
+							under one entry.</note></p></div><div type="bibliography"><p>First edited and described by <bibl><ptr target="bib:ARIE"/><citedRange>1959-60: B.77</citedRange></bibl> and then by <bibl><ptr target="bib:Sarkar1968-1971_01"/>:
+							<citedRange>227</citedRange></bibl>. Re-edited here from published documentation.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Raghunath2001_01"/>: <citedRange>188
 							(68)</citedRange></bibl></listBibl></div></body></text>
 </TEI>

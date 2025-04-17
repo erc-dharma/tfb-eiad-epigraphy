@@ -232,23 +232,23 @@
 					<!--<pc>:</pc>-->
 				</ab>
          </div>
-         <div type="apparatus"><listApp><app loc="2"><lem>raṁño</lem><rdg source="bib:Sarkara">raño</rdg></app><app loc="2-3"><lem>-satakaṁṇṇisa</lem><rdg source="bib:Sarkara">-satakaṇṇisa</rdg></app><app loc="3-4"><lem>vesakhapuṇima</lem><rdg source="bib:Sarkara">vesākhapuṇima</rdg></app></listApp></div>
+         <div type="apparatus"><listApp><app loc="2"><lem>raṁño</lem><rdg source="bib:Sarkar1965-1966_01">raño</rdg></app><app loc="2-3"><lem>-satakaṁṇṇisa</lem><rdg source="bib:Sarkar1965-1966_01">-satakaṇṇisa</rdg></app><app loc="3-4"><lem>vesakhapuṇima</lem><rdg source="bib:Sarkar1965-1966_01">vesākhapuṇima</rdg></app></listApp></div>
          <div type="translation"><p>Homage to the Bhagavant, highest man! 6th year of King
 					Gotamīputta Siri-Vijayasātakaṇṇi, 4th fortnight of the hot
 					season, full-moon day of Vaiśākha.</p></div>
          <div type="commentary">
             <p n="4">
-               <note>According to <bibl><ptr target="bib:Raghunath2001"/></bibl>, two visarga-like dots at the end of the inscription serve to denote the end of the
+               <note>According to <bibl><ptr target="bib:Raghunath2001_01"/></bibl>, two visarga-like dots at the end of the inscription serve to denote the end of the
 						            	record, but we consider these accidental.</note>
             </p>
          </div>
          <div type="bibliography">
-            <p>First described and edited by <bibl><ptr target="bib:Sarkara"/></bibl>. Re-edited here on the basis of available documents and
+            <p>First described and edited by <bibl><ptr target="bib:Sarkar1965-1966_01"/></bibl>. Re-edited here on the basis of available documents and
 					after autopsy of the stone.</p>
             <listBibl type="primary"><bibl/></listBibl>
-            <listBibl type="secondary"><bibl><ptr target="bib:Sarkar1960"/>: <citedRange>84
-							(postcript by editor)</citedRange></bibl><bibl><ptr target="bib:IAR"/><citedRange>1961-62: 77</citedRange></bibl><bibl><ptr target="bib:ARIE"/><citedRange>1962-63: no. B.147</citedRange></bibl><bibl><ptr target="bib:Tsukamoto1996"/>: <citedRange>no. Naga
-							69</citedRange></bibl><bibl><ptr target="bib:Raghunath2001"/>:
+            <listBibl type="secondary"><bibl><ptr target="bib:Sarkar1960_01"/>: <citedRange>84
+							(postcript by editor)</citedRange></bibl><bibl><ptr target="bib:IAR"/><citedRange>1961-62: 77</citedRange></bibl><bibl><ptr target="bib:ARIE"/><citedRange>1962-63: no. B.147</citedRange></bibl><bibl><ptr target="bib:Tsukamoto1996_01"/>: <citedRange>no. Naga
+							69</citedRange></bibl><bibl><ptr target="bib:Raghunath2001_01"/>:
 							<citedRange>67-8 (no. 1)</citedRange></bibl></listBibl>
          </div>
       </body>

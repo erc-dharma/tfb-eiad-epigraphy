@@ -193,13 +193,13 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>sidhaṁ vaṁ<unclear>ma</unclear>ṇakamātuya <unclear>kī</unclear>ṭanikāya deyadhaṁ<supplied reason="lost">maṁ</supplied> <gap reason="lost" quantity="5" unit="character"/></ab></div><div type="apparatus"><listApp><app loc="1"><lem>sidhaṁ</lem><rdg source="bib:Chenna_Reddy2008">sidham</rdg></app><app loc="1"><lem>vaṁ<unclear>ma</unclear>ṇakamātuya</lem><rdg source="bib:Chenna_Reddy2008">vamanaka
-								matam<gap reason="illegible" quantity="1" unit="component"/></rdg></app><app loc="1"><lem><unclear>kī</unclear>ṭanikāya</lem><rdg source="bib:Chenna_Reddy2008">tapikāya</rdg></app><app loc="1"><lem>deyadhaṁ<gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">maṁ</supplied><gap reason="lost" quantity="5" unit="character"/></lem><rdg source="bib:Chenna_Reddy2008">deyadha
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>sidhaṁ vaṁ<unclear>ma</unclear>ṇakamātuya <unclear>kī</unclear>ṭanikāya deyadhaṁ<supplied reason="lost">maṁ</supplied> <gap reason="lost" quantity="5" unit="character"/></ab></div><div type="apparatus"><listApp><app loc="1"><lem>sidhaṁ</lem><rdg source="bib:Subrahmanyam+al2008_03">sidham</rdg></app><app loc="1"><lem>vaṁ<unclear>ma</unclear>ṇakamātuya</lem><rdg source="bib:Subrahmanyam+al2008_03">vamanaka
+								matam<gap reason="illegible" quantity="1" unit="component"/></rdg></app><app loc="1"><lem><unclear>kī</unclear>ṭanikāya</lem><rdg source="bib:Subrahmanyam+al2008_03">tapikāya</rdg></app><app loc="1"><lem>deyadhaṁ<gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">maṁ</supplied><gap reason="lost" quantity="5" unit="character"/></lem><rdg source="bib:Subrahmanyam+al2008_03">deyadha
 								<supplied reason="lost">ma</supplied></rdg><note>In the light of the remaining space, and the
 							parallel in EIAD <ref target="DHARMA_INSEIAD00109.xml">109</ref>,
 							the following word might tentatively be
 							reconstructed as <foreign xml:lang="pra-Latn"><supplied reason="lost">pādasaṁghāḍā</supplied></foreign>.</note></app></listApp></div><div type="translation"><ab>Success! (...) pious gift of Kīṭanikā, the mother of
-					Vaṁmanaka.</ab></div><!--<div type="commentary"></div>--><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Chenna_Reddy2008"/>:
+					Vaṁmanaka.</ab></div><!--<div type="commentary"></div>--><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Subrahmanyam+al2008_03"/>:
 							<citedRange>38 (13)</citedRange></bibl>. Re-edited here from published documentation and
 					after autopsy of the stone.</p><!-- <listBibl type="secondary-bibliography"> </listBibl> --></div></body></text>
 </TEI>

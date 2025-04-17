@@ -191,13 +191,13 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>Ajaḷasiriya gāmikumāriya </ab></div><div type="apparatus"><listApp><app loc="1"><lem>Ajaḷasiriya</lem><rdg source="bib:Krishna_Sastry1983 eiad-bibl:Hanumantha_Rao1998">Ajanisiriya</rdg></app><app loc="1"><lem>gāmikumāriya</lem><rdg source="bib:Krishna_Sastry1983">game kumariya</rdg><rdg source="bib:Hanumantha_Rao1998">gāma kumariya</rdg></app></listApp></div><div type="translation"><ab>Ajanisiriya game kumariya</ab></div><!--<div type="commentary">
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>Ajaḷasiriya gāmikumāriya </ab></div><div type="apparatus"><listApp><app loc="1"><lem>Ajaḷasiriya</lem><rdg source="bib:Krishna_Sastry1983 eiad-bibl:Hanumantha_Rao1998">Ajanisiriya</rdg></app><app loc="1"><lem>gāmikumāriya</lem><rdg source="bib:KrishnaSastry1983_01">game kumariya</rdg><rdg source="bib:HanumanthaRao+al1998_01">gāma kumariya</rdg></app></listApp></div><div type="translation"><ab>Ajanisiriya game kumariya</ab></div><!--<div type="commentary">
 				[Revision required]
 				<listApp>
 					<app loc="lineNumber">
 						<note/>
 					</app>
 				</listApp> 
-			</div>--><div type="bibliography"><p>First described and edited in <bibl><ptr target="bib:ARDAM"/><citedRange>1976-77: 14, 17</citedRange></bibl> and by <bibl><ptr target="bib:Krishna_Sastry1983"/>: <citedRange>188</citedRange></bibl>.
-					Re-edited here from published documentation.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Hanumantha_Rao1998"/>: <citedRange>115 (no. 3)</citedRange></bibl></listBibl></div></body></text>
+			</div>--><div type="bibliography"><p>First described and edited in <bibl><ptr target="bib:ARDAM"/><citedRange>1976-77: 14, 17</citedRange></bibl> and by <bibl><ptr target="bib:KrishnaSastry1983_01"/>: <citedRange>188</citedRange></bibl>.
+					Re-edited here from published documentation.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:HanumanthaRao+al1998_01"/>: <citedRange>115 (no. 3)</citedRange></bibl></listBibl></div></body></text>
 </TEI>

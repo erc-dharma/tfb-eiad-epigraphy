@@ -210,9 +210,9 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
                         <note/>
                     </app>
                 </listApp>
-			</div>--><div type="bibliography"><p>First edited in <bibl><ptr target="bib:IAR"/><citedRange>1958-59: 8</citedRange></bibl>. Re-edited here after autopsy of the object.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Sarma1970"/>: <citedRange>2 (fig.
-							3)</citedRange></bibl><bibl><ptr target="bib:Srinivasan1979a"/>:
-							<citedRange>Ābhīras 3</citedRange></bibl><bibl><ptr target="bib:Raghunath2001"/>: <citedRange>165
-							(no. 48.1)</citedRange></bibl><bibl><ptr target="bib:Soundara_Rajan2006"/>:
+			</div>--><div type="bibliography"><p>First edited in <bibl><ptr target="bib:IAR"/><citedRange>1958-59: 8</citedRange></bibl>. Re-edited here after autopsy of the object.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Sarma1970_01"/>: <citedRange>2 (fig.
+							3)</citedRange></bibl><bibl><ptr target="bib:Srinivasan+Sankaranarayanan1979_01"/>:
+							<citedRange>Ābhīras 3</citedRange></bibl><bibl><ptr target="bib:Raghunath2001_01"/>: <citedRange>165
+							(no. 48.1)</citedRange></bibl><bibl><ptr target="bib:SoundaraRajan2006_01"/>:
 							<citedRange>225</citedRange></bibl></listBibl></div></body></text>
 </TEI>

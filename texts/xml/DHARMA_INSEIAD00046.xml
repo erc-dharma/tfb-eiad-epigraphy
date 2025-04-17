@@ -201,9 +201,9 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
       <graphic xml:id="EIAD0046_image-text-1" url="EIAD0046_3.jpg" n="4"/>
       <graphic xml:id="EIAD0046_image-text-2" url="EIAD0046_4.jpg" n="5"/>
    </facsimile>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>siddham· <g type="dash">.</g>namo bhagavato buddhasa mahārājasa <lb n="2"/>virūpakkhapattimahāsenaparigahitasa Agihotāgiṭhomavājape<lb n="3" break="no"/>yasamedhayājisa Anekahiraṁṇakoṭigosatasahasahalasatasaha<lb n="4" break="no"/><supplied reason="lost">sapadāy</supplied>isa savathesu Apatihatasaṁkappasa vāsiṭhīputtasa Ikkhā<supplied reason="lost">kūnaṁ</supplied> <lb n="5"/>siricaṁtamulasa sunhāya mahārajasa mā<unclear>ṭha</unclear>rīputtasa sirivīrapuri<lb n="6" break="no"/>sadat<supplied reason="lost">t</supplied>asa bhayyāya mahādevīya <unclear>bhaṭṭ</unclear>i<supplied reason="lost">devāya</supplied> deyadhaṁma Imaṁ savajātaniyuto <lb n="7"/>vihāro Acariyānaṁ bahusutiyānaṁ patiṭṭhapito raṁño vāsiṭhīputtasa Ikkhākūnaṁ <lb n="8"/>siriEhuvulacatamūlasa saṁvacharaṁ bitiyaṁ gimhapakkhaṁ chaṭhaṁ <num value="6">6</num>divasaṁ dasamaṁ <num value="10">10</num><g type="dash">.</g></ab></div><div type="apparatus"><listApp><app loc="2"><lem>virūpakkhapati-</lem><rdg source="bib:Vogelb">virūpakkhapatti-</rdg></app><app loc="2-3"><lem>Agihotāgiṭhomavājapeyasamedhayājisa</lem><rdg source="bib:Vogelb">Agihot<supplied reason="omitted">ā</supplied>giṭhomavājapey<supplied reason="omitted">ā</supplied>samedhayājisa</rdg></app><app loc="4"><lem>Ikkhā<supplied reason="lost">kūnaṁ</supplied></lem><rdg source="bib:Vogelb">Ikkhā<supplied reason="omitted">kunaṁ</supplied></rdg><note>Both reconstructions are possible, but ours is
-							supported internally (l. 7). </note></app><app loc="6"><lem>-dat<supplied reason="lost">t</supplied>asa</lem><rdg source="bib:Vogelb">-dattasa</rdg></app><app loc="6"><lem><unclear>bhaṭṭ</unclear>i<supplied reason="lost">devāya</supplied></lem><rdg source="bib:Vogelb"><unclear>bhaṭṭidevāya</unclear></rdg><note>Vogel's readinh does not distinguish clearly
-							between damaged and reconstructed akṣaras.</note></app><app loc="7"><lem>raṁño</lem><rdg source="bib:Vogelb">raño</rdg></app></listApp></div><div type="translation"><p n="1"> Success! Homage to the Bhagavant, the Buddha. </p><p n="1-7"> The Queen
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>siddham· <g type="dash">.</g>namo bhagavato buddhasa mahārājasa <lb n="2"/>virūpakkhapattimahāsenaparigahitasa Agihotāgiṭhomavājape<lb n="3" break="no"/>yasamedhayājisa Anekahiraṁṇakoṭigosatasahasahalasatasaha<lb n="4" break="no"/><supplied reason="lost">sapadāy</supplied>isa savathesu Apatihatasaṁkappasa vāsiṭhīputtasa Ikkhā<supplied reason="lost">kūnaṁ</supplied> <lb n="5"/>siricaṁtamulasa sunhāya mahārajasa mā<unclear>ṭha</unclear>rīputtasa sirivīrapuri<lb n="6" break="no"/>sadat<supplied reason="lost">t</supplied>asa bhayyāya mahādevīya <unclear>bhaṭṭ</unclear>i<supplied reason="lost">devāya</supplied> deyadhaṁma Imaṁ savajātaniyuto <lb n="7"/>vihāro Acariyānaṁ bahusutiyānaṁ patiṭṭhapito raṁño vāsiṭhīputtasa Ikkhākūnaṁ <lb n="8"/>siriEhuvulacatamūlasa saṁvacharaṁ bitiyaṁ gimhapakkhaṁ chaṭhaṁ <num value="6">6</num>divasaṁ dasamaṁ <num value="10">10</num><g type="dash">.</g></ab></div><div type="apparatus"><listApp><app loc="2"><lem>virūpakkhapati-</lem><rdg source="bib:Vogel1931-1932_01">virūpakkhapatti-</rdg></app><app loc="2-3"><lem>Agihotāgiṭhomavājapeyasamedhayājisa</lem><rdg source="bib:Vogel1931-1932_01">Agihot<supplied reason="omitted">ā</supplied>giṭhomavājapey<supplied reason="omitted">ā</supplied>samedhayājisa</rdg></app><app loc="4"><lem>Ikkhā<supplied reason="lost">kūnaṁ</supplied></lem><rdg source="bib:Vogel1931-1932_01">Ikkhā<supplied reason="omitted">kunaṁ</supplied></rdg><note>Both reconstructions are possible, but ours is
+							supported internally (l. 7). </note></app><app loc="6"><lem>-dat<supplied reason="lost">t</supplied>asa</lem><rdg source="bib:Vogel1931-1932_01">-dattasa</rdg></app><app loc="6"><lem><unclear>bhaṭṭ</unclear>i<supplied reason="lost">devāya</supplied></lem><rdg source="bib:Vogel1931-1932_01"><unclear>bhaṭṭidevāya</unclear></rdg><note>Vogel's readinh does not distinguish clearly
+							between damaged and reconstructed akṣaras.</note></app><app loc="7"><lem>raṁño</lem><rdg source="bib:Vogel1931-1932_01">raño</rdg></app></listApp></div><div type="translation"><p n="1"> Success! Homage to the Bhagavant, the Buddha. </p><p n="1-7"> The Queen
 					Bhaṭidevā — daughter-in-law of Great King Vāsiṭṭhīputta
 					Siri-Cāntamūla of the Ikṣvākus, favored by Mahāsena who has
 					Virūpākṣa as his lord, sacrificer of the Agnihotra, the
@@ -216,7 +216,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 					with everything, for the Bahuśrutīya masters. </p><p n="7-8"> In the second
 					year of king Vāsiṭṭhīputta Siri-Ehuvulacāntamūla of the
 					Ikṣvākus, in the sixth fortnight of summer, on the tenth
-					day.</p></div><div type="commentary"><p><bibl><ptr target="bib:Vogelb"/>:
+					day.</p></div><div type="commentary"><p><bibl><ptr target="bib:Vogel1931-1932_01"/>:
 							<citedRange>62</citedRange></bibl> remarks that the inscription is remarkable
 						‘<quote>because the method of spelling shows an attempt
 						at greater accuracy than is the case in the other
@@ -235,12 +235,12 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 						is not universally followed; we find a single consonant
 						in <foreign>agiṭhoma</foreign>,
 							<foreign>savathesu</foreign>,
-							<foreign>saṁvaccharaṁ</foreign> [<hi rend="italic">sic</hi>], and in the genitive ending -<hi rend="italic">sa</hi>.</quote>’</p></div><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Vogelb"/>: <citedRange>62
-							(G2)</citedRange></bibl>. Edited again, from the EI estampage, by <bibl><ptr target="bib:Sircar1942"/>:
-							<citedRange>299</citedRange></bibl> and <bibl><ptr target="bib:Sircar1965"/>:
-							<citedRange>238-9</citedRange></bibl>. Re-edited here after autopsy of the stone.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Srinivasan1979a"/>:
-							<citedRange>no. 36</citedRange></bibl><bibl><ptr target="bib:Tsukamoto1996"/>: <citedRange>no. Naga
-							42</citedRange></bibl><bibl><ptr target="bib:Raghunath2001"/>:
-							<citedRange>133-4 (no. 29)</citedRange></bibl><bibl><ptr target="bib:Soundara_Rajan2006"/>:
+							<foreign>saṁvaccharaṁ</foreign> [<hi rend="italic">sic</hi>], and in the genitive ending -<hi rend="italic">sa</hi>.</quote>’</p></div><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Vogel1931-1932_01"/>: <citedRange>62
+							(G2)</citedRange></bibl>. Edited again, from the EI estampage, by <bibl><ptr target="bib:Sircar1942_01"/>:
+							<citedRange>299</citedRange></bibl> and <bibl><ptr target="bib:Sircar1965_02"/>:
+							<citedRange>238-9</citedRange></bibl>. Re-edited here after autopsy of the stone.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Srinivasan+Sankaranarayanan1979_01"/>:
+							<citedRange>no. 36</citedRange></bibl><bibl><ptr target="bib:Tsukamoto1996_01"/>: <citedRange>no. Naga
+							42</citedRange></bibl><bibl><ptr target="bib:Raghunath2001_01"/>:
+							<citedRange>133-4 (no. 29)</citedRange></bibl><bibl><ptr target="bib:SoundaraRajan2006_01"/>:
 							<citedRange>163, 166</citedRange></bibl></listBibl></div></body></text>
 </TEI>

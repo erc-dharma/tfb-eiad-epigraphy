@@ -209,11 +209,11 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 						<note>@loc = number of the line commented here in the note element.</note>
 					</app>
 				</listApp>
-			</div>--><div type="bibliography"><p>First edited by <bibl><ptr target="bib:Sircara"/>: <citedRange>19-20
+			</div>--><div type="bibliography"><p>First edited by <bibl><ptr target="bib:Sircar1963-1964_01"/>: <citedRange>19-20
 							(7.B.III)</citedRange></bibl>. Re-edited here from our photos of the ASI
-					estampage.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:IAR"/><citedRange>1958-59: 6</citedRange></bibl><bibl><ptr target="bib:ARIE"/><citedRange>1959-60: no. B.92</citedRange></bibl><bibl><ptr target="bib:Srinivasan1979a"/>:
-							<citedRange>no. 66</citedRange></bibl><bibl><ptr target="bib:Tsukamoto1996"/>: <citedRange>no. Naga
-							67</citedRange></bibl><bibl><ptr target="bib:Raghunath2001"/>: <citedRange>124
-							(no. 20)</citedRange></bibl><bibl><ptr target="bib:Soundara_Rajan2006"/>:
+					estampage.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:IAR"/><citedRange>1958-59: 6</citedRange></bibl><bibl><ptr target="bib:ARIE"/><citedRange>1959-60: no. B.92</citedRange></bibl><bibl><ptr target="bib:Srinivasan+Sankaranarayanan1979_01"/>:
+							<citedRange>no. 66</citedRange></bibl><bibl><ptr target="bib:Tsukamoto1996_01"/>: <citedRange>no. Naga
+							67</citedRange></bibl><bibl><ptr target="bib:Raghunath2001_01"/>: <citedRange>124
+							(no. 20)</citedRange></bibl><bibl><ptr target="bib:SoundaraRajan2006_01"/>:
 							<citedRange>172</citedRange></bibl></listBibl></div></body></text>
 </TEI>

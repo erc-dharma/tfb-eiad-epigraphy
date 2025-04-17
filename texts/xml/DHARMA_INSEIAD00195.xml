@@ -204,8 +204,8 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 						<note></note>
 					</app> 
 				</listApp> 
-			</div>--><div type="bibliography"><p>Published in <bibl><ptr target="bib:Krishna_Sastry1983"/>:
-							<citedRange>166</citedRange></bibl> and again in <bibl><ptr target="bib:Hanumantha_Rao1998"/>: <citedRange>116 (no.
+			</div>--><div type="bibliography"><p>Published in <bibl><ptr target="bib:KrishnaSastry1983_01"/>:
+							<citedRange>166</citedRange></bibl> and again in <bibl><ptr target="bib:HanumanthaRao+al1998_01"/>: <citedRange>116 (no.
 							4)</citedRange></bibl>, both times without visual documentation that
 					would allow verification of the reading.</p><!--<listBibl type="secondary-bibliography">				
 </listBibl>--></div></body></text>

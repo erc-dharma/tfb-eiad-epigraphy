@@ -210,5 +210,5 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 						<note/>
 					</app>
 				</listApp>
-			</div>--><div type="bibliography"><p>First published by <bibl><ptr target="bib:Hanumantha_Rao1998"/>: <citedRange>125</citedRange></bibl>. Re-edited here from published documentation.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Ramachandra_Murthy2006a"/>: <citedRange>8, 11</citedRange></bibl></listBibl></div></body></text>
+			</div>--><div type="bibliography"><p>First published by <bibl><ptr target="bib:HanumanthaRao+al1998_01"/>: <citedRange>125</citedRange></bibl>. Re-edited here from published documentation.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:RamachandraMurthy2006_01"/>: <citedRange>8, 11</citedRange></bibl></listBibl></div></body></text>
 </TEI>

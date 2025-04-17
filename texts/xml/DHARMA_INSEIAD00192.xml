@@ -200,6 +200,6 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 				[Revision required]
 				<listApp>
 					</listApp>
-			</div>--><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:IAR"/><citedRange>(unknown year)</citedRange></bibl>, then by <bibl><ptr target="bib:Krishna_Sastry1983"/>: <citedRange>186-7</citedRange></bibl>
-					and by <bibl><ptr target="bib:Hanumantha_Rao1998"/>: <citedRange>116 (no. 2)</citedRange></bibl>. This is an inscription only reviewed in "Indian Archaeology". Re-edited here from published documentation.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Raghunath2001"/>: <citedRange>195 (no. 84)</citedRange></bibl></listBibl></div></body></text>
+			</div>--><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:IAR"/><citedRange>(unknown year)</citedRange></bibl>, then by <bibl><ptr target="bib:KrishnaSastry1983_01"/>: <citedRange>186-7</citedRange></bibl>
+					and by <bibl><ptr target="bib:HanumanthaRao+al1998_01"/>: <citedRange>116 (no. 2)</citedRange></bibl>. This is an inscription only reviewed in "Indian Archaeology". Re-edited here from published documentation.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Raghunath2001_01"/>: <citedRange>195 (no. 84)</citedRange></bibl></listBibl></div></body></text>
 </TEI>

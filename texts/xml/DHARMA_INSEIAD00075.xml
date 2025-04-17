@@ -195,12 +195,12 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/><unclear>pa</unclear>toyatakasa <lb n="2"/>Āvesanikasa <lb n="3"/><unclear>ta</unclear>mal<unclear>o</unclear>yakarasa <lb n="4"/>m<unclear>ū</unclear>labhutasa <lb n="5"/>chāyapaṭo </ab></div><div type="apparatus"><listApp><app loc="1"><lem><unclear>pa</unclear>toyatakasa</lem><rdg source="bib:Sircara">pa<unclear>va</unclear>yātakasa </rdg></app><app loc="3"><lem><unclear>ta</unclear>mal<unclear>o</unclear>yakarasa</lem><!--MS:
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/><unclear>pa</unclear>toyatakasa <lb n="2"/>Āvesanikasa <lb n="3"/><unclear>ta</unclear>mal<unclear>o</unclear>yakarasa <lb n="4"/>m<unclear>ū</unclear>labhutasa <lb n="5"/>chāyapaṭo </ab></div><div type="apparatus"><listApp><app loc="1"><lem><unclear>pa</unclear>toyatakasa</lem><rdg source="bib:Sircar1963-1964_01">pa<unclear>va</unclear>yātakasa </rdg></app><app loc="3"><lem><unclear>ta</unclear>mal<unclear>o</unclear>yakarasa</lem><!--MS:
                         This contradicts the edition above where we have
-                        "<unclear>ta</unclear>mal<unclear>o</unclear>yakarasa"--><rdg source="bib:Sircara">tamaṇiyakarasa</rdg><note>The first akṣara could also be read <foreign>na</foreign>.</note><!--MS: The lema is
+                        "<unclear>ta</unclear>mal<unclear>o</unclear>yakarasa"--><rdg source="bib:Sircar1963-1964_01">tamaṇiyakarasa</rdg><note>The first akṣara could also be read <foreign>na</foreign>.</note><!--MS: The lema is
                             currently <na>. Maybe this is a situation where we
                             should use the choice element, III.3 in
-                            cheatsheet.--></app><app loc="5"><lem>chāyapaṭo</lem><rdg source="bib:Sircara">chāyatha<unclear>bha</unclear></rdg></app></listApp></div><div type="translation"><ab>Memorial slab (<foreign xml:lang="pra-Latn">chāyāpaṭa</foreign>) of the <foreign xml:lang="pra-Latn">tamaloya</foreign>-maker (?) Mūlabhuta,
+                            cheatsheet.--></app><app loc="5"><lem>chāyapaṭo</lem><rdg source="bib:Sircar1963-1964_01">chāyatha<unclear>bha</unclear></rdg></app></listApp></div><div type="translation"><ab>Memorial slab (<foreign xml:lang="pra-Latn">chāyāpaṭa</foreign>) of the <foreign xml:lang="pra-Latn">tamaloya</foreign>-maker (?) Mūlabhuta,
 					artisan (<foreign xml:lang="pra-Latn">āvesanika</foreign>)
 					from (?) Patayataka.</ab></div><!--<div type="commentary">
 				<listApp>
@@ -208,11 +208,11 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 						<note>@loc = number of the line commented here in the note element.</note>
 					</app>
 				</listApp>
-			</div>--><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Sircara"/>: <citedRange>16
+			</div>--><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Sircar1963-1964_01"/>: <citedRange>16
 							(6.C.I)</citedRange></bibl>. Re-edited here from available documentation and
-					after autopsy of the stone.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:ARIE"/><citedRange>1958-59: no. B.82</citedRange></bibl><bibl><ptr target="bib:Srinivasan1979a"/>:
-							<citedRange>no. 58</citedRange></bibl><bibl><ptr target="bib:Settar1982b"/>:
-							<citedRange>204-5</citedRange></bibl><bibl><ptr target="bib:Raghunath2001"/>:
-							<citedRange>174-5 (no. 57)</citedRange></bibl><bibl><ptr target="bib:Soundara_Rajan2006"/>:
+					after autopsy of the stone.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:ARIE"/><citedRange>1958-59: no. B.82</citedRange></bibl><bibl><ptr target="bib:Srinivasan+Sankaranarayanan1979_01"/>:
+							<citedRange>no. 58</citedRange></bibl><bibl><ptr target="bib:Sarkar1982_01"/>:
+							<citedRange>204-5</citedRange></bibl><bibl><ptr target="bib:Raghunath2001_01"/>:
+							<citedRange>174-5 (no. 57)</citedRange></bibl><bibl><ptr target="bib:SoundaraRajan2006_01"/>:
 							<citedRange>192</citedRange></bibl></listBibl></div></body></text>
 </TEI>

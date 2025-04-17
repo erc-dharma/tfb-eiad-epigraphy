@@ -207,8 +207,8 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 								<ref target="DHARMA_INSEIAD00004.xml">EIAD 4, l. 1</ref> and
 								<ref target="DHARMA_INSEIAD00010.xml">EIAD 10, l. 1</ref>.
 						</note></app><app loc="3"><lem>saṁmasaṁbugasa</lem><note>The <foreign>ga</foreign> is a copying
-							mistake. Emend <foreign xml:lang="pra-Latn">-budhasa</foreign>.</note></app><app loc="4"><lem>hirañaṁkānaṁ</lem><rdg source="bib:Vogeld">hiraṁñakānaṁ</rdg><note>Emend <foreign xml:lang="pra-Latn">hiraṁñakānaṁ</foreign>.</note></app><app loc="4"><lem>khaṁdacalikikaṁmaṇakasa</lem><rdg source="bib:Vogeld">khaṁdacalikireṁmaṇaka
-								<supplied reason="lost">sa</supplied></rdg></app><app loc="7"><lem>sava</lem><rdg source="bib:Vogeld">saṁva</rdg></app></listApp></div><div type="translation"><p n="1-3"> Success! Homage to the Bhagavant, worshipped by the king(s)
+							mistake. Emend <foreign xml:lang="pra-Latn">-budhasa</foreign>.</note></app><app loc="4"><lem>hirañaṁkānaṁ</lem><rdg source="bib:Vogel1929-1930_01">hiraṁñakānaṁ</rdg><note>Emend <foreign xml:lang="pra-Latn">hiraṁñakānaṁ</foreign>.</note></app><app loc="4"><lem>khaṁdacalikikaṁmaṇakasa</lem><rdg source="bib:Vogel1929-1930_01">khaṁdacalikireṁmaṇaka
+								<supplied reason="lost">sa</supplied></rdg></app><app loc="7"><lem>sava</lem><rdg source="bib:Vogel1929-1930_01">saṁva</rdg></app></listApp></div><div type="translation"><p n="1-3"> Success! Homage to the Bhagavant, worshipped by the king(s)
 					of the gods, who completely realized Awakening, the
 					Omniscient One, who is compassionate with all beings, who
 					conquered and is released from lust, hate and delusion, the
@@ -228,10 +228,10 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 					</app>
 				</listApp>
 			</div>--><div type="bibliography"><!--[Revision required]--><!--Prose description of the history of the publication. Example of bibl element:  
-									<ptr target="eiad-bibl:Khan1969"/>: <citedRange>2</citedRange>--><p>First described and edited by <bibl><ptr target="bib:Vogeld"/>: <citedRange>13, 18-9
+									<ptr target="eiad-bibl:Khan1969"/>: <citedRange>2</citedRange>--><p>First described and edited by <bibl><ptr target="bib:Vogel1929-1930_01"/>: <citedRange>13, 18-9
 							(B4)</citedRange></bibl>. Re-edited here from the
-					Leiden estampage and after autopsy of the stone.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Srinivasan1979a"/>:
-							<citedRange>no. 12</citedRange></bibl><bibl><ptr target="bib:Tsukamoto1996"/>: <citedRange>no.
-							Naga 12</citedRange></bibl><bibl><ptr target="bib:Raghunath2001"/>:
+					Leiden estampage and after autopsy of the stone.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Srinivasan+Sankaranarayanan1979_01"/>:
+							<citedRange>no. 12</citedRange></bibl><bibl><ptr target="bib:Tsukamoto1996_01"/>: <citedRange>no.
+							Naga 12</citedRange></bibl><bibl><ptr target="bib:Raghunath2001_01"/>:
 							<citedRange>80-1 (no. 7)</citedRange></bibl></listBibl></div></body></text>
 </TEI>

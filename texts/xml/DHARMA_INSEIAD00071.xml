@@ -194,11 +194,11 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>magalaraṇava<unclear>tha</unclear>va<unclear>sa</unclear> <space quantity="1" unit="character"/>se<unclear>nā</unclear>pat<supplied reason="lost">i</supplied><unclear>sa</unclear> <gap reason="lost" extent="unknown"/><lb n="2"/><gap reason="illegible" quantity="1" unit="character"/>ṭapuṭasa patu<unclear>masa</unclear> bhaḍanaṁ pa <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown"/><lb n="3"/><unclear>chā</unclear>jākhaṁbho </ab></div><div type="apparatus"><listApp><app loc="2"><lem><gap reason="illegible" quantity="1" unit="character"/> ṭapuṭasa</lem><rdg source="bib:Sircara"><supplied reason="lost">ra</supplied>ṭapuṭasa</rdg></app><app loc="2"><lem>patu<unclear>masa</unclear></lem><rdg source="bib:Sircara">pata<unclear>tanaṁ</unclear></rdg></app><app loc="2"><lem>pa <gap reason="illegible" quantity="1" unit="character"/></lem><rdg source="bib:Sircara">pasā....</rdg><note>Sircar notes <quote>The intended word seems to be
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>magalaraṇava<unclear>tha</unclear>va<unclear>sa</unclear> <space quantity="1" unit="character"/>se<unclear>nā</unclear>pat<supplied reason="lost">i</supplied><unclear>sa</unclear> <gap reason="lost" extent="unknown"/><lb n="2"/><gap reason="illegible" quantity="1" unit="character"/>ṭapuṭasa patu<unclear>masa</unclear> bhaḍanaṁ pa <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown"/><lb n="3"/><unclear>chā</unclear>jākhaṁbho </ab></div><div type="apparatus"><listApp><app loc="2"><lem><gap reason="illegible" quantity="1" unit="character"/> ṭapuṭasa</lem><rdg source="bib:Sircar1963-1964_01"><supplied reason="lost">ra</supplied>ṭapuṭasa</rdg></app><app loc="2"><lem>patu<unclear>masa</unclear></lem><rdg source="bib:Sircar1963-1964_01">pata<unclear>tanaṁ</unclear></rdg></app><app loc="2"><lem>pa <gap reason="illegible" quantity="1" unit="character"/></lem><rdg source="bib:Sircar1963-1964_01">pasā....</rdg><note>Sircar notes <quote>The intended word seems to be
 									<hi rend="italic">pasāditānaṁ</hi> as in No.
 								1 above, though in the other record the word
 								comes before <hi rend="italic">bhaḍanaṁ</hi>.</quote> In light of <ref target="DHARMA_INSEIAD00070.xml">EIAD 70</ref> and <ref target="DHARMA_INSEIAD00072.xml">EIAD 72</ref>, it seems preferable to reconstruct <hi rend="italic">pa<supplied reason="lost">ditanaṁ</supplied></hi> or <hi rend="italic">pa<supplied reason="lost">ḍitanaṁ</supplied></hi>.
-						</note></app><app loc="3"><lem><unclear>chā</unclear>jākhaṁbho</lem><rdg source="bib:Sircara">..<unclear>yā</unclear>khaṁ<unclear>bho</unclear></rdg><note>Sircar notes that the lost akṣara is apparently
+						</note></app><app loc="3"><lem><unclear>chā</unclear>jākhaṁbho</lem><rdg source="bib:Sircar1963-1964_01">..<unclear>yā</unclear>khaṁ<unclear>bho</unclear></rdg><note>Sircar notes that the lost akṣara is apparently
 								<foreign>chā</foreign>, and we can recognise what is left of it.</note></app></listApp></div><div type="translation"><ab>Memorial pillar of the killed soldiers of the General
 					...ṭapuṭa Patuma, resident of Magalaraṇa.</ab></div><!--<div type="commentary">
 				<listApp>
@@ -206,9 +206,9 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 						<note>@loc = number of the line commented here in the note element.</note>
 					</app>
 				</listApp>
-			</div>--><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Sircara"/>: <citedRange>15
+			</div>--><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Sircar1963-1964_01"/>: <citedRange>15
 							(6.B.II)</citedRange></bibl>. Re-edited here from the estampage published by
-					Sircar.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:ARIE"/><citedRange>1956-57: no. B.32</citedRange></bibl><bibl><ptr target="bib:Srinivasan1979a"/>:
-							<citedRange>no. 63</citedRange></bibl><bibl><ptr target="bib:Raghunath2001"/>: <citedRange>171
+					Sircar.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:ARIE"/><citedRange>1956-57: no. B.32</citedRange></bibl><bibl><ptr target="bib:Srinivasan+Sankaranarayanan1979_01"/>:
+							<citedRange>no. 63</citedRange></bibl><bibl><ptr target="bib:Raghunath2001_01"/>: <citedRange>171
 							(no. 53)</citedRange></bibl></listBibl></div></body></text>
 </TEI>

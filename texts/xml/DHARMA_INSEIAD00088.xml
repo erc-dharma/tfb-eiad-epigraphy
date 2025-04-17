@@ -199,7 +199,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
       <p>First edited and described in <bibl><ptr target="bib:ARIE"/><citedRange>1959-60: B.80</citedRange></bibl>. Re-edited here from published
 						documentation.</p>
          <listBibl type="primary"><bibl/></listBibl>
-         <listBibl type="secondary"><bibl><ptr target="bib:Raghunath2001"/>:
+         <listBibl type="secondary"><bibl><ptr target="bib:Raghunath2001_01"/>:
 								<citedRange>188 (69)</citedRange></bibl></listBibl>
 								</div>
    </body>

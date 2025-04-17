@@ -245,10 +245,10 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 						<note>@loc = number of the line commented here in the note element.</note>
 					</app>
 				</listApp>
-			</div>--><div type="bibliography"><!--[Revision required]--><!--Prose description of the history of the publication. Example of bibl element:  <ptr target="eiad-bibl:Khan1969"/>: <citedRange>2</citedRange>--><p>First described by <bibl><ptr target="bib:Vogeld"/>:
+			</div>--><div type="bibliography"><!--[Revision required]--><!--Prose description of the history of the publication. Example of bibl element:  <ptr target="eiad-bibl:Khan1969"/>: <citedRange>2</citedRange>--><p>First described by <bibl><ptr target="bib:Vogel1929-1930_01"/>:
 							<citedRange>13 (A2)</citedRange></bibl>, but without
 					edition of the text. We edit the text for the first time,
 					based on the three sheets of the Leiden estampage and after
-					autopsy of two fragments of the stone.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Srinivasan1979a"/>:
+					autopsy of two fragments of the stone.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Srinivasan+Sankaranarayanan1979_01"/>:
 							<citedRange>no. 28</citedRange></bibl><bibl><ptr target="bib:ARIE"/><citedRange>1995-96: no. B.9</citedRange></bibl></listBibl></div></body></text>
 </TEI>

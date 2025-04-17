@@ -218,7 +218,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 						<note>@loc = number of the line commented here in the note element.</note>
 					</app>
 				</listApp>
-			</div>--><div type="bibliography"><p><bibl><ptr target="bib:Chhabraa"/>: <citedRange>147</citedRange></bibl> reported
+			</div>--><div type="bibliography"><p><bibl><ptr target="bib:Chhabra1959-1960_01"/>: <citedRange>147</citedRange></bibl> reported
 					that this inscription <cit><quote>is found in six or seven
 						versions, all broken fragments, not a single version
 						having been found in its entirety. It took me some hours
@@ -232,8 +232,8 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 						versions</quote></cit>. The three versions whose images were
 					published by Chhabra correspond to the three stelae we
 					documented. See also EIAD <ref target="DHARMA_INSEIAD00050-1.xml">50-1</ref> and <ref target="DHARMA_INSEIAD00050-3.xml">50-3</ref>.
-					Only a synthetic edition was published by <bibl><ptr target="bib:Chhabraa"/></bibl>. This version is edited here for the first time from
-					published documentation and after autopsy of the stone.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:IAR"/><citedRange>1956-57: 36</citedRange></bibl><bibl><ptr target="bib:ARIE"/><citedRange>1957-58: 3, no. B.5</citedRange></bibl><bibl><ptr target="bib:Srinivasan1979a"/>:
-							<citedRange>no. 41</citedRange></bibl><bibl><ptr target="bib:ARIE"/><citedRange>1995-96: no. B.10</citedRange></bibl><bibl><ptr target="bib:Raghunath2001"/>:
+					Only a synthetic edition was published by <bibl><ptr target="bib:Chhabra1959-1960_01"/></bibl>. This version is edited here for the first time from
+					published documentation and after autopsy of the stone.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:IAR"/><citedRange>1956-57: 36</citedRange></bibl><bibl><ptr target="bib:ARIE"/><citedRange>1957-58: 3, no. B.5</citedRange></bibl><bibl><ptr target="bib:Srinivasan+Sankaranarayanan1979_01"/>:
+							<citedRange>no. 41</citedRange></bibl><bibl><ptr target="bib:ARIE"/><citedRange>1995-96: no. B.10</citedRange></bibl><bibl><ptr target="bib:Raghunath2001_01"/>:
 							<citedRange>142-3 (no. 33)</citedRange></bibl></listBibl></div></body></text>
 </TEI>

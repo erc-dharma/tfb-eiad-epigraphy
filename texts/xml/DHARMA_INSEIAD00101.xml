@@ -193,13 +193,13 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>sidhaṁ <g type="dash">.</g>sāvaguṇi <gap reason="illegible" quantity="1" unit="character"/></ab></div><div type="apparatus"><listApp><app loc="1"><lem>sāvaguṇi <gap reason="illegible" quantity="1" unit="character"/></lem><rdg source="bib:Raghunath2001">sāvaguri</rdg><note>The last akṣara appears unfinished.</note></app></listApp></div><div type="translation"><ab>Success! ... all virtues ...</ab></div><!--<div type="commentary">
+   <text xml:space="preserve"><body><div type="edition" xml:lang="pra-Latn"><ab><lb n="1"/>sidhaṁ <g type="dash">.</g>sāvaguṇi <gap reason="illegible" quantity="1" unit="character"/></ab></div><div type="apparatus"><listApp><app loc="1"><lem>sāvaguṇi <gap reason="illegible" quantity="1" unit="character"/></lem><rdg source="bib:Raghunath2001_01">sāvaguri</rdg><note>The last akṣara appears unfinished.</note></app></listApp></div><div type="translation"><ab>Success! ... all virtues ...</ab></div><!--<div type="commentary">
 				<listApp>
 					<app loc="lineNumber">
 						<note>@loc = number of the line commented here in the note element.</note>
 					</app>
 				</listApp>
-			</div>--><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Raghunath2001"/>: <citedRange>193
+			</div>--><div type="bibliography"><p>First described and edited by <bibl><ptr target="bib:Raghunath2001_01"/>: <citedRange>193
 							(no. 82)</citedRange></bibl>. Re-edited here from the published estampage and
 					after autopsy of the stone.</p><!--<listBibl type="secondary-bibliography">
                     <bibl><ptr target="eiad-bibl:Raghunath2001"/>:

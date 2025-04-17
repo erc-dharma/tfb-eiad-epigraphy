@@ -211,6 +211,6 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
                     </app>
                 </listApp>
             </div>--><div type="bibliography"><p>Previously unpublished. Edited here from our photographs
-                    after autopsy of the stone.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Venkataramanayya1974b"/>:
+                    after autopsy of the stone.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:SomasekharaSarma1974_01"/>:
                             <citedRange>2</citedRange></bibl></listBibl></div></body></text>
 </TEI>
