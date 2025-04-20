@@ -195,7 +195,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="san-Latn"><ab><lb n="1"/><g>||</g>nāgārjunaśrī <g>||</g><g type="dextrorotatory-spiral"/></ab></div><!--<div type="apparatus">
+   <text xml:space="preserve"><body><div type="edition" xml:lang="san-Latn"><ab><lb n="1"/><g type="ddanda">.</g>nāgārjunaśrī <g type="ddanda">.</g><g type="dextrorotatory-spiral"/></ab></div><!--<div type="apparatus">
                 <app loc="lineNumber">
                     <lem/>
                     <rdg source="eiad-bibl:identifier"/>

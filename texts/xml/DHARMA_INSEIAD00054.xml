@@ -215,7 +215,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 							unemended reading, Sircar indicates <foreign xml:lang="san-Latn">-rttham ||</foreign> as
 							normalized text.</note></app><app loc="1"><lem><unclear>ś</unclear>loko</lem><rdg source="bib:Sircar1963-1964_01">ślokā</rdg><note>Sircar suggests emending <foreign xml:lang="san-Latn">ślokaḥ</foreign>.</note></app><app loc="1"><lem>samupārjjitaṁ</lem><rdg source="bib:Sircar1963-1964_01">samupārjjitaṁ |</rdg><note>Sircar wrongly takes an irrgularity in the stone as
 							a punctuation sign.</note></app><app loc="1"><lem>puṇyeṇa</lem><note>Understand <foreign xml:lang="san-Latn">puṇyena</foreign>, as suggested by
-							Sircar.</note></app><app loc="1"><lem>adhigacchatu <g type="dash">.</g></lem><rdg source="bib:Sircar1963-1964_01">adhigacchatu <g>||</g></rdg><note>Sircar wrongly sees here two slanting strokes
+							Sircar.</note></app><app loc="1"><lem>adhigacchatu <g type="dash">.</g></lem><rdg source="bib:Sircar1963-1964_01">adhigacchatu <g type="ddanda">.</g></rdg><note>Sircar wrongly sees here two slanting strokes
 							instead of one.</note></app></listApp></div><div type="translation"><p>Success! In the twenty-fourth year of Great King
 					Śrī-Ehavalacāntamūla of the Ikṣvākus, in the fourth
 					fortnight of the rainy season, on the fifth day. 
