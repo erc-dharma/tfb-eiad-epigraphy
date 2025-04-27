@@ -138,7 +138,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 </listBibl>
 <listBibl type="secondary">
 <bibl><ptr target="bib:ARIE1943-1945"/><citedRange unit="appendix">B 1944–45</citedRange><citedRange unit="item">94</citedRange></bibl>
-<bibl><ptr target="bib:Tsukamoto1996_01"/><citedRange unit="item">Ghan5</citedRange></bibl>
+<bibl><ptr target="bib:Tsukamoto1996_01"/><citedRange unit="item">Ghan 5</citedRange></bibl>
 </listBibl>
 </div>
 </body>
