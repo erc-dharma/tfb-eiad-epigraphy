@@ -132,12 +132,12 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 <div type="bibliography">
 <p>First described and edited by J.Ph. Vogel (<bibl rend="omitname"><ptr target="bib:Vogel1947-1948_01"/></bibl>); edited again by M. Somasekhara Sarma (<bibl><ptr target="bib:SomasekharaSarma1974_01"/></bibl>). Re-edited and translated by Arlo Griffiths &amp; Vincent Tournier, with contributions by Stefan Baums and Ingo Strauch, making use of photos of the published estampage photos, and published in 2017 on the experimental site <bibl><ptr target="bib:Griffiths+Tournier2017_01"/></bibl>. The XML source code from <bibl><ptr target="bib:Griffiths+Tournier2015-2025_01"/></bibl> was adapted for DHARMA by Arlo Griffiths &amp; Vincent Tournier in 2025.</p>
 <listBibl type="primary">
-<bibl><ptr target="bib:Vogel1947-1948_01"/><citedRange unit="page">4 (E)</citedRange><citedRange unit="item">E</citedRange></bibl>
+<bibl><ptr target="bib:Vogel1947-1948_01"/><citedRange unit="page">4</citedRange><citedRange unit="item">E</citedRange></bibl>
 <bibl><ptr target="bib:SomasekharaSarma1974_01"/><citedRange unit="page">3</citedRange><citedRange unit="item">E</citedRange></bibl>
 <bibl n="EIAD"><ptr target="bib:Griffiths+Tournier2017_01"/></bibl>
 </listBibl>
 <listBibl type="secondary">
-<bibl><ptr target="bib:ARIE1943-1945"/><citedRange unit="appendix">B 1944–45</citedRange><citedRange unit="item">94</citedRange></bibl>
+<bibl><ptr target="bib:ARIE1943-1945"/><citedRange unit="appendix">B/1944–45</citedRange><citedRange unit="item">94</citedRange></bibl>
 <bibl><ptr target="bib:Tsukamoto1996_01"/><citedRange unit="item">Ghan 5</citedRange></bibl>
 </listBibl>
 </div>
