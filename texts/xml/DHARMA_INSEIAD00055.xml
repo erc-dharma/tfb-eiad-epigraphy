@@ -140,7 +140,7 @@ n="14" break="no"/>sāye <space/> mahāsetīye <space/> mahācelakasa Eṭṭhas
 n="15" break="no"/>ttha-paddaggāma-patthe <space/> halaṁkkhettasa niyattāṇā bat<unclear>t</unclear>ī<supplied reason="lost">sa</supplied> 
 <pb n="4r"/><lb n="16"/><num value="32"><g type="numeral">30</g><g type="numeral">2</g></num> nidejaṁ <space/> <abbr>nipoli</abbr> <g type="ddanda">.</g> pithuṇḍassa <space/> Uttara-disāye va <lb 
 n="17"/>hatthi-vārī <space/> pachima-disāye <space/> puppha-kalase ha<lb n="18" 
-break="no"/>laṁkkhettasa niyattaṇa-catusaṭṭhi <num value="64"><g type="numeral">60</g><g type="g">4</g></num> <space/> nidejaṁ <abbr>nippoli</abbr> 
+break="no"/>laṁkkhettasa niyattaṇa-catusaṭṭhi <num value="64"><g type="numeral">60</g><g type="numeral">4</g></num> <space/> nidejaṁ <abbr>nippoli</abbr> 
 <pb n="4v"/><lb n="19"/>Avaraddārī <space/> cātusālassa <space/> halo bhikhu-bhogaṁ <space/> kātūṇa 
 <lb n="20"/>samya-dattaṁ Āṇattī <space/> mahātalavara Aggasūro <space/> saṁvacharaṁ 
 <lb n="21"/><space type="binding-hole"/>himā <num value="4">4</num> divasaṁ <num value="3">3</num> jeca <space/> Ettakā <space/> rājāṇo <space/> raja<pb n="5r" break="no"/><lb 
@@ -180,7 +180,7 @@ vā <space/> talavara-mahātalavarā vā jo <space/> Etassa <space/> halaṁ-bhi
 <lem>Ayandatāraka<supplied reason="omitted">ṁ</supplied></lem>
 <rdg source="bib:Falk1999-2000_01">Ayandatārakaṁ</rdg>
 </app>
-<app loc="14-15">
+<app loc="14">
 <lem>k<unclear>ū</unclear>lattha-paddaggāma-patthe</lem>
 <rdg source="bib:Falk1999-2000_01">kulatthapaṭṭaggāmapanthe</rdg>
 </app>
@@ -188,14 +188,16 @@ vā <space/> talavara-mahātalavarā vā jo <space/> Etassa <space/> halaṁ-bhi
 <rdg source="bib:Falk1999-2000_01">batī<unclear>sa</unclear></rdg>
 </app>
 <app loc="16">
-<lem>nidejaṁ <space/> nipoli</lem>
+<lem>nidejaṁ <space/> <abbr>nipoli</abbr></lem>
 <rdg source="bib:Falk1999-2000_01">ti dejaṁ <space/> ti poli</rdg>
 </app>
 <app loc="17">
 <lem>puppha-</lem>
 <rdg source="bib:Falk1999-2000_01">puppa-</rdg>
 <note>Cf. <foreign xml:lang="pra-Latn">puppa-</foreign> in <ref target="DHARMA_INSEIAD00053.xml">EIAD 53</ref>, l. 1. But it seems possible to read <foreign xml:lang="pra-Latn">puppha-</foreign> here.</note></app>
-<app loc="18"><lem>nidejaṁ nippoli</lem>
+<app loc="18">
+<lem>nidejaṁ <abbr>nippoli</abbr>
+</lem>
 <rdg source="bib:Falk1999-2000_01">ti dejaṁ ti ppoli</rdg></app>
 <app loc="21">
 <lem>raja-</lem>
@@ -203,10 +205,21 @@ vā <space/> talavara-mahātalavarā vā jo <space/> Etassa <space/> halaṁ-bhi
 </app>
 <app loc="22-23">
 <lem source="bib:Falk1999-2000_01">halaṁbhi<supplied reason="omitted">kkhu</supplied>bhogassa</lem>
-<note>The restoration of akṣara <foreign>kkhu</foreign> is imposed by <foreign xml:lang="pra-Latn">halo bhikhubhogaṁ</foreign> in l. 19.</note></app>
-<app loc="24"><lem>harāveti</lem><rdg source="bib:Falk1999-2000_01">hārāveti</rdg></app>
-<app loc="24"><lem>haraṁntaṁ</lem><rdg source="bib:Falk1999-2000_01">haraṁttaṁ</rdg></app>
-<app loc="25"><lem><unclear>paṁ</unclear>ca<unclear>ma</unclear>ha<unclear>pāta</unclear>k<unclear>e</unclear>ṇa</lem><rdg source="bib:Falk1999-2000_01"><gap reason="lost" quantity="2" unit="character"/> mahāpātareṇa</rdg></app><app loc="25"><lem>sa<unclear>ṁy</unclear>ujyatītt<unclear>i</unclear></lem><rdg source="bib:Falk1999-2000_01"><gap reason="lost" quantity="1" unit="character"/> ujjati ti</rdg><note>The last akṣara might also be read <foreign>ttī</foreign>. We in fact expect <foreign xml:lang="pra-Latn">ti</foreign>.</note>
+<note>The restoration of the <foreign>akṣara</foreign> <foreign>kkhu</foreign> is imposed by <foreign xml:lang="pra-Latn">halo bhikhu-bhogaṁ</foreign> in l. 19.</note></app>
+<app loc="24">
+<lem>harāveti</lem>
+<rdg source="bib:Falk1999-2000_01">hārāveti</rdg></app>
+<app loc="24">
+<lem>haraṁntaṁ</lem>
+<rdg source="bib:Falk1999-2000_01">haraṁttaṁ</rdg></app>
+<app loc="25">
+<lem><unclear>paṁ</unclear>ca<unclear>ma</unclear>hā<unclear>pāta</unclear>k<unclear>e</unclear>ṇa</lem>
+<rdg source="bib:Falk1999-2000_01"><gap reason="lost" quantity="2" unit="character"/> mahāpātareṇa</rdg>
+</app>
+<app loc="25">
+<lem>sa<unclear>ṁy</unclear>ujyatītt<unclear>i</unclear></lem>
+<rdg source="bib:Falk1999-2000_01"><gap reason="lost" quantity="1" unit="character"/> ujjati ti</rdg>
+<note>The last <foreign>akṣara</foreign> might also be read <foreign>ttī</foreign>. We in fact expect <foreign xml:lang="pra-Latn">ti</foreign>.</note>
 </app>
 </listApp>
 </div>
