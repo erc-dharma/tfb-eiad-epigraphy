@@ -217,7 +217,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory_1-50.xlsx'
 <p n="12">The name of the <foreign xml:lang="san-Latn">maṇḍala</foreign> ending in <foreign xml:lang="pra-Latn">-tura</foreign> is reminiscent of the village name <foreign xml:lang="pra-Latn">toḍatura</foreign> in EIAD <ref target="DHARMA_INSEIAD00031.xml">31</ref>, <ref target="DHARMA_INSEIAD00032.xml">32</ref> and <ref target="DHARMA_INSEIAD00033.xml">33</ref>.<!-- Lost in EIAD 90. --></p>
 </div>
 <div type="bibliography">
-<p>First edited by <bibl><ptr target="bib:Sankaranarayanan1967-1968_01"/></bibl>. Re-edited and translated by Arlo Griffiths &amp; Vincent Tournier, with contributions by Stefan Baums and Ingo Strauch, making use of photos of the ASI estampage, and published in 2017 on the experimental site <bibl><ptr target="bib:Griffiths+Tournier2017_01"/></bibl>. The XML source code from <bibl><ptr target="bib:Griffiths+Tournier2015-2017_01"/></bibl> was adapted for DHARMA by Arlo Griffiths &amp; Vincent Tournier in 2025.</p>
+<p>First edited by <bibl><ptr target="bib:Sankaranarayanan1967-1968_01"/></bibl>. Re-edited and translated by Arlo Griffiths &amp; Vincent Tournier, with contributions by Stefan Baums and Ingo Strauch, making use of photos of the ASI estampage, and published in 2017 on the experimental site <bibl><ptr target="bib:Griffiths+Tournier2017_01"/></bibl>. The XML source code from <bibl><ptr target="bib:Griffiths+Tournier2015-2025_01"/></bibl> was adapted for DHARMA by Arlo Griffiths &amp; Vincent Tournier in 2025.</p>
 <listBibl type="primary">
 <bibl n="S"><ptr target="bib:Sankaranarayanan1967-1968_01"/></bibl>
 <bibl n="EIAD"><ptr target="bib:Griffiths+Tournier2017_01"/></bibl>
