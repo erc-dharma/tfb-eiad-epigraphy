@@ -107,26 +107,58 @@ vāniyiniya <space/> nākacaṁpakāyā
 <milestone n="B" unit="zone"/><label xml:lang="eng">Below first Buddha</label>
 <gap reason="illegible" unit="character" quantity="2"/><unclear>pa</unclear>lakeṇa <space/> cadasirinā <space/> <gap reason="illegible" unit="character" quantity="2"/><!-- on est. Brugess one can guess dha ? or E ?; the s of sirinā is clear -->sirinā 
 <milestone n="C" unit="zone"/><label xml:lang="eng">Below second stūpa</label>
-dhanikā-s<unclear>e</unclear>ṭhanikāya <space/> budhila<!-- 
+dhutukā s<unclear>e</unclear>ṭhanikāya <space/> budhila<!-- 
 s[i]vanikāya] 
 s[e]ṭh[i]nikāya
 s<unclear>e</unclear>ṭh<unclear>i</unclear>nikāya Tsuk
-saṁvanikāya -->
-<milestone n="D" unit="zone" break="no"/><label xml:lang="eng">Below second Buddha</label>ya ca <space/> dhaña <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" unit="character" quantity="6"/>
+saṁvanikāya --><milestone n="D" unit="zone" break="no"/><label xml:lang="eng">Below second Buddha</label>ya ca <space/> dhaña <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" unit="character" quantity="6"/>
 <milestone n="E" unit="zone"/><label xml:lang="eng">Below third stūpa</label>
 Evaṁ <space/> U<unclear>ṇh</unclear>isa tahi <space/> niv<unclear>āṇa</unclear><milestone 
-n="F" unit="zone" break="no"/><label xml:lang="eng">Below third Buddha</label>magasa hetukā naṇana
-<!-- we had marked [tu] but tu seems clear on photo 761;
-I think we have vowel u also under the next consonantk, so hetukānuṇana
+n="F" unit="zone" break="no"/><label xml:lang="eng">Below third Buddha</label>-magasa hetu kātuṇa ni<!-- 
+we had marked [tu] but tu seems clear on photos 761 and 770;
+I think we have another tu after kā, so hetu kātuṇa or kātuṇaṁ; then we had na but ni also seems possible
   --><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" unit="character" quantity="1"/>
 </p>
 </div>
 <div type="apparatus">
 <listApp>
 <app loc="1">
-<lem>dhanikā-s<unclear>e</unclear>ṭhanikāya</lem>
+<lem>vāniyiniya</lem>
+<rdg source="bib:Sivaramamurti1942_01">vāniyiniyā</rdg>
+</app>
+<app loc="1">
+<lem>nākacaṁpakāyā</lem>
+<rdg source="bib:Sivaramamurti1942_01">nākacaṁpakiyā</rdg>
+</app>
+<app loc="1">
+<lem><unclear>pa</unclear>lakeṇa <space/> cadasirinā <space/> <gap reason="illegible" unit="character" quantity="2"/><!-- on est. Brugess one can guess dha ? or E ?; the s of sirinā is clear -->sirinā </lem>
+<rdg source="bib:Sivaramamurti1942_01"><gap reason="undefined" unit="character" quantity="4"/> cadasiri<unclear>sa</unclear> <gap reason="undefined" unit="character" quantity="3"/> siri <gap reason="undefined" unit="character" quantity="3"/></rdg>
+</app>
+<app loc="1">
+<lem>dhutukā s<unclear>e</unclear>ṭhanikāya</lem>
+<!-- or read saganikāya? -->
 <rdg source="bib:Sivaramamurti1942_01">dhanikasaṭhanikāya</rdg>
-<note>Sivaramamurti's reading is equally possible. <bibl><ptr target="bib:Tsukamoto1996-2003_01"/></bibl> proposed <foreign>dhanikas<unclear>e</unclear>ṭh<unclear>i</unclear>nikāya</foreign>. There definitely does not seem to be any vowel marker above <foreign>ṭha</foreign>.</note>
+<note>Sivaramamurti's reading <foreign>saṭhanikāya</foreign> is equally possible. <bibl><ptr target="bib:Tsukamoto1996-2003_01"/></bibl> proposed <foreign>dhanikas<unclear>e</unclear>ṭh<unclear>i</unclear>nikāya</foreign>. There definitely does not seem to be any vowel marker above <foreign>ṭha</foreign>.</note>
+</app>
+<app loc="1">
+<lem>dhaña <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" unit="character" quantity="6"/></lem>
+<rdg source="bib:Sivaramamurti1942_01">dhaña</rdg>
+</app>
+<app loc="1">
+<lem>Evaṁ</lem>
+<rdg source="bib:Sivaramamurti1942_01">dhamaṁ</rdg>
+</app>
+<app loc="1">
+<lem>U<unclear>ṇh</unclear>isa tahi</lem>
+<rdg source="bib:Sivaramamurti1942_01">Unisinhi</rdg>
+</app>
+<app loc="1">
+<lem>niv<unclear>āṇa</unclear>-</lem>
+<rdg source="bib:Sivaramamurti1942_01">nivide</rdg>
+</app>
+<app loc="1">
+<lem>hetu kātuṇa ni<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" unit="character" quantity="1"/></lem>
+<rdg source="bib:Sivaramamurti1942_01">hetukanantana</rdg>
 </app>
 </listApp>
 </div>
