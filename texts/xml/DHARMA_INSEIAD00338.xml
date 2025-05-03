@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- 
+338	Amar 86	frieze	1	27	118	18			
+MIA	Amaravati	CGM 256	
+Burgess 1887: 85 (29), pl. XLIII (3), LVIII. — Sivaramamurti 1942: 299 (108), IV E, 8.	
+Lüders 1912a: 154 (1292). — Kannan 2014: 212 (256). — Francis 2016: 147 (221).	
+Burgess 1887	erection of unisa		Measurements from Kannan. 	
+ -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+         	<title>Frieze from Amaravati</title>
+         	<respStmt>
+         		<resp>EpiDoc Encoding</resp>
+         		<persName ref="part:argr">
+         			<forename>Arlo</forename>
+         			<surname>Griffiths</surname>
+         		</persName>
+         	</respStmt>
+         	<respStmt>
+         		<resp>intellectual authorship of edition</resp>
+         		<persName ref="part:argr">
+         			<forename>Arlo</forename>
+         			<surname>Griffiths</surname>
+         		</persName>
+         		<persName ref="part:vito">
+         			<forename>Vincent</forename>
+         			<surname>Tournier</surname>
+         		</persName>
+         	</respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_INSEIAD00338</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                        Licence. To view a copy of the licence, visit
+                        https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                        Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                        California, 94041, USA.</p>
+               	<p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Vincent Tournier.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+      	<sourceDesc>
+      		<!-- only the handDesc can be filled in at this stage -->
+      		<msDesc>
+      			<!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+      			<msIdentifier>
+      				<repository>DHARMAbase</repository>
+      				<idno/>
+      				<!-- don't modify this -->
+      			</msIdentifier>
+      			<msContents>
+      				<!-- describe the intellectual content of an inscription -->
+      				<summary><!-- //// NOT MANDATORY  ////--></summary>
+      				<!-- offers the possibility to give a summary of the inscription's content -->
+      			</msContents>
+      			<physDesc>
+      				<handDesc>
+      					<p>Lettering typical of the 1st century CE.<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+      					<!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+      				</handDesc>
+      			</physDesc>
+      		</msDesc>
+      	</sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+      	<change when="2025-05-03" who="part:argr" status="draft">encoded the inscription</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+<body>
+<div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209">
+	<!-- class:83225 = southern class Brāhmī, maturity:83209 = middle Brāhmī -->
+<p>
+<lb n="1"/>
+<milestone n="A" unit="zone"/><label xml:lang="eng">Below first stūpa</label>
+vāniyiniya <space/> nākacaṁpakāyā 
+<milestone n="B" unit="zone"/><label xml:lang="eng">Below first Buddha</label>
+<gap reason="illegible" unit="character" quantity="2"/><unclear>pa</unclear>lakeṇa <space/> cadasirinā <space/> <gap reason="illegible" unit="character" quantity="2"/><!-- on est. Brugess one can guess dha ? or E ?; the s of sirinā is clear -->sirinā 
+<milestone n="C" unit="zone"/><label xml:lang="eng">Below second stūpa</label>
+dhanikā-s<unclear>e</unclear>ṭhanikāya <space/> budhila<!-- 
+s[i]vanikāya] 
+s[e]ṭh[i]nikāya
+s<unclear>e</unclear>ṭh<unclear>i</unclear>nikāya Tsuk
+saṁvanikāya -->
+<milestone n="D" unit="zone" break="no"/><label xml:lang="eng">Below second Buddha</label>ya ca <space/> dhaña <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" unit="character" quantity="6"/>
+<milestone n="E" unit="zone"/><label xml:lang="eng">Below third stūpa</label>
+Evaṁ <space/> U<unclear>ṇh</unclear>isa tahi <space/> niv<unclear>āṇa</unclear><milestone 
+n="F" unit="zone" break="no"/><label xml:lang="eng">Below third Buddha</label>magasa hetukā naṇana
+<!-- we had marked [tu] but tu seems clear on photo 761;
+I think we have vowel u also under the next consonantk, so hetukānuṇana
+  --><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" unit="character" quantity="1"/>
+</p>
+</div>
+<div type="apparatus">
+<listApp>
+<app loc="1">
+<lem>dhanikā-s<unclear>e</unclear>ṭhanikāya</lem>
+<rdg source="bib:Sivaramamurti1942_01">dhanikasaṭhanikāya</rdg>
+<note>Sivaramamurti's reading is equally possible. <bibl><ptr target="bib:Tsukamoto1996-2003_01"/></bibl> proposed <foreign>dhanikas<unclear>e</unclear>ṭh<unclear>i</unclear>nikāya</foreign>. There definitely does not seem to be any vowel marker above <foreign>ṭha</foreign>.</note>
+</app>
+</listApp>
+</div>
+<div type="translation" resp="part:argr part:vito">
+<p>.</p>
+</div>
+<div type="commentary">
+<p>.</p>     
+</div>
+<div type="bibliography">
+<p>Only partially deciphered in <bibl><ptr target="bib:Burgess1887_01"/></bibl>. First comprehensive attempt at decipherment in <bibl><ptr target="bib:Sivaramamurti1942_01"/></bibl>.<!-- slight difference of reading in Tsukamoto --> This digital edition by Arlo Griffiths &amp; Vincent Tournier from a published estampage and from photographs of the stone.</p>
+<listBibl type="primary">
+<bibl n="B"><ptr target="bib:Burgess1887_01"/><citedRange unit="page">85</citedRange><citedRange unit="plate">XLIII (3)</citedRange><citedRange unit="plate">LVIII (29)</citedRange></bibl>
+<bibl n="S"><ptr target="bib:Sivaramamurti1942_01"/><citedRange unit="page">299</citedRange><citedRange unit="item">108</citedRange></bibl>
+</listBibl>
+<listBibl type="secondary">
+<bibl><ptr target="bib:Luders1912_01"/><citedRange unit="page">154</citedRange><citedRange unit="item">1292</citedRange></bibl>
+<bibl><ptr target="bib:Tsukamoto1996-2003_01"/><citedRange unit="volume">I</citedRange><citedRange unit="item">Amar 86</citedRange></bibl>
+<bibl><ptr target="bib:Kannan2014_01"/><citedRange unit="page">212</citedRange><citedRange unit="item">256</citedRange></bibl>
+<bibl><ptr target="bib:Francis2016_01"/><citedRange unit="page">147</citedRange><citedRange unit="item">221</citedRange></bibl>
+</listBibl>
+<!-- 
+Burgess 1887: 85 (29), pl. XLIII (3), LVIII. — Sivaramamurti 1942: 299 (108), IV E, 8.	
+Lüders 1912a: 154 (1292). — Kannan 2014: 212 (256). — Francis 2016: 147 (221).	
+-->
+</div>
+</body>
+</text>
+</TEI>
