@@ -133,7 +133,7 @@ n="6" break="no"/>mitabadhavasa deyadhama
 <div type="bibliography">
 <p>Provisionally deciphered and interpreted by Alexander Cunningham (<bibl rend="omitname"><ptr target="bib:Cunningham1873_02"/></bibl>) based on the Mackenzie facsimile first published by James Prinsep (<bibl rend="omitname"><ptr target="bib:Prinsep1837_01"/></bibl>). This interpretation corrected on several points through without integral new reading by Heinrich Lüders (<bibl rend="omitname"><ptr target="bib:Luders1912_01"/></bibl>). Lüders' summary represented as a text edition in <bibl><ptr target="bib:Tsukamoto1996_01"/></bibl>. This digital edition by Arlo Griffiths &amp; Vincent Tournier combines what seem to be the most credible readings from previous scholars in the light of the published reproductions of the Mackenzie facsimile.</p>
 <listBibl type="primary">
-<bibl n="H"><ptr target="bib:Cunningham1873_02"/><citedRange unit="plate">261</citedRange><citedRange unit="plate">XCIX</citedRange><citedRange unit="item">IX</citedRange></bibl>
+<bibl n="H"><ptr target="bib:Cunningham1873_02"/><citedRange unit="page">261</citedRange><citedRange unit="plate">XCIX</citedRange><citedRange unit="item">IX</citedRange></bibl>
 <bibl n="T"><ptr target="bib:Tsukamoto1996_01"/><citedRange unit="volume">I</citedRange><citedRange unit="item">Amar 20</citedRange></bibl>
 </listBibl>
 <listBibl type="secondary">
