@@ -137,7 +137,7 @@ n="6" break="no"/>mitabadhavasa deyadhama
 <bibl n="T"><ptr target="bib:Tsukamoto1996_01"/><citedRange unit="volume">I</citedRange><citedRange unit="item">Amar 20</citedRange></bibl>
 </listBibl>
 <listBibl type="secondary">
-<bibl><ptr target="bib:Prinsep1837_01"/><citedRange unit="plate">218-219</citedRange><citedRange unit="plate">X</citedRange></bibl>
+<bibl><ptr target="bib:Prinsep1837_01"/><citedRange unit="page">218-219</citedRange><citedRange unit="plate">X</citedRange></bibl>
 <bibl><ptr target="bib:Cunningham1854_01"/><citedRange unit="plate">IX (3)</citedRange></bibl>
 <bibl><ptr target="bib:Luders1912_01"/><citedRange unit="page">142</citedRange><citedRange unit="item">1214</citedRange></bibl>
 <bibl><ptr target="bib:Francis2016_01"/><citedRange unit="page">164</citedRange><citedRange unit="item">254</citedRange></bibl>
