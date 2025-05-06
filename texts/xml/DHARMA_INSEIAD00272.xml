@@ -120,10 +120,14 @@ n="6" break="no"/>mitabadhavasa deyadhama
 <lem><unclear cert="low">vāni</unclear>ye<gap reason="illegible" unit="character" quantity="1"/>budhi<gap reason="illegible" unit="character" quantity="1"/></lem>
 <rdg source="bib:Tsukamoto1996_01"><unclear>vani</unclear>ya-budhisa</rdg>
 </app>
+<app loc="4">
+<lem>sa-bhari<unclear>ya</unclear><gap reason="illegible" unit="character" quantity="1"/> sa<unclear>puta</unclear>kasa</lem>
+<rdg source="bib:Tsukamoto1996_01">sabhariyakaputakasa</rdg>
+</app>
 </listApp>
 </div>
 <div type="translation" resp="part:argr part:vito">
-<p>The lamp pillar is the pious gift of ....</p>
+<p>The lamp pillar at the southern <foreign>āyāka</foreign> of the Great Shrine is the pious gift of ....</p>
 </div>
 <div type="commentary"/>
 <div type="bibliography">
