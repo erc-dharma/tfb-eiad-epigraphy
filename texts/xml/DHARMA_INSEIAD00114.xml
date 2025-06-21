@@ -12,7 +12,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 [3] Srinivasan & Sankaranarayanan no.: 
 [4] Tsukamoto no.: —
 [5] Lüders no.: 
-[6] Support : Āyaka pillar, lower fragment
+[6] Support : Āyāka pillar, lower fragment
 [7] (Faces:) Lines: 3
 [8] H: unavailable
 [9] W: 31.5
@@ -20,7 +20,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 [11] H: 13
 [12] W: 31.5
 [13] Language(s): MIA
-[14] Original locality: Phanigiri, western Āyaka platform of Mahāstūpa
+[14] Original locality: Phanigiri, western Āyāka platform of Mahāstūpa
 [15] Present locality: in situ
 [16] Primary bibliography: unpublished
 [17] Secondary bibliography: 
@@ -33,7 +33,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Āyaka pillar on western platform of
+            <title>Āyāka pillar on western platform of
 					Mahāstūpa at Phanigiri</title>
             <respStmt>
 		<resp>author of digital edition</resp>
@@ -68,7 +68,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <sourceDesc>
             <biblFull>
                <titleStmt>
-                  <title>Āyaka pillar on western platform of
+                  <title>Āyāka pillar on western platform of
 					Mahāstūpa at Phanigiri</title>
                   <principal>
                      <persName ref="part:argr">

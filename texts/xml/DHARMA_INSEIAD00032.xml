@@ -12,7 +12,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 [3] Srinivasan & Sankaranarayanan no.: 23
 [4] Tsukamoto no.: Jaga 3
 [5] Lüders no.: 1203
-[6] Support : Āyaka pillar
+[6] Support : Āyāka pillar
 [7] (Faces:) Lines: 7
 [8] H: 61
 [9] W: 40
@@ -25,14 +25,14 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 [16] Primary bibliography: Bühler 1882: 258-9 (II). — Burgess 1882: 55-6; 1887: 110-1 (2).
 [17] Secondary bibliography: Franke 1896: 601. — ARIE 1965-66: B.272. — Raghunath 2001: 119 (17A).
 [18] Visual documentation: Burgess 1887, plate LXII (2).
-[19] Substance of inscription: erection of 5 Āyaka pillars for welfare and happiness
+[19] Substance of inscription: erection of 5 Āyāka pillars for welfare and happiness
 [20] Remarks: 
 -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Āyaka pillar from Jaggayyapeta — reign of
+            <title>Āyāka pillar from Jaggayyapeta — reign of
 					Siri-Vīrapurisadatta, year 20</title>
             <respStmt>
 		<resp>author of digital edition</resp>
@@ -67,7 +67,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <sourceDesc>
             <biblFull>
                <titleStmt>
-                  <title>Āyaka pillar from Jaggayyapeta — reign of
+                  <title>Āyāka pillar from Jaggayyapeta — reign of
 					Siri-Vīrapurisadatta, year 20</title>
                   <principal>
                      <persName ref="part:argr">

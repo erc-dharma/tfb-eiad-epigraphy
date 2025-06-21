@@ -14,7 +14,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory_1-50.xlsx'
 [3] Srinivasan & Sankaranarayanan no.: 7
 [4] Tsukamoto no.: —
 [5] Lüders no.: 
-[6] Support : Āyaka pillar
+[6] Support : Āyāka pillar
 [7] (Faces:) Lines: 11
 [8] H: 218+
 [9] W: 54
@@ -23,7 +23,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory_1-50.xlsx'
 [12] W: 56+
 [13] Language(s): MIA
 [14] Original locality:  Nagarjunakonda Site-1, East side of the Mahācaitya
-[15] Present locality: NM, in 3 fragments: 678 (A), 289 (B), south Āyaka platform of
+[15] Present locality: NM, in 3 fragments: 678 (A), 289 (B), south Āyāka platform of
 reconstructed Mahāstūpa (C)
 [16] Primary bibliography: Baums et al. 2016: XX-XX.
 [17] Secondary bibliography: Vogel 1929-30a: 13 (A4).
@@ -37,7 +37,7 @@ reconstructed Mahāstūpa (C)
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Āyaka pillar from site 1 at Nagarjunakonda — reign of
+            <title>Āyāka pillar from site 1 at Nagarjunakonda — reign of
 					Siri-Vīrapurisadatta, year 6</title>
             <respStmt>
 		<resp>author of digital edition</resp>
@@ -72,7 +72,7 @@ reconstructed Mahāstūpa (C)
          <sourceDesc>
             <biblFull>
                <titleStmt>
-                  <title>Āyaka pillar from site 1 at Nagarjunakonda — reign of
+                  <title>Āyāka pillar from site 1 at Nagarjunakonda — reign of
 					Siri-Vīrapurisadatta, year 6</title>
                   <principal>
                      <persName ref="part:argr">

@@ -13,7 +13,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory_1-50.xlsx'
 [3] Srinivasan & Sankaranarayanan no.: 1
 [4] Tsukamoto no.: —
 [5] Lüders no.: 
-[6] Support : Āyaka pillar
+[6] Support : Āyāka pillar
 [7] (Faces:) Lines: 15
 [8] H: 265
 [9] W: 25
@@ -27,7 +27,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory_1-50.xlsx'
 [17] Secondary bibliography: ARIE 1936-37: 62, B.349. — Raghunath 2001: 69 (2).
 [18] Visual documentation: Est. ASI; Sankaranarayanan; Srinivasan & Sankaranarayanan (pl.
                         1).
-[19] Substance of inscription: erection of a stone Āyaka pillar
+[19] Substance of inscription: erection of a stone Āyāka pillar
 [20] Remarks: No plate in Raghunath 2001.
 
 
@@ -36,7 +36,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory_1-50.xlsx'
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Āyaka pillar from Rentala — reign of Vāsiṭṭhīputta Siri-Cāntamūla, year 5</title>
+            <title>Āyāka pillar from Rentala — reign of Vāsiṭṭhīputta Siri-Cāntamūla, year 5</title>
             <respStmt>
 		<resp>author of digital edition</resp>
 		<persName ref="part:argr">

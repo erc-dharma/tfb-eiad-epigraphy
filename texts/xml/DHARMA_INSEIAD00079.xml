@@ -12,7 +12,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 [3] Srinivasan & Sankaranarayanan no.: 69
 [4] Tsukamoto no.: Naga 48
 [5] Lüders no.: 
-[6] Support : Āyaka pillar, lower fragment
+[6] Support : Āyāka pillar, lower fragment
 [7] (Faces:) Lines: 3
 [8] H: 148
 [9] W: 33.5
@@ -33,7 +33,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Āyaka pillar from site 9 at Nagarjunakonda</title>
+            <title>Āyāka pillar from site 9 at Nagarjunakonda</title>
             <respStmt>
 		<resp>author of digital edition</resp>
 		<persName ref="part:argr">
@@ -67,7 +67,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <sourceDesc>
             <biblFull>
                <titleStmt>
-                  <title>Āyaka pillar from site 9 at Nagarjunakonda</title>
+                  <title>Āyāka pillar from site 9 at Nagarjunakonda</title>
                   <principal>
                      <persName ref="part:argr">
                         <forename>Arlo</forename>

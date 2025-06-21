@@ -12,7 +12,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 [3] Srinivasan & Sankaranarayanan no.: 
 [4] Tsukamoto no.: —
 [5] Lüders no.: 
-[6] Support : Āyaka frieze
+[6] Support : Āyāka frieze
 [7] (Faces:) Lines: 1
 [8] H: 33
 [9] W: 167
@@ -33,7 +33,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Āyaka frieze presumably from site 6 at Nagarjunakonda</title>
+            <title>Āyāka frieze presumably from site 6 at Nagarjunakonda</title>
             <respStmt>
 		<resp>author of digital edition</resp>
 		<persName ref="part:argr">
@@ -67,7 +67,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <sourceDesc>
             <biblFull>
                <titleStmt>
-                  <title>Āyaka frieze presumably from site 6 at Nagarjunakonda</title>
+                  <title>Āyāka frieze presumably from site 6 at Nagarjunakonda</title>
                   <principal>
                      <persName ref="part:argr">
                         <forename>Arlo</forename>

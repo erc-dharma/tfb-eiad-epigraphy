@@ -12,7 +12,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 [3] Srinivasan & Sankaranarayanan no.: —
 [4] Tsukamoto no.: —
 [5] Lüders no.: —
-[6] Support : Āyaka pillar
+[6] Support : Āyāka pillar
 [7] (Faces:) Lines: 6
 [8] H: 61
 [9] W: 26
@@ -33,7 +33,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Āyaka pillar from Jaggayyapeta</title>
+            <title>Āyāka pillar from Jaggayyapeta</title>
             <respStmt>
 		<resp>author of digital edition</resp>
 		<persName ref="part:argr">
@@ -67,7 +67,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <sourceDesc>
             <biblFull>
                <titleStmt>
-                  <title>Āyaka pillar from Jaggayyapeta</title>
+                  <title>Āyāka pillar from Jaggayyapeta</title>
                   <principal>
                      <persName ref="part:argr">
                         <forename>Arlo</forename>
@@ -195,5 +195,5 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 				</app>
 			</div>--><!--<div type="translation" xml:lang="eng">
 				<ab/>
-			</div>--><div type="commentary"><p>Except in a brief catalog entry, this fourth Āyaka pillar from Jaggayyapeta appears to be entirely unmentioned in the literature. What remains of the text is completely parallel to EIAD <ref target="DHARMA_INSEIAD00031.xml">31</ref>, <ref target="DHARMA_INSEIAD00032.xml">32</ref> and <ref target="DHARMA_INSEIAD00033.xml">33</ref>. The text being intact in those inscriptions, we refer to them for a translation.</p></div><div type="bibliography"><p>Unpublished. Edited here from our photographs.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Gupta2008_01"/>: <citedRange>52 (no. 316)</citedRange></bibl></listBibl></div></body></text>
+			</div>--><div type="commentary"><p>Except in a brief catalog entry, this fourth Āyāka pillar from Jaggayyapeta appears to be entirely unmentioned in the literature. What remains of the text is completely parallel to EIAD <ref target="DHARMA_INSEIAD00031.xml">31</ref>, <ref target="DHARMA_INSEIAD00032.xml">32</ref> and <ref target="DHARMA_INSEIAD00033.xml">33</ref>. The text being intact in those inscriptions, we refer to them for a translation.</p></div><div type="bibliography"><p>Unpublished. Edited here from our photographs.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Gupta2008_01"/>: <citedRange>52 (no. 316)</citedRange></bibl></listBibl></div></body></text>
 </TEI>
