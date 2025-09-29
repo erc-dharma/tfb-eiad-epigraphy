@@ -143,10 +143,11 @@ n="7"/>ladāsaṁṇakasa chāyā-thabh<unclear>o</unclear> thāpito <g type="do
 <p n="3-7">The memorial pillar of the Great General, Prince Elī Ehavūladāsaṇṇaka — son of the greatly beloved <supplied reason="explanation"><foreign>mahāvallabhikā</foreign></supplied> Yakhīlinikā, chief queen of the King Māṭharīputta Siri-Vīrapurisadatta of the Ikṣvākus — was erected.</p>
 </div>
 <div type="commentary">
-<p n="3"><term>gim<unclear>ha</unclear>ṇaṁ</term><note>The shape of <foreign>ha</foreign> is not regular. Cf. EIAD <ref target="DHARMA_INSEIAD029.xml">29</ref>, l. 3 and note.</note></p></div>
+<p n="3">The shape of <foreign>ha</foreign> in <term>gim<unclear>ha</unclear>ṇaṁ</term> is not regular. Cf. EIAD <ref target="DHARMA_INSEIAD00029.xml">29</ref>, l. 3 and note.</p>
+</div>
 <div type="bibliography">
-<p>First described and edited by D.C. Sircar (<bibl rend="omitname"><ptr target="bib:Sircar1963-1964_01"/></bibl>. 
-Re-edited and translated by Arlo Griffiths &amp; Vincent Tournier, with contributions by Stefan Baums and Ingo Strauch, making use of photos of the published estampages, and after autopsy of the stone, published in 2017 on the experimental site <bibl><ptr target="bib:Griffiths+Tournier2017_01"/></bibl>. The XML source code from <bibl><ptr target="bib:Griffiths+Tournier2015-2025_01"/></bibl> was adapted for DHARMA by Arlo Griffiths &amp; Vincent Tournier in 2025.</p>
+<p>First described and edited by D.C. Sircar (<bibl rend="omitname"><ptr target="bib:Sircar1963-1964_01"/></bibl>). 
+Re-edited and translated by Arlo Griffiths &amp; Vincent Tournier, with contributions by Stefan Baums and Ingo Strauch, making use of photos of the published estampages, and after autopsy of the stone, on the experimental site <bibl><ptr target="bib:Griffiths+Tournier2017_01"/></bibl>. The XML source code from <bibl><ptr target="bib:Griffiths+Tournier2015-2025_01"/></bibl> was adapted for DHARMA by Arlo Griffiths &amp; Vincent Tournier in 2025.</p>
 <listBibl type="primary">
 <bibl n="S"><ptr target="bib:Sircar1963-1964_01"/><citedRange unit="page">10-11</citedRange><citedRange unit="item">3</citedRange></bibl>
 <bibl n="EIAD"><ptr target="bib:Griffiths+Tournier2017_01"/></bibl>
