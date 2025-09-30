@@ -117,7 +117,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 <lb n="4"/>māḍhari-pūtasa Ikhākuṇaṁ s<unclear>i</unclear>ri-virapūr<unclear>i</unclear>sadatasa 
 <lb n="5"/>mahisija mahavalabhīkāya yakhīlinikāya pu<lb break="no" 
 n="6"/>tasa mahāsenapatisa kum<unclear>ā</unclear>rasa ElīEhavū<lb break="no" 
-n="7"/>ladāsaṁṇakasa chāyā-thabh<unclear>o</unclear> thāpito <g type="doubleDot"/> <g type="spiralR"/>
+n="7"/>ladāsaṁṇakasa chāyā-thabh<unclear>o</unclear> thāpito <g type="dotDouble"/> <g type="spiralR"/>
 </p>
 </div>
 <div type="apparatus">
@@ -127,7 +127,7 @@ n="7"/>ladāsaṁṇakasa chāyā-thabh<unclear>o</unclear> thāpito <g type="do
 <rdg source="bib:Sircar1963-1964_01">gīm<unclear>h</unclear>aṇaṁ</rdg>
 <note>The shape of <foreign>ha</foreign> in <foreign>gim<unclear>ha</unclear>ṇaṁ</foreign> is not regular. Cf. EIAD <ref target="DHARMA_INSEIAD00029.xml">29</ref>, l. 3 and note.</note>
 </app>
-<app loc="4">
+<app loc="4">do
 <lem>-pūr<unclear>i</unclear>sadatasa</lem>
 <rdg source="bib:Sircar1963-1964_01">-pūrusadatasa</rdg>
 </app><app loc="5"><lem>mahisija</lem>
