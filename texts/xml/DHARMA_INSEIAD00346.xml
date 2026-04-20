@@ -107,13 +107,13 @@ Burgess 1887
 </listApp>
 </div>
 <div type="translation" resp="part:argr part:vito">
-<p>Pillar <supplied reason="subaudible">and</supplied> cell of the householder <gap reason="lost"/>, wit his wife <gap reason="lost"/>.</p>
+<p>Pillar <supplied reason="subaudible">and</supplied> cell of the householder <gap reason="lost"/>, with his wife <gap reason="lost"/>.</p>
 </div>
 <div type="commentary">
 <p>Burgess (<bibl rend="omitname"><ptr target="bib:Burgess1887_01"/></bibl>) commented: <quote>This is on a broken fragment in the steps of a well near the village. <gap reason="ellipsis"/> Perhaps the gift of a pillar and a cell.</quote></p>     
 </div>
 <div type="bibliography">
-<p>Deciphered by <bibl><ptr target="bib:Burgess1887_01"/></bibl>. This digital edition from the published estampage.</p>
+<p>Deciphered by Burgess (<bibl rend="omitname"><ptr target="bib:Burgess1887_01"/></bibl>). This digital edition from the published estampage.</p>
 <listBibl type="primary">
 <bibl n="B"><ptr target="bib:Burgess1887_01"/><citedRange unit="page">103</citedRange><citedRange unit="plate">LVIII (37)</citedRange></bibl>
 </listBibl>
