@@ -5,7 +5,7 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <!-- 
-346	FALSE	Amar 94	pillar (?), fragment	3						
+346	Amar 94	pillar (?), fragment	3						
 MIA	Amaravati	unknown	
 Burgess 1887: 103 (37), pl. LVIII.	Lüders 1912a: 155 (1302). — Francis 2016: 170 (270).	
 Burgess 1887																								
