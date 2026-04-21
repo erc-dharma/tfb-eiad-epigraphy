@@ -95,70 +95,83 @@ n="1r2=2" break="no"/>janānaṁ janānaṁ <num value="8">8</num> kūdūrahāre
   </p>
 
 <p>
-<lb n="1b1=4"/>s<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>v<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>pato vijaya-khaṁdhāvārā
+<pb n="1v"/><fw place="left" n="1v"><num value="1">1</num></fw><lb n="1b1=4"/>s<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>v<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>pato vijaya-khaṁdhāvārā
 <lb n="1b2=5"/>nagarā kūdūrāto
 <lb n="1b1=6"/>maheśvara-pāda-parigahito
 
+<pb n="2r"/><fw place="left" n="2r"><num value="2">2</num></fw>
 <lb n="2r1=7"/>br̥hatphalāyana-sagoto
 <lb n="2r2=8"/>rājā siri-jayavaṁmo
 <lb n="2r3=9"/>Ānapayati kūdūre
 <!--Parabrahma Sastry (2008: 41): Jayavarman = probably 292 to 302.-->
 
-<lb n="2v1=10"/>vāpataṁ Aṁṁhe dāni
-<lb n="2v2=11"/>Aṁmha-vejayike ―
-<lb n="2v3=12"/>Āyu-vadhanike ca ―
+<pb n="2v"/>
+<lb n="2v1=10"/>vāpataṁ</p> <p>Aṁmhe dāni
+<lb n="2v2=11"/>Aṁmha-vejayike <g type="dash">.</g>
+<lb n="2v3=12"/>Āyu-vadhanike ca <g type="dash">.</g>
 
-<lb n="3r1=13"/>baṁmhanānaṁ gotama-sagota-
-<lb n="3r2=14"/>jāyāparasa savagutajasa
-<lb n="3r3=15"/><num value="8">8</num> tānvasa savigajasa ―
+<pb n="3r"/><fw place="left" n="3r"><num value="3">3</num></fw>
+<lb n="3r1=13"/>baṁmhanānaṁ gotama-sagota<lb 
+n="3r2=14" break="no"/>-jāyāparasa savagutajasa
+<lb n="3r3=15"/><num value="8">8</num> tānavasa savigajasa <g type="dash">.</g>
 
-<lb n="3v1=16"/>Asiyo <num value="3">3</num> goginjasa
-<lb n="3v2=17"/>asiyo <num value="3">3</num> koḍina-sagotasa
+<pb n="3v"/>
+<lb n="3v1=16"/>Asiyo <num value="3">3</num> goginajasa
+<lb n="3v2=17"/>Asiyo <num value="3">3</num> koḍina-sagotasa
 <lb n="3v3=18"/>bhavaṁnajasa Asiyo be <num value="2">2</num>
 
-<lb n="4r1=19"/>bhāradāyas rudaveṁnhujasa ―
-<lb n="4r2=20"/>Aṁsi divaḍhā ― kaṁnhāyanasa
-<lb n="4r3=21"/>Īsaradatajasa aAsi diva[ḍā] ―
+<pb n="4r"/><fw place="left" n="4r"><num value="4">4</num></fw>
+<lb n="4r1=19"/>bhāradāyasa rudaveṁnhujasa <g type="dash">.</g>
+<lb n="4r2=20"/>Aṁsi divaḍhā <g type="dash">.</g> kaṁnhāyanasa
+<lb n="4r3=21"/>Īsaradatajasa Asi diva<unclear reason="eccentric_ductus">ḍhā</unclear> ―
 <!--(21) diva[ḍā] ― Hultzsch (p. 317 n. 1): read divaḍhā.-->
 
+<pb n="4v"/>
 <lb n="4v1=22"/>Opamaṁnavasa rudaghosajasa
-<lb n="4v2=23"/>Aṁsi 1 kosika-sagotasa
-<lb n="4v3=24"/>khaṁdarudajasa Aṁsikā[ddhā] caṁ
+<lb n="4v2=23"/>Aṁsi <num value="1">1</num> kosika-sagotasa
+<lb n="4v3=24"/>khaṁdarudajasa Aṁsikā<unclear>ddhā</unclear> ca<surplus>ṁ</surplus>
 <!--(24) caṁ ― Hultzsch (p. 317 n. 2): read ca.-->
 
-<lb n="5r1=25"/>janānaṁ 8 Amsiyo 20 4
-<lb n="5r2=26"/>kātuna kūḍurahāre gāmaṁ
-<lb n="5r3=27"/>pāṁṭuraṁ ― baṁmhadeyaṁ da[d]āma
+<pb n="5r"/><fw place="left" n="5r"><num value="5">5</num></fw>
+<lb n="5r1=25"/>janānaṁ <num value="8">8</num> Aṁsiyo <num value="24"><g type="numeral">20</g> 4</num>
+<lb n="5r2=26"/>kāt<choice><sic>u</sic><corr>ū</corr></choice>na kūdūrahāre gāmaṁ
+<lb n="5r3=27"/>pāṁṭuraṁ ― baṁmhadeyaṁ da<unclear>d</unclear>āma</p>
 <!--(26) kātuna ― Hultzsch (p. 317 n. 3): read kātūna.
 Parabrahma Sastry (2008: 41): Pamtura = Patura, Tenali tk., Guntur dt.-->
 
-<lb n="5v1=28"/>Etaṁsi taṁ gāma ―
-<lb n="5v2=29"/>pāṭūra ― baṁmhadeyaṁ
-<lb n="5v3=30"/>kātūna Oyapāpehi 
+<pb n="5v"/>
+<p><lb n="5v1=28"/>Etaṁsi taṁ <space type="unclassified"/> gāma <g type="dash">.</g>
+<lb n="5v2=29"/>pā<supplied reason="omitted">ṁ</supplied>ṭūra <g type="dash">.</g> baṁmhadeyaṁ
+<lb n="5v3=30"/>kātūna <space/> Oyapāpehi</p> 
 
-<lb n="6r1=31"/>Etasa casa gāmasa
-<lb n="6r2=32"/>pāṁṭurasa baṁmhadeyaṁ
-<lb n="6r3=33"/>kātuna parihāre vitarāma
+<pb n="6r"/><fw place="left" n="6r"><num value="6">6</num></fw>
+<p><lb n="6r1=31"/>Etasa casa <space/> gāmasa
+<lb n="6r2=32"/>pāṁṭūrasa <space/> baṁmhadeyaṁ
+<lb n="6r3=33"/>kāt<choice><sic>u</sic><corr>ū</corr></choice>na <space/> parihāre vitarāma</p>
 
-<lb n="6v1=34"/>Apāpesaṁ Anomasaṁ
-<lb n="6v2=35"/>Alonakhādakaṁ ―
-<lb n="6v3=36"/>Araṭhasaṁvinayikaṁ ―
+<pb n="6v"/>
+<p><lb n="6v1=34"/>Apāpesaṁ Anomasaṁ
+<lb n="6v2=35"/>Alona-khādakaṁ <g type="dash">.</g>
+<lb n="6v3=36"/>Araṭha-saṁvinayikaṁ <g type="dash">.</g>
 
-<lb n="7r1=37"/>svajātapārihārikaṁ ca
-<lb n="7r2=38"/>Etehi naṁ parihārehi
-<lb n="7r3=39"/>parihārahi Etaṁ casiṁ gāma[ṁ]
+<pb n="7r"/><fw place="left" n="7r"><num value="7">7</num></fw>
+<lb n="7r1=37"/>sava-jāta-pārihārikaṁ ca</p>
+<p><lb n="7r2=38"/>Etehi naṁ parihārehi
+<lb n="7r3=39"/>pariharāhi</p> <p>Etaṁ casiṁ gāma<unclear>ṁ</unclear>
 
-<lb n="7v1=40"/>pātūra[ṁ] ba[ṁ]madheya[ṁ kā]tuna Etha
-<lb n="7v2=41"/>nibaṁdhāpehi Aviyena Ānataṁ
-<lb n="7v3=42"/>sayaṁ chato siri-Aṭha-satā<!--(40) pātūra[ṁ] ― Read pāṁtūraṁ.--><lb 
-n="8r1=43" break="no"/>-viyayo dato paṭikā ―
-<lb n="8r2=44"/>saṁva 10 he pa 1 diva 1
-<lb n="8r3=45"/>mahā-talavarena ―
+<pb n="7v"/>
+<lb n="7v1=40"/>pā<supplied reason="omitted">ṁ</supplied>tūra<unclear>ṁ</unclear> ba<unclear>ṁ</unclear>mhadeya<unclear>ṁ kā</unclear>t<choice><sic>u</sic><corr>ū</corr></choice>na Etha
+<lb n="7v2=41"/>nibaṁdhāpehi</p> <p>Aviyena Ānataṁ
+<lb n="7v3=42"/>sayaṁ chato siri-Aṭha-satā<!--(40) pātūra[ṁ] ― Read pāṁtūraṁ.--><pb n="8r" break="no"/><fw place="left" n="8r"><num value="8">8</num></fw><lb 
+n="8r1=43" break="no"/>-vijayo dato paṭikā <g type="dash">.</g></p>
+<p><lb n="8r2=44"/><abbr>saṁva</abbr> <num value="10"><g type="numeral">10</g></num> <abbr>hepa</abbr> <num value="1">1</num> <abbr>diva</abbr> <num value="1">1</num>
+<lb n="8r3=45"/>mahā-talavarena <g type="dash">.</g>
 <!--(45) mahātala- ― Hultzsch: mahātagi-. ― But see br̥hatphalāyana- (2a1=7).-->
 
+<pb n="8v"/>
 <lb n="8v1=46"/>mahā-daṁḍanāyakena
-<lb n="8v2=47"/>bhāpahānavaṁmena ―
-<lb n="8v3=48"/>kaṭati ―
+<lb n="8v2=47"/>bhāpahānavaṁmena <g type="dash">.</g>
+<lb n="8v3=48"/>kaṭati <g type="dash">.</g>
 <!--Parabrahma Sastry (2008: 41): executor = Mahatalavara Mahadandanayaka Bhapahanavarman. “The titles show the ikshavakau [sic] influence in the administration”-->
 
   </p>
@@ -166,12 +179,24 @@ n="8r1=43" break="no"/>-viyayo dato paṭikā ―
             <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
+<div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
+<div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                <listApp>
                   <app loc="1b1=4">
                      <lem source="bib:Hultzsch1900-1901_06">s<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>v<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>pato</lem>
                     <note>Hultzsch (p. 316 n. 6): <quote>The two first letters are broken away at the top. The lower portion of the letter <foreign>v</foreign> is preserved on a separate piece of the plate, which is broken off and therefore could not be shown on the accompanying photo-zincograph. Of the two possible restorations, <foreign>sava</foreign> (<foreign>sarva</foreign>) and <foreign>siva</foreign> (<foreign>śira</foreign>), the second appears preferable, because documents generally open with a word of auspicious import.</quote></note>
                   </app>
+<app loc="4r3=21">
+<lem>diva<unclear reason="eccentric_ductus">ḍhā</unclear></lem>
+<rdg source="bib:Hultzsch1900-1901_06">diva<choice><sic><unclear>ḍā</unclear></sic><corr>ḍhā</corr></choice></rdg>
+</app>
+<app loc="8r3=45">
+<lem>mahā-talavarena</lem>
+<rdg source="bib:Hultzsch1900-1901_06">mahātagi</rdg>
+<note>The shape of <foreign>la</foreign> is eccentric only at first sight, but regular for this hand. See e.g. <foreign>br̥hatphalāyana</foreign> in line 2r1=7.</note>
+</app>
                </listApp>
+</div>
          </div>
          <div type="translation" source="bib:Hultzsch1900-1901_06">
  	<!--translation encoded as per EGD §9.2 -->
@@ -181,11 +206,11 @@ n="8r1=43" break="no"/>-viyayo dato paṭikā ―
 <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
 <p>(First plate, first side.) (Order referring) to the <foreign>brahmadeya</foreign> Pāṇṭūra in Kūdūrāhāra,
 (granted) to 8 people, to Brāhmaṇas, to the <foreign>mahājana</foreign>s (headed by) Savagutaja.<!-- n8 --></p>
-<p n="1-6">(From the camp of victory, the town Kūdūra, — the fortunate<!-- n3 --> king, the glorious
+<p n="1-6">(From the camp of victory, the town Kūdūraa, — the fortunate<!-- n3 --> king, the glorious
 Jayavarman, who is favoured by the feet of Maheśvara (and) who belongs to the <foreign>gotra</foreign> of the
-Br̥hatphalāyanas, orders (his) official (<foreign>vyāpr̥ta</foreign>) at Kūdūra (as follows): —</p>
+Br̥hatphalāyanas, orders (his) official (<foreign>vyāpr̥ta</foreign>) at Kūdūraa (as follows): —</p>
 <p n="7-24">“For conferring on ourselves victory (in war) and for increasing (our) length of life,
-we have now given the village Pāṇṭūra in the district of Kūdūra (<foreign>Kūdūrāhāra</foreign>) (as) a
+we have now given the village Pāṇṭūra in the district of Kūdūraa (<foreign>Kūdūrāhāra</foreign>) (as) a
 <foreign>brahmadeya</foreign>, assigning 24 shares<!-- n4 --> to 8 people, (<foreign>viz.</foreign>) to (the following) Brāhmaṇas:
 <list>
 <item>to Savagutaja (Śarvaguptārya), a householder<!-- n5 --> of the Gautama gotra, 8 (shares);</item>
@@ -198,9 +223,9 @@ we have now given the village Pāṇṭūra in the district of Kūdūra (<foreig
 <item>and to Khandarudaja (Skandarudrārya) of the Kauśika <foreign>gotra</foreign> half a share.</item>
 </list></p>
 <p n="25-27">“Parcel off<!-- n1 --> that village Pāṇṭūra from this (district), having made (it) a
-brahmadeya.</p>
+<foreign>brahmadeya</foreign>.</p>
 <p n="28-30">“And to this village Pāṇṭūra we grant (all) immunities, having made (it) a <foreign>brahmadeya</foreign>.</p>
-<p n="31-34">“(Let it be) £ree from being entered, free from being meddled with, free from diggings for salt, <foreign>araṭhasaṁvinayika</foreign>, and endowed with immunities of all kinds.</p>
+<p n="31-34">“(Let it be) free from being entered, free from being meddled with, free from diggings for salt, <foreign>araṭhasaṁvinayika</foreign>, and endowed with immunities of all kinds.</p>
 <p n="35">“Exempt<!-- n2 --> (it) with (all) these immunities.</p>
 <p n="36-37">“And having made this village Pāṇṭūra a <foreign>brahmadeya</foreign>, cause a charter to be
 drawn ups to this effect.”</p>
