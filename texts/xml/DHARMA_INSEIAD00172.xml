@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+            	<title>EIAD 172. Koṇḍamudi plates of Jayavarman, 3rd c. CE</title>
+                	<respStmt>
+                		<resp>author of digital edition</resp>
+                			<persName ref="part:emfr">
+                				<forename>Emmanuel</forename>
+                				<surname>Francis</surname>
+                			</persName>
+                		<persName ref="part:argr">
+                			<forename>Arlo</forename>
+                			<surname>Griffiths</surname>
+                		</persName>
+                	</respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Jakarta</pubPlace>
+                <idno type="filename">DHARMA_INSEIAD00172</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2026 by Emmanuel Francis &amp; Arlo Griffiths.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2026">2019-2026</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                        	<p>Lettering compatible with a dating to the 2nd or 3rd century CE.<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+        	<change when="2026-04-21" who="part:argr" status="draft">encoded the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83211">
+	<!-- class:83225 = southern class Brāhmī, maturity:83209 = middle Brāhmī / maturity:83211 = late Brāhmī  -->
+<div type="textpart" n="A"><head xml:lang="eng">Seal</head>
+  <ab xml:lang="san-Latn"><!--Seal text wrapped in a block-level element, in this case <ab> because it does not qualify as a paragraph §2.2.2.-->
+  <lb n="1"/>br̥hatphalāyana-sagotrasya mahārāja-śrī-jayavarmmaṇaḥ
+  </ab>
+</div>
+<div type="textpart" n="B"><head xml:lang="eng">Plates</head>
+  <p>
+    <pb n="1r"/>
+<lb n="1r1=1"/>bamhanānaṁ sava-gutaja-mahā<lb 
+n="1r2=2" break="no"/>janānaṁ janānaṁ <num value="8">8</num> kūdūrahāre
+<lb n="1r3=3"/>pāṁṭūrasa bamhadeyasa
+  </p>
+
+<p>
+<lb n="1b1=4"/>s<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>v<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>pato vijaya-khaṁdhāvārā
+<lb n="1b2=5"/>nagarā kūdūrāto
+<lb n="1b1=6"/>maheśvara-pāda-parigahito
+
+<lb n="2r1=7"/>br̥hatphalāyana-sagoto
+<lb n="2r2=8"/>rājā siri-jayavaṁmo
+<lb n="2r3=9"/>Ānapayati kūdūre
+<!--Parabrahma Sastry (2008: 41): Jayavarman = probably 292 to 302.-->
+
+<lb n="2v1=10"/>vāpataṁ Aṁṁhe dāni
+<lb n="2v2=11"/>Aṁmha-vejayike ―
+<lb n="2v3=12"/>Āyu-vadhanike ca ―
+
+<lb n="3r1=13"/>baṁmhanānaṁ gotama-sagota-
+<lb n="3r2=14"/>jāyāparasa savagutajasa
+<lb n="3r3=15"/><num value="8">8</num> tānvasa savigajasa ―
+
+<lb n="3v1=16"/>Asiyo <num value="3">3</num> goginjasa
+<lb n="3v2=17"/>asiyo <num value="3">3</num> koḍina-sagotasa
+<lb n="3v3=18"/>bhavaṁnajasa Asiyo be <num value="2">2</num>
+
+<lb n="4r1=19"/>bhāradāyas rudaveṁnhujasa ―
+<lb n="4r2=20"/>Aṁsi divaḍhā ― kaṁnhāyanasa
+<lb n="4r3=21"/>Īsaradatajasa aAsi diva[ḍā] ―
+<!--(21) diva[ḍā] ― Hultzsch (p. 317 n. 1): read divaḍhā.-->
+
+<lb n="4v1=22"/>Opamaṁnavasa rudaghosajasa
+<lb n="4v2=23"/>Aṁsi 1 kosika-sagotasa
+<lb n="4v3=24"/>khaṁdarudajasa Aṁsikā[ddhā] caṁ
+<!--(24) caṁ ― Hultzsch (p. 317 n. 2): read ca.-->
+
+<lb n="5r1=25"/>janānaṁ 8 Amsiyo 20 4
+<lb n="5r2=26"/>kātuna kūḍurahāre gāmaṁ
+<lb n="5r3=27"/>pāṁṭuraṁ ― baṁmhadeyaṁ da[d]āma
+<!--(26) kātuna ― Hultzsch (p. 317 n. 3): read kātūna.
+Parabrahma Sastry (2008: 41): Pamtura = Patura, Tenali tk., Guntur dt.-->
+
+<lb n="5v1=28"/>Etaṁsi taṁ gāma ―
+<lb n="5v2=29"/>pāṭūra ― baṁmhadeyaṁ
+<lb n="5v3=30"/>kātūna Oyapāpehi 
+
+<lb n="6r1=31"/>Etasa casa gāmasa
+<lb n="6r2=32"/>pāṁṭurasa baṁmhadeyaṁ
+<lb n="6r3=33"/>kātuna parihāre vitarāma
+
+<lb n="6v1=34"/>Apāpesaṁ Anomasaṁ
+<lb n="6v2=35"/>Alonakhādakaṁ ―
+<lb n="6v3=36"/>Araṭhasaṁvinayikaṁ ―
+
+<lb n="7r1=37"/>svajātapārihārikaṁ ca
+<lb n="7r2=38"/>Etehi naṁ parihārehi
+<lb n="7r3=39"/>parihārahi Etaṁ casiṁ gāma[ṁ]
+
+<lb n="7v1=40"/>pātūra[ṁ] ba[ṁ]madheya[ṁ kā]tuna Etha
+<lb n="7v2=41"/>nibaṁdhāpehi Aviyena Ānataṁ
+<lb n="7v3=42"/>sayaṁ chato siri-Aṭha-satā<!--(40) pātūra[ṁ] ― Read pāṁtūraṁ.--><lb 
+n="8r1=43" break="no"/>-viyayo dato paṭikā ―
+<lb n="8r2=44"/>saṁva 10 he pa 1 diva 1
+<lb n="8r3=45"/>mahā-talavarena ―
+<!--(45) mahātala- ― Hultzsch: mahātagi-. ― But see br̥hatphalāyana- (2a1=7).-->
+
+<lb n="8v1=46"/>mahā-daṁḍanāyakena
+<lb n="8v2=47"/>bhāpahānavaṁmena ―
+<lb n="8v3=48"/>kaṭati ―
+<!--Parabrahma Sastry (2008: 41): executor = Mahatalavara Mahadandanayaka Bhapahanavarman. “The titles show the ikshavakau [sic] influence in the administration”-->
+
+  </p>
+</div>
+            <!--edition encoded as per EGD §§2−7-->
+         </div>
+         <div type="apparatus">
+               <listApp>
+                  <app loc="1b1=4">
+                     <lem source="bib:Hultzsch1900-1901_06">s<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>v<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>pato</lem>
+                    <note>Hultzsch (p. 316 n. 6): <quote>The two first letters are broken away at the top. The lower portion of the letter <foreign>v</foreign> is preserved on a separate piece of the plate, which is broken off and therefore could not be shown on the accompanying photo-zincograph. Of the two possible restorations,<foreign>sava</foreign> (<foreign>sarva</foreign>) and <foreign>siva</foreign> (<foreign>śira</foreign>), the second appears preferable, because documents generally open with a word of auspicious import.</quote></note>
+                  </app>
+               </listApp>
+         </div>
+         <div type="translation">
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p>Edited by E. Hultzsch (<bibl rend="omitname"><ptr target="bib:Hultzsch1900-1901_06"/></bibl>) directly from the plate. This digital edition based on photos of estampages published by Hultzsch.</p>
+        	<listBibl type="primary">
+		<bibl n="H"><ptr target="bib:Hultzsch1900-1901_06"/><citedRange unit="page">315-319</citedRange></bibl>
+		</listBibl>
+           <listBibl type="secondary">
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
