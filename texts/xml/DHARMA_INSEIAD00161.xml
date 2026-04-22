@@ -116,13 +116,13 @@ n="2" break="no"/>-pāda-pariggahitassa mahārāja<lb
 n="3" break="no"/>-sirī-naṁdivaṁmassa vacaṇena pi<pb 
 n="2r"/><fw n="2r" place="left"><num value="2"><unclear>2</unclear></num></fw><lb n="4" break="no"/>ḍiha-ggāme mutuḍa-ppamuho gāmo 
 <lb n="5"/>savva-samaggo savvāyoga-pesana<lb 
-n="6" break="no"/>-kulaputta-bhaḍa-manussā bhāṇitavvā 
-<pb n="2v"/><lb n="7"/>Iha hi Amha-dhammāyu-bala-vaddha<lb 
+n="6" break="no"/>-kulaputta-bhaḍa-manussā bhāṇitavvā</p> 
+<p><pb n="2v"/><lb n="7"/>Iha hi Amha-dhammāyu-bala-vaddha<lb 
 n="8" break="no"/>ṇattha<unclear>ṁ</unclear> bālaka-mahārāja-kumāra<lb 
 n="9" break="no"/>-kha<unclear>ṁ</unclear>da-pottassa ya santisatthiyanaṁ 
 <pb n="3r"/><fw n="3r" place="left"><num value="3">3</num></fw><lb n="10"/>Icchanteṇa mayā Etassa sāpānu<lb 
 n="11" break="no"/>ggaha-samatthassa nānā-gotta-ca<lb 
-n="12" break="no"/>raṇa-tapassa<unclear>jjhā</unclear>ya-niratassa 
+n="12" break="no"/>raṇa-tapassa<unclear>jjhā</unclear>ya-niratassa
 <pb n="3v"/><lb n="13"/>Aggahāra-rathākāra-cātuvejjassa 
 <lb n="14"/>Esa piḍiha-ggāmo Aggahāra-ra<lb 
 n="15" break="no"/>thak<unclear>ā</unclear>ra-vidhānena saṁpadatto</p> <p>tassa ya 
@@ -139,7 +139,7 @@ n="25" break="no"/>-jāta-parihārehi parihara<lb
 n="26" break="no"/>dha pariharāpedha ca</p> <p>yo ca 
 <lb n="27"/>khu Etaṁ sāsanaṁ Appamānaṁ 
 <pb n="6r"/><fw n="6r" place="left"><num value="6">6</num></fw><lb n="28"/>kātūṇa bādhapīlaṁ janejjo 
-<lb n="29"/>tassa khu na paritussajjamha 
+<lb n="29"/>tassa khu na parituss<choice><sic>a</sic><corr>e</corr></choice>jjamha 
 <lb n="30"/>tti <space/></p> <p>bhavati cātra</p>
 <lg met="anuṣṭubh" n="1">
 <l n="a"><pb n="6v"/><fw n="6v" place="left"><gap reason="illegible" quantity="1" unit="character"/></fw><lb n="31"/>sva-dattam para-dattaṁ vā</l>
@@ -148,8 +148,8 @@ n="26" break="no"/>dha pariharāpedha ca</p> <p>yo ca
 <l n="d">viṣaṅ hāla-halaM <lb n="34"/>halaM</l>
 </lg>
 <lg met="anuṣṭubh" n="2">
-<l n="a">bahubhir vusudhā dattā</l>
-<l n="b">bahu<pb n="7v"/><fw n="7v" place="left"><gap reason="illegible" quantity="1" unit="character"/></fw><lb n="35" break="no"/>bhiś cānupālitaṁ <space/></l>
+<l n="a">bahubhir v<choice><sic>u</sic><corr>a</corr></choice>sudhā dattā</l>
+<l n="b">bahu<pb n="7v"/><fw n="7v" place="left"><gap reason="illegible" quantity="1" unit="character"/></fw><lb n="35" break="no"/>bhiś cānupālit<choice><sic>aṁ</sic><corr>ā</corr></choice> <space/></l>
 <l n="c">yasya <lb n="36"/>yasya yadā bhūmis</l>
 <l n="d">tasya tasya <lb n="37"/>tadā phalaM<g type="dash"/></l>
 </lg>
@@ -181,16 +181,16 @@ n="40" break="no"/>putto hadappag<unclear>g</unclear>āhamatyavaro ya ti <g type
 <lem>-rathākāra-</lem>
 <note><bibl><ptr target="bib:KrishnaRao1955-1956_01"/></bibl> proposes to emend <foreign>-rathakāra-</foreign>.</note>
 </app>
-<app loc="17–18">
-<lem>A<unclear>no</unclear>māsaṁ</lem>
+<app loc="17">
+<lem>A<unclear>no</unclear><lb n="18" break="no"/>māsaṁ</lem>
 <note>Or has the scribe written <foreign>Aṇamāsaṁ</foreign>?</note>
 </app>
 <!--<app loc="5b, LM">
 <note>The illegible sign could be a numeral.</note>
 </app>-->
 <app loc="29">
-<lem>paritussajjamha</lem>
-<note>Emend <foreign>paritussejjamha</foreign>. We take this as 1st pl. opt. form with imp. ending.</note>
+<lem>parituss<choice><sic>a</sic><corr>e</corr></choice>jjamha</lem>
+<note>By emendation we obtain a 1st pl. opt. form with imp. ending.</note>
 </app>
 <!--<app loc="6b, LM">
 <note>The illegible sign could be a numeral.</note>
@@ -199,18 +199,19 @@ n="40" break="no"/>putto hadappag<unclear>g</unclear>āhamatyavaro ya ti <g type
 <lem>halaM</lem>
 <note>D.C. Sircar proposes to emend <foreign>dhruvam</foreign>.</note>
 </app>
-<app loc="34">
-<lem>vusudhā</lem>
-<note><bibl><ptr target="bib:KrishnaRao1955-1956_01"/></bibl> proposes to emend <foreign>vasudhā</foreign>/<foreign>vvasudhā</foreign>.</note>
-</app>
+<!--<app loc="34">
+<lem>v<choice><sic>u</sic><corr>a</corr></choice>sudhā</lem>
+<note><bibl><ptr target="bib:KrishnaRao1955-1956_01"/></bibl> proposes to emend <foreign>vasudhā</foreign>/<foreign>vvasudhā</foreign>.</note>-->
+<!--</app>-->
 <!--<app loc="7b, LM">
 <note>The illegible sign could be a numeral.</note>
 </app>-->
 <app loc="35">
-<lem>cānupālita</lem>
-<rdg source="bib:KrishnaRao1955-1956_01">cānupālitaṁ</rdg>
-<note>Emending to <foreign>cānupālitā</foreign>. Or is what seems to be an <foreign>anusvāra</foreign> actually the trace of the expected <foreign>-ā</foreign>?</note></app>
-<app loc="38"><lem>hatthis<unclear>ā</unclear>m<unclear>i</unclear></lem>
+<lem>cānupālit<choice><sic>aṁ</sic><corr>ā</corr></choice></lem>
+<note>Or is what seems to be an <foreign>anusvāra</foreign> actually the trace of the expected <foreign>-ā</foreign>?</note>
+</app>
+<app loc="38">
+<lem>hatthis<unclear>ā</unclear>m<unclear>i</unclear></lem>
 <note>Or read <foreign>hatthisama</foreign> = <foreign>hatthasama</foreign>? Or <foreign>hatthisam<supplied reason="lost">uha</supplied></foreign>? Cf. <ref target="DHARMA_INSEIAD00160.xml">EIAD 160</ref>, l. 14 <foreign>samuhāṇattī</foreign>.</note>
 </app>
 <app loc="39">
@@ -226,7 +227,8 @@ n="40" break="no"/>putto hadappag<unclear>g</unclear>āhamatyavaro ya ti <g type
 </listApp>
 </div>
 <div type="translation">
-<p n="1-6"> From the victorious city of Veṅgī, by the command of the glorious great king Nandivarman, who is favored by (or: who has embraced) the feet of his lord father, in the village of Piḍiha, the village headed by the <foreign>mutuḍa</foreign>, all complete—the men of good family (<foreign>kulaputta</foreign>) and constables (<foreign>bhaḍamanussā</foreign>) [appointed to] all duties and services—are to be addressed (thus):</p><p n="7-15"> ‘For here by me, in order to increase our merit (<foreign xml:lang="san-Latn">dharma</foreign>), longevity and strength, and desiring the peace and prosperity of the infant crown-prince Khandapotta, has been given this village of Piḍiha, in accordance with the rules of the Rathakāra settlement, to the community of Caturvedins of the Rathakāra settlement, which is capable of both of cursing and of showing kindness, which belongs to various lineages and schools and is steeped in austerities as well the study of the Vedas.</p>
+<p n="1-6"> From the victorious city of Veṅgī, by the command of the glorious great king Nandivarman, who is favored by (or: who has embraced) the feet of his lord father, in the village of Piḍiha, the village headed by the <foreign>mutuḍa</foreign>, all complete—the men of good family <supplied reason="explanation"><foreign>kulaputta</foreign></supplied> and constables <supplied reason="explanation"><foreign>bhaḍamanussā</foreign></supplied> <supplied reason="subaudible">appointed to</supplied> all duties and services—are to be addressed (thus):</p>
+<p n="7-15">‘For here by me, in order to increase our merit (<foreign xml:lang="san-Latn">dharma</foreign>), longevity and strength, and desiring the peace and prosperity of the infant crown-prince Khandapotta, has been given this village of Piḍiha, in accordance with the rules of the Rathakāra settlement, to the community of Caturvedins of the Rathakāra settlement, which is capable of both of cursing and of showing kindness, which belongs to various lineages and schools and is steeped in austerities as well the study of the Vedas.</p>
 <p n="16-30"> And I confer to this settlement these immunities: 
 it is not to be entered (by royal officers without permission); 
 not to be interfered with; 
@@ -234,8 +236,11 @@ not to be dug for salt;
 not to be controlled by the (superordinate) territory <supplied reason="explanation"><foreign>araṭṭhasaṁvinaIkaṁ</foreign></supplied>:<note>According to <bibl><ptr target="bib:Sircar1966_01"/><citedRange>392</citedRange></bibl>, this MIA form corresponds to Sanskrit <foreign xml:lang="san-Latn">arāṣṭrasāṃvinayika</foreign> and <cit><quote>refers to the freedom of the gift land from the administrative control to which the district in which it was situated was subject</quote><bibl><ptr target="bib:Sircar1966_01"/><citedRange>392</citedRange></bibl></cit>. Even though it may seem counter-intuitive because of the double negation (<foreign>a-</foreign> and <foreign>vi-</foreign>), meanings of <foreign xml:lang="san-Latn">vinī</foreign> such as “to instruct, to direct, to punish” allow this interpretation. See also <seg rend="check"><bibl><ptr target="bib:Senart1902-1903_01"/><citedRange unit="page">67-6</citedRange></bibl></seg>; <bibl><ptr target="bib:Mirashi+Mahajan1941-1942_01"/><citedRange unit="page">149</citedRange></bibl>; <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">199</citedRange><citedRange unit="note">4</citedRange></bibl>. Ther term also occurs in <ref target="DHARMA_INSEIAD00172.xml">EIAD 172</ref>. For Pallava attestations, see <bibl><ptr target="bib:Francis2017_01"/><citedRange unit="page">461</citedRange></bibl>.</note> 
 not to supply water-pots, boiled rice and cots; 
 not to supply grass, betel leaves, vegetables, flowers, fruit, curd, milk, ghee and butter-milk; etc. 
-With these exemptions and all other types of exemptions that have not been written due to erroneous omission, you shall exempt (this village) and (also) cause (it) to be exempted. Whosoever, failing to respect this edict, would cause trouble or harassment, of him we would not approve.’</p><p n="1" rend="stanza">The king who does not rescue or sustain what is given by himself or given by another, surely (<foreign xml:lang="san-Latn">dhruvam</foreign>) drinks the poison (named) <foreign xml:lang="san-Latn">hālahala</foreign> from birth to birth.</p><p n="2" rend="stanza">By many land has been given and by many protected. Whoever holds land at a given moment, to him does the fruit then belong.</p>
-<p n="38-40"> Year 14, (fortnight of the) rainy season 2, day 1. The executor is Hatthisāmi, (who is) the son of <foreign xml:lang="san-Latn">mahārāja</foreign>, son of Koṁgala (<foreign>mahārājaputo koṁgalaputto</foreign>), and the best among ministers (in charge of) the seizure of (i.e. recovering, reclaiming) stolen goods (?).<note>This passage is very obscure. Sircar believed that two executors (Hatthisāmi and Vara) are mentioned, but we tentatively propose that the second description applies to the same Hatthisāmi. We follow Sircar’s suggestion that <foreign>hadappag<unclear>g</unclear>āhamatya</foreign> stands for Sanskrit <foreign xml:lang="san-Latn">hr̥tapragrāhāmātya</foreign>, <cit><quote>i.e. an <hi rend="italic">amātya</hi> or officer in charge of the seizure of stolen goods</quote><bibl><ptr target="bib:KrishnaRao1955-1956_01"/><citedRange>6</citedRange></bibl></cit>.</note>
+With these exemptions and all other types of exemptions that have not been written due to erroneous omission, you shall exempt (this village) and (also) cause (it) to be exempted. Whosoever, failing to respect this edict, would cause trouble or harassment, of him we would not approve.’</p>
+<p n="30">And in this regard there is <supplied reason="subaudible">a statement</supplied>:</p>
+<p n="1" rend="stanza">The king who does not rescue or sustain what is given by himself or given by another, surely (<foreign xml:lang="san-Latn">dhruvam</foreign>) drinks the poison (named) <foreign xml:lang="san-Latn">hālahala</foreign> from birth to birth.</p>
+<p n="2" rend="stanza">By many land has been given and by many protected. Whoever holds land at a given moment, to him does the fruit then belong.</p>
+<p n="38-40">Year 14, <supplied reason="explanation">fortnight of the</supplied> rainy season 2, day 1. The executor is Hatthisāmi, <supplied reason="explanation">who is</supplied> the son of <foreign xml:lang="san-Latn">mahārāja</foreign>, son of Koṁgala <supplied reason="explanation"><foreign>mahārājaputo koṁgalaputto</foreign></supplied>, and the best among ministers <supplied reason="subaudible">in charge of</supplied> the seizure of <supplied reason="explanation">i.e., recovering, reclaiming</supplied> stolen goods (?).<note>This passage is very obscure. Sircar believed that two executors (Hatthisāmi and Vara) are mentioned, but we tentatively propose that the second description applies to the same Hatthisāmi. We follow Sircar’s suggestion that <foreign>hadappag<unclear>g</unclear>āhamatya</foreign> stands for Sanskrit <foreign xml:lang="san-Latn">hr̥tapragrāhāmātya</foreign>, <cit><quote>i.e. an <hi rend="italic">amātya</hi> or officer in charge of the seizure of stolen goods</quote><bibl><ptr target="bib:KrishnaRao1955-1956_01"/><citedRange>6</citedRange></bibl></cit>.</note>
 </p>
 </div>
 <div type="commentary">
@@ -250,16 +255,16 @@ With these exemptions and all other types of exemptions that have not been writt
 </p>
 </div>
 <div type="bibliography">
-<p>First edited by Krishna Rao (<bibl rend="omitname"><ptr target="bib:KrishnaRao1955-1956_01"/></bibl>). Re-edited and translated by Arlo Griffiths &amp; Emmanuel Francis, making use of Krishna Rao’s facsimiles, and published in 2017 on the experimental site <bibl><ptr target="bib:Griffiths+Tournier2017_01"/></bibl>. The XML source code from <bibl><ptr target="bib:Griffiths+Tournier2015-2025_01"/></bibl> was adapted for DHARMA by Arlo Griffiths in 2026. <!--Readings of D.C. Sircar provided in editorial notes to Krishna Rao’s article are cited. --><!--with the siglum DCS--></p>
+<p>Edited first for a Telugu readship and then for an international readership by Krishna Rao (<bibl rend="omitname"><ptr target="bib:KrishnaRao1950_01"/></bibl>, <bibl rend="omitname"><ptr target="bib:KrishnaRao1955-1956_01"/></bibl>). Re-edited and translated by Arlo Griffiths &amp; Emmanuel Francis, making use of Krishna Rao’s facsimiles, and published in 2017 on the experimental site <bibl><ptr target="bib:Griffiths+Tournier2017_01"/></bibl>. The XML source code from <bibl><ptr target="bib:Griffiths+Tournier2015-2025_01"/></bibl> was adapted for DHARMA by Arlo Griffiths in 2026. <!--Readings of D.C. Sircar provided in editorial notes to Krishna Rao’s article are cited. --><!--with the siglum DCS--></p>
 <listBibl type="primary">
+<bibl><ptr target="bib:KrishnaRao1950_01"/></bibl><!-- Bhāratī, April 1950, 69ff -->
 <bibl n="KR"><ptr target="bib:KrishnaRao1955-1956_01"/><citedRange>1-7</citedRange></bibl>
-<bibl n="EIAD"><ptr target="bib:Griffiths+Tournier2017_01"/></bibl>
+<bibl><ptr target="bib:Griffiths+Tournier2017_01"/></bibl>
 </listBibl>
 <listBibl type="secondary">
 <bibl><ptr target="bib:ARIE1946-1947"/><citedRange unit="page">1</citedRange><citedRange unit="item">A.1</citedRange></bibl>
 <bibl><ptr target="bib:Chhabra+al1949_01"/><citedRange>46-47</citedRange></bibl>
 <bibl><ptr target="bib:Ramanatham1949-1950_01"/></bibl>
-<bibl>Bhāratī, April 1950, 69ff</bibl><!-- CC: How can I encode this reference ? -->
 <bibl><ptr target="bib:Gai1969-1970_03"/><citedRange unit="item">861</citedRange></bibl>
 <bibl><ptr target="bib:Krishnan+Sundaram1989_01"/><citedRange>67-70</citedRange><citedRange unit="item">33</citedRange></bibl>
 <bibl><ptr target="bib:Francis2025_01"/></bibl>
