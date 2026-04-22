@@ -31,222 +31,240 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 [21] : SA3 Kānukollu Plates Set No. 1 
 -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Piḍiha grant (Kānukollu plates, set I) — reign of Nandivarman I, year
-					14</title>
-            <respStmt>
-		<resp>author of digital edition</resp>
-		<persName ref="part:argr">
-			<forename>Arlo</forename>
-			<surname>Griffiths</surname>
-		</persName>
-		<persName ref="part:vito">
-			<forename>Vincent</forename>
-			<surname>Tournier</surname>
-		</persName>
-	</respStmt>
-            
-            
-         </titleStmt>
-         <publicationStmt>
-            <authority>DHARMA</authority>
-            <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSEIAD00161</idno>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
-                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
-                        Licence. To view a copy of the licence, visit
-                        https://creativecommons.org/licenses/by/4.0/ or send a letter to
-                        Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-                        California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by .</p>
-               </licence>
-            </availability>
-            <date from="2019" to="2025">2019-2025</date>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Piḍiha grant (Kānukollu plates, set I) — reign of Nandivarman I, year
-					14</title>
-                  <principal>
-                     <persName ref="part:argr">
-                        <forename>Arlo</forename>
-                        <surname>Griffiths</surname>
-                     </persName>
-                  </principal>
-                  <editor role="general">
-                     <persName ref="part:argr">
-                        <forename>Arlo</forename>
-                        <surname>Griffiths</surname>
-                     </persName>
-                  </editor>
-                  <editor role="general">
-                     <persName ref="part:vito">
-                        <forename>Vincent</forename>
-                        <surname>Tournier</surname>
-                     </persName>
-                  </editor>
-                  <editor role="contributor">
-                     <persName ref="http://viaf.org/viaf/107394149">
-                        <forename>Stefan</forename>
-                        <surname>Baums</surname>
-                     </persName>
-                  </editor>
-                  <editor role="contributor">
-                     <persName ref="http://viaf.org/viaf/22395449">
-                        <forename>Ingo</forename>
-                        <surname>Strauch</surname>
-                     </persName>
-                  </editor>
-                  <respStmt>
-                     <resp>assistance with XML encoding and metadata
-                        verification</resp>
-                     <persName ref="part:chch">
-                        <forename>Chloé</forename>
-                        <surname>Chollet</surname>
-                     </persName>
-                  </respStmt>
-                  <respStmt>
-                     <resp>assistance with XML encoding and metadata
-                        verification</resp>
-                     <persName ref="part:masc">
-                        <forename>Marine</forename>
-                        <surname>Schoettel</surname>
-                     </persName>
-                  </respStmt>
-                  <respStmt>
-                     <resp>digital humanities consultant</resp>
-                     <persName ref="part:emmo">
-                        <forename>Emmanuelle</forename>
-                        <surname>Morlock</surname>
-                     </persName>
-                  </respStmt>
-                  <respStmt>
-                     <resp>digital humanities consultant</resp>
-                     <persName ref="part:anol">
-                        <forename>Andrew</forename>
-                        <surname>Ollett</surname>
-                     </persName>
-                  </respStmt>
-               </titleStmt>
-               <editionStmt>
-                  <p>First digital edition made by École française d'Extrême-Orient (Paris, France), realized in collaboration with the HiSoMA Research Centre (Lyon, France) and hosted by TGIR Huma-Num (France) as <ref target="http://hisoma.huma-num.fr/exist/apps/EIAD/index2.html">Early Inscriptions of Āndhradeśa, in 2015-2017.</ref>
-                  </p>
-               </editionStmt>
-               <publicationStmt>
-                  <authority>Early Inscriptions of Āndhradeśa</authority>
-                  <idno type="filename">DHARMA_INSEIAD00161</idno>
-                  <availability>
-                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p>Copyright (c)
-							2017 by Stefan Baums, Arlo Griffiths, Ingo Strauch and Vincent
-							Tournier.</p>
-                        <p>This work is licensed under the Creative Commons
-							Attribution 3.0 Unported License. To view a copy of this license, visit
-							http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative
-							Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041,
-							USA.</p>
-                     </licence>
-                  </availability>
-               </publicationStmt>
-            </biblFull>
-            <msDesc>
-               <msIdentifier>
-                  <repository>DHARMAbase</repository>
-                  <idno/>
-                  <altIdentifier type="EIAD">
-                     <institution>EFEO</institution>
-                     <idno>EIAD 161</idno>
-                  </altIdentifier>
-                  <altIdentifier type="museum-inventory">
-                     <repository>Mr. B. V. Krishna Rao, M.A., B.L., Commissioner, Hindu
-								Religious Endowments Board, Madras (according to ARIE)</repository>
-                     <idno>unavailable</idno>
-                  </altIdentifier>
-               </msIdentifier>
-               <msContents>
-                  <summary/>
-               </msContents>
-               <physDesc>
-                  <handDesc>
-                     <p/>
-                  </handDesc>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
-         </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-         <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
-            </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-            </prefixDef>
-         </listPrefixDef>
-      </encodingDesc>
-      <revisionDesc>
-         <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:space="preserve"><body><div type="edition"><ab xml:lang="pra-Latn"><pb n="1b"/><fw place="marginleft"><num value="1">1</num></fw><lb n="1"/>vijayaveṁgīpurā bappabhaṭṭāraka<lb n="2" break="no"/>pādapariggahitassa mahārāja<lb n="3" break="no"/>sirīnaṁdivaṁmassa vacaṇena pi<pb n="2a"/><fw place="marginleft"><num value="2"><unclear>2</unclear></num></fw><lb n="4" break="no"/>ḍihaggāme mutuḍappamuho gāmo <lb n="5"/>savvasamaggo savvāyogapesana<lb n="6" break="no"/>kulaputtabhaḍamanussā bhāṇitavvā <pb n="2b"/><lb n="7"/>Iha hi Amhadhammāyubalavaddha<lb n="8" break="no"/>ṇattha<unclear>ṁ</unclear> bālakamahārājakumāra<lb n="9" break="no"/>kha<unclear>ṁ</unclear>dapottassa ya santisatthiyanaṁ <pb n="3a"/><fw place="marginleft"><num value="3">3</num></fw><lb n="10"/>Icchanteṇa mayā Etassa sāpānu<lb n="11" break="no"/>ggahasamatthassa nānāgottaca<lb n="12" break="no"/>raṇatapassa<unclear>jjhā</unclear>yaniratassa <pb n="3b"/><lb n="13"/>Aggahārarathākāracātuvejjassa <lb n="14"/>Esa piḍihaggāmo Aggahārara<lb n="15" break="no"/>thak<unclear>ā</unclear>ravidhānena saṁpadatto tassa ya <pb n="4a"/><fw place="marginleft"><num value="4">4</num></fw><lb n="16"/>Aggahārassa Ime parihāre <lb n="17"/>vitarāmi Appavesaṁ A<unclear>no</unclear><lb n="18" break="no"/>māsaṁ Alonakkhātakaṁ Araṭṭha<pb n="4b"/><lb n="19" break="no"/>saṁvinaIkaṁ Acollakakurakhaṭṭa<lb n="20" break="no"/>ggahaṇaṁ Aharitapaṁṇasāka<lb n="21" break="no"/>puppaphaladuddhadadhighata<pb n="5a"/><fw place="marginleft"><num value="5">5</num></fw><lb n="22" break="no"/>takkaggahaṇa m ādikaṁ  Etehi <lb n="23"/>parihārehi sesehi pi A<lb n="24" break="no"/>lihitacukkakhalitehi savva<pb n="5b"/><fw place="marginleft"><gap reason="illegible" quantity="1" unit="character"/></fw><lb n="25" break="no"/>jātaparihārehi parihara<lb n="26" break="no"/>dha pariharāpedha ca yo ca <lb n="27"/>khu Etaṁ sāsanaṁ Appamānaṁ <pb n="6a"/><fw place="marginleft"><num value="6">6</num></fw><lb n="28"/>kātūṇa bādhapīlaṁ janejjo <lb n="29"/>tassa khu na paritussajjamha <lb n="30"/>tti <space quantity="1" unit="character"/>bhavati cātra </ab><lg met="Anuṣṭubh" n="1"><l n="a"><pb n="6b"/><fw place="marginleft"><gap reason="illegible" quantity="1" unit="character"/></fw><lb n="31"/>svadattam paradattaṁ vā </l><l n="b">yo nr̥po <lb n="32"/>noddhared dharet· <space quantity="1" unit="character"/></l><l n="c">jātau jātau <pb n="7a"/><fw place="marginleft"><num value="7">7</num></fw><lb n="33"/>sa pibati </l><l n="d">viṣaṅ hālahalam· <lb n="34"/>halam· </l></lg><lg met="Anuṣṭubh" n="2"><l n="a">bahubhir vusudhā dattā </l><l n="b">bahu<pb n="7b"/><fw place="marginleft"><gap reason="illegible" quantity="1" unit="character"/></fw><lb n="35" break="no"/>bhiś cānupālitaṁ <space quantity="1" unit="character"/></l><l n="c">yasya <lb n="36"/>yasya yadā bhūmis </l><l n="d">tasya tasya <lb n="37"/>tadā phalam· <g>‒</g></l></lg><ab xml:lang="pra-Latn"><pb n="8a"/><fw place="marginleft"><num value="8">8</num></fw><lb n="38"/>sava <num value="10">10</num><num value="4">4</num>vāsa <num value="2">2</num>diva <num value="1">1</num>hatthis<unclear>ā</unclear>m<unclear>i</unclear> <lb n="39"/>Āṇattī mahārājaputo koṁgala<lb n="40" break="no"/>putto hadappag<unclear>g</unclear>āhamatyavaro ya ti <g type="dash">.</g></ab></div><div type="apparatus"><listApp><app loc="1"><lem>-bhaṭṭāraka-</lem><note>The reading prima facie would seem to be <foreign xml:lang="pra-Latn">-bhajṭaraka-</foreign>. But <foreign xml:lang="pra-Latn">-bhaṭṭāraka-</foreign> is expected, and what appears to be the
-							middle horizontal of a <foreign>j</foreign> must thus be <foreign>-ā</foreign> attached in an unusual position.</note></app><app loc="2a, LM"><lem><unclear>2</unclear></lem><note>The sign visible on the facsimile looks more like a 1, but a 2 is
-							expected and there is perhaps the trace of a second stroke visible that
-							would make this 2.</note></app><app loc="4"><lem source="bib:KrishnaRao1955-1956_01">mutuḍa-</lem><note>According to the reading of D.C. Sircar provided in editorial notes to
-							Krishna Rao’s article.</note><rdg source="bib:KrishnaRao1955-1956_01">mutyada-</rdg></app><app loc="9"><lem source="bib:KrishnaRao1955-1956_01">ya santisatthiyanaṁ</lem><note>According to the reading of D.C. Sircar provided in editorial notes to
-							Krishna Rao’s article.</note><rdg source="bib:KrishnaRao1955-1956_01">yasattisatthiyanaṁ</rdg></app><app loc="13"><lem>-rathākāra-</lem><note><bibl><ptr target="bib:KrishnaRao1955-1956_01"/></bibl> proposes to emend
-								<foreign xml:lang="pra-Latn">-rathakāra-</foreign>.</note></app><app loc="17–18"><lem>A<unclear>no</unclear>māsaṁ</lem><note>Or has the scribe written <foreign xml:lang="pra-Latn">Aṇamāsaṁ</foreign>?</note></app><app loc="5b, LM"><note>The illegible sign could be a numeral.</note></app><app loc="29"><lem>paritussajjamha</lem><note>Emend <foreign xml:lang="pra-Latn">paritussejjamha</foreign>. We take
-							this as 1st pl. opt. form with imp. ending.</note></app><app loc="6b, LM"><note>The illegible sign could be a numeral.</note></app><app loc="34"><lem>halam·</lem><note>D.C. Sircar proposes to emend <foreign xml:lang="san-Latn">dhruvam</foreign>.</note></app><app loc="34"><lem>vusudhā</lem><note><bibl><ptr target="bib:KrishnaRao1955-1956_01"/></bibl> proposes to emend
-								<foreign xml:lang="san-Latn">vasudhā</foreign>/<foreign xml:lang="san-Latn">vvasudhā</foreign>.</note></app><app loc="7b, LM"><note>The illegible sign could be a numeral.</note></app><app loc="35"><lem>cānupālita</lem><rdg source="bib:KrishnaRao1955-1956_01">cānupālitaṁ</rdg><note>Emending to <foreign xml:lang="san-Latn">cānupālitā</foreign>. Or is
-							what seems to be an <foreign xml:lang="san-Latn">anusvāra</foreign>
-							actually the trace of the expected <foreign>-ā</foreign>?</note></app><app loc="38"><lem>hatthis<unclear>ā</unclear>m<unclear>i</unclear></lem><note>Or read <foreign xml:lang="pra-Latn">hatthisama</foreign> = <foreign xml:lang="pra-Latn">hatthasama</foreign>? Or <foreign xml:lang="pra-Latn">hatthisam<supplied reason="lost">uha</supplied></foreign>? Cf. EIAD <ref target="DHARMA_INSEIAD00160.xml">160</ref>, l. 14 <foreign xml:lang="pra-Latn">samuhāṇattī</foreign>.</note></app><app loc="39"><lem source="bib:KrishnaRao1955-1956_01">-puto koṁgala-</lem><note>According to the reading of D.C. Sircar provided in editorial notes to
-							Krishna Rao’s article.</note><rdg source="bib:KrishnaRao1955-1956_01">-puṇakoṁgala-</rdg></app><app loc="40"><lem source="bib:KrishnaRao1955-1956_01">hadappag<unclear>g</unclear>āhamatyavaro ya ti</lem><note>According to the reading of D.C. Sircar provided in editorial
-							notes to Krishna Rao’s article.</note><rdg source="bib:KrishnaRao1955-1956_01">adappaggāha chetya varohati</rdg></app></listApp></div><div type="translation"><p n="1-6"> From the victorious city of Veṅgī, by the command of the glorious great
-				king Nandivarman, who is favored by (or: who has embraced) the feet of his lord
-				father, in the village of Piḍiha, the village headed by the <foreign xml:lang="pra-Latn">mutuḍa</foreign>, all
-				complete—the men of good family (<foreign xml:lang="pra-Latn">kulaputta</foreign>) and constables (<foreign xml:lang="pra-Latn">bhaḍamanussā</foreign>) [appointed to] all duties and services—are to be addressed (thus):</p><p n="7-15"> ‘For here by me, in order to increase our merit (<foreign xml:lang="san-Latn">dharma</foreign>), longevity and strength, and desiring the peace and prosperity of the infant crown-prince Khandapotta, has been given this village of Piḍiha, in accordance with the rules of the Rathakāra settlement, to the community of Caturvedins of the Rathakāra settlement, which
-					is capable of both of cursing and of showing kindness, which belongs to various
-					lineages and schools and is steeped in austerities as well the study of the
-					Vedas.</p><p n="16-30"> And I confer to this settlement these immunities: it is not to be
-					entered (by royal officers without permission); not to be interfered with; not
-					to be dug for salt; not to be controlled by the (superordinate) territory; not
-					to supply water-pots, boiled rice and cots; not to supply grass, betel leaves,
-					vegetables, flowers, fruit, curd, milk, ghee and butter-milk; etc. With these
-					exemptions and all other types of exemptions that have not been written due to
-					erroneous omission, you shall exempt (this village) and (also) cause (it) to be
-					exempted. Whosoever, failing to respect this edict, would cause trouble or
-					harassment, of him we would not approve.’</p><p n="1" rend="stanza">The king who does not rescue or sustain what is given by himself or given by another, 
-					surely (<foreign xml:lang="san-Latn">dhruvam</foreign>) drinks the poison (named) <foreign xml:lang="san-Latn">hālahala</foreign> from birth to birth.</p><p n="2" rend="stanza">By many land has been given and by many protected. Whoever holds land at a given moment, to him does the
-					fruit then belong.</p><p n="38-40"> Year 14, (fortnight of the) rainy season 2, day 1.
-					The executor is Hatthisāmi, (who is) the son of <foreign xml:lang="san-Latn">mahārāja</foreign>, son of Koṁgala
-					(<foreign xml:lang="pra-Latn">mahārājaputo koṁgalaputto</foreign>), and the best among ministers (in charge of) the
-					seizure of (i.e. recovering, reclaiming) stolen goods (?).</p></div><div type="commentary"><p n="18-19"><term>AraṭṭhasaṁvinaIkaṁ</term><note>According to <bibl><ptr target="bib:Sircar1966_01"/>:
-								<citedRange>392</citedRange></bibl>, this MIA form corresponds to
-							Sanskrit <foreign xml:lang="san-Latn">arāṣṭrasāṃvinayika</foreign> and <cit><quote>refers to the freedom of the gift land from the
-									administrative control to which the district in which it was
-									situated was subject</quote><bibl><ptr target="bib:Sircar1966_01"/>:
-										<citedRange>392</citedRange></bibl></cit>. Even though it may seem counter-intuitive because of the double
-							negation (<foreign>a-</foreign> and <foreign>vi-</foreign>), meanings of <foreign xml:lang="san-Latn">vinī</foreign>
-							such as “to instruct, to direct, to punish” allow this interpretation.
-							See also Senart 1902-03: 67-6; Mirashi and Mahajan 1921-22: 149; <bibl><ptr target="bib:Sircar1965_02"/>: <citedRange>199 n. 4</citedRange></bibl>. 
-							For Pallava attestations, see Francis 2017: 461.</note><!-- CC: Some of the references are missing in EIAD_bibliography --></p><p n="38-40"><note>This passage is very obscure. Sircar believed that two executors
-							(Hatthisāmi and Vara) are mentioned, but we tentatively propose that the
-							second description applies to the same Hatthisāmi.</note></p><p n="40"><term>hadappag<unclear>g</unclear>āhamatya-</term><note>We follow Sircar’s suggestion that this word stands for Sanskrit
-								<foreign xml:lang="san-Latn">hr̥tapragrāhāmātya</foreign>, <cit><quote>i.e. an
-									<hi rend="italic">amātya</hi> or officer in charge of the seizure of stolen goods</quote><bibl><ptr target="bib:KrishnaRao1955-1956_01"/>: <citedRange>6</citedRange></bibl></cit>.</note></p></div><div type="bibliography"><p>First edited by <bibl><ptr target="bib:KrishnaRao1955-1956_01"/>:
-							<citedRange>1-7</citedRange></bibl>. Re-edited here from Krishna Rao’s
-					facsimiles. Readings of D.C. Sircar provided in editorial notes to Krishna Rao’s
-					article are cited <!--with the siglum DCS-->. As often, <foreign>d</foreign>,
-						<foreign>ḍ</foreign> and even <foreign>ṭ</foreign> are not
-					clearly distinguished. We have opted for the expected spellings.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:ARIE"/><citedRange>1946-47: 1, no. A.1</citedRange></bibl><bibl><ptr target="bib:Chhabra+al1949_01"/>:
-						<citedRange>46-7</citedRange></bibl><bibl><ptr target="bib:Ramanatham1949-1950_01"/></bibl><bibl>Bhārati, April 1950, 69ff</bibl><!-- CC: How can I encode this reference ? --><bibl><ptr target="bib:Gai1969-1970_03"/>: <citedRange>no.
-							861</citedRange></bibl><bibl><ptr target="bib:Krishnan+Sundaram1989_01"/>: <citedRange>67-70 (no.
-							33)</citedRange></bibl></listBibl></div></body></text>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>EIAD 161. Piḍiha grant (Kānukollu plates, set I) — reign of Nandivarman I, year 14</title>
+				<respStmt>
+					<resp>author of digital edition</resp>
+					<persName ref="part:argr">
+						<forename>Arlo</forename>
+						<surname>Griffiths</surname>
+					</persName>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris, Jakarta</pubPlace>
+				<idno type="filename">DHARMA_INSEIAD00161</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2026 by Arlo Griffiths &amp; Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2026">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- only the handDesc can be filled in at this stage -->
+				<msDesc>
+					<!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+						<!-- don't modify this -->
+					</msIdentifier>
+					<msContents>
+						<!-- describe the intellectual content of an inscription -->
+						<summary><!-- //// NOT MANDATORY  ////--></summary>
+						<!-- offers the possibility to give a summary of the inscription's content -->
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p>Lettering typical of the 4th century CE. The shapes of <foreign>d</foreign>, <foreign>ḍ</foreign> and even <foreign>ṭ</foreign> are not clearly distinguished.<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+							<!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+		<change when="2026-04-22" who="part:argr" status="draft">adjusted the encoding to DHARMA norms</change>
+		<change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+<body>
+<div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83211">
+	<!-- class:83225 = southern class Brāhmī, maturity:83209 = middle Brāhmī / maturity:83211 = late Brāhmī  -->
+<pb n="1r"/>
+<p>
+<pb n="1v"/><fw n="1v" place="left"><num value="1">1</num></fw><lb n="1"/>vijayaveṁgī-purā bappa-bhaṭṭāraka<lb 
+n="2" break="no"/>-pāda-pariggahitassa mahārāja<lb 
+n="3" break="no"/>-sirī-naṁdivaṁmassa vacaṇena pi<pb 
+n="2r"/><fw n="2r" place="left"><num value="2"><unclear>2</unclear></num></fw><lb n="4" break="no"/>ḍiha-ggāme mutuḍa-ppamuho gāmo 
+<lb n="5"/>savva-samaggo savvāyoga-pesana<lb 
+n="6" break="no"/>-kulaputta-bhaḍa-manussā bhāṇitavvā 
+<pb n="2v"/><lb n="7"/>Iha hi Amha-dhammāyu-bala-vaddha<lb 
+n="8" break="no"/>ṇattha<unclear>ṁ</unclear> bālaka-mahārāja-kumāra<lb 
+n="9" break="no"/>-kha<unclear>ṁ</unclear>da-pottassa ya santisatthiyanaṁ 
+<pb n="3r"/><fw n="3r" place="left"><num value="3">3</num></fw><lb n="10"/>Icchanteṇa mayā Etassa sāpānu<lb 
+n="11" break="no"/>ggaha-samatthassa nānā-gotta-ca<lb 
+n="12" break="no"/>raṇa-tapassa<unclear>jjhā</unclear>ya-niratassa 
+<pb n="3v"/><lb n="13"/>Aggahāra-rathākāra-cātuvejjassa 
+<lb n="14"/>Esa piḍiha-ggāmo Aggahāra-ra<lb 
+n="15" break="no"/>thak<unclear>ā</unclear>ra-vidhānena saṁpadatto</p> <p>tassa ya 
+<pb n="4r"/><fw n="4r" place="left"><num value="4">4</num></fw><lb n="16"/>Aggahārassa Ime parihāre 
+<lb n="17"/>vitarāmi Appavesaṁ A<unclear>no</unclear><lb 
+n="18" break="no"/>māsaṁ Alona-kkhātakaṁ Araṭṭha<pb n="4v"/><lb 
+n="19" break="no"/>-saṁvinaIkaṁ Acollakakurakhaṭṭa<lb 
+n="20" break="no"/>ggahaṇaṁ Aharita-paṁṇasāka<lb 
+n="21" break="no"/>puppa-phala-duddha-dadhi-ghata<pb n="5r"/><fw n="5r" place="left"><num value="5">5</num></fw><lb 
+n="22" break="no"/>takka-ggahaṇa-m-ādikaṁ</p> <p>Etehi 
+<lb n="23"/>parihārehi sesehi pi A<lb 
+n="24" break="no"/>lihita-cukka-khalitehi savva<pb n="5v"/><fw n="5v" place="left"><gap reason="illegible" quantity="1" unit="character"/></fw><lb 
+n="25" break="no"/>-jāta-parihārehi parihara<lb 
+n="26" break="no"/>dha pariharāpedha ca</p> <p>yo ca 
+<lb n="27"/>khu Etaṁ sāsanaṁ Appamānaṁ 
+<pb n="6r"/><fw n="6r" place="left"><num value="6">6</num></fw><lb n="28"/>kātūṇa bādhapīlaṁ janejjo 
+<lb n="29"/>tassa khu na paritussajjamha 
+<lb n="30"/>tti <space/></p> <p>bhavati cātra</p>
+<lg met="anuṣṭubh" n="1">
+<l n="a"><pb n="6v"/><fw n="6v" place="left"><gap reason="illegible" quantity="1" unit="character"/></fw><lb n="31"/>sva-dattam para-dattaṁ vā</l>
+<l n="b">yo nr̥po <lb n="32"/>noddhared dhareT<space/></l>
+<l n="c">jātau jātau <pb n="7r"/><fw n="7r" place="left"><num value="7">7</num></fw><lb n="33"/>sa pibati</l>
+<l n="d">viṣaṅ hāla-halaM <lb n="34"/>halaM</l>
+</lg>
+<lg met="anuṣṭubh" n="2">
+<l n="a">bahubhir vusudhā dattā</l>
+<l n="b">bahu<pb n="7v"/><fw n="7v" place="left"><gap reason="illegible" quantity="1" unit="character"/></fw><lb n="35" break="no"/>bhiś cānupālitaṁ <space/></l>
+<l n="c">yasya <lb n="36"/>yasya yadā bhūmis</l>
+<l n="d">tasya tasya <lb n="37"/>tadā phalaM<g type="dash"/></l>
+</lg>
+<p><pb n="8r"/><fw n="8r" place="left"><num value="8">8</num></fw><lb n="38"/><abbr>sava</abbr> <num value="14"><g type="numeral">10</g> 4</num> vāsa <num value="2">2</num> <abbr>diva</abbr> <num value="1">1</num> hatthis<unclear>ā</unclear>m<unclear>i</unclear> <lb n="39"/>Āṇattī mahārājaputo koṁgala<lb 
+n="40" break="no"/>putto hadappag<unclear>g</unclear>āhamatyavaro ya ti <g type="dash">.</g>
+</p>
+</div>
+<div type="apparatus">
+<listApp>
+<app loc="1">
+<lem>-bhaṭṭāraka-</lem>
+<note>The reading at first sight would seem to be <foreign>-bhajṭaraka-</foreign>. But <foreign>-bhaṭṭāraka-</foreign> is expected, and what appears to be the middle horizontal of a <foreign>j</foreign> must thus be <foreign>-ā</foreign> attached in an unusual position.</note>
+</app>
+<!--<app loc="2a, LM">
+<lem><unclear>2</unclear></lem>
+<note>The sign visible on the facsimile looks more like a 1, but a 2 is expected and there is perhaps the trace of a second stroke visible that would make this 2.</note>
+</app>-->
+<app loc="4">
+<lem>mutuḍa-</lem>
+<rdg source="bib:KrishnaRao1955-1956_01">mutyada-</rdg>
+<note>We accept D.C. Sircar's reading provided in editorial notes to Krishna Rao’s article.</note>
+</app>
+<app loc="9">
+<lem>ya santisatthiyanaṁ</lem>
+<rdg source="bib:KrishnaRao1955-1956_01">yasattisatthiyanaṁ</rdg>
+<note>We accept D.C. Sircar's reading provided in editorial notes to Krishna Rao’s article.</note>
+</app>
+<app loc="13">
+<lem>-rathākāra-</lem>
+<note><bibl><ptr target="bib:KrishnaRao1955-1956_01"/></bibl> proposes to emend <foreign>-rathakāra-</foreign>.</note>
+</app>
+<app loc="17–18">
+<lem>A<unclear>no</unclear>māsaṁ</lem>
+<note>Or has the scribe written <foreign>Aṇamāsaṁ</foreign>?</note>
+</app>
+<!--<app loc="5b, LM">
+<note>The illegible sign could be a numeral.</note>
+</app>-->
+<app loc="29">
+<lem>paritussajjamha</lem>
+<note>Emend <foreign>paritussejjamha</foreign>. We take this as 1st pl. opt. form with imp. ending.</note>
+</app>
+<!--<app loc="6b, LM">
+<note>The illegible sign could be a numeral.</note>
+</app>-->
+<app loc="34">
+<lem>halaM</lem>
+<note>D.C. Sircar proposes to emend <foreign>dhruvam</foreign>.</note>
+</app>
+<app loc="34">
+<lem>vusudhā</lem>
+<note><bibl><ptr target="bib:KrishnaRao1955-1956_01"/></bibl> proposes to emend <foreign>vasudhā</foreign>/<foreign>vvasudhā</foreign>.</note>
+</app>
+<!--<app loc="7b, LM">
+<note>The illegible sign could be a numeral.</note>
+</app>-->
+<app loc="35">
+<lem>cānupālita</lem>
+<rdg source="bib:KrishnaRao1955-1956_01">cānupālitaṁ</rdg>
+<note>Emending to <foreign>cānupālitā</foreign>. Or is what seems to be an <foreign>anusvāra</foreign> actually the trace of the expected <foreign>-ā</foreign>?</note></app>
+<app loc="38"><lem>hatthis<unclear>ā</unclear>m<unclear>i</unclear></lem>
+<note>Or read <foreign>hatthisama</foreign> = <foreign>hatthasama</foreign>? Or <foreign>hatthisam<supplied reason="lost">uha</supplied></foreign>? Cf. <ref target="DHARMA_INSEIAD00160.xml">EIAD 160</ref>, l. 14 <foreign>samuhāṇattī</foreign>.</note>
+</app>
+<app loc="39">
+<lem>-puto koṁgala-</lem>
+<rdg source="bib:KrishnaRao1955-1956_01">-puṇakoṁgala-</rdg>
+<note>We accept D.C. Sircar's reading provided in editorial notes to Krishna Rao’s article.</note>
+</app>
+<app loc="40">
+<lem>hadappag<unclear>g</unclear>āhamatyavaro ya ti</lem>
+<rdg source="bib:KrishnaRao1955-1956_01">adappaggāha chetya varohati</rdg>
+<note>We accept D.C. Sircar's reading provided in editorial notes to Krishna Rao’s article.</note>
+</app>
+</listApp>
+</div>
+<div type="translation">
+<p n="1-6"> From the victorious city of Veṅgī, by the command of the glorious great king Nandivarman, who is favored by (or: who has embraced) the feet of his lord father, in the village of Piḍiha, the village headed by the <foreign>mutuḍa</foreign>, all complete—the men of good family (<foreign>kulaputta</foreign>) and constables (<foreign>bhaḍamanussā</foreign>) [appointed to] all duties and services—are to be addressed (thus):</p><p n="7-15"> ‘For here by me, in order to increase our merit (<foreign xml:lang="san-Latn">dharma</foreign>), longevity and strength, and desiring the peace and prosperity of the infant crown-prince Khandapotta, has been given this village of Piḍiha, in accordance with the rules of the Rathakāra settlement, to the community of Caturvedins of the Rathakāra settlement, which is capable of both of cursing and of showing kindness, which belongs to various lineages and schools and is steeped in austerities as well the study of the Vedas.</p>
+<p n="16-30"> And I confer to this settlement these immunities: 
+it is not to be entered (by royal officers without permission); 
+not to be interfered with; 
+not to be dug for salt; 
+not to be controlled by the (superordinate) territory <supplied reason="explanation"><foreign>araṭṭhasaṁvinaIkaṁ</foreign></supplied>:<note>According to <bibl><ptr target="bib:Sircar1966_01"/><citedRange>392</citedRange></bibl>, this MIA form corresponds to Sanskrit <foreign xml:lang="san-Latn">arāṣṭrasāṃvinayika</foreign> and <cit><quote>refers to the freedom of the gift land from the administrative control to which the district in which it was situated was subject</quote><bibl><ptr target="bib:Sircar1966_01"/><citedRange>392</citedRange></bibl></cit>. Even though it may seem counter-intuitive because of the double negation (<foreign>a-</foreign> and <foreign>vi-</foreign>), meanings of <foreign xml:lang="san-Latn">vinī</foreign> such as “to instruct, to direct, to punish” allow this interpretation. See also <seg rend="check"><bibl><ptr target="bib:Senart1902-1903_01"/><citedRange unit="page">67-6</citedRange></bibl></seg>; <bibl><ptr target="bib:Mirashi+Mahajan1941-1942_01"/><citedRange unit="page">149</citedRange></bibl>; <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">199</citedRange><citedRange unit="note">4</citedRange></bibl>. For Pallava attestations, see <bibl><ptr target="bib:Francis2017_01"/><citedRange unit="page">461</citedRange></bibl>.</note> 
+not to supply water-pots, boiled rice and cots; 
+not to supply grass, betel leaves, vegetables, flowers, fruit, curd, milk, ghee and butter-milk; etc. 
+With these exemptions and all other types of exemptions that have not been written due to erroneous omission, you shall exempt (this village) and (also) cause (it) to be exempted. Whosoever, failing to respect this edict, would cause trouble or harassment, of him we would not approve.’</p><p n="1" rend="stanza">The king who does not rescue or sustain what is given by himself or given by another, surely (<foreign xml:lang="san-Latn">dhruvam</foreign>) drinks the poison (named) <foreign xml:lang="san-Latn">hālahala</foreign> from birth to birth.</p><p n="2" rend="stanza">By many land has been given and by many protected. Whoever holds land at a given moment, to him does the fruit then belong.</p>
+<p n="38-40"> Year 14, (fortnight of the) rainy season 2, day 1. The executor is Hatthisāmi, (who is) the son of <foreign xml:lang="san-Latn">mahārāja</foreign>, son of Koṁgala (<foreign>mahārājaputo koṁgalaputto</foreign>), and the best among ministers (in charge of) the seizure of (i.e. recovering, reclaiming) stolen goods (?).<note>This passage is very obscure. Sircar believed that two executors (Hatthisāmi and Vara) are mentioned, but we tentatively propose that the second description applies to the same Hatthisāmi. We follow Sircar’s suggestion that <foreign>hadappag<unclear>g</unclear>āhamatya</foreign> stands for Sanskrit <foreign xml:lang="san-Latn">hr̥tapragrāhāmātya</foreign>, <cit><quote>i.e. an <hi rend="italic">amātya</hi> or officer in charge of the seizure of stolen goods</quote><bibl><ptr target="bib:KrishnaRao1955-1956_01"/><citedRange>6</citedRange></bibl></cit>.</note>
+</p>
+</div>
+<div type="commentary">
+<p>For diverse comments on this charter, in the context of the Śālaṅkāyana corpus as a whole, see <bibl><ptr target="bib:Francis2025_01"/></bibl>.</p>
+<p>Regarding the plate numbering, <bibl><ptr target="bib:KrishnaRao1955-1956_01"/><citedRange>2</citedRange></bibl> commented: <quote>The plates have writing on both sides with the exception or the first and last, which bear writing on their inner side. The inscribed faces of the plates are numbered with the ancient numerals of the <foreign>aksharapalli</foreign>. The numbers appear on the left margin above the hole. The first plate contains the figure l on its reverse side, while the number 8 appears on the obverse or inner side of the last plate. The remaining plates have numbers on their obverse side.But a peculiar feature of the numbering of the plates 5, 6 and 7 is that there is a symbol on their reverse side, whose value is not clear. These symbols are not met with elsewhere.</quote> To this we add the following observations
+<list>
+<item>2r: the sign visible on the facsimile looks more like a 1, but a 2 is expected and there is perhaps the trace of a second stroke visible that would make this 2.</item>
+<item>5v: The illegible sign could be a numeral.</item>
+<item>6v: The illegible sign could be a numeral.</item>
+<item>7v: The illegible sign could be a numeral.</item>
+</list>
+</p>
+</div>
+<div type="bibliography">
+<p>First edited by Krishna Rao (<bibl rend="omitname"><ptr target="bib:KrishnaRao1955-1956_01"/></bibl>). Re-edited and translated by Arlo Griffiths &amp; Emmanuel Francis, making use of Krishna Rao’s facsimiles, and published in 2017 on the experimental site <bibl><ptr target="bib:Griffiths+Tournier2017_01"/></bibl>. The XML source code from <bibl><ptr target="bib:Griffiths+Tournier2015-2025_01"/></bibl> was adapted for DHARMA by Arlo Griffiths in 2026. <!--Readings of D.C. Sircar provided in editorial notes to Krishna Rao’s article are cited. --><!--with the siglum DCS--></p>
+<listBibl type="primary">
+<bibl n="KR"><ptr target="bib:KrishnaRao1955-1956_01"/><citedRange>1-7</citedRange></bibl>
+<bibl n="EIAD"><ptr target="bib:Griffiths+Tournier2017_01"/></bibl>
+</listBibl>
+<listBibl type="secondary">
+<bibl><ptr target="bib:ARIE"/><citedRange>1946-47: 1, no. A.1</citedRange></bibl>
+<bibl><ptr target="bib:Chhabra+al1949_01"/><citedRange>46-47</citedRange></bibl>
+<bibl><ptr target="bib:Ramanatham1949-1950_01"/></bibl>
+<bibl>Bhārati, April 1950, 69ff</bibl><!-- CC: How can I encode this reference ? -->
+<bibl><ptr target="bib:Gai1969-1970_03"/><citedRange unit="item">861</citedRange></bibl>
+<bibl><ptr target="bib:Krishnan+Sundaram1989_01"/><citedRange>67-70</citedRange><citedRange unit="item">33</citedRange></bibl>
+<bibl><ptr target="bib:Francis2025_01"/></bibl>
+</listBibl>
+</div>
+</body>
+</text>
 </TEI>
