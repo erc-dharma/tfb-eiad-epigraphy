@@ -256,7 +256,7 @@ With these exemptions and all other types of exemptions that have not been writt
 <bibl n="EIAD"><ptr target="bib:Griffiths+Tournier2017_01"/></bibl>
 </listBibl>
 <listBibl type="secondary">
-<bibl><ptr target="bib:ARIE"/><citedRange>1946-47: 1, no. A.1</citedRange></bibl>
+<bibl><ptr target="bib:ARIE1946-1947"/><citedRange unit="page">1</citedRange><citedRange unit="item">A.1</citedRange></bibl>
 <bibl><ptr target="bib:Chhabra+al1949_01"/><citedRange>46-47</citedRange></bibl>
 <bibl><ptr target="bib:Ramanatham1949-1950_01"/></bibl>
 <bibl>Bhārati, April 1950, 69ff</bibl><!-- CC: How can I encode this reference ? -->
