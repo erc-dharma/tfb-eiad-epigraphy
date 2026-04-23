@@ -163,7 +163,7 @@
     </p>
     <p>
         pravarddhamāna-vijaya-rājya-saptama-sa<supplied reason="omitted">ṁ</supplied>vatsara
-        <lb n="10" break="no"/>sya <space quantity="1" unit="character"/> pauṣya-māsa-kr̥ṣṇa-pakṣasyāṣṭamyām paṭṭikā dattā <g type="ddanda">.</g>
+        <lb n="10" break="no"/>sya <space quantity="1" unit="character"/> pauṣya-māsa-kr̥ṣṇa-pakṣasyāṣṭamyām paṭṭikā dattā <g ref="sym:doubleBar" type="punctuation">.</g>
     </p>    
     <p>
         tatrājñāpti<supplied reason="omitted">ḥ</supplied>
@@ -171,20 +171,20 @@
         <pb n="4r"/>        
         <fw n="4r" place="left">4</fw>
         
-        <lb n="11"/>mūlakura-bhojaka<unclear>ḥ</unclear> <g type="ddanda">.</g></p>
+        <lb n="11"/>mūlakura-bhojaka<unclear>ḥ</unclear> <g ref="sym:doubleBar" type="punctuation">.</g></p>
     
     <lg met="Anuṣṭubh" n="1">
         <l n="a">bahubhir vvasudhā dattā</l>
         <l n="b">bahubhiś cānupālitā </l>
         <l n="c">yasya yasya yādā bhūm<supplied reason="omitted">i</supplied>ḥ</l>
-        <l n="d"><lb n="12"/>tasya tasya tadā phalam· <g type="ddanda">.</g></l>
+        <l n="d"><lb n="12"/>tasya tasya tadā phalam· <g ref="sym:doubleBar" type="punctuation">.</g></l>
     </lg>
     
     <lg met="Anuṣṭubh" n="2">
         <l n="a"><lb n="13"/>ṣaṣṭi-varṣa-sahasrāṇi</l>
         <l n="b">svargge k<supplied reason="omitted">r</supplied>īḍati bhūmi-da<supplied reason="omitted">ḥ</supplied></l>
         <l n="c">Ākṣeptā cābhimantā ca</l>
-        <l n="d">tāny eva na<supplied reason="omitted">ra</supplied>ke vase<supplied reason="omitted">t· <g type="ddanda">.</g></supplied></l>
+        <l n="d">tāny eva na<supplied reason="omitted">ra</supplied>ke vase<supplied reason="omitted">t· <g ref="sym:doubleBar" type="punctuation">.</g></supplied></l>
     </lg>
 </div>
             
@@ -240,7 +240,7 @@
         </app>
         
         <app loc="13">
-            <lem>vase<supplied reason="omitted">t· <g type="ddanda">.</g></supplied></lem>
+            <lem>vase<supplied reason="omitted">t· <g ref="sym:doubleBar" type="punctuation">.</g></supplied></lem>
             <note><ptr target="bib:Fleet1876_05"/> notes: <cit><quote>This letter [t] … and the mark of punctuation after it, are omitted altogether in the original, through want of space at the end of the plate.</quote><bibl><ptr target="bib:Fleet1876_05"/><citedRange unit="page">177</citedRange></bibl></cit>.</note></app></listApp>
             
 </div>    

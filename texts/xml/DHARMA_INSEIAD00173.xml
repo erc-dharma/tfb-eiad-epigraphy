@@ -106,11 +106,8 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 <body>
 <div type="edition" xml:lang="pra-Latn">
 <p>
-<lb n="1"/>purimavi<unclear>ḍā</unclear>lapāda<unclear>mūla</unclear>vāsaṁ puphagirimahā<lb 
-n="2" break="no"/>vihārapatiṭhāpakasa vasudevasirīdāmasa mahā<lb 
-n="3" break="no"/>vītarāgasa <unclear>madā</unclear> <gap reason="illegible" quantity="1" unit="character"/>piṁḍapātika<unclear>dāma</unclear>dharasa <lb n="4"/>para<unclear>ṁ</unclear>parāgatasa <unclear>bamha</unclear>deva<unclear>ṭhe</unclear>virasa sisena <unclear>bhadaṁ</unclear>ta<lb 
-n="5" break="no"/>saṁghadevena govidaṁrājavihārasa gaṁdhakuṭivārike<unclear>na</unclear> Ima 
-<lb n="6"/><gap reason="illegible" quantity="2" unit="character"/>tasela <g type="ddanda">.</g><unclear>sa</unclear>ṁvāsa<unclear>va</unclear>raṁ pa<unclear>ti</unclear><space quantity="1" unit="character"/>ṭhāpitaṁ
+<lb n="1"/>purimavi<unclear>ḍā</unclear>lapāda<unclear>mūla</unclear>vāsaṁ puphagirimahā<lb n="2" break="no"/>vihārapatiṭhāpakasa vasudevasirīdāmasa mahā<lb n="3" break="no"/>vītarāgasa <unclear>madā</unclear> <gap reason="illegible" quantity="1" unit="character"/>piṁḍapātika<unclear>dāma</unclear>dharasa <lb n="4"/>para<unclear>ṁ</unclear>parāgatasa <unclear>bamha</unclear>deva<unclear>ṭhe</unclear>virasa sisena <unclear>bhadaṁ</unclear>ta<lb n="5" break="no"/>saṁghadevena govidaṁrājavihārasa gaṁdhakuṭivārike<unclear>na</unclear> Ima 
+<lb n="6"/><gap reason="illegible" quantity="2" unit="character"/>tasela <g ref="sym:doubleBar" type="punctuation">.</g><unclear>sa</unclear>ṁvāsa<unclear>va</unclear>raṁ pa<unclear>ti</unclear><space quantity="1" unit="character"/>ṭhāpitaṁ
 </p>
 </div>
 <div type="apparatus">
@@ -164,7 +161,7 @@ n="5" break="no"/>saṁghadevena govidaṁrājavihārasa gaṁdhakuṭivārike<u
 <rdg source="bib:ParabrahmaSastry1984_01">goviddaṁrāja - vihārasa</rdg>
 <note>Emend <foreign>goviṁdarāja-</foreign>.</note></app>
 <app loc="5"><lem>gaṁdhakuṭivārike<unclear>na</unclear> Ima</lem><rdg source="bib:ParabrahmaSastry1984_01">gaṁdhaka
-							civarika</rdg><rdg rend="Ed.">gaṁdhakuṭi vārikena Ima</rdg><note><bibl><ptr target="bib:ParabrahmaSastry1984_01"/></bibl> ignored the last three akṣaras on the line.</note></app><app loc="6"><lem source="bib:ParabrahmaSastry1984_01"><gap reason="illegible" quantity="2" unit="character"/>tasela <g type="ddanda">.</g></lem><rdg rend="Ed.">ṁ üdita sela</rdg><note>This part of the inscription is almost invisible.
+							civarika</rdg><rdg rend="Ed.">gaṁdhakuṭi vārikena Ima</rdg><note><bibl><ptr target="bib:ParabrahmaSastry1984_01"/></bibl> ignored the last three akṣaras on the line.</note></app><app loc="6"><lem source="bib:ParabrahmaSastry1984_01"><gap reason="illegible" quantity="2" unit="character"/>tasela <g ref="sym:doubleBar" type="punctuation">.</g></lem><rdg rend="Ed.">ṁ üdita sela</rdg><note>This part of the inscription is almost invisible.
 							The second akṣara, though, looks like a <foreign>da</foreign> rather than a <foreign>ta</foreign>. Several printing
 							errors make it difficult to understand what Ed.
 							actually meant.</note></app><app loc="6"><lem>saṁvāsa<unclear>va</unclear>raṁ</lem><rdg source="bib:ParabrahmaSastry1984_01">saṁvāsa

@@ -111,13 +111,11 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
    <text xml:space="preserve">
 <body>
 <div type="edition" xml:lang="pra-Latn">
-<p><lb n="1"/>sidhaM <g type="dashConvex"/> s<unclear>ā</unclear>misa rā<unclear>ño</unclear> <unclear>vā</unclear>se<unclear>ṭhi-pu</unclear>tasa Ikhāku<unclear>sa</unclear> 
+<p><lb n="1"/>sidhaM <g ref="sym:dash-convex" type="punctuation">.</g> s<unclear>ā</unclear>misa rā<unclear>ño</unclear> <unclear>vā</unclear>se<unclear>ṭhi-pu</unclear>tasa Ikhāku<unclear>sa</unclear> 
 <lb n="2"/>siri-Ehavula-<unclear>ca</unclear>tam<unclear>ū</unclear>lasa <unclear>savacha</unclear>ra t<unclear>e</unclear>rasa<unclear>ma</unclear> 
 <lb n="3"/>gim<unclear>ha</unclear>ṇaṁ pakha paṁcama <num value="5">5</num> divasa sa<unclear>ta</unclear>ma <num value="7">7</num> ra<unclear>ño</unclear> 
 <lb n="4"/>māḍhari-pūtasa Ikhākuṇaṁ s<unclear>i</unclear>ri-virapūr<unclear>i</unclear>sadatasa 
-<lb n="5"/>mahisija mahavalabhīkāya yakhīlinikāya pu<lb break="no" 
-n="6"/>tasa mahāsenapatisa kum<unclear>ā</unclear>rasa ElīEhavū<lb break="no" 
-n="7"/>ladāsaṁṇakasa chāyā-thabh<unclear>o</unclear> thāpito <g type="dotDouble"/> <g type="spiralR"/>
+<lb n="5"/>mahisija mahavalabhīkāya yakhīlinikāya pu<lb break="no" n="6"/>tasa mahāsenapatisa kum<unclear>ā</unclear>rasa ElīEhavū<lb break="no" n="7"/>ladāsaṁṇakasa chāyā-thabh<unclear>o</unclear> thāpito <g ref="sym:bullet-double" type="punctuation">.</g> <g ref="sym:spiral-right" type="symbol">*</g>
 </p>
 </div>
 <div type="apparatus">

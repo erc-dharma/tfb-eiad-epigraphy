@@ -89,8 +89,7 @@
 <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
   <p>
     <pb n="1r"/>
-<lb n="1r1=1"/>bamhanānaṁ sava-gutaja-mahā<lb 
-n="1r2=2" break="no"/>janānaṁ janānaṁ <num value="8">8</num> kūdūrahāre
+<lb n="1r1=1"/>bamhanānaṁ sava-gutaja-mahā<lb n="1r2=2" break="no"/>janānaṁ janānaṁ <num value="8">8</num> kūdūrahāre
 <lb n="1r3=3"/>pāṁṭūrasa bamhadeyasa
   </p>
 
@@ -107,13 +106,12 @@ n="1r2=2" break="no"/>janānaṁ janānaṁ <num value="8">8</num> kūdūrahāre
 
 <pb n="2v"/>
 <lb n="2v1=10"/>vāpataṁ</p> <p>Aṁmhe dāni
-<lb n="2v2=11"/>Aṁmha-vejayike <g type="dash">.</g>
-<lb n="2v3=12"/>Āyu-vadhanike ca <g type="dash">.</g>
+<lb n="2v2=11"/>Aṁmha-vejayike <g ref="sym:dash" type="punctuation">.</g>
+<lb n="2v3=12"/>Āyu-vadhanike ca <g ref="sym:dash" type="punctuation">.</g>
 
 <pb n="3r"/><fw place="left" n="3r"><num value="3">3</num></fw>
-<lb n="3r1=13"/>baṁmhanānaṁ gotama-sagota<lb 
-n="3r2=14" break="no"/>-jāyāparasa savagutajasa
-<lb n="3r3=15"/><num value="8">8</num> tānavasa savigajasa <g type="dash">.</g>
+<lb n="3r1=13"/>baṁmhanānaṁ gotama-sagota<lb n="3r2=14" break="no"/>-jāyāparasa savagutajasa
+<lb n="3r3=15"/><num value="8">8</num> tānavasa savigajasa <g ref="sym:dash" type="punctuation">.</g>
 
 <pb n="3v"/>
 <lb n="3v1=16"/>Asiyo <num value="3">3</num> goginajasa
@@ -121,8 +119,8 @@ n="3r2=14" break="no"/>-jāyāparasa savagutajasa
 <lb n="3v3=18"/>bhavaṁnajasa Asiyo be <num value="2">2</num>
 
 <pb n="4r"/><fw place="left" n="4r"><num value="4">4</num></fw>
-<lb n="4r1=19"/>bhāradāyasa rudaveṁnhujasa <g type="dash">.</g>
-<lb n="4r2=20"/>Aṁsi divaḍhā <g type="dash">.</g> kaṁnhāyanasa
+<lb n="4r1=19"/>bhāradāyasa rudaveṁnhujasa <g ref="sym:dash" type="punctuation">.</g>
+<lb n="4r2=20"/>Aṁsi divaḍhā <g ref="sym:dash" type="punctuation">.</g> kaṁnhāyanasa
 <lb n="4r3=21"/>Īsaradatajasa Asi diva<unclear reason="eccentric_ductus">ḍhā</unclear> ―
 <!--(21) diva[ḍā] ― Hultzsch (p. 317 n. 1): read divaḍhā.-->
 
@@ -140,8 +138,8 @@ n="3r2=14" break="no"/>-jāyāparasa savagutajasa
 Parabrahma Sastry (2008: 41): Pamtura = Patura, Tenali tk., Guntur dt.-->
 
 <pb n="5v"/>
-<p><lb n="5v1=28"/>Etaṁsi taṁ <space type="unclassified"/> gāma <g type="dash">.</g>
-<lb n="5v2=29"/>pā<supplied reason="omitted">ṁ</supplied>ṭūra <g type="dash">.</g> baṁmhadeyaṁ
+<p><lb n="5v1=28"/>Etaṁsi taṁ <space type="unclassified"/> gāma <g ref="sym:dash" type="punctuation">.</g>
+<lb n="5v2=29"/>pā<supplied reason="omitted">ṁ</supplied>ṭūra <g ref="sym:dash" type="punctuation">.</g> baṁmhadeyaṁ
 <lb n="5v3=30"/>kātūna <space/> Oyapāpehi</p> 
 
 <pb n="6r"/><fw place="left" n="6r"><num value="6">6</num></fw>
@@ -151,8 +149,8 @@ Parabrahma Sastry (2008: 41): Pamtura = Patura, Tenali tk., Guntur dt.-->
 
 <pb n="6v"/>
 <p><lb n="6v1=34"/>Apāpesaṁ Anomasaṁ
-<lb n="6v2=35"/>Alona-khādakaṁ <g type="dash">.</g>
-<lb n="6v3=36"/>Araṭha-saṁvinayikaṁ <g type="dash">.</g>
+<lb n="6v2=35"/>Alona-khādakaṁ <g ref="sym:dash" type="punctuation">.</g>
+<lb n="6v3=36"/>Araṭha-saṁvinayikaṁ <g ref="sym:dash" type="punctuation">.</g>
 
 <pb n="7r"/><fw place="left" n="7r"><num value="7">7</num></fw>
 <lb n="7r1=37"/>sava-jāta-pārihārikaṁ ca</p>
@@ -162,16 +160,15 @@ Parabrahma Sastry (2008: 41): Pamtura = Patura, Tenali tk., Guntur dt.-->
 <pb n="7v"/>
 <lb n="7v1=40"/>pā<supplied reason="omitted">ṁ</supplied>tūra<unclear>ṁ</unclear> ba<unclear>ṁ</unclear>mhadeya<unclear>ṁ kā</unclear>t<choice><sic>u</sic><corr>ū</corr></choice>na Etha
 <lb n="7v2=41"/>nibaṁdhāpehi</p> <p>Aviyena Ānataṁ
-<lb n="7v3=42"/>sayaṁ chato siri-Aṭha-satā<!--(40) pātūra[ṁ] ― Read pāṁtūraṁ.--><pb n="8r" break="no"/><fw place="left" n="8r"><num value="8">8</num></fw><lb 
-n="8r1=43" break="no"/>-vijayo dato paṭikā <g type="dash">.</g></p>
+<lb n="7v3=42"/>sayaṁ chato siri-Aṭha-satā<!--(40) pātūra[ṁ] ― Read pāṁtūraṁ.--><pb n="8r" break="no"/><fw place="left" n="8r"><num value="8">8</num></fw><lb n="8r1=43" break="no"/>-vijayo dato paṭikā <g ref="sym:dash" type="punctuation">.</g></p>
 <p><lb n="8r2=44"/><abbr>saṁva</abbr> <num value="10"><g type="numeral">10</g></num> <abbr>hepa</abbr> <num value="1">1</num> <abbr>diva</abbr> <num value="1">1</num>
-<lb n="8r3=45"/>mahā-talavarena <g type="dash">.</g>
+<lb n="8r3=45"/>mahā-talavarena <g ref="sym:dash" type="punctuation">.</g>
 <!--(45) mahātala- ― Hultzsch: mahātagi-. ― But see br̥hatphalāyana- (2a1=7).-->
 
 <pb n="8v"/>
 <lb n="8v1=46"/>mahā-daṁḍanāyakena
-<lb n="8v2=47"/>bhāpahānavaṁmena <g type="dash">.</g>
-<lb n="8v3=48"/>kaṭati <g type="dash">.</g>
+<lb n="8v2=47"/>bhāpahānavaṁmena <g ref="sym:dash" type="punctuation">.</g>
+<lb n="8v3=48"/>kaṭati <g ref="sym:dash" type="punctuation">.</g>
 <!--Parabrahma Sastry (2008: 41): executor = Mahatalavara Mahadandanayaka Bhapahanavarman. “The titles show the ikshavakau [sic] influence in the administration”-->
 
   </p>
