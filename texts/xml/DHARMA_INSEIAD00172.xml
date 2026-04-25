@@ -48,7 +48,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                        	<p>Lettering compatible with a dating to the 2nd or 3rd century CE.<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                        	<p>Lettering that is eccentric in several ways but seem compatible with a dating the 3rd century CE.<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
                             <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -89,89 +89,92 @@
 <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
   <p>
     <pb n="1r"/>
-<lb n="1r1=1"/>bamhanānaṁ sava-gutaja-mahā<lb n="1r2=2" break="no"/>janānaṁ janānaṁ <num value="8">8</num> kūdūrahāre
-<lb n="1r3=3"/>pāṁṭūrasa bamhadeyasa
+<lb n="1"/>bamhanānaṁ sava-gutaja-mahā<lb 
+n="2" break="no"/>janānaṁ janānaṁ <num value="8">8</num> kūdūrahāre
+<lb n="3"/>pāṁṭūrasa bamhadeyasa
   </p>
 
 <p>
-<pb n="1v"/><fw place="left" n="1v"><num value="1">1</num></fw><lb n="1b1=4"/>s<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>v<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>pato vijaya-khaṁdhāvārā
-<lb n="1b2=5"/>nagarā kūdūrāto
-<lb n="1b1=6"/>maheśvara-pāda-parigahito
+<pb n="1v"/><fw place="left" n="1v"><num value="1">1</num></fw>
+<lb n="4"/>s<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>v<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>pato vijaya-khaṁdhāvārā
+<lb n="5"/>nagarā kūdūrāto
+<lb n="6"/>maheśvara-pāda-parigahito
 
 <pb n="2r"/><fw place="left" n="2r"><num value="2">2</num></fw>
-<lb n="2r1=7"/>br̥hatphalāyana-sagoto
-<lb n="2r2=8"/>rājā siri-jayavaṁmo
-<lb n="2r3=9"/>Ānapayati kūdūre
+<lb n="7"/>br̥hatphalāyana-sagoto
+<lb n="8"/>rājā siri-jayavaṁmo
+<lb n="9"/>Ānapayati kūdūre
 <!--Parabrahma Sastry (2008: 41): Jayavarman = probably 292 to 302.-->
 
 <pb n="2v"/>
-<lb n="2v1=10"/>vāpataṁ</p> <p>Aṁmhe dāni
-<lb n="2v2=11"/>Aṁmha-vejayike <g ref="sym:dash" type="punctuation">.</g>
-<lb n="2v3=12"/>Āyu-vadhanike ca <g ref="sym:dash" type="punctuation">.</g>
+<lb n="10"/>vāpataṁ</p> <p>Aṁmhe dāni
+<lb n="11"/>Aṁmha-vejayike <g ref="sym:dash" type="punctuation">.</g>
+<lb n="12"/>Āyu-vadhanike ca <g ref="sym:dash" type="punctuation">.</g>
 
 <pb n="3r"/><fw place="left" n="3r"><num value="3">3</num></fw>
-<lb n="3r1=13"/>baṁmhanānaṁ gotama-sagota<lb n="3r2=14" break="no"/>-jāyāparasa savagutajasa
-<lb n="3r3=15"/><num value="8">8</num> tānavasa savigajasa <g ref="sym:dash" type="punctuation">.</g>
+<lb n="13"/>baṁmhanānaṁ gotama-sagota<lb 
+n="14" break="no"/>-jāyāparasa savagutajasa
+<lb n="15"/><num value="8">8</num> tānavasa savigajasa <g ref="sym:dash" type="punctuation">.</g>
 
 <pb n="3v"/>
-<lb n="3v1=16"/>Asiyo <num value="3">3</num> goginajasa
-<lb n="3v2=17"/>Asiyo <num value="3">3</num> koḍina-sagotasa
-<lb n="3v3=18"/>bhavaṁnajasa Asiyo be <num value="2">2</num>
+<lb n="16"/>Asiyo <num value="3">3</num> goginajasa
+<lb n="17"/>Asiyo <num value="3">3</num> koḍina-sagotasa
+<lb n="18"/>bhavaṁnajasa Asiyo be <num value="2">2</num>
 
 <pb n="4r"/><fw place="left" n="4r"><num value="4">4</num></fw>
-<lb n="4r1=19"/>bhāradāyasa rudaveṁnhujasa <g ref="sym:dash" type="punctuation">.</g>
-<lb n="4r2=20"/>Aṁsi divaḍhā <g ref="sym:dash" type="punctuation">.</g> kaṁnhāyanasa
-<lb n="4r3=21"/>Īsaradatajasa Asi diva<unclear reason="eccentric_ductus">ḍhā</unclear> ―
+<lb n="19"/>bhāradāyasa rudaveṁnhujasa <g ref="sym:dash" type="punctuation">.</g>
+<lb n="20"/>Aṁsi divaḍhā <g ref="sym:dash" type="punctuation">.</g> kaṁnhāyanasa
+<lb n="21"/>Īsaradatajasa Asi diva<unclear reason="eccentric_ductus">ḍhā</unclear> ―
 <!--(21) diva[ḍā] ― Hultzsch (p. 317 n. 1): read divaḍhā.-->
 
 <pb n="4v"/>
-<lb n="4v1=22"/>Opamaṁnavasa rudaghosajasa
-<lb n="4v2=23"/>Aṁsi <num value="1">1</num> kosika-sagotasa
-<lb n="4v3=24"/>khaṁdarudajasa Aṁsikā<unclear>ddhā</unclear> ca<surplus>ṁ</surplus>
+<lb n="22"/>Opamaṁnavasa rudaghosajasa
+<lb n="23"/>Aṁsi <num value="1">1</num> kosika-sagotasa
+<lb n="24"/>khaṁdarudajasa Aṁsikā<unclear>ddhā</unclear> ca<surplus>ṁ</surplus>
 <!--(24) caṁ ― Hultzsch (p. 317 n. 2): read ca.-->
 
 <pb n="5r"/><fw place="left" n="5r"><num value="5">5</num></fw>
-<lb n="5r1=25"/>janānaṁ <num value="8">8</num> Aṁsiyo <num value="24"><g type="numeral">20</g> 4</num>
-<lb n="5r2=26"/>kāt<choice><sic>u</sic><corr>ū</corr></choice>na kūdūrahāre gāmaṁ
-<lb n="5r3=27"/>pāṁṭuraṁ ― baṁmhadeyaṁ da<unclear>d</unclear>āma</p>
+<lb n="25"/>janānaṁ <num value="8">8</num> Aṁsiyo <num value="24"><g type="numeral">20</g> 4</num>
+<lb n="26"/>kāt<choice><sic>u</sic><corr>ū</corr></choice>na kūdūrahāre gāmaṁ
+<lb n="27"/>pāṁṭuraṁ ― baṁmhadeyaṁ da<unclear>d</unclear>āma</p>
 <!--(26) kātuna ― Hultzsch (p. 317 n. 3): read kātūna.
 Parabrahma Sastry (2008: 41): Pamtura = Patura, Tenali tk., Guntur dt.-->
 
 <pb n="5v"/>
-<p><lb n="5v1=28"/>Etaṁsi taṁ <space type="unclassified"/> gāma <g ref="sym:dash" type="punctuation">.</g>
-<lb n="5v2=29"/>pā<supplied reason="omitted">ṁ</supplied>ṭūra <g ref="sym:dash" type="punctuation">.</g> baṁmhadeyaṁ
-<lb n="5v3=30"/>kātūna <space/> Oyapāpehi</p> 
+<p><lb n="28"/>Etaṁsi taṁ <space type="unclassified"/> gāma <g ref="sym:dash" type="punctuation">.</g>
+<lb n="29"/>pā<supplied reason="omitted">ṁ</supplied>ṭūra <g ref="sym:dash" type="punctuation">.</g> baṁmhadeyaṁ
+<lb n="30"/>kātūna <space/> Oyapāpehi</p> 
 
 <pb n="6r"/><fw place="left" n="6r"><num value="6">6</num></fw>
-<p><lb n="6r1=31"/>Etasa casa <space/> gāmasa
-<lb n="6r2=32"/>pāṁṭūrasa <space/> baṁmhadeyaṁ
-<lb n="6r3=33"/>kāt<choice><sic>u</sic><corr>ū</corr></choice>na <space/> parihāre vitarāma</p>
+<p><lb n="31"/>Etasa casa <space/> gāmasa
+<lb n="32"/>pāṁṭūrasa <space/> baṁmhadeyaṁ
+<lb n="33"/>kāt<choice><sic>u</sic><corr>ū</corr></choice>na <space/> parihāre vitarāma</p>
 
 <pb n="6v"/>
-<p><lb n="6v1=34"/>Apāpesaṁ Anomasaṁ
-<lb n="6v2=35"/>Alona-khādakaṁ <g ref="sym:dash" type="punctuation">.</g>
-<lb n="6v3=36"/>Araṭha-saṁvinayikaṁ <g ref="sym:dash" type="punctuation">.</g>
+<p><lb n="34"/>Apāpesaṁ Anomasaṁ
+<lb n="35"/>Alona-khādakaṁ <g ref="sym:dash" type="punctuation">.</g>
+<lb n="36"/>Araṭha-saṁvinayikaṁ <g ref="sym:dash" type="punctuation">.</g>
 
 <pb n="7r"/><fw place="left" n="7r"><num value="7">7</num></fw>
-<lb n="7r1=37"/>sava-jāta-pārihārikaṁ ca</p>
-<p><lb n="7r2=38"/>Etehi naṁ parihārehi
-<lb n="7r3=39"/>pariharāhi</p> <p>Etaṁ casiṁ gāma<unclear>ṁ</unclear>
+<lb n="37"/>sava-jāta-pārihārikaṁ ca</p>
+<p><lb n="38"/>Etehi naṁ parihārehi
+<lb n="39"/>pariharāhi</p> <p>Etaṁ casiṁ gāma<unclear>ṁ</unclear>
 
 <pb n="7v"/>
-<lb n="7v1=40"/>pā<supplied reason="omitted">ṁ</supplied>tūra<unclear>ṁ</unclear> ba<unclear>ṁ</unclear>mhadeya<unclear>ṁ kā</unclear>t<choice><sic>u</sic><corr>ū</corr></choice>na Etha
-<lb n="7v2=41"/>nibaṁdhāpehi</p> <p>Aviyena Ānataṁ
-<lb n="7v3=42"/>sayaṁ chato siri-Aṭha-satā<!--(40) pātūra[ṁ] ― Read pāṁtūraṁ.--><pb n="8r" break="no"/><fw place="left" n="8r"><num value="8">8</num></fw><lb n="8r1=43" break="no"/>-vijayo dato paṭikā <g ref="sym:dash" type="punctuation">.</g></p>
-<p><lb n="8r2=44"/><abbr>saṁva</abbr> <num value="10"><g type="numeral">10</g></num> <abbr>hepa</abbr> <num value="1">1</num> <abbr>diva</abbr> <num value="1">1</num>
-<lb n="8r3=45"/>mahā-talavarena <g ref="sym:dash" type="punctuation">.</g>
+<lb n="40"/>pā<supplied reason="omitted">ṁ</supplied>tūra<unclear>ṁ</unclear> ba<unclear>ṁ</unclear>mhadeya<unclear>ṁ kā</unclear>t<choice><sic>u</sic><corr>ū</corr></choice>na Etha
+<lb n="41"/>nibaṁdhāpehi</p> <p>Aviyena Ānataṁ
+<lb n="42"/>sayaṁ chato siri-Aṭha-satā<!--(40) pātūra[ṁ] ― Read pāṁtūraṁ.--><pb n="8r" break="no"/><fw place="left" n="8r"><num value="8">8</num></fw>
+<lb n="43" break="no"/>-vijayo dato paṭikā <g ref="sym:dash" type="punctuation">.</g></p>
+<p><lb n="44"/><abbr>saṁva</abbr> <num value="10"><g type="numeral">10</g></num> <abbr>he</abbr> <abbr>pa</abbr> <num value="1">1</num> <abbr>diva</abbr> <num value="1">1</num>
+<lb n="45"/>mahā-talavarena <g ref="sym:dash" type="punctuation">.</g>
 <!--(45) mahātala- ― Hultzsch: mahātagi-. ― But see br̥hatphalāyana- (2a1=7).-->
 
 <pb n="8v"/>
-<lb n="8v1=46"/>mahā-daṁḍanāyakena
-<lb n="8v2=47"/>bhāpahānavaṁmena <g ref="sym:dash" type="punctuation">.</g>
-<lb n="8v3=48"/>kaṭati <g ref="sym:dash" type="punctuation">.</g>
+<lb n="46"/>mahā-daṁḍanāyakena
+<lb n="47"/>bhāpahānavaṁmena <g ref="sym:dash" type="punctuation">.</g>
+<lb n="48"/>kaṭati <g ref="sym:dash" type="punctuation">.</g>
 <!--Parabrahma Sastry (2008: 41): executor = Mahatalavara Mahadandanayaka Bhapahanavarman. “The titles show the ikshavakau [sic] influence in the administration”-->
-
-  </p>
+ </p>
 </div>
             <!--edition encoded as per EGD §§2−7-->
          </div>
@@ -203,11 +206,11 @@ Parabrahma Sastry (2008: 41): Pamtura = Patura, Tenali tk., Guntur dt.-->
 <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
 <p>(First plate, first side.) (Order referring) to the <foreign>brahmadeya</foreign> Pāṇṭūra in Kūdūrāhāra,
 (granted) to 8 people, to Brāhmaṇas, to the <foreign>mahājana</foreign>s (headed by) Savagutaja.<!-- n8 --></p>
-<p n="1-6">(From the camp of victory, the town Kūdūraa, — the fortunate<!-- n3 --> king, the glorious
+<p n="1-6">(From the camp of victory, the town Kūdūra, — the fortunate<!-- n3 --> king, the glorious
 Jayavarman, who is favoured by the feet of Maheśvara (and) who belongs to the <foreign>gotra</foreign> of the
-Br̥hatphalāyanas, orders (his) official (<foreign>vyāpr̥ta</foreign>) at Kūdūraa (as follows): —</p>
+Br̥hatphalāyanas, orders (his) official (<foreign>vyāpr̥ta</foreign>) at Kūdūra (as follows): —</p>
 <p n="7-24">“For conferring on ourselves victory (in war) and for increasing (our) length of life,
-we have now given the village Pāṇṭūra in the district of Kūdūraa (<foreign>Kūdūrāhāra</foreign>) (as) a
+we have now given the village Pāṇṭūra in the district of Kūdūra (<foreign>Kūdūrāhāra</foreign>) (as) a
 <foreign>brahmadeya</foreign>, assigning 24 shares<!-- n4 --> to 8 people, (<foreign>viz.</foreign>) to (the following) Brāhmaṇas:
 <list>
 <item>to Savagutaja (Śarvaguptārya), a householder<!-- n5 --> of the Gautama gotra, 8 (shares);</item>
