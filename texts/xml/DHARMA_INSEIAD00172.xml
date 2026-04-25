@@ -48,7 +48,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                        	<p>Lettering that is eccentric in several ways but seem compatible with a dating the 3rd century CE.<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                        	<p>Lettering that is eccentric in several ways but seem compatible with a dating the 3rd century CE. According to Hultzsch (<bibl><ptr target="bib:Hultzsch1900-1901_06"/><citedRange unit="page">315</citedRange></bibl>1901: 315), the script on the seal is <quote>in archaic characters which differ totally from those employed on the plates</quote>.<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
                             <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -182,18 +182,18 @@ Parabrahma Sastry (2008: 41): Pamtura = Patura, Tenali tk., Guntur dt.-->
 <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
 <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                <listApp>
-                  <app loc="1b1=4">
+                  <app loc="4">
                      <lem source="bib:Hultzsch1900-1901_06">s<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>v<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>pato</lem>
-                    <note>Hultzsch (p. 316 n. 6): <quote>The two first letters are broken away at the top. The lower portion of the letter <foreign>v</foreign> is preserved on a separate piece of the plate, which is broken off and therefore could not be shown on the accompanying photo-zincograph. Of the two possible restorations, <foreign>sava</foreign> (<foreign>sarva</foreign>) and <foreign>siva</foreign> (<foreign>śira</foreign>), the second appears preferable, because documents generally open with a word of auspicious import.</quote></note>
+                    <note>Hultzsch (<bibl rend="omitname"><ptr target="bib:Hultzsch1900-1901_06"/><citedRange unit="page">316</citedRange><citedRange unit="note">6</citedRange></bibl>): <quote>The two first letters are broken away at the top. The lower portion of the letter <foreign>v</foreign> is preserved on a separate piece of the plate, which is broken off and therefore could not be shown on the accompanying photo-zincograph. Of the two possible restorations, <foreign>sava</foreign> (<foreign>sarva</foreign>) and <foreign>siva</foreign> (<foreign>śira</foreign>), the second appears preferable, because documents generally open with a word of auspicious import.</quote></note>
                   </app>
-<app loc="4r3=21">
+<app loc="21">
 <lem>diva<unclear reason="eccentric_ductus">ḍhā</unclear></lem>
 <rdg source="bib:Hultzsch1900-1901_06">diva<choice><sic><unclear>ḍā</unclear></sic><corr>ḍhā</corr></choice></rdg>
 </app>
-<app loc="8r3=45">
+<app loc="45">
 <lem>mahā-talavarena</lem>
-<rdg source="bib:Hultzsch1900-1901_06">mahātagi</rdg>
-<note>The shape of <foreign>la</foreign> is eccentric only at first sight, but regular for this hand. See e.g. <foreign>br̥hatphalāyana</foreign> in line 2r1=7.</note>
+<rdg source="bib:Hultzsch1900-1901_06">mahātagi-varena</rdg>
+<note>Vogel (<bibl rend="omitname"><ptr target="bib:Vogel1929-1930_01"/><citedRange unit="page">7</citedRange><citedRange unit="note">1</citedRange></bibl>) saw that <foreign>mahā-talavarena</foreign> is expected here, but imagined a scribal error. The shape of <foreign>la</foreign> is eccentric only at first sight, but regular for this hand. See, e.g., <foreign>br̥hatphalāyana</foreign> in line 7. See also <bibl><ptr target="bib:NilakantaSastri+Gopalachari1937-1938_01"/></bibl>.</note>
 </app>
                </listApp>
 </div>
@@ -204,12 +204,11 @@ Parabrahma Sastry (2008: 41): Pamtura = Patura, Tenali tk., Guntur dt.-->
 <p n="1">(The seal) of the Mahārāja, the glorious Jayavarman, who belongs to the <foreign>gotra</foreign> of the Br̥hatphalāyanas.</p>
 </div>
 <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
-<p>(First plate, first side.) (Order referring) to the <foreign>brahmadeya</foreign> Pāṇṭūra in Kūdūrāhāra,
-(granted) to 8 people, to Brāhmaṇas, to the <foreign>mahājana</foreign>s (headed by) Savagutaja.<!-- n8 --></p>
-<p n="1-6">(From the camp of victory, the town Kūdūra, — the fortunate<!-- n3 --> king, the glorious
+<p n="1-3">(Order referring) to the <foreign>brahmadeya</foreign> Pāṇṭūra in Kūdūrāhāra, (granted) to 8 people, to Brāhmaṇas, to the <foreign>mahājana</foreign>s (headed by) Savagutaja.<!-- n8 --></p>
+<p n="4-10">(From the camp of victory, the town Kūdūra, — the fortunate<!-- n3 --> king, the glorious
 Jayavarman, who is favoured by the feet of Maheśvara (and) who belongs to the <foreign>gotra</foreign> of the
-Br̥hatphalāyanas, orders (his) official (<foreign>vyāpr̥ta</foreign>) at Kūdūra (as follows): —</p>
-<p n="7-24">“For conferring on ourselves victory (in war) and for increasing (our) length of life,
+Br̥hatphalāyanas, orders (his) official (<foreign>vyāpr̥ta</foreign>) at Kūdūra (as follows:</p>
+<p n="10-27">“For conferring on ourselves victory (in war) and for increasing (our) length of life,
 we have now given the village Pāṇṭūra in the district of Kūdūra (<foreign>Kūdūrāhāra</foreign>) (as) a
 <foreign>brahmadeya</foreign>, assigning 24 shares<!-- n4 --> to 8 people, (<foreign>viz.</foreign>) to (the following) Brāhmaṇas:
 <list>
@@ -222,21 +221,39 @@ we have now given the village Pāṇṭūra in the district of Kūdūra (<foreig
 <item>to Rudaghosaja {Rudraghoṣārya) of the Aupamanyava (<foreign>gotra</foreign>) 1 share;</item> 
 <item>and to Khandarudaja (Skandarudrārya) of the Kauśika <foreign>gotra</foreign> half a share.</item>
 </list></p>
-<p n="25-27">“Parcel off<!-- n1 --> that village Pāṇṭūra from this (district), having made (it) a
+<p n="28-30">“Parcel off<!-- n1 --> that village Pāṇṭūra from this (district), having made (it) a
 <foreign>brahmadeya</foreign>.</p>
-<p n="28-30">“And to this village Pāṇṭūra we grant (all) immunities, having made (it) a <foreign>brahmadeya</foreign>.</p>
-<p n="31-34">“(Let it be) free from being entered, free from being meddled with, free from diggings for salt, <foreign>araṭhasaṁvinayika</foreign>, and endowed with immunities of all kinds.</p>
-<p n="35">“Exempt<!-- n2 --> (it) with (all) these immunities.</p>
-<p n="36-37">“And having made this village Pāṇṭūra a <foreign>brahmadeya</foreign>, cause a charter to be
+<p n="31-33">“And to this village Pāṇṭūra we grant (all) immunities, having made (it) a <foreign>brahmadeya</foreign>.</p>
+<p n="34-37">“(Let it be) free from being entered, free from being meddled with, free from diggings for salt, <foreign>araṭhasaṁvinayika</foreign>,<note>On this term, see our note on <ref target="DHARMA_INSEIAD00161.xml">EIAD 161</ref>, lines 18–19.</note> and endowed with immunities of all kinds.</p>
+<p n="38-39">“Exempt<!-- n2 --> (it) with (all) these immunities.</p>
+<p n="39-41">“And having made this village Pāṇṭūra a <foreign>brahmadeya</foreign>, cause a charter to be
 drawn ups to this effect.”</p>
-<p n="38">The order was issued by word of mouth.<!-- n4 --></p>
-<p n="39">(The charter) was signed<!-- n5 --> by (the king) himself. Fortune, wealth, power<!-- n6 --> and
-victory<!-- n7 --> were given (by the donees to the king as a reward for the grant).</p>
-<p n="40">(This) set of plates was prepared on the 1st day of the 1st fortnight of winter of the 10th year by the Mahādaṇḍanāyaka Bhāpahānavarman, the best of the Mahātagi (family?).</p>
+<p n="41-43">The order was issued by word of mouth. (The charter) was signed<!-- n5 --> by (the king) himself. Fortune, wealth, power<!-- n6 --> and victory<!-- n7 --> were given (by the donees to the king as a reward for the grant).</p>
+<p n="44-48">(This) set of plates was prepared on the 1st day of the 1st fortnight of winter of the 10th year by the great <foreign>talavara</foreign>, the great <foreign>daṇḍanāyaka</foreign> Bhāpahānavarman.<note>Since we edit the text differently, we have modified the translation for the last phrase proposed by Hultzsch: <quote>by the Mahādaṇḍanāyaka Bhāpahānavarman, the best of the Mahātagi (family?)</quote></note></p>
 </div>
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+            <!-- NOTES emfr
+Le nom du roi est en sanskrit sur le sceau et en prâkrit dans le texte des plaques. EI 8, p. 145 : rapprochement avec les formules des tablettes de Guṇapadēya. 
+Dani (1963) : inscr. de Mayidavolu dans le même style qu’une inscription des Br̥hatphalāyana (toutes dérivant des inscriptions des Ikṣvāku).
+Pollock (1996, p. 211, n. 18).
+Pollock (2006, p. 63, note 49). ― Les situe erronément  au TN et les présente comme p-ê les tablettes les plus anciennes d’Asie du Sud. ― « With the Sanskrit of the Pallava seals compare the contemporaneous charter of Jayavarman, Kistna district, Tamilnadu (EI 6: 315–19; possibly the oldest copperplate record in South Asia). The charter is in Prakrit, whereas the seal reads: br̥hatphalāyanasagotrasya mahārājaśrījayavarmmaṇaḥ; contrast this with lines 4–5 of the plate itself: br̥hatphalāyanasagoto rājā sirijayavammo. The Sanskrit is also written in different characters from the Prakrit. » Compare Salomon (1998, p. 114) : « The earliest specimens of copper plate charters come from southern India, issued by the early Pallava and Śālaṅkāyana dynasties and datable, according to Sircar (SIE 107), to about the middle of the fourth century A.D. »
+Sivaramamurti (1948, p. 168) : tablettes Br̥hatphalāyana de Jayavarman à Koṇḍamudi (EI 6, p. 315) reprennent l’écriture des tablettes de Mayidavōlu.
+Willis’ project map : Br̥hatphalāyana: Kondamudi copper plates of Jayavarman ― This set of 8 copper plates were discovered in the village of Kondamudi and were secured together with a ring and seal. The seal is stamped with an image of a trident, a box, a crescent moon and a circular legend which is written in different characters to those found on the copper plates. ― The charter records that Mahārāja Jayavarman donated the village of Pāṇṭūra in the district of Kūdūra to 8 Brāhmaṇas. The donated village was split into 24 shares and divided between the Brāhmaṇas as follows: 
+Śarvaguptārya, a householder of the Gautama gotra – 8 shares
+Savigija of the Tānavya gōtra – 3 shares
+Goginaja – 3 shares
+Bhavannaja of the Kauṇinya gōtra – 2 shares
+Rudavennhuja of the Bhāradvāja gōtra – 1 ½ shares
+Tśvaradattārya of the Kārshṇāyana gōtra – 1 ½ shares
+Rudaghōshārya of the Aupamanyava gōtra – 1 share
+Skandarudrārya of the Kauśika gōtra – ½ share 
+(This division does not total 24 shares however).
+The charter was issued from Kūdūra on the 1st day of the 1st fortnight of winter in the 10th year of Jayavarman’s reign. The donated village was made as brahmadēya and Jayavarman is described in the inscription as belonging to the Br̥hatphalāyana gōtra and a worshipper of Mahēśvara, a form of Śiva. The donation was made to increase the donor’s life span and to secure victory in war. (Hultzsch, E., ‘Kondamudi plates of Jayavarman’, Epigraphia Indica vol VI, pp. 315-319.) ― Sircar, Altekar and Majumdar date Jayavarma’s reign to around the end of the 3rd century and the beginning of the 4th century AD, suggesting he was a contemporary of the early Gupta kings. (Altekar, A.S. & Majumdar, R.C. The Vākāṭaka-Gupta Age, Motilal Banarsi Dass, 1954, p.63 and Sircar. D.C., The Successors of the Sātavāhanas, University of Calcutta, 1939, p. 41)
+Br̥hatphalāyana: Guduru/Kudūra? ― According to Sircar, the modern village of Guduru is located on the ancient city of Kudūra, the place of issue of the Kondamudi copper-plates of Jayavarma. (Sircar. D.C., The Successors of the Sātavāhanas, University of Calcutta, 1939, p. 46) ― Jayavarman's plates date in 10th regnal year and identify him as belonging to the Br̥hatphalāyana gotra. ― Altekar and Majumdar however state that the exact identification of Kudūra is not yet clear, with another village called Kodura near Ghantasala possibly the location of the ancient Kudūra. (Altekar, A.S. & Majumdar, R.C. The Vākāṭaka-Gupta Age, Motilal Banarsi Dass, 1954, p.63)
+
+ -->
+
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
@@ -245,7 +262,24 @@ victory<!-- n7 --> were given (by the donees to the king as a reward for the gra
 		<bibl n="H"><ptr target="bib:Hultzsch1900-1901_06"/><citedRange unit="page">315-319</citedRange></bibl>
 		</listBibl>
            <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+<!-- Jayaswal, K.P. (1933). History of India. 150 A.D. to 350 A.D. JBORS, 19.1-2. [Delhi: Low Price Publications, 1990*]
+Jouveau-Dubreuil (1920b). Ancient History of the Deccan. Pondicherry. [New Delhi: AES, 1991*]
+Gopalachari, K. (1941-e). Early History of the Andhra Country. Madras: Madras University (MUHS 16). ― Chapter VIII. Kings of the Br̥hatphalāyana Gotra, p. 151-162.
+Krishnarao, Bhavaraju Venkata (1942). A History of the Early Dynasties of Andhradesa. c. 200-625 A.D. (With a map of Ancient Andhradesa and Dakṣiṇāpatha). Madras: V. Ramaswami Sastrulu & Sons. ― Thesis approved for the Degre of Master of Arts in Andhra University, 1938. ― See pp. 317-325.
+Rao, M. Rama (1943c-e). Inscriptions of Āndhra Dynasties. Journal of Āndhra History and Culture 1.2 (July 1943), p. 48-68. ― VI. The Br̥hatphalāyanas. ― 1 inscription.
+Rao, M. Rama (1946b-e). Studies in Early Andhra History. Journal of Āndhra History and Culture 3.2-3 (July & October 1946), p. 22-32. ― Rulers of Veṅgi – The Br̥hatphalāyanas.
+Sastry, P.V. Parabrahma (2008-e). The Brihatphalayanas, Salankayanas and Anandas. In: Sarma, I.K. (ed.) (2008). Comprehensive History and Culture of Andhra Pradesh. Vol. II. Early Historic Andhra Pradesh. 500 BC- AD 624. New Delhi: Tulika books. 
+Sircar, D.C. (1933-e). Capital of Brhatphalayanas. JAHRS 7(3) (January 1933): 170-171.
+Sircar, D.C. (1970-e). The Br̥hatphalāyanas. In: HCIP. Vol. 4. The Age of Imperial Unity. 3rd ed. p. 226-227.
+Raychaudhuri, Hemchandra (1996*). Political History of Ancient India. From the Accession of Parikshit to the Extinction of the Gupta Dynasty. With a Commentary by B.N. Mukherjee. New Delhi: OUP (OIP: 1999*).
+Sivaramamurti, Calambur (1948*). Indian Epigraphy and South Indian Scripts. Madras: Govt. Museum (BMGM NS, General Section 3.4). (Reprint: 1999*)
+ -->
+              	<bibl><ptr target="bib:Sircar1933_01"/></bibl>
+		<bibl><ptr target="bib:NilakantaSastri+Gopalachari1937-1938_01"/><citedRange unit="page">281</citedRange></bibl>
+		<bibl><ptr target="bib:Gopalachari1941_01"/><citedRange unit="page">151-162</citedRange></bibl>
+		<bibl><ptr target="bib:Krishnarao1942_01"/><citedRange unit="page">317-325</citedRange></bibl>
+		<bibl><ptr target="bib:RamaRao1943_02"/></bibl>
+		<bibl><ptr target="bib:RamaRao1946_02"/></bibl>
            </listBibl>
         </div>
       </body>
