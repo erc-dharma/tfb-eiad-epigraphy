@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>EIAD 259, fragment from the Amaravati stūpa</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:argr">
+                        <forename>Arlo</forename>
+                        <surname>Griffiths</surname>
+                    </persName>
+                    <persName ref="part:vito">
+                        <forename>Vincent</forename>
+                        <surname>Tournier</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Munich</pubPlace>
+                <idno type="filename">DHARMA_INSEIAD00259</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Arlo Griffith and Vincent Tournier.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>Lettering compatible with a dating to the 3rd century CE.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:fufa" when="2026-01-23">Encoding of apparatus</change>
+            <change who="part:fufa" when="2025-03-04">Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209">
+            <ab part="M"><lb 
+                n="1"/><gap reason="lost"/><gap reason="illegible" quantity="1" unit="character"/><unclear>ta</unclear>yasa cetiya<unclear>ṁ</unclear> madhā vetika ca pa<supplied reason="lost">ṭa</supplied><gap reason="lost"/>
+            </ab>
+         </div>
+         <div type="apparatus">
+               <listApp>
+                  <app loc="1">
+                     <lem><gap reason="illegible" unit="character" quantity="1"/><unclear>ti</unclear>yasa</lem>
+                     <rdg source="bib:Chanda1919-1920_01 bib:Sivaramamurti1942_01">yasa</rdg>
+                  </app>
+                  <app loc="1">
+                    <lem>cetiya<unclear>ṁ</unclear></lem>
+                    <rdg source="bib:Chanda1919-1920_01">cetiya</rdg>
+                    <rdg source="bib:Sivaramamurti1942_01">ceti<unclear>ya</unclear></rdg>
+                  </app>
+                  <app loc="1">
+                    <lem>madhā</lem>
+                      <rdg source="bib:Chanda1919-1920_01">madhā</rdg>
+                      <rdg source="bib:Sivaramamurti1942_01"><unclear>ma</unclear>dhā</rdg>
+                      <note>The meaning of this word is unclear at the moment, and the reading is not entirely certain. <bibl><ptr target="bib:Chanda1919-1920_01"/></bibl> suggests it stands for Skt. <foreign xml:lang="san-Latn">madhya</foreign>, but one would rather expect <foreign>majha</foreign>. A possible alternative would be <foreign>medhi/medhī</foreign>, meaning a pillar (<ptr target="bib:RhysDavids+Stede1993_01"/>, s.v. <foreign xml:lang="pli-Latn">medhi</foreign>) or a concentric gallery of a <foreign xml:lang="san-Latn">stūpa</foreign> (<bibl><ptr target="bib:Edgerton1953_01"/></bibl>, s.v.). As far as we know, this term is however not attested in the epigraphic corpus.</note>
+                  </app>
+                  <app loc="1">
+                      <lem>ca pa<supplied reason="lost">ṭa</supplied></lem>
+                      <rdg source="bib:Chanda1919-1920_01">ca<unclear>pa</unclear></rdg>
+                      <rdg source="bib:Sivaramamurti1942_01">capa</rdg>
+                      <note>The term <foreign>paṭa</foreign> was likely followed by <foreign>deyadhama</foreign>. This reconstruction is supported by <ref target="DHARMA_INSEIAD00274.xml">EIAD 274</ref>.</note>
+                  </app>
+               </listApp>
+         </div>
+         <div type="translation" resp="part:argr part:vito">
+            <p><supplied reason="lost">Pious gift</supplied> of a <foreign>madhā</foreign> and a <foreign>vedikā</foreign> slab for the <placeName type="builtPlace" subtype="shrine">Shrine of</placeName> …</p>
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+         </div>
+        <div type="bibliography">
+            <p>This edition by Arlo Griffith and Vincent Tournier. Encoded in XML by Fu Fan in March 2025.</p>
+        	<listBibl type="primary">
+				<bibl n="C">
+                    <ptr target="bib:Chanda1919-1920_01"/>
+                    <citedRange unit="page">268</citedRange>
+				    <citedRange unit="item">29</citedRange>
+                </bibl>
+                <bibl n="S">
+                    <ptr target="bib:Sivaramamurti1942_01"/>
+                    <citedRange unit="page">270</citedRange>
+                    <citedRange unit="item">IV G, 17</citedRange>
+                    <citedRange unit="page">304</citedRange>
+                    <citedRange unit="item">125</citedRange>
+                </bibl>
+			</listBibl>
+           <listBibl type="secondary">
+                <bibl>
+                    <ptr target="bib:Tsukamoto1996_01"/>
+                    <citedRange unit="page">222</citedRange>
+                    <citedRange unit="item">Amar 7</citedRange>
+                </bibl>
+                <bibl>
+                    <ptr target="bib:ARIE1912-1913"/>
+                    <citedRange unit="item">B.498</citedRange>
+                </bibl>
+                <bibl>
+                    <ptr target="bib:Francis2016_01"/>
+                    <citedRange unit="page">86</citedRange>
+                    <citedRange unit="item">90</citedRange>
+                </bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
