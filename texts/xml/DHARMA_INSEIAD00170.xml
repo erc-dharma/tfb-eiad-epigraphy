@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+            	<title>EIAD 170. Gōraṇṭla plates of Attivarman, ca. 5th/6th c. CE</title>
+                	<respStmt>
+                		<resp>author of digital edition</resp>
+                			<persName ref="part:emfr">
+                				<forename>Emmanuel</forename>
+                				<surname>Francis</surname>
+                			</persName>
+                		<persName ref="part:argr">
+                			<forename>Arlo</forename>
+                			<surname>Griffiths</surname>
+                		</persName>
+                	</respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Jakarta</pubPlace>
+                <idno type="filename">DHARMA_INSEIAD00170</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2026 by Emmanuel Francis &amp; Arlo Griffiths.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2026">2019-2026</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                    	<summary>Grant of the village of Āntukkūra (or Āntukkūra) and of a field of 800 paṭṭis in Taṉṟikoṉṟa village to the Brahmin Koṭṭiśarman.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                        	<p>Late Southern Brāhmī, ca. 5th or 6th century. The <foreign>anusvāra</foreign> is in most cases placed at line height, close to the following character. Two instances of the cluster <foreign>ṉṟ</foreign> in the vernacular toponym <foreign>tāṉṟikoṉṟa</foreign> (line 7). There are a few instances of special word-final consonant (e.g., line 8 <foreign>parihāraM</foreign>line 9 <foreign>vasundharāM</foreign>). The word-/<foreign>pāda</foreign>-separation is sometimes marked by a space.  We further note slightly different forms of ja (lines 2 and 3) and jā (lines 3 and 4). According to Sircar (1934: 733): “the characters of the Gorantla inscription resemble, in some respects, those of the Ikṣvāku inscriptions of Nagarjunikonda. (Ep. Ind., XX, 1 ff.).” We, for our part, would rather situate the inscription well after the Ikṣvāku period.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+        	<change when="2026-06-21" who="part:argr" status="draft">encoded the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83211">
+	<!-- class:83225 = southern class Brāhmī, maturity:83209 = middle Brāhmī / maturity:83211 = late Brāhmī  -->
+  <p>
+    <pb n="1r"/><lb n="1"/>svasty atula-vipula-yaśasi śrīmaty ānanda-maharṣi-vaṁśa-samudbhūte bhagavato vaṁkeśvarādhi<lb 
+n="2" break="no"/>vāsinas tri-bhuvana-kartuḥ <space type="binding-hole"/> śaṁbhoś caraṇa-kamala-rajaḥ-pavitrī-kr̥te kandara-nr̥pati-kule samu<lb 
+n="3" break="no"/>dbhūtena sundara-sujāta-peśala-jana-paricāreṇāprameya-hiraṇyagarbha-prasavena pratāpopana<pb n="1v" break="no"/><lb 
+n="4" break="no"/>ta-sakala-sāmanta-maṇḍalena mahendra-sama-vikrameṇa sura-guru-sadr̥śa-buddhinā samyak-prajā-pālano<lb 
+n="5" break="no"/>pārjjita-kīrttinā rājñā <space type="binding-hole"/> Attivarmmaṇā Anuparata-dharmma-kriyā-pareṇa <space/> kāśyapa-gotrā-
+<lb n="6" break="no"/>ya <space/> Āpastaṁbha-sūtra-vide yama-ni<supplied reason="omitted">ya</supplied>mavate <space/> R̥g-yajus-sāma-vide brāhmaṇāya brahma-kalpā<pb n="2r" break="no"/><lb 
+n="7" break="no"/>ya koṭṭiśarmmaṇe kr̥ṣṇabeṇṇā-dakṣiṇa-kūle<space/> tāṉṟikoṉṟa-grāme c<seg rend="check">a</seg>tur-ddiśam<!-- AG: I'd read cā --> aṣṭa-śata-pa<lb 
+n="8" break="no"/>ṭṭi-kṣetrāñ cāntukkūra<space type="binding-hole"/>-grāmaś codaka-pūrvvan dattaḥ s<surplus>s</surplus>arvvā-bādha-parihāraM 
+<lg met="anuṣṭubh" n="1">
+<l n="a"><supplied reason="lost">s</supplied>va-dattāṁ pa<lb n="9" break="no"/>ra-dattām vā</l>
+<l n="b">yo hareta vasundharāM<space/></l> 
+<l n="c">gavāṁ śata-sahasrasya</l> 
+<l n="d">hantuḥ pibati kilbiṣaM</l>
+</lg>
+
+<lg met="anuṣṭubh" n="2">
+<l n="a"><pb n="2v"/><lb n="10"/><unclear>bh</unclear>ūmi-dānāt paran dānan</l> 
+<l n="b">na bhūtan <unclear>na bhavi</unclear>ṣyati<space/></l> 
+<l n="c"><unclear>tas</unclear>y<supplied reason="lost">aiva haraṇāt pāpa</supplied>n</l> 
+<l n="d">na bh<supplied reason="lost">ūtan na bhaviṣya</supplied>t<supplied reason="lost">i</supplied></l>
+</lg>
+
+<lg met="anuṣṭubh" n="3">
+<l n="a"><supplied reason="lost">bahubhi</supplied><lb n="11" break="no"/>r vvasudhā dattā</l> 
+<l n="b">bahubhi<space type="binding-hole"/>ś cānupālitā</l> 
+<l n="c">yasya yasya ya<unclear>dā</unclear> bhū<unclear>mi</unclear>s</l> 
+<l n="d">tasya <unclear>tasya</unclear> <supplied reason="lost">tadā phalaM</supplied></l>
+</lg>
+
+<lg met="anuṣṭubh" n="4">
+<l n="a"><lb n="12"/>brahma-svaṁ <supplied reason="omitted">tu</supplied> viṣaṁ ghoran</l> 
+<l n="b">na viṣaṁ viṣam ucyate <space/></l>
+<l n="c">viṣam ekā<supplied reason="lost">ki</supplied>na<supplied reason="lost">ṁ</supplied> <unclear>ha</unclear>nti</l> 
+<l n="d">brahma-svaṁ <supplied reason="lost">putra</supplied>-pautr<supplied reason="lost">i</supplied>kaM</l>
+</lg>
+
+ </p>
+            
+         </div>
+         <div type="apparatus">
+               <listApp>
+                  <app loc="4">
+                     <lem source="bib:Fleet1880_03">vaṁkeśvarādhi-</lem>
+			<rdg source="bib:Fleet1880_03"><choice><unclear>va</unclear><unclear>vaṁ</unclear></choice>eśvarādhi-</rdg>
+                    <note>It seems that the <foreign>anusvāra</foreign> is placed in inside the hook-shape for <foreign>-e</foreign> in <foreign>ke</foreign>.</note>
+                  </app>
+<!-- (6) āpastaṁbha- ― Fleet (1880, p. 103 n. 27): “The occurrence of this form of the name, instead of Âpastamba is, I believe, sufficient proof in itself of the early date of this grant. Dr. Bühler has written on this point; but I have not his remarks to refer to.” -->
+ <app loc="7">
+	<lem>tāṉṟikoṉṟa-</lem>
+	<rdg source="bib:Fleet1880_03">tānthikontha-</rdg>
+	<note>Hultzsch (<bibl rend="omitname"><ptr target="bib:Hultzsch1923-1924_01"/></bibl> corrected to <foreign>tānṟikonṟa-</foreign>. But the fact is that the body of the <foreign>akṣara</foreign> above ṟ in both cases shows a loop on the left side, which is not found in the occurrences of <foreign>n</foreign> in these plates and which likeswise does not correspond to occurrences of <foreign>ṇ</foreign>. This appears to be a device meant to denote alveolar <foreign>n</foreign>, i.e. <foreign>ṉ</foreign>.</note>
+<!--
+Compare with tena (line 3)  
+Check occurrences of tāṇḍikoṇḍa in the plates of Pr̥thivīśrīmūla, etc.-->
+</app>
+<!-- 
+(11) cānupālitā ― As noted by Fleet (1880, p. 103 n. 28): “First kâ was engraved, and then it was corrected into tâ.”
+(12) ekā[ki]n[aṁ ha]nti ― Fleet: ekākinaṁ hanti.
+-->
+<app loc="12">
+<lem>brahma-svaṁ <supplied reason="omitted">tu</supplied> viṣaṁ</lem>
+<rdg source="bib:Fleet1880_03">brahma-svaṁ viṣaṁ</rdg>
+<note>Fleet (<bibl><ptr target="bib:Fleet1880_03"/><citedRange unit="page">103</citedRange><citedRange unit="page">29</citedRange></bibl>) comments: <quote>The metre requires us to correct this into <foreign>brâhmaṇa</foreign>.</quote> The metre indeed requires one more syllable. We restore as per the variant recorded in <ref target="https://dharmalekha.info/bestow">BEst_0098</ref>.</note>
+</app> 
+<app loc="12">
+	<lem>-pautr<supplied reason="lost">i</supplied>kaM</lem>
+	<note>The small final <foreign>M</foreign> appears clearly on Fleet’s estampage.</note>
+</app>
+               </listApp>
+         </div>
+         <div type="translation" source="bib:Fleet1880_03">
+<p n="1-3"></p>
+ <p>Hail! By the king Attivarman (rājñā attivarmaṇā) who arouse (samudbhūtena) in the lineage of the kings of Kandara / of king Kandara (kandara-nṛpati-kule) of unequalled and wide fame (atula-vipula-yaśasi), glorious (śrīmaty), which arouse in the lineage of the maharṣi Ānanda (ānanda-maharṣi-vaṃśa-samudbhūte) (and) which is purified/cleansed by the dust of the lotus-feet (caraṇa-kamala-rajaḥ-pavitrī-kṛte) of the lord (bhagavato) Śambhu (śaṃbhoś) residing in V[a/aṃ]keśvara (v[a/aṃ]keśvarādhivāsinas) and creator of the triple world (tri-bhuvana-kartuḥ) 
+Sircar (1934: 733): “sprung from the family of King Kandara.” 
+Kandara is generally considered as the name of an ancestor. Could it just be a place-name? “in the family of the kings of Kandara(pura)” / “in the kingly family of Kandara” ? The Maṭṭepād Plates of Dāmōdaravarman are issued from Kandarapura. See also Cejarla stele inscription, face A, lines 10-11: kandarapura-vara-janapada-dvitayādhipateḥ kandararājasya priya-sutāyām, “the daughter of the king Kandara/ king of Kandara”?
+who is attended by people charming, well-born and  pleasant (sundara-sujāta-peśala-jana-paricāreṇa)
+who has his origin in a unfathomable/immeasurable hiraṇyagarbha (aprameya-hiraṇyagarbha-prasavena)
+Compare °a[vandhya]-go-saha[srāne]ka-hiraṇya-garbhodbhavodbhavasya in Maṭṭepād Plates of Dāmōdaravarman (1b2-2a1). 
+Fleet (1880, p. 103): “who is the posterity of the inscrutable (god) Hiraṇyagarbha.” Fleet later “withdrawn his original opinion” (Dynasties of the Kanarese Districts, 2nd ed., p. 334) according to Hultzsch (1924: 328).
+Hultzsch (1924: 328): “who is a producer of (i.e. who has performed) innumerable Hiraṇyagarbhas.”
+Sircar (1934: 730ff.): not a ṣaṣṭhī-tatpuruṣa (producer of H) as Hultzsch understood it, but a bahuvrīhi: “one whose prasava (origin, producer, progenitor) is the H.” See other examples which are pañcamī-tatpuruṣa (produced by H). The performer of H = newly-born child. Sircar (1934: 735): “one whose producer is the H.” 
+by whose splendour the circle(s) of all neighbouring/feudatory kings are subdued / all the circle(s) of neighbouring/feudatory kings are subdued (pratāp=opanata-sakala-sāmanta-maṇḍalena)
+whose valour is same as that of Mahendra (mahendra-sama-vikrameṇa)
+who possesses an intellect like that of the spiritual master of the gods (sura-guru-sadṛśa-buddhinā)
+who possesses a glory acquired by his proper/appropriate/just protection of his subjects (samyak-prajā-pālan=opārjjita-kīrttinā)
+who is occuped with/ intent upon (para, ifc) the uninterrupted practice of dharma (anuparata-dharmma-kriyā-pareṇa)
+to the Brahmin Koṭṭiśarman, of the Kāśyapagotra, versed in the Āpastambasūtra, practiser of the major and minor observances, versed in Ṛg, Yajus and Sāma, who is like Brahmā (kāśyapa-gotrāya āpastaṃbha-sūtra-vide yama-ni[ya*]mavate ṛg-yajus-sāma-vide brāhmaṇāya brahma-kalpāya koṭṭiśarmmaṇe)
+M-W, s.v. yama, m: … self-control forbearance, any great moral rule or duty (as opp. to niyama, a minor observance in Yājñ. iii, 313 ten Yamas are mentioned, sometimes only five).
+a field of 800 paṭṭis all around / within four limits (caturdiśam) in the village of Tāṉṟikoṉṟa on the southern bank of Kṛṣṇaveṇṇā and the village of (Ā/A)ntukkūra is given after water aspersion (litt. preceded by water) (and) with exemption of all annoyances/obstacles (kṛṣṇabeṇṇā-dakṣiṇa-kūle tāṉṟikoṉṟa-grāme catur-ddiśam aṣṭa-śata-paṭṭi-kṣetrāñ cāntukkūra-grāmaś codaka-pūrvvan dattaḥ ssarvvā-bādha-parihāram)
+Fleet (1880, p. 102): “a field of the measure of eight hundre paṭṭis, or a filed called Ashṭaśata-paṭṭi”
+Fleet (1880, p. 102): Antukkūr. Hultzsh (1924: 328): Āntukkūra.
+Hultzsh (1924: 328): Tānṟikonṟa “is probably iodentical with Tāḍikoṇḍa, 10 miles north of Guṇṭūr” [note 9: See Mr. R. Sewell’s Lists, Vol. I, p. 76] and south of the Krishṇā river”
+Hultzsh (1924: 328-9): Āntukkūra is probably identical “with Gani-Ātukūru, west of Bezvāḍa. [note 1: See above [[i.e. EI]], Vol. VIII, p. 10]”
+
+[s]va-dattāṃ para-dattām vā yo hareta vasundharām 
+gavāṃ śata-sahasrasya hantuḥ pibati kilbiṣam
+[bh]ūmi-dānāt paran dānan na bhūtan [na bhavi]ṣyati
+[tas]y=[aiva haraṇāt pāpa]n na bh[ūtan na bhaviṣya]ti
+[bahubhi]r vvasudhā dattā bahubhiś cānupālitā
+yasya yasya ya[dā] bhū[mi]s tasya [tadā phalam]
+brahma-svaṃ viṣaṃ ghoran na viṣaṃ viṣam ucyate  
+viṣam ekā[ki]n[aṃ ha]nti brahma-sva[ṃ putra]-pautr[i]ka[m]
+
+Fleet (1880: 130): “The property of a Brâhmaṇ is said to be a terrible poison, (but in comparison with that), poison is not called poison; (for) poison kills only one person, (whereas) the property of a Brâhmaṇ, (if confiscated), kills one’s sons and sons’ sons!”</p>
+
+</div>
+         <div type="commentary">
+<p>The text is laid out in 12 lines over both sides of two plates (3 lines per plate), which are accompanied by a third plate, on which  Fleet (<bibl rend="omitname"><ptr target="bib:Fleet1880_03"/><citedRange unit="page">102</citedRange></bibl>) commented: <quote>One side of the third plate is blank. But parts of three lines of writing, in the same characters those of the extant inscription, can be distinctly discerned about the centre of the other side of the plate; thus, in l. 2 I can clearly read <foreign>para-[da]tt[âṁ] vâ</foreign>, and, in l. 3 <foreign>[piba]ti kilbiṣa[m]</foreign>, and many other letters are recognisable, though I cannot make a connected passage out of the first line. This obliterated writing has all the appearance of having been beaten down with a hammer, by way of cancellation, after heating the plate. And the plate was evidently then attached to the other two, as a guard to protect the writing. Probably there was another blank plate, now lost, attached to protect the writing at the other end of the grant.</quote>
+<!--This is what Fleet (1880: 102) reads on what he considers as the third plate, and which was initially photographed by BL as first plate (of which only one face was photographed). There are faint traces of characters on the photograph from BL.
+(3r1=1) …
+(3r2=2) … para-[da]tt[āṁ] vā …
+(3r3=3) … [piba]ti kilbiṣa[m]
+As this imprecatory verse is also found on plate 2r, this text does not seem to be originally part of the same record. See Fleet’s remarks (1880: 102).--></p>
+<p>The text contains no internal date. If Attivarman is to be identified as the Vaiṅgeyaka Hastivarman of Samudragupta’s Allāhābād <foreign>praśasti</foreign>, line 20, this would situate the charter around 350 CE and would make it one of the earliest instances of a Sanskrit land grant. Another possibility is that the Vaiṅgeyaka Hastivarman of Samudragupta’s Allāhābād <foreign>praśasti</foreign> had a homonymic descendant. The palaseographic aspect of the inscription rather clearly points so a date well after the mid-4th century, and hence to the latter hypothesis.</p>
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p>Edited by J. F. Fleet (<bibl rend="omitname"><ptr target="bib:Fleet1880_03"/></bibl>). This digital edition based on photos of the plates and of estampages.</p>
+        	<listBibl type="primary">
+		<bibl n="F"><ptr target="bib:Fleet1880_03"/></bibl>
+		</listBibl>
+           <listBibl type="secondary">
+<!-- EI 7, Appendix (A List of Inscriptions of Southern India from about A.D. 500. By Professor F. Kielhorn), No. 1015 (p. 162). ― Sircar (1934; 1970: 203) ― Rama Rao (1943a; 1943c: 57; 1946a: 14-15).
+ -->
+	<bibl><ptr target="bib:Hultzsch1923-1924_01"/><citedRange unit="page">328-329</citedRange></bibl>
+	<bibl><ptr target="bib:Gaur1975_01"/><citedRange unit="page">2</citedRange></bibl>
+	<bibl><ptr target="bib:Francis2025_01"/><citedRange unit="page">334, 335, 337, 344</citedRange></bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
