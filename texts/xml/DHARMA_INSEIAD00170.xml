@@ -224,9 +224,11 @@ As this imprecatory verse is also found on plate 2r, this text does not seem to 
 		<bibl n="F"><ptr target="bib:Fleet1880_03"/></bibl>
 		</listBibl>
            <listBibl type="secondary">
-<!-- EI 7, Appendix (A List of Inscriptions of Southern India from about A.D. 500. By Professor F. Kielhorn), No. 1015 (p. 162). ― Sircar (1934; 1970: 203) ― Rama Rao (1943a; 1943c: 57; 1946a: 14-15).
+<!-- Sircar (1970: 203) ― Rama Rao (1943a; 1943c: 57; 1946a: 14-15).
  -->
+	<bibl><ptr target="bib:Kielhorn1904_03"/><citedRange unit="page">162</citedRange><citedRange unit="item">1015</citedRange></bibl>
 	<bibl><ptr target="bib:Hultzsch1923-1924_01"/><citedRange unit="page">328-329</citedRange></bibl>
+	<bibl><ptr target="bib:Sircar1934_01"/><citedRange unit="page">732-736</citedRange></bibl>
 	<bibl><ptr target="bib:Gaur1975_01"/><citedRange unit="page">2</citedRange></bibl>
 	<bibl><ptr target="bib:Francis2025_01"/><citedRange unit="page">334, 335, 337, 344</citedRange></bibl>
            </listBibl>
