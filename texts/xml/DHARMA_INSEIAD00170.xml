@@ -74,7 +74,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83211">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83225 maturity:83211">
 	<!-- class:83225 = southern class Brāhmī, maturity:83209 = middle Brāhmī / maturity:83211 = late Brāhmī  -->
   <p>
     <pb n="1r"/><lb n="1"/>svasty atula-vipula-yaśasi śrīmaty ānanda-maharṣi-vaṁśa-samudbhūte bhagavato vaṁkeśvarādhi<lb 
