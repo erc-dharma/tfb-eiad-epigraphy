@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>EIAD 293, drum frieze from the Amaravati stūpa</title>
+                <title>EIAD 293. Drum frieze from the Amaravati stūpa</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName>
@@ -80,7 +80,7 @@
     <text xml:space="preserve">
         <body>
             <div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209">
-                <p><lb n="1"/><gap reason="lost"/> <supplied reason="lost">sava</supplied><unclear>sa</unclear>tutamasa <space/> naravasabhasaṁmasaṁbudhādicasa <g type="ddanda"/> Upāsakasa <space/> nārasalasa <space/> vāniyasa <space/> nāgatisasa <space/> gharaṇiya <space/> nākhāya <space/> sahā Apano <space/> putehi <space/> heraṁṇik<unclear>e</unclear>na <space/> budhinā <space/> mūlena <gap reason="lost"/></p>
+                <p><lb n="1"/><gap reason="lost"/> <supplied reason="lost">sava</supplied><unclear>sa</unclear>tutamasa <space/> naravasabhasaṁmasaṁbudhādicasa <g type="punctuation" ref="sym:ddanda"/> Upāsakasa <space/> nārasalasa <space/> vāniyasa <space/> nāgatisasa <space/> gharaṇiya <space/> nākhāya <space/> sahā Apano <space/> putehi <space/> heraṁṇik<unclear>e</unclear>na <space/> budhinā <space/> mūlena <gap reason="lost"/></p>
             </div>
             <div type="apparatus">
                 <listApp>
