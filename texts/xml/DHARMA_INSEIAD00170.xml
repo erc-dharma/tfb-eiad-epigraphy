@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-            	<title>EIAD 170. Gōraṇṭla plates of Attivarman, ca. 5th/6th c. CE</title>
+            	<title>EIAD 170. Gōraṇṭla plates of Attivarman, ca. 5th c. CE</title>
                 	<respStmt>
                 		<resp>author of digital edition</resp>
                 			<persName ref="part:emfr">
@@ -44,11 +44,11 @@
                         <idno/><!-- don't modify this -->
                     </msIdentifier>
                     <msContents><!-- describe the intellectual content of an inscription -->
-                    	<summary>Grant of the village of Āntukkūra (or Āntukkūra) and of a field of 800 paṭṭis in Taṉṟikoṉṟa village to the Brahmin Koṭṭiśarman.</summary>
+                    	<summary>Grant of the village of Āntukkūra (or Āntukkūra) and of a field of 800 <foreign>paṭṭi</foreign>s in Tāṉṟikoṉṟa village to the Brahmin Koṭṭiśarman.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
-                        	<p>Late Southern Brāhmī, ca. 5th or 6th century. The <foreign>anusvāra</foreign> is in most cases placed at line height, close to the following character. Two instances of the cluster <foreign>ṉṟ</foreign> in the vernacular toponym <foreign>tāṉṟikoṉṟa</foreign> (line 7). There are a few instances of special word-final consonant (e.g., line 8 <foreign>parihāraM</foreign>line 9 <foreign>vasundharāM</foreign>). The word-/<foreign>pāda</foreign>-separation is sometimes marked by a space.  We further note slightly different forms of ja (lines 2 and 3) and jā (lines 3 and 4). According to Sircar (1934: 733): “the characters of the Gorantla inscription resemble, in some respects, those of the Ikṣvāku inscriptions of Nagarjunikonda. (Ep. Ind., XX, 1 ff.).” We, for our part, would rather situate the inscription well after the Ikṣvāku period.</p>
+                        	<p>Late Southern Brāhmī, ca. 5th century. The <foreign>anusvāra</foreign> is in most cases placed at line height, close to the following character. The text contains two instances of the cluster <foreign>ṉṟ</foreign> in the vernacular toponym <foreign>tāṉṟikoṉṟa</foreign> (line 7). There are a few instances of small word-final consonant (e.g., line 8 <foreign>parihāraM</foreign>line 9 <foreign>vasundharāM</foreign>). Separation of metrical and syntactic segments is sometimes marked by a space.  We further note slightly different forms of <foreign>ja</foreign> (lines 2 and 3) and <foreign>jā</foreign> (lines 3 and 4). According to Sircar (<bibl rend="omitname"><ptr target="bib:Sircar1934_01"/><citedRange unit="page">733</citedRange></bibl>), <quote>the characters of the Gorantla inscription resemble, in some respects, those of the Ikṣvāku inscriptions of Nagarjunikonda</quote>, which latter date to the 3rd century. We, for our part, would rather situate the inscription well after the Ikṣvāku period, perhaps contemporaneously with some of the later Śālaṅkāyanas or early Viṣṇukuṇḍins.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -119,13 +119,13 @@ n="8" break="no"/>ṭṭi-kṣetrāñ cāntukkūra<space type="binding-hole"/>-g
                   <app loc="4">
                      <lem source="bib:Fleet1880_03">vaṁkeśvarādhi-</lem>
 			<rdg source="bib:Fleet1880_03"><choice><unclear>va</unclear><unclear>vaṁ</unclear></choice>eśvarādhi-</rdg>
-                    <note>It seems that the <foreign>anusvāra</foreign> is placed in inside the hook-shape for <foreign>-e</foreign> in <foreign>ke</foreign>.</note>
+                    <note>It seems that the <foreign>anusvāra</foreign> is placed inside the hook-shape for <foreign>-e</foreign> in <foreign>ke</foreign>.</note>
                   </app>
 <!-- (6) āpastaṁbha- ― Fleet (1880, p. 103 n. 27): “The occurrence of this form of the name, instead of Âpastamba is, I believe, sufficient proof in itself of the early date of this grant. Dr. Bühler has written on this point; but I have not his remarks to refer to.” -->
  <app loc="7">
 	<lem>tāṉṟikoṉṟa-</lem>
 	<rdg source="bib:Fleet1880_03">tānthikontha-</rdg>
-	<note>Hultzsch (<bibl rend="omitname"><ptr target="bib:Hultzsch1923-1924_01"/></bibl> corrected to <foreign>tānṟikonṟa-</foreign>. But the fact is that the body of the <foreign>akṣara</foreign> above ṟ in both cases shows a loop on the left side, which is not found in the occurrences of <foreign>n</foreign> in these plates and which likeswise does not correspond to occurrences of <foreign>ṇ</foreign>. This appears to be a device meant to denote alveolar <foreign>n</foreign>, i.e. <foreign>ṉ</foreign>.</note>
+	<note>Hultzsch (<bibl rend="omitname"><ptr target="bib:Hultzsch1923-1924_01"/></bibl>) corrected to <foreign>tānṟikonṟa-</foreign>. But the fact is that the body of the <foreign>akṣara</foreign> above <foreign>ṟ</foreign> in both cases shows a loop on the left side, which is not found in the occurrences of <foreign>n</foreign> in these plates and which likeswise does not correspond to occurrences of <foreign>ṇ</foreign>. This appears to be a device meant to denote alveolar <foreign>n</foreign>, i.e., <foreign>ṉ</foreign>.</note>
 <!--
 Compare with tena (line 3)  
 Check occurrences of tāṇḍikoṇḍa in the plates of Pr̥thivīśrīmūla, etc.-->
@@ -137,7 +137,7 @@ Check occurrences of tāṇḍikoṇḍa in the plates of Pr̥thivīśrīmūla, 
 <app loc="12">
 <lem>brahma-svaṁ <supplied reason="omitted">tu</supplied> viṣaṁ</lem>
 <rdg source="bib:Fleet1880_03">brahma-svaṁ viṣaṁ</rdg>
-<note>Fleet (<bibl><ptr target="bib:Fleet1880_03"/><citedRange unit="page">103</citedRange><citedRange unit="page">29</citedRange></bibl>) comments: <quote>The metre requires us to correct this into <foreign>brâhmaṇa</foreign>.</quote> The metre indeed requires one more syllable. We restore as per the variant recorded in <ref target="https://dharmalekha.info/bestow">BEst_0098</ref>.</note>
+<note>Fleet (<bibl rend="omitname"><ptr target="bib:Fleet1880_03"/><citedRange unit="page">103</citedRange><citedRange unit="page">29</citedRange></bibl>) comments: <quote>The metre requires us to correct this into <foreign>brâhmaṇa</foreign>.</quote> The metre indeed requires one more syllable. We restore as per the variant recorded in <ref target="https://dharmalekha.info/bestow">BEst_0098</ref>.</note>
 </app> 
 <app loc="12">
 	<lem>-pautr<supplied reason="lost">i</supplied>kaM</lem>
@@ -175,13 +175,14 @@ beiing possesses land, enjoys the benefit of it! </p>
 one person, <supplied reason="subaudible">whereas</supplied> the property of a Brahman, <supplied reason="subaudible">if confiscated</supplied>, kills one's sons and sons' sons!</p>
          </div>
 <div type="translation" resp="part:emfr">
- <p n="1-8">Hail! By the king Attivarman <supplied reason="explanation"><foreign>rājñā attivarmaṇā</foreign></supplied> who arose <supplied reason="explanation"><foreign>samudbhūtena</foreign></supplied> in the lineage of the kings of Kandara / of king Kandara <supplied reason="explanation"><foreign>kandara-nr̥pati-kule</foreign></supplied><note>Sircar (1934: 733): “sprung from the family of King Kandara.” 
+ <p n="1-8">Hail! By the king Attivarman <supplied reason="explanation"><foreign>rājñā attivarmaṇā</foreign></supplied> who arose <supplied reason="explanation"><foreign>samudbhūtena</foreign></supplied> in the lineage of the kings of Kandara / of king Kandara <supplied reason="explanation"><foreign>kandara-nr̥pati-kule</foreign></supplied>,<note>Sircar (1934: 733): “sprung from the family of King Kandara.” 
 Kandara is generally considered as the name of an ancestor. But could it just be a place-name? “in the family of the kings of Kandara(pura)” / “in the kingly family of Kandara”? The Maṭṭepād Plates of Dāmōdaravarman are issued from Kandarapura. See also the Cejarla stele inscription, face A, lines 10-11: <foreign>kandarapura-vara-janapada-dvitayādhipateḥ kandara-rājasya priya-sutāyām</foreign>, “the daughter of King Kandara / the king of Kandara”?</note> of unequalled and wide fame <supplied reason="explanation"><foreign>atula-vipula-yaśasi</foreign></supplied>, glorious <supplied reason="explanation"><foreign>śrīmaty</foreign></supplied>, which arose in the lineage of the <foreign>maharṣi</foreign> Ānanda <supplied reason="explanation"><foreign>ānanda-maharṣi-vaṁśa-samudbhūte</foreign></supplied> <supplied reason="subaudible">and</supplied> which is purified/cleansed by the dust of the lotus-feet <supplied reason="explanation"><foreign>caraṇa-kamala-rajaḥ-pavitrī-kr̥te</foreign></supplied> of the lord <supplied reason="explanation"><foreign>bhagavato</foreign></supplied> Śambhu <supplied reason="explanation"><foreign>śaṁbhoś</foreign></supplied> residing in V[a/aṁ]keśvara <supplied reason="explanation"><foreign>v[a/aṁ]keśvarādhivāsinas</foreign></supplied> and creator of the triple world <supplied reason="explanation"><foreign>tri-bhuvana-kartuḥ</foreign></supplied>,
 who is attended by people charming, well-born and  pleasant <supplied reason="explanation"><foreign>sundara-sujāta-peśala-jana-paricāreṇa</foreign></supplied>,
-who has his origin in a unfathomable/immeasurable Hiraṇyagarbha <supplied reason="explanation"><foreign>aprameya-hiraṇyagarbha-prasavena</foreign></supplied>,<note>Compare <foreign>a[vandhya]-go-saha[srāne]ka-hiraṇya-garbhodbhavodbhavasya</foreign> in the Maṭṭepād Plates of Dāmōdaravarman (1b2-2a1). 
-Fleet (1880, p. 103): “who is the posterity of the inscrutable (god) Hiraṇyagarbha.” Fleet had later “withdrawn his original opinion” (Dynasties of the Kanarese Districts, 2nd ed., p. 334) according to Hultzsch (1924: 328).
+who has his origin in an immeasurable Hiraṇyagarbha <supplied reason="explanation"><foreign>aprameya-hiraṇyagarbha-prasavena</foreign></supplied>,<note>Compare <foreign>a[vandhya]-go-saha[srāne]ka-hiraṇyagarbhodbhavodbhavasya</foreign> in the Maṭṭepād Plates of Dāmōdaravarman (1b2-2a1). 
+Fleet (1880, p. 103): “who is the posterity of the inscrutable (god) Hiraṇyagarbha.” 
+Fleet had later “withdrawn his original opinion” (Dynasties of the Kanarese Districts, 2nd ed., p. 334) according to Hultzsch (1924: 328).
 Hultzsch (1924: 328): “who is a producer of (i.e. who has performed) innumerable Hiraṇyagarbhas.”
-Sircar (1934: 730ff.): not a ṣaṣṭhī-tatpuruṣa (producer of H) as Hultzsch understood it, but a bahuvrīhi: “one whose prasava (origin, producer, progenitor) is the H.” See other examples which are pañcamī-tatpuruṣa (produced by H). The performer of H = newly-born child. Sircar (1934: 735): “one whose producer is the H.” </note>
+Sircar (1934: 730ff.): not a ṣaṣṭhī-tatpuruṣa (producer of H) as Hultzsch understood it, but a bahuvrīhi: “one whose prasava (origin, producer, progenitor) is the H.” See other examples which are pañcamī-tatpuruṣa (produced by H). The performer of H = newly-born child. Sircar (1934: 735): “one whose producer is the H.”</note>
 by whose splendour the circle(s) of all neighbouring/feudatory kings are subdued / all the circle(s) of neighbouring/feudatory kings are subdued <supplied reason="explanation"><foreign>pratāpopanata-sakala-sāmanta-maṇḍalena</foreign></supplied>,
 whose valour is same as that of Mahendra <supplied reason="explanation"><foreign>mahendra-sama-vikrameṇa</foreign></supplied>
 who possesses an intellect like that of the spiritual master of the gods <supplied reason="explanation"><foreign>sura-guru-sadr̥śa-buddhinā</foreign></supplied>,
@@ -191,7 +192,7 @@ to the Brahmin Koṭṭiśarman, of the Kāśyapagotra, versed in the Āpastamba
 <!--
 M-W, s.v. yama, m: … self-control forbearance, any great moral rule or duty (as opp. to niyama, a minor observance in Yājñ. iii, 313 ten Yamas are mentioned, sometimes only five).
 -->
-a field of 800 <foreign>paṭṭi</foreign>s all around / within four limits <supplied reason="explanation"><foreign>caturdiśam</foreign></supplied> in the village of Tāṉṟikoṉṟa on the southern bank of the Kr̥ṣṇaveṇṇā and the village of (Ā/A)ntukkūra is given after water aspersion <supplied reason="explanation">litt. preceded by water</supplied>) <supplied reason="subaudible">and</supplied> with exemption of all annoyances/obstacles <supplied reason="explanation"><foreign>kr̥ṣṇabeṇṇā-dakṣiṇa-kūle tāṉṟikoṉṟa-grāme catur-ddiśam aṣṭa-śata-paṭṭi-kṣetrāñ cāntukkūra-grāmaś codaka-pūrvvan dattaḥ ssarvvā-bādha-parihāram</foreign></supplied>
+a field of 800 <foreign>paṭṭi</foreign>s all around / within four limits <supplied reason="explanation"><foreign>caturdiśam</foreign></supplied> in the village of Tāṉṟikoṉṟa on the southern bank of the Kr̥ṣṇaveṇṇā and the village of (Ā/A)ntukkūra is given after water aspersion <supplied reason="explanation">litt. preceded by water</supplied> <supplied reason="subaudible">and</supplied> with exemption of all annoyances/obstacles <supplied reason="explanation"><foreign>kr̥ṣṇabeṇṇā-dakṣiṇa-kūle tāṉṟikoṉṟa-grāme catur-ddiśam aṣṭa-śata-paṭṭi-kṣetrāñ cāntukkūra-grāmaś codaka-pūrvvan dattaḥ sarvvā-bādha-parihāram</foreign></supplied>.
 <!--Fleet (1880, p. 102): “a field of the measure of eight hundred paṭṭis, or a filed called Ashṭaśata-paṭṭi”
 Fleet (1880, p. 102): Antukkūr. Hultzsh (1924: 328): Āntukkūra.
 Hultzsh (1924: 328): Tānṟikonṟa “is probably identical with Tāḍikoṇḍa, 10 miles north of Guṇṭūr” [note 9: See Mr. R. Sewell’s Lists, Vol. I, p. 76] and south of the Krishṇā river”
@@ -215,7 +216,7 @@ Fleet (1880: 130): “The property of a Brâhmaṇ is said to be a terrible pois
 (3r2=2) … para-[da]tt[āṁ] vā …
 (3r3=3) … [piba]ti kilbiṣa[m]
 As this imprecatory verse is also found on plate 2r, this text does not seem to be originally part of the same record. See Fleet’s remarks (1880: 102).--></p>
-<p>The text contains no internal date. If Attivarman is to be identified as the Vaiṅgeyaka Hastivarman of Samudragupta’s Allāhābād <foreign>praśasti</foreign>, line 20, this would situate the charter around 350 CE and would make it one of the earliest instances of a Sanskrit land grant. Another possibility is that the Vaiṅgeyaka Hastivarman of Samudragupta’s Allāhābād <foreign>praśasti</foreign> had a homonymic descendant. The palaseographic aspect of the inscription rather clearly points so a date well after the mid-4th century, and hence to the latter hypothesis.</p>
+<p>The text contains no internal date. If Attivarman is to be identified as the Vaiṅgeyaka Hastivarman of Samudragupta’s Allāhābād <foreign>praśasti</foreign>, line 20, this would situate the charter around 350 CE and would make it one of the earliest instances of a Sanskrit land grant. Another possibility is that the Vaiṅgeyaka Hastivarman of Samudragupta’s Allāhābād <foreign>praśasti</foreign> had a homonymic descendant. The palaseographic aspect of the inscription, as well as its language and formulaics, rather clearly point to a date well after the mid-4th century, and hence to the latter hypothesis.</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
@@ -228,7 +229,7 @@ As this imprecatory verse is also found on plate 2r, this text does not seem to 
  -->
 	<bibl><ptr target="bib:Kielhorn1904_03"/><citedRange unit="page">162</citedRange><citedRange unit="item">1015</citedRange></bibl>
 	<bibl><ptr target="bib:Hultzsch1923-1924_01"/><citedRange unit="page">328-329</citedRange></bibl>
-	<bibl><ptr target="bib:Sircar1934_01"/><citedRange unit="page">732-736</citedRange></bibl>
+	<bibl><ptr target="bib:Sircar1934_01"/></bibl>
 	<bibl><ptr target="bib:Gaur1975_01"/><citedRange unit="page">2</citedRange></bibl>
 	<bibl><ptr target="bib:Francis2025_01"/><citedRange unit="page">334, 335, 337, 344</citedRange></bibl>
            </listBibl>
