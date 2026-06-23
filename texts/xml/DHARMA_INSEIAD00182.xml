@@ -103,7 +103,8 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 	</teiHeader>
 	<text xml:space="preserve">
 <body>
-<div type="edition">
+<div type="edition" xml:lang="san-Latn" rendition="class:83225 maturity:83211">
+	<!-- class:83225 = southern class Brāhmī, maturity:83209 = middle Brāhmī / maturity:83211 = late Brāhmī  -->
 <p>
 <pb n="1v"/>
 <lb n="1"/><g ref="sym:spiral-right" type="symbol">*</g> <space type="binding-hole"/> svasti vijaya-ḻenduḷūra-vāsakād bhagavataḥ śrī-parvvata<lb 
