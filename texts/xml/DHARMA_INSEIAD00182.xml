@@ -30,196 +30,173 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 [21] : VK10 Chikkula Plates
 -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Copper plates from Chikula — grant of Vikramendravarman, year 10</title>
-            <respStmt>
-		<resp>author of digital edition</resp>
-		<persName ref="part:argr">
-			<forename>Arlo</forename>
-			<surname>Griffiths</surname>
-		</persName>
-		<persName ref="part:vito">
-			<forename>Vincent</forename>
-			<surname>Tournier</surname>
-		</persName>
-	</respStmt>
-            
-            
-         </titleStmt>
-         <publicationStmt>
-            <authority>DHARMA</authority>
-            <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSEIAD00182</idno>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
-                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
-                        Licence. To view a copy of the licence, visit
-                        https://creativecommons.org/licenses/by/4.0/ or send a letter to
-                        Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-                        California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by .</p>
-               </licence>
-            </availability>
-            <date from="2019" to="2025">2019-2025</date>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Copper plates from Chikula — grant of Vikramendravarman, year 10</title>
-                  <principal>
-                     <persName ref="part:argr">
-                        <forename>Arlo</forename>
-                        <surname>Griffiths</surname>
-                     </persName>
-                  </principal>
-                  <editor role="general">
-                     <persName ref="part:argr">
-                        <forename>Arlo</forename>
-                        <surname>Griffiths</surname>
-                     </persName>
-                  </editor>
-                  <editor role="general">
-                     <persName ref="part:vito">
-                        <forename>Vincent</forename>
-                        <surname>Tournier</surname>
-                     </persName>
-                  </editor>
-                  <editor role="contributor">
-                     <persName ref="http://viaf.org/viaf/107394149">
-                        <forename>Stefan</forename>
-                        <surname>Baums</surname>
-                     </persName>
-                  </editor>
-                  <editor role="contributor">
-                     <persName ref="http://viaf.org/viaf/22395449">
-                        <forename>Ingo</forename>
-                        <surname>Strauch</surname>
-                     </persName>
-                  </editor>
-                  <respStmt>
-                     <resp>assistance with XML encoding and metadata
-                        verification</resp>
-                     <persName ref="part:chch">
-                        <forename>Chloé</forename>
-                        <surname>Chollet</surname>
-                     </persName>
-                  </respStmt>
-                  <respStmt>
-                     <resp>assistance with XML encoding and metadata
-                        verification</resp>
-                     <persName ref="part:masc">
-                        <forename>Marine</forename>
-                        <surname>Schoettel</surname>
-                     </persName>
-                  </respStmt>
-                  <respStmt>
-                     <resp>digital humanities consultant</resp>
-                     <persName ref="part:emmo">
-                        <forename>Emmanuelle</forename>
-                        <surname>Morlock</surname>
-                     </persName>
-                  </respStmt>
-                  <respStmt>
-                     <resp>digital humanities consultant</resp>
-                     <persName ref="part:anol">
-                        <forename>Andrew</forename>
-                        <surname>Ollett</surname>
-                     </persName>
-                  </respStmt>
-               </titleStmt>
-               <editionStmt>
-                  <p>First digital edition made by École française d'Extrême-Orient (Paris, France), realized in collaboration with the HiSoMA Research Centre (Lyon, France) and hosted by TGIR Huma-Num (France) as <ref target="http://hisoma.huma-num.fr/exist/apps/EIAD/index2.html">Early Inscriptions of Āndhradeśa, in 2015-2017.</ref>
-                  </p>
-               </editionStmt>
-               <publicationStmt>
-                  <authority>Early Inscriptions of Āndhradeśa</authority>
-                  <idno type="filename">DHARMA_INSEIAD00182</idno>
-                  <availability>
-                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p>Copyright (c) 2017 by Arlo Griffiths and Vincent Tournier.</p>
-                        <p>This work is licensed under the Creative Commons Attribution 3.0 Unported License. To
-              view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send
-              a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California,
-              94041, USA.</p>
-                     </licence>
-                  </availability>
-               </publicationStmt>
-            </biblFull>
-            <msDesc>
-               <msIdentifier>
-                  <repository>DHARMAbase</repository>
-                  <idno/>
-                  <altIdentifier type="EIAD">
-                     <institution>EFEO</institution>
-                     <idno>EIAD 182</idno>
-                  </altIdentifier>
-                  <altIdentifier type="museum-inventory">
-                     <repository><!-- [Revision required] --></repository>
-                     <idno>CGM, acc. no. ???</idno>
-                  </altIdentifier>
-               </msIdentifier>
-               <msContents>
-                  <summary/>
-               </msContents>
-               <physDesc>
-                  <handDesc>
-                     <p/>
-                  </handDesc>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
-         </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-         <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
-            </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers.xml#$1">
-               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers.xml</ref> file.</p>
-            </prefixDef>
-         </listPrefixDef>
-      </encodingDesc>
-      <revisionDesc>
-         <change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:space="preserve"><body><div type="edition"><ab><pb n="1b"/><lb n="1"/><unclear>siddham</unclear><space type="binding-hole"/> svasti vijayaḻenduḷūravāsakād bhagavataḥ śrīparvvata<lb n="2" break="no"/> svāmipādānuddhyāto viṣṇukuṇḍinām<surplus>m</surplus>
-            ekādaśāśvamedhāvabhritā<lb n="3" break="no"/> vadhautajagadkalmaṣasya
-            kratusahasrayājina<supplied reason="omitted">ḥ</supplied> sarvvamedhāvāpta<lb n="4" break="no"/>sarvvabhūtasvārājyasya bahusuvarṇṇapauṇḍarīkapuruṣamedha <pb n="2a"/><lb n="5" break="no"/>vājapeyayūdhyaṣoḍaśirājasūyaprādhirājyapr<supplied reason="omitted">ā</supplied>jāpatyā <lb n="6" break="no"/>dyanekavividhapr̥thuguruvaraśatasahasrayājina<supplied reason="omitted">ḥ</supplied>
-            kratuvarānuṣṭhā<lb n="7" break="no"/>tādhiṣṭhāpratiṣṭhitaparameṣṭhitvasya mahārājasya
-          sakalajaga- <lb n="8" break="no"/>nmaṇḍa<space type="binding-hole"/>lavimalaguruprithukṣitipatimakuṭamaṇiga<supplied reason="lost">ṇa</supplied><pb n="2b"/><lb n="9" break="no"/>nika<space type="binding-hole"/>rāvanatapādayugaḷasya mādhavavarmmaṇa<supplied reason="omitted">ḥ</supplied>
-            prana<unclear>ptā</unclear><lb n="10"/> viṣṇukuṇḍivākāṭa<supplied reason="omitted">ka</supplied>va<supplied reason="omitted">ṁ</supplied>śadvayālaṁkr̥tajanmanaḥ śrīvikramendravarmma <lb n="11" break="no"/>ṇa<supplied reason="omitted">ḥ</supplied> priyanaptā
-          spuranniśitanistriṁśaprabhāvabhāvitāśeṣajaganmaṇḍa <lb n="12" break="no"/>lādhiṣṭitasya
-            bhr<unclear>u</unclear>bhaṅgakaravinirdhūtasamagradāyādasya Anekacā <pb n="3a"/><lb n="13" break="no"/>turddantasamarasaṁghaṭṭadviradagaṇavipulavijayasya
-          yathāvidhi <lb n="14" break="no"/>viniryyāpitaghaṭikāvāptapuṇyasaṁcayasya satatabhumigo
-            <lb n="15" break="no"/>kanyāhiraṇyapradānapratilabdhapuṇyajīvitopabhogasya
-            <unclear>pa</unclear><lb n="16" break="no"/>rama<space type="binding-hole"/><supplied reason="omitted">mā</supplied>heśvarasya mahār<supplied reason="omitted">ā</supplied>jasya
-            śrīIndrabhaṭṭārakavarmmaṇa<supplied reason="omitted">ḥ</supplied> priya <pb n="3b"/><lb n="17"/> j<unclear>y</unclear>e<space type="binding-hole"/>ṣṭhaputro gariṣṭa<supplied reason="omitted">ḥ</supplied> śaisava Eva
-          sakalanr̥paguṇālaṁkr̥ta <lb n="18" break="no"/>sya
-            samyagadhy<unclear>ā</unclear>ropitasakalarājyabhāra<supplied reason="omitted">ḥ</supplied> paramamāheśvaro <lb n="19"/> mahārāja<supplied reason="omitted">ḥ</supplied> śrīmān vikramendravarmmā Evam ājñāpayati natapaṭyāṁ kr̥ <lb n="20" break="no"/>ṣṇabe<unclear>ṇṇ</unclear>ātaṭe rāvirevagr<unclear>ā</unclear>masya
-          dakṣiṇapūrvvasyāṁ diśi rego <pb n="4a"/><lb n="21" break="no"/>nṟannāma
-            grāma<supplied reason="omitted">ḥ</supplied> sakalajaga<supplied reason="omitted">t</supplied>trayanāthasya śiśuśaśikarāvadā <lb n="22" break="no"/>taśubhrīkr̥tajaṭāmakuṭasya bhagavatas triyaṁmbhakasya bhavate <lb n="23" break="no"/>so<space type="binding-hole"/>magireśvarānāthāya dattaṁ rājñā vacanād gāraveṇājñāṁ kā
-            <lb n="24" break="no"/>rayi<space type="binding-hole"/>ti kaś cid enam pālāyati so
-          rudraloke devagaṇā <pb n="4b"/><lb n="25" break="no"/>ko<space type="binding-hole"/>ṭīsatasahasreṇa svarggina sukhaṁ modati vija<lb n="25" break="no"/>yarājyasaṁvassaraṁbuḷ· 10 māsapakkaṁ 8 gihmā 5 </ab><lg met="Anuṣṭubh" n="1"><pb n="5a"/><lb n="27"/><l n="a">bahubhir vvasudhā datt<supplied reason="omitted">ā</supplied></l><l n="b">bahubhiś cānupālitā</l><lb n="28"/><l n="c">yasya yasya yadā bhūmiṁ</l><l>tasya tasya tadā phala<unclear>m·</unclear></l></lg><lg met="Anuṣṭubh" n="2"><lb n="29"/><l n="a">svadatt<supplied reason="omitted">ā</supplied>ṁ paradatt<supplied reason="omitted">ā</supplied>ṁ vā</l><l n="b">yo hareti vasundharā<unclear>m·</unclear></l><lb n="30"/><l n="c">ṣaṣṭiṁ varṣasahasrāṇi</l><l n="d">narake pacyate dhruvam·</l></lg><lg n="0"><lb n="31"/><l n="a">gā<space type="binding-hole"/>vo bhumi tathā bhāryyā
-        </l><l n="b">Akramya hara mā nayā</l><lb n="32"/><l n="c">srā<space type="binding-hole"/>vayanti rājānāṁ</l><l n="d">brahmahatyā ca li<unclear>p</unclear>yati<g ref="sym:doubleBar" type="punctuation">.</g></l></lg></div><div type="apparatus"><listApp><app loc="1"><lem>bhagavataḥ śrī-</lem><note>Understand <foreign xml:lang="san-Latn">bhagavatac chrī-</foreign>.</note></app><app loc="2-3"><lem>-medhāvabhritāva-</lem><note>Emend <foreign xml:lang="san-Latn">medhāvabhr̥thāva</foreign>.</note></app><app loc="4"><lem source="bib:Kielhorn1896-1897_02">-svārājyasya</lem><rdg source="bib:Sankaranarayanan1967-1968_01">-svārājyasya</rdg><note/></app><app loc="5"><lem>-peyayūdhya-</lem><note>Emend <foreign xml:lang="san-Latn">-peyokthya-</foreign>, with SS.</note></app><app loc="6"><lem>-guruvara-</lem><note>As Kielhorn notes, ‘Before <foreign xml:lang="san-Latn">vara</foreign> one misses a word like <foreign xml:lang="san-Latn">yajña</foreign> or <foreign xml:lang="san-Latn">kratu</foreign>.’ Or read <foreign xml:lang="san-Latn">-vara-</foreign> and emend <foreign xml:lang="san-Latn">-caraṇa-</foreign>?</note></app><app loc="6-7"><lem>-varānuṣṭhātādhiṣṭhāpratiṣṭhita-</lem><note>Emend <foreign xml:lang="san-Latn">-varānuṣṭhānādhiṣṭhitapratiṣṭhita-</foreign>, <foreign xml:lang="san-Latn">-varānuṣṭhānādhiṣṭānapratiṣṭhita-</foreign> or <foreign xml:lang="san-Latn">-varānuṣṭhānapratiṣṭhita-</foreign>.</note></app><app loc="8"><lem>-prithu-</lem><note>Understand <foreign xml:lang="san-Latn">-pr̥thu-</foreign></note></app><app loc="9"><lem>-nata-</lem><note>SS proposes the proposes the correction <foreign xml:lang="san-Latn">-dāta-</foreign>.</note></app><app loc="10"><lem>-vākāṭa<supplied reason="omitted">ka</supplied>va<supplied reason="omitted">ṁ</supplied>śa-</lem><note>SS notes that ‘The usual form is <hi rend="italic">Vākāṭaka</hi>. However, <hi rend="italic">Vākāṭa</hi> of the present record seems to indicate that ka of the former form is a Taddhita suffix in <hi rend="italic">svārtha</hi> (<hi rend="italic">Vākāṭā eva Vākāṭakāḥ</hi>) i.e., in the sense of the base itself and not in any other sense as believed by some writers (e.g., in JBORS, XIX, p. 67; <hi rend="italic">A New Hist. of the Ind. People</hi>, VI, p. 96; JIH, XLIX, pp. 135 ff.; etc. Cf. also above Ch. II, note 63.’
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>EIAD 182. Copper plates from Chikula — grant of Vikramendravarman, year 10</title>
+				<!--<ab>gift of a village to Śiva, under Vikramendravarman II</ab>-->
+				<respStmt>
+					<resp>author of digital edition</resp>
+					<persName ref="part:argr">
+						<forename>Arlo</forename>
+						<surname>Griffiths</surname>
+					</persName>
+					<persName ref="part:vito">
+						<forename>Vincent</forename>
+						<surname>Tournier</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">DHARMA_INSEIAD00182</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2026 by Arlo Griffiths &amp; Vincent Tournier.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2026">2019-2026</date>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- only the handDesc can be filled in at this stage -->
+				<msDesc>
+					<!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+						<!-- don't modify this -->
+					</msIdentifier>
+					<msContents>
+						<!-- describe the intellectual content of an inscription -->
+						<summary><!-- //// NOT MANDATORY  ////--></summary>
+						<!-- offers the possibility to give a summary of the inscription's content -->
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p>Lettering typical of the 6th century CE.</p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change when="2026-06-23" who="part:argr" status="draft">adjusted the encoding to DHARMA norms</change>
+			<change when="2020-10-01" who="part:axja" status="draft">EIAD file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+<body>
+<div type="edition">
+<p>
+<pb n="1v"/>
+<lb n="1"/><g ref="sym:spiral-right" type="symbol">*</g> <space type="binding-hole"/> svasti vijaya-ḻenduḷūra-vāsakād bhagavataḥ śrī-parvvata<lb 
+n="2" break="no"/>-svāmi-pādānuddhyāto viṣṇukuṇḍinām<surplus>m</surplus>
+ekādaśāśvamedhāvabh<choice><sic>ri</sic><corr>r̥</corr></choice>tā<lb 
+n="3" break="no"/>vadhauta-jagad-kalmaṣasya
+kratu-sahasra-yājina<supplied reason="omitted">ḥ</supplied> sarvva-medhāvāpta<lb 
+n="4" break="no"/>-sarvva-bhūta-svārājyasya bahusuvarṇṇa-pauṇḍarīka-puruṣamedha<pb n="2r" break="no"/><lb 
+n="5" break="no"/>-vājapeya-yūdhya-ṣoḍaśi-rājasūya-prādhirājya-pr<choice><sic>a</sic><corr>ā</corr></choice>jāpatyā<lb 
+n="6" break="no"/>dy-aneka-vividha-pr̥thu-guru-vara-śata-sahasra-yājina<supplied reason="omitted">ḥ</supplied>
+kratu-varānuṣṭhā<lb 
+n="7" break="no"/>tādhiṣṭhāpratiṣṭhita-parameṣṭhitvasya mahārājasya
+sakala-jaga<lb 
+n="8" break="no"/>n-maṇḍa<space type="binding-hole"/>la-vimala-guru-p<choice><sic>ri</sic><corr>r̥</corr></choice>thu-kṣitipati-makuṭa-maṇi-ga<supplied reason="lost">ṇa</supplied><pb n="2v" break="no"/><lb 
+n="9" break="no"/>-nika<space type="binding-hole"/>rāvanata-pādayuga<choice><sic>ḷ</sic><corr>l</corr></choice>asya 
+mādhavavarmmaṇa<supplied reason="omitted">ḥ</supplied> prana<unclear>ptā</unclear>
+<lb n="10"/>viṣṇukuṇḍi-vākāṭa<supplied reason="omitted">ka</supplied>-va<supplied reason="omitted">ṁ</supplied>śa-dvayālaṁkr̥ta-janmanaḥ śrī-vikramendravarmma<lb 
+n="11" break="no"/>ṇa<supplied reason="omitted">ḥ</supplied> priya-naptā s<choice><sic>p</sic><corr>ph</corr></choice>uran-niśita-nistriṁśa-prabhāva-bhāvitāśeṣa-jagan-maṇḍa<lb 
+n="12" break="no"/>lādhiṣ<choice><sic>ṭ</sic><corr>ṭh</corr></choice>itasya
+bhr<unclear>u</unclear>bhaṅga-kara-vinirdhūta-samagradāyādasya Aneka-cā<pb n="3r" break="no"/><lb 
+n="13" break="no"/>turddanta-samara-saṁghaṭṭa-dvirada-gaṇa-vipula-vijayasya yathāvidhi<lb 
+n="14" break="no"/>-viniryyāpita-ghaṭikāvāpta-puṇya-saṁcayasya satata-bh<choice><sic>u</sic><corr>ū</corr></choice>mi-go<lb 
+n="15" break="no"/>-kanyā-hiraṇya-pradāna-pratilabdha-puṇya-jīvitopabhogasya <unclear>pa</unclear><lb 
+n="16" break="no"/>rama<space type="binding-hole"/>-<supplied reason="omitted">mā</supplied>heśvarasya mahār<choice><sic>a</sic><corr>ā</corr></choice>jasya śrī-Indrabhaṭṭāraka-varmmaṇa<supplied reason="omitted">ḥ</supplied> priya<pb 
+n="3v" break="no"/><lb n="17" break="no"/>-j<unclear>y</unclear>e<space type="binding-hole"/>ṣṭha-putro gariṣ<choice><sic>ṭ</sic><corr>ṭh</corr></choice>a<supplied reason="omitted">ḥ</supplied> śaisava Eva sakala-nr̥pa-guṇālaṁkr̥ta<lb 
+n="18" break="no"/>sya samyag-adhy<unclear>ā</unclear>ropita-sakala-rājya-bhāra<supplied reason="omitted">ḥ</supplied> parama-māheśvaro <lb n="19"/>mahārāja<supplied reason="omitted">ḥ</supplied> śrīmān vikramendravarmmā Evam ājñāpayati</p> <p>natapaṭyāṁ kr̥<lb 
+n="20" break="no"/>ṣṇabe<unclear>ṇṇ</unclear>ā-taṭe rāvirevagr<unclear>ā</unclear>masya dakṣiṇa-pūrvvasyāṁ diśi rego<pb n="4r" break="no"/><lb n="21" break="no"/>nṟan nāma grāma<supplied reason="omitted">ḥ</supplied> sakala-jaga<supplied reason="omitted">t</supplied>-traya-nāthasya śiśu-śaśi-karāvadā<lb 
+n="22" break="no"/>ta-śubhrīkr̥ta-jaṭāmakuṭasya bhagavatas triya<surplus>ṁ</surplus>mbhakasya bhavate 
+<lb n="23" break="no"/>so<space type="binding-hole"/>magireśvarānāthāya dattaṁ rājñā vacanād gāraveṇājñāṁ kā<lb 
+n="24" break="no"/>rayi<space type="binding-hole"/>ti kaś cid enam pālāyati so rudra-loke devagaṇā<pb n="4v" break="no"/><lb 
+n="25" break="no"/>-ko<space type="binding-hole"/>ṭī-<choice><sic>s</sic><corr>ś</corr></choice>ata-sahasreṇa svarggina sukhaṁ modati vija<lb 
+n="25" break="no"/>ya-rājya-saṁvassaraṁbuḷ· <num value="10">10</num> māsa-pakkaṁ 8 gihmā 5</p>
+<lg met="anuṣṭubh" n="1">
+<l n="a"><pb n="5a"/><lb n="27"/>bahubhir vvasudhā datt<choice><sic>a</sic><corr>ā</corr></choice></l>
+<l n="b">bahubhiś cānupālitā</l>
+<l n="c"><lb n="28"/>yasya yasya yadā bhūmiṁ</l>
+<l n="d">tasya tasya tadā phala<unclear>m·</unclear></l>
+</lg>
+<lg met="anuṣṭubh" n="2">
+<l n="a"><lb n="29"/>svadatt<choice><sic>a</sic><corr>ā</corr></choice>ṁ paradatt<choice><sic>a</sic><corr>ā</corr></choice>ṁ vā</l>
+<l n="b">yo hareti vasundharā<unclear>m·</unclear></l>
+<l n="c"><lb n="30"/>ṣaṣṭiṁ varṣasahasrāṇi</l>
+<l n="d">narake pacyate dhruvam·</l>
+</lg>
+<lg met="anuṣṭubh" n="3">
+<l n="a"><lb n="31"/>gā<space type="binding-hole"/>vo bhumi tathā bhāryyā</l>
+<l n="b">Akramya hara mā nayā</l>
+<l n="c"><lb n="32"/>srā<space type="binding-hole"/>vayanti rājānāṁ</l>
+<l n="d">brahmahatyā ca li<unclear>p</unclear>yati <g ref="sym:doubleBar" type="punctuation">.</g>
+</l>
+</lg>
+</div>
+<div type="apparatus">
+<listApp><app loc="1">
+<lem>bhagavataḥ śrī-</lem>
+<note>Understand <foreign xml:lang="san-Latn">bhagavatac chrī-</foreign>.</note></app>
+<app loc="2-3"><lem>-medhāvabhritāva-</lem>
+<note>Emend <foreign xml:lang="san-Latn">medhāvabhr̥thāva</foreign>.</note>
+</app>
+<app loc="4">
+<lem source="bib:Kielhorn1896-1897_02">-svārājyasya</lem>
+<rdg source="bib:Sankaranarayanan1977_01">-svārājyasya</rdg>
+<note/>
+</app>
+<app loc="5">
+<lem>-peyayūdhya-</lem>
+<note>Emend <foreign xml:lang="san-Latn">-peyokthya-</foreign>, with SS.</note>
+</app>
+<app loc="6">
+<lem>-guruvara-</lem>
+<note>As Kielhorn notes, ‘Before <foreign xml:lang="san-Latn">vara</foreign> one misses a word like <foreign xml:lang="san-Latn">yajña</foreign> or <foreign xml:lang="san-Latn">kratu</foreign>.’ Or read <foreign xml:lang="san-Latn">-vara-</foreign> and emend <foreign xml:lang="san-Latn">-caraṇa-</foreign>?</note></app>
+<app loc="6-7"><lem>-varānuṣṭhātādhiṣṭhāpratiṣṭhita-</lem><note>Emend <foreign xml:lang="san-Latn">-varānuṣṭhānādhiṣṭhitapratiṣṭhita-</foreign>, <foreign xml:lang="san-Latn">-varānuṣṭhānādhiṣṭānapratiṣṭhita-</foreign> or <foreign xml:lang="san-Latn">-varānuṣṭhānapratiṣṭhita-</foreign>.</note></app><app loc="8"><lem>-prithu-</lem><note>Understand <foreign xml:lang="san-Latn">-pr̥thu-</foreign></note></app><app loc="9"><lem>-nata-</lem><note>SS proposes the proposes the correction <foreign xml:lang="san-Latn">-dāta-</foreign>.</note></app><app loc="10"><lem>-vākāṭa<supplied reason="omitted">ka</supplied>va<supplied reason="omitted">ṁ</supplied>śa-</lem><note>SS notes that ‘The usual form is <hi rend="italic">Vākāṭaka</hi>. However, <hi rend="italic">Vākāṭa</hi> of the present record seems to indicate that ka of the former form is a Taddhita suffix in <hi rend="italic">svārtha</hi> (<hi rend="italic">Vākāṭā eva Vākāṭakāḥ</hi>) i.e., in the sense of the base itself and not in any other sense as believed by some writers (e.g., in JBORS, XIX, p. 67; <hi rend="italic">A New Hist. of the Ind. People</hi>, VI, p. 96; JIH, XLIX, pp. 135 ff.; etc. Cf. also above Ch. II, note 63.’
             </note></app><app loc="10"><lem>-janmanaḥ</lem><rdg source="bib:Kielhorn1896-1897_02">janmana<supplied reason="omitted">ḥ</supplied></rdg><note>The visarga seems to be present.</note></app><app loc="11"><lem>spuran-</lem><note>Emend <foreign xml:lang="san-Latn">sphuran-</foreign>.</note></app><app loc="11"><lem>-bhāvitāśeṣa-</lem><note>Emend <foreign xml:lang="san-Latn">-bhāvitāśeṣa-</foreign></note></app><app loc="12"><lem>-ṣṭitasya</lem><note>Emend <foreign xml:lang="san-Latn">-ṣṭhitasya</foreign>.</note></app><app loc="12"><lem>bhr<unclear>u</unclear>-</lem><note>Emend <foreign xml:lang="san-Latn">bhrū-</foreign>.</note></app><app loc="14"><lem>-bhumi-</lem><note>Emend <foreign xml:lang="san-Latn">-bhūmi-</foreign>.</note></app><app loc="16"><lem>śrīIndra-</lem><note>Understand <foreign xml:lang="san-Latn">śrīndra-</foreign>.</note></app><app loc="17"><lem>śaisava</lem><note>Emend <foreign xml:lang="san-Latn">śaiśava</foreign></note></app><app loc="17-18"><lem>-kr̥tasya samyag-</lem><note>Following EIAD <ref target="DHARMA_INSEIAD00175.xml">175</ref>, l. 14, read <foreign xml:lang="san-Latn">-laṁkr̥tatvāt samyag-</foreign>. Or, as Kielhorn proposes, read <foreign xml:lang="san-Latn">-kr̥taḥ samyag-</foreign>. We prefer the second solution.
-            </note></app><!--[TO BE CONTINUED]--><app loc="lineNumber"><lem/><rdg source="bib:identifier"/><note/></app><app loc="lineNumber"><lem/><rdg source="bib:identifier"/><note/></app><app loc="lineNumber"><lem/><rdg source="bib:identifier"/><note/></app></listApp></div>
-<div type="translation">
-<ab>gift of a village to Śiva, under Vikramendravarman II</ab>
-</div><div type="commentary"><!--[Revision required]--><p n="lineNumber">
+            </note></app><!--[TO BE CONTINUED]-->
+<!--<app loc="lineNumber"><lem/><rdg source="bib:identifier"/><note/></app>
+<app loc="lineNumber"><lem/><rdg source="bib:identifier"/><note/></app>
+<app loc="lineNumber"><lem/><rdg source="bib:identifier"/><note/></app>-->
+</listApp>
+</div>
+<div type="translation" source="bib:Kielhorn1896-1897_02">
+<p n="1-18">Om! Hail! From his residence, the victorious Ḻenduḷūra, he who meditates on the feet of the holy lord of Śriparvata (and belongs to the family) of the Vishnukundins, the great-grandson of the Maharaja Madhavavarman who washed off the stains of the world by his ablutions after eleven aśvamédha sacrifices, who celebrated thousands of sacrifices, who by a sarvamédha sacrifice obtained the supreme dominion over all beings, who celebrated a hundred thousand bahusuvarna, paundarika, purushamedha, vâjapêya, yudhya (?), shôdasin, rajasuya, prâdhirajya, prajapatya and various other large and important excellent [sacrifices], who by the celebration of excellent sacrifices attained to firmly established supremacy, (and) whose two feet were bent down by multitudes of heaps of jewels from the diadems of the stainless, noble and great kings of the whole orb of the earth,- the dear grandson of the glorious Vikramêndravarman whose birth was embellished by the two families of the Vishnukundins and Vakatas, the dear eldest son of the devout worshipper of Maheśvara (Śiva), the Maharaja, the glorious Indrabhattarakavarman, who presided over the whole orb of the earth which was illuminated by the radiance of his flashing sharp sword, who by the act of contracting his eyebrows scattered all claimants, who gained extensive victories when his troups of elephants encountered in battle numerous four-tusked elephants, who acquired a store of merit by emptying¹ water-jars (at donations made) according to precept, who found a meritorious enjoyment of life in constantly bestowing land, cows, and gold, and giving girls in marriage,- the devout worshipper of Maheśvara (Śiva), the Maharaja, the glorious Vikramêndravarman, the most noble, who, in childhood already embellished with all the virtues of a king, has duly taken upon himself the whole burden of government, thus issues his commands :- </p>
+<p>(L. 19.) The village named Rêgonram, in Nat[ri?]pați on the bank of the Krishnabenna, in a south-eastern direction of the village of Ravirêva, has been given to the Somagiriśvara- nâtha (temple), belonging to the holy Tryambaka (Siva), the lord of all the three worlds, whose crown of matted hair is whitened and rendered bright by the rays of the young moon. Out of respect for the king's word you should execute (this) command. Whoever obeys it, enjoys the happiness of the inhabitants of heaven with the hundred-thousand billions of divine hosts in Rudra's world.</p> 
+<p>(L. 25.) In the year 10 of the reign of victory, on the 5th (day) of the 8th fortnight of summer. [Here follow three benedictive and imprecatory verses.]</p>
+</div>
+<div type="commentary"><!--[Revision required]--><p n="lineNumber">
 <note><!--@loc = number of the line commented here in the note element.--></note></p>
 </div>
-<div type="bibliography"><!--[Revision required]-->
-<!--Prose description of the history of the publication. -->
-<p>Kielhorn 1896-97. — Sankaranarayanan 1977: 169-71 (no. VII)</p>
+<div type="bibliography">
+<p>Edited and translated by Kielhorn (<bibl rend="omitname"><ptr target="bib:Kielhorn1896-1897_02"/></bibl>); revised edition by  Sankaranarayanan (<bibl rend="omitname"><ptr target="bib:Sankaranarayanan1977_01"/></bibl>), but without a new translation. This digital edition verified from Kielhorn's reproduction of estampages.</p>
 <listBibl type="primary">
-<bibl><ptr target="bib:Sankaranarayanan1977_01"/><citedRange unit="mixed">80–81, 169–171 (no. VII)</citedRange></bibl></listBibl>
+<bibl n="K"><ptr target="bib:Kielhorn1896-1897_02"/></bibl>
+<bibl n="S"><ptr target="bib:Sankaranarayanan1977_01"/><citedRange unit="mixed">80–81, 169–171 (no. VII)</citedRange></bibl>
+</listBibl>
 <listBibl type="secondary">
 <bibl><ptr target="bib:SrinivasaAyyangar1918_01"/><citedRange unit="page">55-56</citedRange></bibl>
 </listBibl>
