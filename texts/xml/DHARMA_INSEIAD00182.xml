@@ -157,16 +157,10 @@ n="25" break="no"/>ya-rājya-saṁvassaraṁbuḷ· <num value="10">10</num> mā
 </lg>
 </div>
 <div type="apparatus">
-<listApp><app loc="1">
-<lem>bhagavataḥ śrī-</lem>
-<note>Understand <foreign xml:lang="san-Latn">bhagavatac chrī-</foreign>.</note></app>
-<app loc="2-3"><lem>-medhāvabhritāva-</lem>
-<note>Emend <foreign xml:lang="san-Latn">medhāvabhr̥thāva</foreign>.</note>
-</app>
+<listApp>
 <app loc="4">
 <lem source="bib:Kielhorn1896-1897_02">-svārājyasya</lem>
-<rdg source="bib:Sankaranarayanan1977_01">-svārājyasya</rdg>
-<note/>
+<rdg source="bib:Sankaranarayanan1977_01">-svārājyasya</rdg><!-- what's the diff? -->
 </app>
 <app loc="5">
 <lem>-peyayūdhya-</lem>
@@ -175,18 +169,38 @@ n="25" break="no"/>ya-rājya-saṁvassaraṁbuḷ· <num value="10">10</num> mā
 <app loc="6">
 <lem>-guruvara-</lem>
 <note>As Kielhorn notes, ‘Before <foreign xml:lang="san-Latn">vara</foreign> one misses a word like <foreign xml:lang="san-Latn">yajña</foreign> or <foreign xml:lang="san-Latn">kratu</foreign>.’ Or read <foreign xml:lang="san-Latn">-vara-</foreign> and emend <foreign xml:lang="san-Latn">-caraṇa-</foreign>?</note></app>
-<app loc="6-7"><lem>-varānuṣṭhātādhiṣṭhāpratiṣṭhita-</lem><note>Emend <foreign xml:lang="san-Latn">-varānuṣṭhānādhiṣṭhitapratiṣṭhita-</foreign>, <foreign xml:lang="san-Latn">-varānuṣṭhānādhiṣṭānapratiṣṭhita-</foreign> or <foreign xml:lang="san-Latn">-varānuṣṭhānapratiṣṭhita-</foreign>.</note></app><app loc="8"><lem>-prithu-</lem><note>Understand <foreign xml:lang="san-Latn">-pr̥thu-</foreign></note></app><app loc="9"><lem>-nata-</lem><note>SS proposes the proposes the correction <foreign xml:lang="san-Latn">-dāta-</foreign>.</note></app><app loc="10"><lem>-vākāṭa<supplied reason="omitted">ka</supplied>va<supplied reason="omitted">ṁ</supplied>śa-</lem><note>SS notes that ‘The usual form is <hi rend="italic">Vākāṭaka</hi>. However, <hi rend="italic">Vākāṭa</hi> of the present record seems to indicate that ka of the former form is a Taddhita suffix in <hi rend="italic">svārtha</hi> (<hi rend="italic">Vākāṭā eva Vākāṭakāḥ</hi>) i.e., in the sense of the base itself and not in any other sense as believed by some writers (e.g., in JBORS, XIX, p. 67; <hi rend="italic">A New Hist. of the Ind. People</hi>, VI, p. 96; JIH, XLIX, pp. 135 ff.; etc. Cf. also above Ch. II, note 63.’
-            </note></app><app loc="10"><lem>-janmanaḥ</lem><rdg source="bib:Kielhorn1896-1897_02">janmana<supplied reason="omitted">ḥ</supplied></rdg><note>The visarga seems to be present.</note></app><app loc="11"><lem>spuran-</lem><note>Emend <foreign xml:lang="san-Latn">sphuran-</foreign>.</note></app><app loc="11"><lem>-bhāvitāśeṣa-</lem><note>Emend <foreign xml:lang="san-Latn">-bhāvitāśeṣa-</foreign></note></app><app loc="12"><lem>-ṣṭitasya</lem><note>Emend <foreign xml:lang="san-Latn">-ṣṭhitasya</foreign>.</note></app><app loc="12"><lem>bhr<unclear>u</unclear>-</lem><note>Emend <foreign xml:lang="san-Latn">bhrū-</foreign>.</note></app><app loc="14"><lem>-bhumi-</lem><note>Emend <foreign xml:lang="san-Latn">-bhūmi-</foreign>.</note></app><app loc="16"><lem>śrīIndra-</lem><note>Understand <foreign xml:lang="san-Latn">śrīndra-</foreign>.</note></app><app loc="17"><lem>śaisava</lem><note>Emend <foreign xml:lang="san-Latn">śaiśava</foreign></note></app><app loc="17-18"><lem>-kr̥tasya samyag-</lem><note>Following EIAD <ref target="DHARMA_INSEIAD00175.xml">175</ref>, l. 14, read <foreign xml:lang="san-Latn">-laṁkr̥tatvāt samyag-</foreign>. Or, as Kielhorn proposes, read <foreign xml:lang="san-Latn">-kr̥taḥ samyag-</foreign>. We prefer the second solution.
-            </note></app><!--[TO BE CONTINUED]-->
+<app loc="6-7">
+<lem>-varānuṣṭhātādhiṣṭhāpratiṣṭhita-</lem>
+<note>Emend <foreign xml:lang="san-Latn">-varānuṣṭhānādhiṣṭhitapratiṣṭhita-</foreign>, <foreign xml:lang="san-Latn">-varānuṣṭhānādhiṣṭānapratiṣṭhita-</foreign> or <foreign xml:lang="san-Latn">-varānuṣṭhānapratiṣṭhita-</foreign>.</note>
+</app>
+<app loc="9">
+<lem>-nata-</lem>
+<note>SS proposes the proposes the correction <foreign xml:lang="san-Latn">-dāta-</foreign>.</note></app>
+<app loc="10">
+<lem>-vākāṭa<supplied reason="omitted">ka</supplied>va<supplied reason="omitted">ṁ</supplied>śa-</lem>
+<note>SS notes that ‘The usual form is <hi rend="italic">Vākāṭaka</hi>. However, <hi rend="italic">Vākāṭa</hi> of the present record seems to indicate that ka of the former form is a Taddhita suffix in <hi rend="italic">svārtha</hi> (<hi rend="italic">Vākāṭā eva Vākāṭakāḥ</hi>) i.e., in the sense of the base itself and not in any other sense as believed by some writers (e.g., in JBORS, XIX, p. 67; <hi rend="italic">A New Hist. of the Ind. People</hi>, VI, p. 96; JIH, XLIX, pp. 135 ff.; etc. Cf. also above Ch. II, note 63.’ </note>
+</app>
+<app loc="10">
+<lem>-janmanaḥ</lem><rdg source="bib:Kielhorn1896-1897_02">janmana<supplied reason="omitted">ḥ</supplied></rdg><note>The visarga seems to be present.</note>
+</app>
+<app loc="11">
+<lem>-bhāvitāśeṣa-</lem>
+<note>Emend <foreign xml:lang="san-Latn">-bhāvitāśeṣa-</foreign></note></app>
+<app loc="12"><lem>-ṣṭitasya</lem><note>Emend <foreign xml:lang="san-Latn">-ṣṭhitasya</foreign>.</note></app>
+<app loc="12"><lem>bhr<unclear>u</unclear>-</lem><note>Emend <foreign xml:lang="san-Latn">bhrū-</foreign>.</note></app>
+<app loc="14"><lem>-bhumi-</lem><note>Emend <foreign xml:lang="san-Latn">-bhūmi-</foreign>.</note></app>
+<app loc="16"><lem>śrīIndra-</lem><note>Understand <foreign xml:lang="san-Latn">śrīndra-</foreign>.</note></app><app loc="17"><lem>śaisava</lem><note>Emend <foreign xml:lang="san-Latn">śaiśava</foreign></note></app>
+<app loc="17-18"><lem>-kr̥tasya samyag-</lem><note>Following EIAD <ref target="DHARMA_INSEIAD00175.xml">175</ref>, l. 14, read <foreign xml:lang="san-Latn">-laṁkr̥tatvāt samyag-</foreign>. Or, as Kielhorn proposes, read <foreign xml:lang="san-Latn">-kr̥taḥ samyag-</foreign>. We prefer the second solution.</note></app>
+<!--[TO BE CONTINUED]-->
 <!--<app loc="lineNumber"><lem/><rdg source="bib:identifier"/><note/></app>
 <app loc="lineNumber"><lem/><rdg source="bib:identifier"/><note/></app>
 <app loc="lineNumber"><lem/><rdg source="bib:identifier"/><note/></app>-->
 </listApp>
 </div>
 <div type="translation" source="bib:Kielhorn1896-1897_02">
-<p n="1-18">Om! Hail! From his residence, the victorious Ḻenduḷūra, he who meditates on the feet of the holy lord of Śriparvata (and belongs to the family) of the Vishnukundins, the great-grandson of the Maharaja Madhavavarman who washed off the stains of the world by his ablutions after eleven aśvamédha sacrifices, who celebrated thousands of sacrifices, who by a sarvamédha sacrifice obtained the supreme dominion over all beings, who celebrated a hundred thousand bahusuvarna, paundarika, purushamedha, vâjapêya, yudhya (?), shôdasin, rajasuya, prâdhirajya, prajapatya and various other large and important excellent [sacrifices], who by the celebration of excellent sacrifices attained to firmly established supremacy, (and) whose two feet were bent down by multitudes of heaps of jewels from the diadems of the stainless, noble and great kings of the whole orb of the earth,- the dear grandson of the glorious Vikramêndravarman whose birth was embellished by the two families of the Vishnukundins and Vakatas, the dear eldest son of the devout worshipper of Maheśvara (Śiva), the Maharaja, the glorious Indrabhattarakavarman, who presided over the whole orb of the earth which was illuminated by the radiance of his flashing sharp sword, who by the act of contracting his eyebrows scattered all claimants, who gained extensive victories when his troups of elephants encountered in battle numerous four-tusked elephants, who acquired a store of merit by emptying¹ water-jars (at donations made) according to precept, who found a meritorious enjoyment of life in constantly bestowing land, cows, and gold, and giving girls in marriage,- the devout worshipper of Maheśvara (Śiva), the Maharaja, the glorious Vikramêndravarman, the most noble, who, in childhood already embellished with all the virtues of a king, has duly taken upon himself the whole burden of government, thus issues his commands :- </p>
-<p>(L. 19.) The village named Rêgonram, in Nat[ri?]pați on the bank of the Krishnabenna, in a south-eastern direction of the village of Ravirêva, has been given to the Somagiriśvara- nâtha (temple), belonging to the holy Tryambaka (Siva), the lord of all the three worlds, whose crown of matted hair is whitened and rendered bright by the rays of the young moon. Out of respect for the king's word you should execute (this) command. Whoever obeys it, enjoys the happiness of the inhabitants of heaven with the hundred-thousand billions of divine hosts in Rudra's world.</p> 
-<p>(L. 25.) In the year 10 of the reign of victory, on the 5th (day) of the 8th fortnight of summer. [Here follow three benedictive and imprecatory verses.]</p>
+<p n="1-18">Om! Hail! From his residence, the victorious Ḻenduḷūra, he who meditates on the feet of the holy lord of Śriparvata (and belongs to the family) of the Vishnukundins, the great-grandson of the Maharaja Madhavavarman who washed off the stains of the world by his ablutions after eleven aśvamédha sacrifices, who celebrated thousands of sacrifices, who by a sarvamédha sacrifice obtained the supreme dominion over all beings, who celebrated a hundred thousand bahusuvarna, paundarika, purushamedha, vâjapêya, yudhya (?), shôdasin, rajasuya, prâdhirajya, prajapatya and various other large and important excellent [sacrifices], who by the celebration of excellent sacrifices attained to firmly established supremacy, (and) whose two feet were bent down by multitudes of heaps of jewels from the diadems of the stainless, noble and great kings of the whole orb of the earth,- the dear grandson of the glorious Vikramêndravarman whose birth was embellished by the two families of the Vishnukundins and Vakatas, the dear eldest son of the devout worshipper of Maheśvara (Śiva), the Maharaja, the glorious Indrabhattarakavarman, who presided over the whole orb of the earth which was illuminated by the radiance of his flashing sharp sword, who by the act of contracting his eyebrows scattered all claimants, who gained extensive victories when his troups of elephants encountered in battle numerous four-tusked elephants, who acquired a store of merit by emptying¹ water-jars (at donations made) according to precept, who found a meritorious enjoyment of life in constantly bestowing land, cows, and gold, and giving girls in marriage,- the devout worshipper of Maheśvara (Śiva), the Maharaja, the glorious Vikramêndravarman, the most noble, who, in childhood already embellished with all the virtues of a king, has duly taken upon himself the whole burden of government, thus issues his commands:</p>
+<p n="19-24">The village named Rêgonram, in Nat[ri?]pați on the bank of the Krishnabenna, in a south-eastern direction of the village of Ravirêva, has been given to the Somagiriśvara- nâtha (temple), belonging to the holy Tryambaka (Siva), the lord of all the three worlds, whose crown of matted hair is whitened and rendered bright by the rays of the young moon. Out of respect for the king's word you should execute (this) command. Whoever obeys it, enjoys the happiness of the inhabitants of heaven with the hundred-thousand billions of divine hosts in Rudra's world.</p> 
+<p n="25">In the year 10 of the reign of victory, on the 5th (day) of the 8th fortnight of summer. [Here follow three benedictive and imprecatory verses.]</p>
 </div>
 <div type="commentary"><!--[Revision required]--><p n="lineNumber">
 <note><!--@loc = number of the line commented here in the note element.--></note></p>
