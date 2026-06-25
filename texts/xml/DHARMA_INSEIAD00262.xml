@@ -32,7 +32,7 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Arlo Griffith &amp; Vincent Tournier.</p>
+                        <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Vincent Tournier.</p>
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -74,7 +74,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="pra-Latn">
+         <div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209">
             <ab part="M"><lb 
                 n="1"/><gap reason="lost"/> <unclear>sa</unclear> cadasa ca mātūya <gap reason="lost"/><lb 
                 n="2"/><gap reason="lost"/> naṁ navakamikā padhānapari <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost"/><lb 
@@ -108,7 +108,7 @@
              <p>For a previous text on engraved, in a significantly earlier script, on this pillar, see <ref target="DHARMA_INSEIAD01020.xml">EIAD 1020</ref>.</p>
          </div>
         <div type="bibliography">
-           <p>This edition by Arlo Griffith and Vincent Tournier. Encoded in XML by Fu Fan in March 2025.</p>
+           <p>This edition by Arlo Griffiths and Vincent Tournier. Encoded in XML by Fu Fan in March 2025.</p>
         	<listBibl type="primary">
 				<bibl n="C">
                     <ptr target="bib:Chanda1919-1920_01"/>

@@ -32,28 +32,23 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Arlo Griffith &amp; Vincent Tournier.</p>
+                        <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Vincent Tournier.</p>
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
             </publicationStmt>
-            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
-                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+            <sourceDesc>
+                <msDesc>
                     <msIdentifier>
                         <repository>DHARMAbase</repository>
-                        <idno/><!-- don't modify this -->
+                        <idno/>
                     </msIdentifier>
-                    <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    <msContents>
+                        <summary></summary> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
-                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
-						<summary><p><p/></summary>
-						<handNote xml:id="Pallava00001_hand1"></handNote>
-						<handNote xml:id="Pallava00001_hand2"></handNote>
-					 -->
+                            <p></p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -63,7 +58,7 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
                 <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
@@ -79,14 +74,14 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="pra-Latn">
+         <div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83207">
             <p><lb 
                 n="1"/>yakho cadamukho va<unclear>ṁ</unclear>kunivāsi
             </p>
          </div>
          <div type="apparatus">
                <listApp>
-                  <app loc="1"><!-- update the value of @loc.-->
+                  <app loc="1">
                      <lem>yakho cadamukho va<unclear>ṁ</unclear>kunivāsi</lem>
                      <rdg source="bib:Sivaramamurti1942_01">yakho cadamukho vakunivāsi</rdg>
                      <rdg source="bib:Chanda1919-1920_01">yagocada mugovakunivāsi</rdg>

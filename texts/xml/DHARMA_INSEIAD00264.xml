@@ -32,7 +32,7 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Arlo Griffith &amp; Vincent Tournier.</p>
+                        <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Vincent Tournier.</p>
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -74,7 +74,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="pra-Latn">
+         <div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209">
             <p>
                 <lb n="1"/><unclear>si</unclear>dhaṁ ra<unclear>ṁ</unclear>ñ<unclear>o</unclear> v<unclear>ās</unclear><supplied reason="lost">i</supplied>ṭh<supplied reason="lost">i</supplied>pu<unclear>ta</unclear><supplied reason="lost">sa</supplied> <space/> <unclear>s</unclear><supplied reason="lost">ā</supplied>m<supplied reason="lost">i</supplied>siripulumāvisa savachara <gap reason="lost" quantity="12" unit="character"/> pi<unclear>ṁ</unclear>ḍasutariyāna<unclear>ṁ</unclear> <space/> kahutaragahapat<unclear>i</unclear>sa pur<unclear>i</unclear>gahapatisa ca putasa Isilasa <space/> sabhātukasa 
                 <lb n="2"/><supplied reason="lost"><damage>sa</damage></supplied>bhaginikasa <space/> bhayāya ca sanākānikāya <space/> saputaka<unclear>sa</unclear> <gap reason="lost" quantity="9" unit="character"/> <supplied reason="lost">bhagava</supplied><unclear>to</unclear> mahācetiye <space/> cetikiyānaṁ nikā<supplied reason="omitted">ya</supplied>sa parigahe <space/> Aparadāre <space/> dhamacakaṁ de<supplied reason="omitted">ya</supplied>dhaṁma<unclear>ṁ</unclear> <supplied reason="lost">ṭh</supplied>āpita
@@ -137,7 +137,7 @@
          <div type="commentary">
          </div>
         <div type="bibliography">
-            <p>This edition by Arlo Griffith and Vincent Tournier. Encoded in XML by Fu Fan in March 2025.</p>
+            <p>This edition by Arlo Griffiths and Vincent Tournier. Encoded in XML by Fu Fan in March 2025.</p>
         	<listBibl type="primary">
                 <bibl n="B1882">
                     <ptr target="bib:Burgess1882_01"/>
