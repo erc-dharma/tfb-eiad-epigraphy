@@ -70,7 +70,7 @@
     </teiHeader>
     <text xml:space="preserve">
         <body>
-            <div type="edition" xml:lang="pra-Latn">
+            <div type="edition" xml:lang="pra-Latn" rendition="class:83217 maturity:83207">
                 <p><lb n="1"/><gap reason="lost" unit="character" quantity="1"/> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ā</seg>na samaŪkasa seṭhino thabho</p>
             </div>
             <div type="apparatus">

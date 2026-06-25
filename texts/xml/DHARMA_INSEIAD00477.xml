@@ -70,7 +70,7 @@
     </teiHeader>
     <text xml:space="preserve">
         <body>
-            <div type="edition" xml:lang="pra-Latn">
+            <div type="edition" xml:lang="pra-Latn" rendition="class:83217 maturity:83207">
                 <p><lb n="1"/>kala<unclear>ḷ</unclear>airagāmasa thabo</p>
             </div>
             <div type="apparatus">

@@ -80,7 +80,7 @@
     </teiHeader>
     <text xml:space="preserve">
         <body>
-            <div type="edition" xml:lang="pra-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
+            <div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209"><!-- update the @xml:lang value, see EGD §7.2-->
                 <p><lb 
                     n="1"/><supplied reason="lost">sidhaṁ namo</supplied> bhagavato <space/> kavururavathaviyā pavajitikayā <space/> va<unclear>da</unclear>yā tha<lb 
                     n="2" break="no"/><gap reason="lost" quantity="5" unit="character"/>yā <subst><del rend="corrected" place="below">ha</del><add place="below">a</add></subst>ṁgiyā bhāyitiyā bodhiyā Utayā Imaṁ paṁdaka patiṭha<supplied reason="lost">p</supplied><unclear>i</unclear><add place="below">ta</add>

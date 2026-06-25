@@ -70,7 +70,7 @@
     </teiHeader>
     <text xml:space="preserve">
         <body>
-            <div type="edition" xml:lang="pra-Latn">
+            <div type="edition" xml:lang="pra-Latn" rendition="class:83217 maturity:83207">
                 <p><lb 
                     n="1"/>kumārasa A<unclear>v</unclear>atakamasa tha<supplied reason="lost">bho</supplied><lb 
                     n="2"/>maghavadatena nāma kar<unclear>i</unclear><supplied reason="lost">to</supplied>
