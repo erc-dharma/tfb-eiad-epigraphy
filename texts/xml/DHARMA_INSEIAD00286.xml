@@ -36,7 +36,7 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Arlo Griffith, Ingo Strauch and Vincent Tournier.</p>
+                        <p>Copyright (c) 2019-2025 by Arlo Griffiths, Ingo Strauch and Vincent Tournier.</p>
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -47,17 +47,12 @@
                         <repository>DHARMAbase</repository>
                         <idno/><!-- don't modify this -->
                     </msIdentifier>
-                    <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    <msContents>
+                        <summary></summary> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
-                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
-						<summary><p><p/></summary>
-						<handNote xml:id="Pallava00001_hand1"></handNote>
-						<handNote xml:id="Pallava00001_hand2"></handNote>
-					 -->
+                            <p></p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -78,12 +73,12 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:fufa" when="2025-03-20">Initial Encoding</change>
+            <change who="part:fufa" when="2026-06-23">Initial Encoding</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
         <body>
-            <div type="edition" xml:lang="pra-Latn">
+            <div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209">
                 <p><lb 
                     n="1"/>sidhaṁ vāniyasa kuṭasa sa<lb 
                     n="2" break="no"/>bhariyasa saputakasa saduhu<lb 
@@ -118,11 +113,8 @@
             <div type="translation" resp="part:argr part:inst part:vito">
                 <p>Success! A <foreign>caitya</foreign><supplied reason="subaudible">-bearing</supplied> pillar, containing relics, <supplied reason="subaudible">erected</supplied> on the southern <placeName type="builtPlace"><foreign>āyāka</foreign></placeName>: the gift of the merchant <persName type="human"><roleName type="merchant" subtype="donor">Kuṭa</roleName></persName>, together with his wife, son<supplied reason="subaudible">s</supplied>, daughter<supplied reason="subaudible">s</supplied>, and grandchildren.</p>
             </div>
-            <div type="commentary">
-                <!--commentary encoded as per section §9.3 -->
-            </div>
             <div type="bibliography">
-                <p>This edition by Arlo Griffith, Ingo Strauch and Vincent Tournier. Encoded in XML by Fu Fan in March 2025.</p>
+                <p>This edition by Arlo Griffiths, Ingo Strauch and Vincent Tournier. Encoded in XML by Fu Fan in June 2026.</p>
         	    <listBibl type="primary">
 			        <bibl n="B1882">
                         <ptr target="bib:Burgess1882_01"/>
