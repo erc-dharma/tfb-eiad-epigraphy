@@ -149,11 +149,14 @@ n="26" break="no"/>ya-rājya-<seg xml:lang="tel-Latn">-saṁva<choice><sic>s</si
 <l n="c"><lb n="30"/>ṣaṣṭiṁ varṣa-sahasrāṇi</l>
 <l n="d">narake pacyate dhruvaM</l>
 </lg>
-<lg met="anuṣṭubh" n="3">
-<l n="a"><lb n="31"/>gā<space type="binding-hole"/>vo bh<choice><sic>u</sic><corr>ū</corr></choice>mi tathā bhāryyā</l>
-<l n="b">Akramya hara mā nayā</l>
-<l n="c"><lb n="32"/>srā<space type="binding-hole"/>vayanti rājānāṁ</l>
-<l n="d">brahmahatyā ca li<unclear>p</unclear>yati <g ref="sym:indistinct" type="punctuation">.</g>
+<lg met="anuṣṭubh" n="3"><!-- BEst_0056
+gāvo bhūmiṁ tathā bhāryāṁ Ākramya hara mā naya
+śrāvayanti hi rājānaṁ brahma-hatyā ca limpati
+ -->
+<l n="a"><lb n="31"/>gā<space type="binding-hole"/>vo bh<choice><sic>u</sic><corr>ū</corr></choice>mi<supplied reason="omitted">ṁ</supplied> tathā bhāryyā<supplied reason="omitted">ṁ</supplied></l>
+<l n="b"><choice><sic>A</sic><corr>Ā</corr></choice>kramya hara mā nayā</l>
+<l n="c"><lb n="32"/><choice><sic>s</sic><corr>ś</corr></choice>rā<space type="binding-hole"/>vayanti <supplied reason="omitted">hi</supplied> rājānāṁ</l>
+<l n="d">brahmahatyā ca li<unclear>m</unclear><choice><sic>y</sic><corr>p</corr></choice>ati <g ref="sym:indistinct" type="punctuation">.</g>
 </l>
 </lg>
 </div>
@@ -215,7 +218,9 @@ n="26" break="no"/>ya-rājya-<seg xml:lang="tel-Latn">-saṁva<choice><sic>s</si
 <p n="19-24">The village named Rêgonram, in Nat[ri?]pați on the bank of the Krishnabenna, in a south-eastern direction of the village of Ravirêva, has been given to the Somagiriśvara- nâtha (temple), belonging to the holy Tryambaka (Siva), the lord of all the three worlds, whose crown of matted hair is whitened and rendered bright by the rays of the young moon. Out of respect for the king's word you should execute (this) command. Whoever obeys it, enjoys the happiness of the inhabitants of heaven with the hundred-thousand billions of divine hosts in Rudra's world.</p> 
 <p n="25">In the year 10 of the reign of victory, on the 5th (day) of the 8th fortnight of summer. [Here follow three benedictive and imprecatory verses.]</p>
 </div>
-<div type="commentary"/>
+<div type="commentary">
+<p n="31-32">Verse restored after <ref target="https://dharmalekha.info/bestow">BEst_0057</ref>.</p>
+</div>
 <div type="bibliography">
 <p>Edited and translated by Kielhorn (<bibl rend="omitname"><ptr target="bib:Kielhorn1896-1897_02"/></bibl>); revised edition by  Sankaranarayanan (<bibl rend="omitname"><ptr target="bib:Sankaranarayanan1977_01"/></bibl>), but without a new translation. This digital edition verified from Kielhorn's reproduction of estampages.</p>
 <listBibl type="primary">
