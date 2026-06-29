@@ -133,18 +133,18 @@ n="18" break="no"/>sya samyag-adhy<choice><sic>a</sic><corr>ā</corr></choice>ro
 <lb n="19"/>mahārāja<supplied reason="omitted">ḥ</supplied> śrīmān vikramendravarmmā Evam ājñāpayati</p> <p>nat<unclear cert="low">r̥</unclear>paṭyāṁ kr̥<lb 
 n="20" break="no"/>ṣṇabe<unclear>ṇṇ</unclear>ā-taṭe rāvireva-gr<unclear>ā</unclear>masya dakṣiṇa-pūrvvasyāṁ diśi rego<pb n="4r" break="no"/><lb n="21" break="no"/>nṟan nāma grāma<supplied reason="omitted">ḥ</supplied> sakala-jaga<supplied reason="omitted">t</supplied>-traya-nāthasya śiśu-śaśi-karāvadā<lb 
 n="22" break="no"/>ta-śubhrīkr̥ta-jaṭāmakuṭasya bhagavatas triya<surplus>ṁ</surplus>m<choice><sic>bh</sic><corr>b</corr></choice>akasya bhavate 
-<lb n="23" break="no"/>so<space type="binding-hole"/>magir<choice><sic>e</sic><corr>ī</corr></choice>śvar<choice><sic>ā</sic><corr>a</corr></choice>-nāthāya datta<choice><sic>ṁ</sic><corr>ḩ</corr></choice></p> <p>rājñ<choice><sic>ā</sic><corr>o</corr></choice> vacanād gāraveṇājñāṁ kā<lb 
+<lb n="23"/>so<space type="binding-hole"/>magir<choice><sic>e</sic><corr>ī</corr></choice>śvar<choice><sic>ā</sic><corr>a</corr></choice>-nāthāya datta<choice><sic>ṁ</sic><corr>ḩ</corr></choice></p> <p>rājñ<choice><sic>ā</sic><corr>o</corr></choice> vacanād gāraveṇājñāṁ kā<lb 
 n="24" break="no"/>ray<choice><sic>i</sic><corr>e</corr></choice><space type="binding-hole"/>ti kaś cid enam pāl<choice><sic>ā</sic><corr>a</corr></choice>yati s<choice><sic>o</sic><corr>a</corr></choice> rudra-loke deva-gaṇ<choice><sic>ā</sic><corr>a</corr></choice><pb n="4v" break="no"/><lb 
 n="25" break="no"/>-ko<space type="binding-hole"/>ṭī-<choice><sic>s</sic><corr>ś</corr></choice>ata-sahasreṇa svargge <surplus>na</surplus> sukhaṁ modati vija<lb 
-n="26" break="no"/>ya-rājya-<seg xml:lang="tel-Latn">-saṁva<choice><sic>s</sic><corr>t</corr></choice>saraṁbuḶ</seg> <num value="10"><g type="numeral">10</g></num> māsa-pakkaṁ <num value="8">8</num> gihmā <num value="5">5</num></p>
+n="26" break="no"/>ya-rājya-saṁva<choice><sic>s</sic><corr>t</corr></choice>saraṁbuḶ <num value="10"><g type="numeral">10</g></num> māsa-pakkaṁ <num value="8">8</num> gihmā <num value="5">5</num></p>
 <lg met="anuṣṭubh" n="1">
-<l n="a"><pb n="5a"/><lb n="27"/>bahubhir vvasudhā datt<choice><sic>aṁ</sic><corr>ā</corr></choice></l>
+<l n="a"><lb n="27"/>bahubhir vvasudhā datt<choice><sic>aṁ</sic><corr>ā</corr></choice></l>
 <l n="b">bahubhiś cānupālitā</l>
 <l n="c">yasya <lb n="28"/>yasya yadā bhūmi<choice><sic>ṁ</sic><corr>s</corr></choice></l>
 <l n="d">tasya tasya tadā phala<unclear>M</unclear></l>
 </lg>
 <lg met="anuṣṭubh" n="2">
-<l n="a"><lb n="29"/>svadatt<choice><sic>a</sic><corr>ā</corr></choice>ṁ paradatt<choice><sic>a</sic><corr>ā</corr></choice>ṁ vā</l>
+<l n="a"><pb n="5r"/><lb n="29"/>svadatt<choice><sic>a</sic><corr>ā</corr></choice>ṁ paradatt<choice><sic>a</sic><corr>ā</corr></choice>ṁ vā</l>
 <l n="b">yo hareti vasundharā<unclear>M</unclear></l>
 <l n="c"><lb n="30"/>ṣaṣṭiṁ varṣa-sahasrāṇi</l>
 <l n="d">narake pacyate dhruvaM</l>
@@ -208,7 +208,7 @@ gāvo bhūmiṁ tathā bhāryāṁ Ākramya hara mā naya
 <note>Kielhorn notes: <q>The sense intended is that of <foreign>svargiṇâṁ sukham=anubhavati</foreign></q>; Sankaranarayanan notes: <q>Read <foreign>svargiṇā sukhaṁ mōdati</foreign></q>.</note>
 </app>
 <app loc="26">
-<lem><seg xml:lang="tel-Latn">-saṁva<choice><sic>s</sic><corr>t</corr></choice>saraṁbuḶ</seg> <num value="10"><g type="numeral">10</g></num> māsa-pakkaṁ <num value="8">8</num> gihmā <num value="5">5</num></lem>
+<lem>-saṁva<choice><sic>s</sic><corr>t</corr></choice>saraṁbuḶ <num value="10"><g type="numeral">10</g></num> māsa-pakkaṁ <num value="8">8</num> gihmā <num value="5">5</num></lem>
 <note>Kielhorn notes: <q>the word <foreign>mâsa</foreign> is quite meaningless;and the whole passage containing the date, expressed in Sankskṛit, should be <foreign>-saṁvatsarê 10 grîshma-pakṣê 8 [divasê*] 5</foreign></q>.</note>
 </app>
 </listApp>
@@ -219,7 +219,7 @@ gāvo bhūmiṁ tathā bhāryāṁ Ākramya hara mā naya
 <p n="25">In the year 10 of the reign of victory, on the 5th (day) of the 8th fortnight of summer. [Here follow three benedictive and imprecatory verses.]</p>
 </div>
 <div type="commentary">
-<p n="31-32">Verse restored after <ref target="https://dharmalekha.info/bestow">BEst_0057</ref>.</p>
+<p n="31-32">Verse restored after <bibl><ptr target="bib:Sircar1965_01"/><citedRange unit="page">185</citedRange><citedRange unit="item">57</citedRange></bibl> (<ref target="https://dharmalekha.info/bestow">BEst_0057</ref>).</p>
 </div>
 <div type="bibliography">
 <p>Edited and translated by Kielhorn (<bibl rend="omitname"><ptr target="bib:Kielhorn1896-1897_02"/></bibl>); revised edition by  Sankaranarayanan (<bibl rend="omitname"><ptr target="bib:Sankaranarayanan1977_01"/></bibl>), but without a new translation. This digital edition verified from Kielhorn's reproduction of estampages.</p>
