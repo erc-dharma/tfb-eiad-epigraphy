@@ -109,93 +109,105 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 <pb n="1v"/>
 <lb n="1"/><g ref="sym:spiral-right" type="symbol">*</g> <space type="binding-hole"/> svasti vijaya-ḻenduḷūra-vāsakād bhagavataḥ śrī-parvvata<lb 
 n="2" break="no"/>-svāmi-pādānuddhyāto viṣṇukuṇḍinām<surplus>m</surplus>
-ekādaśāśvamedhāvabh<choice><sic>ri</sic><corr>r̥</corr></choice>tā<lb 
+ekādaśāśvamedhāvabh<choice><sic>ri</sic><corr>r̥</corr></choice><choice><sic>t</sic><corr>th</corr></choice>ā<lb 
 n="3" break="no"/>vadhauta-jagad-kalmaṣasya
 kratu-sahasra-yājina<supplied reason="omitted">ḥ</supplied> sarvva-medhāvāpta<lb 
 n="4" break="no"/>-sarvva-bhūta-svārājyasya bahusuvarṇṇa-pauṇḍarīka-puruṣamedha<pb n="2r" break="no"/><lb 
-n="5" break="no"/>-vājapeya-yūdhya-ṣoḍaśi-rājasūya-prādhirājya-pr<choice><sic>a</sic><corr>ā</corr></choice>jāpatyā<lb 
-n="6" break="no"/>dy-aneka-vividha-pr̥thu-guru-vara-śata-sahasra-yājina<supplied reason="omitted">ḥ</supplied>
+n="5" break="no"/>-vājape<choice><sic>ya-yūdhya-</sic><corr>yokthya-</corr></choice>ṣoḍaśi-rājasūya-prādhirājya-pr<choice><sic>a</sic><corr>ā</corr></choice>jāpatyā<lb 
+n="6" break="no"/>dy-aneka-vividha-pr̥thu-guru-<supplied reason="omitted">kratu-</supplied>vara-śata-sahasra-yājina<supplied reason="omitted">ḥ</supplied>
 kratu-varānuṣṭhā<lb 
-n="7" break="no"/>tādhiṣṭhāpratiṣṭhita-parameṣṭhitvasya mahārājasya
-sakala-jaga<lb 
+n="7" break="no"/><choice><sic>t</sic><corr>n</corr></choice>ādhiṣṭhā<supplied reason="omitted">na</supplied>-pratiṣṭhita-parameṣṭhitvasya mahārājasya sakala-jaga<lb 
 n="8" break="no"/>n-maṇḍa<space type="binding-hole"/>la-vimala-guru-p<choice><sic>ri</sic><corr>r̥</corr></choice>thu-kṣitipati-makuṭa-maṇi-ga<supplied reason="lost">ṇa</supplied><pb n="2v" break="no"/><lb 
-n="9" break="no"/>-nika<space type="binding-hole"/>rāvanata-pādayuga<choice><sic>ḷ</sic><corr>l</corr></choice>asya 
+n="9" break="no"/>-nika<space type="binding-hole"/>rāvanata-pāda-yuga<choice><sic>ḷ</sic><corr>l</corr></choice>asya 
 mādhavavarmmaṇa<supplied reason="omitted">ḥ</supplied> prana<unclear>ptā</unclear>
 <lb n="10"/>viṣṇukuṇḍi-vākāṭa<supplied reason="omitted">ka</supplied>-va<supplied reason="omitted">ṁ</supplied>śa-dvayālaṁkr̥ta-janmanaḥ śrī-vikramendravarmma<lb 
-n="11" break="no"/>ṇa<supplied reason="omitted">ḥ</supplied> priya-naptā s<choice><sic>p</sic><corr>ph</corr></choice>uran-niśita-nistriṁśa-prabhāva-bhāvitāśeṣa-jagan-maṇḍa<lb 
+n="11" break="no"/>ṇa<supplied reason="omitted">ḥ</supplied> priya-naptā s<choice><sic>p</sic><corr>ph</corr></choice>uran-niśita-nistriṁśa-prabhāvabhā<choice><sic>v</sic><corr>s</corr></choice>itāśeṣa-jagan-maṇḍa<lb 
 n="12" break="no"/>lādhiṣ<choice><sic>ṭ</sic><corr>ṭh</corr></choice>itasya
-bhr<unclear>u</unclear>bhaṅga-kara-vinirdhūta-samagradāyādasya Aneka-cā<pb n="3r" break="no"/><lb 
+bhr<choice><sic>u</sic><corr>ū</corr></choice>-bhaṅga-kara-vinirdhūta-samagra-dāyādasya Aneka-cā<pb n="3r" break="no"/><lb 
 n="13" break="no"/>turddanta-samara-saṁghaṭṭa-dvirada-gaṇa-vipula-vijayasya yathāvidhi<lb 
 n="14" break="no"/>-viniryyāpita-ghaṭikāvāpta-puṇya-saṁcayasya satata-bh<choice><sic>u</sic><corr>ū</corr></choice>mi-go<lb 
 n="15" break="no"/>-kanyā-hiraṇya-pradāna-pratilabdha-puṇya-jīvitopabhogasya <unclear>pa</unclear><lb 
 n="16" break="no"/>rama<space type="binding-hole"/>-<supplied reason="omitted">mā</supplied>heśvarasya mahār<choice><sic>a</sic><corr>ā</corr></choice>jasya śrī-Indrabhaṭṭāraka-varmmaṇa<supplied reason="omitted">ḥ</supplied> priya<pb 
-n="3v" break="no"/><lb n="17" break="no"/>-j<unclear>y</unclear>e<space type="binding-hole"/>ṣṭha-putro gariṣ<choice><sic>ṭ</sic><corr>ṭh</corr></choice>a<supplied reason="omitted">ḥ</supplied> śaisava Eva sakala-nr̥pa-guṇālaṁkr̥ta<lb 
-n="18" break="no"/>sya samyag-adhy<unclear>ā</unclear>ropita-sakala-rājya-bhāra<supplied reason="omitted">ḥ</supplied> parama-māheśvaro <lb n="19"/>mahārāja<supplied reason="omitted">ḥ</supplied> śrīmān vikramendravarmmā Evam ājñāpayati</p> <p>natapaṭyāṁ kr̥<lb 
-n="20" break="no"/>ṣṇabe<unclear>ṇṇ</unclear>ā-taṭe rāvirevagr<unclear>ā</unclear>masya dakṣiṇa-pūrvvasyāṁ diśi rego<pb n="4r" break="no"/><lb n="21" break="no"/>nṟan nāma grāma<supplied reason="omitted">ḥ</supplied> sakala-jaga<supplied reason="omitted">t</supplied>-traya-nāthasya śiśu-śaśi-karāvadā<lb 
-n="22" break="no"/>ta-śubhrīkr̥ta-jaṭāmakuṭasya bhagavatas triya<surplus>ṁ</surplus>mbhakasya bhavate 
-<lb n="23" break="no"/>so<space type="binding-hole"/>magireśvarānāthāya dattaṁ rājñā vacanād gāraveṇājñāṁ kā<lb 
-n="24" break="no"/>rayi<space type="binding-hole"/>ti kaś cid enam pālāyati so rudra-loke devagaṇā<pb n="4v" break="no"/><lb 
-n="25" break="no"/>-ko<space type="binding-hole"/>ṭī-<choice><sic>s</sic><corr>ś</corr></choice>ata-sahasreṇa svarggina sukhaṁ modati vija<lb 
-n="25" break="no"/>ya-rājya-saṁvassaraṁbuḷ· <num value="10">10</num> māsa-pakkaṁ 8 gihmā 5</p>
+n="3v" break="no"/><lb n="17" break="no"/>-j<unclear>y</unclear>e<space type="binding-hole"/>ṣṭha-putro gariṣ<choice><sic>ṭ</sic><corr>ṭh</corr></choice>a<supplied reason="omitted">ḥ</supplied> śaiśava Eva sakala-nr̥pa-guṇālaṁkr̥ta<lb 
+n="18" break="no"/>sya samyag-adhy<choice><sic>a</sic><corr>ā</corr></choice>ropita-sakala-rājya-bhāra<supplied reason="omitted">ḥ</supplied> parama-māheśvaro 
+<lb n="19"/>mahārāja<supplied reason="omitted">ḥ</supplied> śrīmān vikramendravarmmā Evam ājñāpayati</p> <p>nat<unclear cert="low">r̥</unclear>paṭyāṁ kr̥<lb 
+n="20" break="no"/>ṣṇabe<unclear>ṇṇ</unclear>ā-taṭe rāvireva-gr<unclear>ā</unclear>masya dakṣiṇa-pūrvvasyāṁ diśi rego<pb n="4r" break="no"/><lb n="21" break="no"/>nṟan nāma grāma<supplied reason="omitted">ḥ</supplied> sakala-jaga<supplied reason="omitted">t</supplied>-traya-nāthasya śiśu-śaśi-karāvadā<lb 
+n="22" break="no"/>ta-śubhrīkr̥ta-jaṭāmakuṭasya bhagavatas triya<surplus>ṁ</surplus>m<choice><sic>bh</sic><corr>b</corr></choice>akasya bhavate 
+<lb n="23" break="no"/>so<space type="binding-hole"/>magir<choice><sic>e</sic><corr>ī</corr></choice>śvar<choice><sic>ā</sic><corr>a</corr></choice>-nāthāya datta<choice><sic>ṁ</sic><corr>ḩ</corr></choice></p> <p>rājñ<choice><sic>ā</sic><corr>o</corr></choice> vacanād gāraveṇājñāṁ kā<lb 
+n="24" break="no"/>ray<choice><sic>i</sic><corr>e</corr></choice><space type="binding-hole"/>ti kaś cid enam pāl<choice><sic>ā</sic><corr>a</corr></choice>yati s<choice><sic>o</sic><corr>a</corr></choice> rudra-loke deva-gaṇ<choice><sic>ā</sic><corr>a</corr></choice><pb n="4v" break="no"/><lb 
+n="25" break="no"/>-ko<space type="binding-hole"/>ṭī-<choice><sic>s</sic><corr>ś</corr></choice>ata-sahasreṇa svargge <surplus>na</surplus> sukhaṁ modati vija<lb 
+n="26" break="no"/>ya-rājya-<seg xml:lang="tel-Latn">-saṁva<choice><sic>s</sic><corr>t</corr></choice>saraṁbuḶ</seg> <num value="10"><g type="numeral">10</g></num> māsa-pakkaṁ <num value="8">8</num> gihmā <num value="5">5</num></p>
 <lg met="anuṣṭubh" n="1">
-<l n="a"><pb n="5a"/><lb n="27"/>bahubhir vvasudhā datt<choice><sic>a</sic><corr>ā</corr></choice></l>
+<l n="a"><pb n="5a"/><lb n="27"/>bahubhir vvasudhā datt<choice><sic>aṁ</sic><corr>ā</corr></choice></l>
 <l n="b">bahubhiś cānupālitā</l>
-<l n="c"><lb n="28"/>yasya yasya yadā bhūmiṁ</l>
-<l n="d">tasya tasya tadā phala<unclear>m·</unclear></l>
+<l n="c">yasya <lb n="28"/>yasya yadā bhūmi<choice><sic>ṁ</sic><corr>s</corr></choice></l>
+<l n="d">tasya tasya tadā phala<unclear>M</unclear></l>
 </lg>
 <lg met="anuṣṭubh" n="2">
 <l n="a"><lb n="29"/>svadatt<choice><sic>a</sic><corr>ā</corr></choice>ṁ paradatt<choice><sic>a</sic><corr>ā</corr></choice>ṁ vā</l>
-<l n="b">yo hareti vasundharā<unclear>m·</unclear></l>
-<l n="c"><lb n="30"/>ṣaṣṭiṁ varṣasahasrāṇi</l>
-<l n="d">narake pacyate dhruvam·</l>
+<l n="b">yo hareti vasundharā<unclear>M</unclear></l>
+<l n="c"><lb n="30"/>ṣaṣṭiṁ varṣa-sahasrāṇi</l>
+<l n="d">narake pacyate dhruvaM</l>
 </lg>
 <lg met="anuṣṭubh" n="3">
-<l n="a"><lb n="31"/>gā<space type="binding-hole"/>vo bhumi tathā bhāryyā</l>
+<l n="a"><lb n="31"/>gā<space type="binding-hole"/>vo bh<choice><sic>u</sic><corr>ū</corr></choice>mi tathā bhāryyā</l>
 <l n="b">Akramya hara mā nayā</l>
 <l n="c"><lb n="32"/>srā<space type="binding-hole"/>vayanti rājānāṁ</l>
-<l n="d">brahmahatyā ca li<unclear>p</unclear>yati <g ref="sym:doubleBar" type="punctuation">.</g>
+<l n="d">brahmahatyā ca li<unclear>p</unclear>yati <g ref="sym:indistinct" type="punctuation">.</g>
 </l>
 </lg>
 </div>
 <div type="apparatus">
 <listApp>
+<app loc="1">
+<lem><g ref="sym:spiral-right" type="symbol">*</g></lem>
+<note>Symbol interpreted by Kielhorn as <foreign>oṁ</foreign> and by Sankaranarayanan as <foreign>siddham</foreign>.</note>
+</app>
 <app loc="4">
 <lem source="bib:Kielhorn1896-1897_02">-svārājyasya</lem>
-<rdg source="bib:Sankaranarayanan1977_01">-svārājyasya</rdg><!-- what's the diff? -->
+<rdg source="bib:Sankaranarayanan1977_01">-svārājasya</rdg>
 </app>
 <app loc="5">
-<lem>-peyayūdhya-</lem>
-<note>Emend <foreign xml:lang="san-Latn">-peyokthya-</foreign>, with SS.</note>
+<lem>-vājape<choice><sic>ya-yūdhya-</sic><corr>yokthya-</corr></choice>ṣoḍaśi-</lem>
+<note>Thus Sankaranarayanan. An alternative emendation would be with hiatus: <foreign xml:lang="san-Latn">-vājapeya-Ukthya-</foreign>.</note>
 </app>
 <app loc="6">
-<lem>-guruvara-</lem>
-<note>As Kielhorn notes, ‘Before <foreign xml:lang="san-Latn">vara</foreign> one misses a word like <foreign xml:lang="san-Latn">yajña</foreign> or <foreign xml:lang="san-Latn">kratu</foreign>.’ Or read <foreign xml:lang="san-Latn">-vara-</foreign> and emend <foreign xml:lang="san-Latn">-caraṇa-</foreign>?</note></app>
-<app loc="6-7">
-<lem>-varānuṣṭhātādhiṣṭhāpratiṣṭhita-</lem>
-<note>Emend <foreign xml:lang="san-Latn">-varānuṣṭhānādhiṣṭhitapratiṣṭhita-</foreign>, <foreign xml:lang="san-Latn">-varānuṣṭhānādhiṣṭānapratiṣṭhita-</foreign> or <foreign xml:lang="san-Latn">-varānuṣṭhānapratiṣṭhita-</foreign>.</note>
+<lem source="bib:Sankaranarayanan1977_01">-guru-<supplied reason="omitted">kratu-</supplied>vara-</lem>
+<note>Kielhorn had notes: <q>Before <foreign xml:lang="san-Latn">vara</foreign> one misses a word like <foreign xml:lang="san-Latn">yajña</foreign> or <foreign xml:lang="san-Latn">kratu</foreign>.</q><!--Or read <foreign xml:lang="san-Latn">-vara-</foreign> and emend <foreign xml:lang="san-Latn">-caraṇa-</foreign>?</note>--></note></app>
+<app loc="6">
+<lem>-varānuṣṭhā<lb n="7" break="no"/><choice><sic>t</sic><corr>n</corr></choice>ādhiṣṭhā<supplied reason="omitted">na</supplied>-pratiṣṭhita-</lem>
+<note>Kielhorn proposes <foreign xml:lang="san-Latn">-varānuṣṭhānādhiṣṭhita-pratiṣṭhita-</foreign> (thus also Sankaranarayanan) or <foreign xml:lang="san-Latn">-varānuṣṭhāna-pratiṣṭhita-</foreign>.</note>
 </app>
 <app loc="9">
-<lem>-nata-</lem>
-<note>SS proposes the proposes the correction <foreign xml:lang="san-Latn">-dāta-</foreign>.</note></app>
-<app loc="10">
-<lem>-vākāṭa<supplied reason="omitted">ka</supplied>va<supplied reason="omitted">ṁ</supplied>śa-</lem>
-<note>SS notes that ‘The usual form is <hi rend="italic">Vākāṭaka</hi>. However, <hi rend="italic">Vākāṭa</hi> of the present record seems to indicate that ka of the former form is a Taddhita suffix in <hi rend="italic">svārtha</hi> (<hi rend="italic">Vākāṭā eva Vākāṭakāḥ</hi>) i.e., in the sense of the base itself and not in any other sense as believed by some writers (e.g., in JBORS, XIX, p. 67; <hi rend="italic">A New Hist. of the Ind. People</hi>, VI, p. 96; JIH, XLIX, pp. 135 ff.; etc. Cf. also above Ch. II, note 63.’ </note>
+<lem source="bib:Kielhorn1896-1897_02">-nika<space type="binding-hole"/>rāvanata-</lem>
+<rdg source="bib:Sankaranarayanan1977_01">-nika<space type="binding-hole"/>rāva<choice><sic>na</sic><corr>dā</corr></choice>ta-</rdg>
 </app>
 <app loc="10">
-<lem>-janmanaḥ</lem><rdg source="bib:Kielhorn1896-1897_02">janmana<supplied reason="omitted">ḥ</supplied></rdg><note>The visarga seems to be present.</note>
+<lem>-vākāṭa<supplied reason="omitted">ka</supplied>-va<supplied reason="omitted">ṁ</supplied>śa-</lem>
+<!-- both K and S read the ṁ -->
+<note>Sankaranarayanan notes that <q>The usual form is <hi rend="italic">Vākāṭaka</hi>. However, <hi rend="italic">Vākāṭa</hi> of the present record seems to indicate that <foreign>ka</foreign> of the former form is a <foreign>Taddhita</foreign> suffix in <hi rend="italic">svārtha</hi> (<hi rend="italic">Vākāṭā eva Vākāṭakāḥ</hi>) i.e., in the sense of the base itself and not in any other sense as believed by some writers (e.g., in JBORS, XIX, p. 67; <hi rend="italic">A New Hist. of the Ind. People</hi>, VI, p. 96; JIH, XLIX, pp. 135 ff.; etc. Cf. also above Ch. II, note 63.</q></note>
 </app>
-<app loc="11">
-<lem>-bhāvitāśeṣa-</lem>
-<note>Emend <foreign xml:lang="san-Latn">-bhāvitāśeṣa-</foreign></note></app>
-<app loc="12"><lem>-ṣṭitasya</lem><note>Emend <foreign xml:lang="san-Latn">-ṣṭhitasya</foreign>.</note></app>
-<app loc="12"><lem>bhr<unclear>u</unclear>-</lem><note>Emend <foreign xml:lang="san-Latn">bhrū-</foreign>.</note></app>
-<app loc="14"><lem>-bhumi-</lem><note>Emend <foreign xml:lang="san-Latn">-bhūmi-</foreign>.</note></app>
-<app loc="16"><lem>śrīIndra-</lem><note>Understand <foreign xml:lang="san-Latn">śrīndra-</foreign>.</note></app><app loc="17"><lem>śaisava</lem><note>Emend <foreign xml:lang="san-Latn">śaiśava</foreign></note></app>
-<app loc="17-18"><lem>-kr̥tasya samyag-</lem><note>Following EIAD <ref target="DHARMA_INSEIAD00175.xml">175</ref>, l. 14, read <foreign xml:lang="san-Latn">-laṁkr̥tatvāt samyag-</foreign>. Or, as Kielhorn proposes, read <foreign xml:lang="san-Latn">-kr̥taḥ samyag-</foreign>. We prefer the second solution.</note></app>
-<!--[TO BE CONTINUED]-->
-<!--<app loc="lineNumber"><lem/><rdg source="bib:identifier"/><note/></app>
-<app loc="lineNumber"><lem/><rdg source="bib:identifier"/><note/></app>
-<app loc="lineNumber"><lem/><rdg source="bib:identifier"/><note/></app>-->
+<app loc="17">
+<lem>-kr̥ta<lb n="18" break="no"/>sya samyag-</lem>
+<note>Kielhorn notes that <foreign>sya</foreign> may have been struck out in the original, and proposes to emend <foreign xml:lang="san-Latn">-kr̥taḥ samyag-</foreign>. Following <ref target="DHARMA_INSEIAD00175.xml">EIAD 175</ref>, l. 14, one might alternatively emend <foreign xml:lang="san-Latn">-laṁkr̥tatvāt samyag-</foreign>.</note>
+</app>
+<app loc="19">
+<lem source="bib:Kielhorn1896-1897_02">nat<unclear cert="low">r̥</unclear>paṭyāṁ</lem>
+<rdg source="bib:Sankaranarayanan1977_01">natapaṭyāṁ</rdg>
+</app>
+<app loc="23">
+<lem>rājñ<choice><sic>ā</sic><corr>o</corr></choice> vacanād gāraveṇājñāṁ kā<lb n="24" break="no"/>ray<choice><sic>i</sic><corr>e</corr></choice><space type="binding-hole"/>ti</lem>
+<note>Kielhorn notes: <q>The Sanskṛit words which the write is thinking of, apparently are <foreign>râjño vachanasya gauravêṇ=ājñâṁ kârayêta</foreign> (for <foreign>kuryâta</foreign> or <foreign>kuruta</foreign>)</q>; Sankaranarayanan notes: <q>Probably <foreign>rājñō vachana-gauravēṇ-ājñāṁ kārayē=ti</foreign> is intended. This sentence, evidently of the concerned high officer, contains an instruction, originally in the office copy, given to the <foreign>ājñā</foreign> or the exewcitor of the grant.</q></note>
+</app>
+<app loc="25"><lem>svargge <surplus>na</surplus> sukhaṁ</lem>
+<rdg source="bib:Kielhorn1896-1897_02">svarggina sukhaṁ</rdg>
+<rdg source="bib:Sankaranarayanan1977_01">svarggīna-sukhaṁ</rdg>
+<note>Kielhorn notes: <q>The sense intended is that of <foreign>svargiṇâṁ sukham=anubhavati</foreign></q>; Sankaranarayanan notes: <q>Read <foreign>svargiṇā sukhaṁ mōdati</foreign></q>.</note>
+</app>
+<app loc="26">
+<lem><seg xml:lang="tel-Latn">-saṁva<choice><sic>s</sic><corr>t</corr></choice>saraṁbuḶ</seg> <num value="10"><g type="numeral">10</g></num> māsa-pakkaṁ <num value="8">8</num> gihmā <num value="5">5</num></lem>
+<note>Kielhorn notes: <q>the word <foreign>mâsa</foreign> is quite meaningless;and the whole passage containing the date, expressed in Sankskṛit, should be <foreign>-saṁvatsarê 10 grîshma-pakṣê 8 [divasê*] 5</foreign></q>.</note>
+</app>
 </listApp>
 </div>
 <div type="translation" source="bib:Kielhorn1896-1897_02">
@@ -203,9 +215,7 @@ n="25" break="no"/>ya-rājya-saṁvassaraṁbuḷ· <num value="10">10</num> mā
 <p n="19-24">The village named Rêgonram, in Nat[ri?]pați on the bank of the Krishnabenna, in a south-eastern direction of the village of Ravirêva, has been given to the Somagiriśvara- nâtha (temple), belonging to the holy Tryambaka (Siva), the lord of all the three worlds, whose crown of matted hair is whitened and rendered bright by the rays of the young moon. Out of respect for the king's word you should execute (this) command. Whoever obeys it, enjoys the happiness of the inhabitants of heaven with the hundred-thousand billions of divine hosts in Rudra's world.</p> 
 <p n="25">In the year 10 of the reign of victory, on the 5th (day) of the 8th fortnight of summer. [Here follow three benedictive and imprecatory verses.]</p>
 </div>
-<div type="commentary"><!--[Revision required]--><p n="lineNumber">
-<note><!--@loc = number of the line commented here in the note element.--></note></p>
-</div>
+<div type="commentary"/>
 <div type="bibliography">
 <p>Edited and translated by Kielhorn (<bibl rend="omitname"><ptr target="bib:Kielhorn1896-1897_02"/></bibl>); revised edition by  Sankaranarayanan (<bibl rend="omitname"><ptr target="bib:Sankaranarayanan1977_01"/></bibl>), but without a new translation. This digital edition verified from Kielhorn's reproduction of estampages.</p>
 <listBibl type="primary">
