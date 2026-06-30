@@ -88,33 +88,33 @@
                    </app>
                    <app loc="1">
                        <lem>v<unclear>ās</unclear><supplied reason="lost">i</supplied>ṭh<supplied reason="lost">i</supplied>pu<unclear>ta</unclear><supplied reason="lost">sa</supplied> <space/> <unclear>s</unclear><supplied reason="lost">ā</supplied>m<supplied reason="lost">i</supplied>-</lem>
-                       <rdg source="bib:Burgess1882_01 bib:Hultzsch1883_01 bib:Burgess1887_01"></rdg>
+                       <rdg source="bib:Burgess1882_01 bib:Hultzsch1883_01 bib:Burgess1887_01"/>
                        <rdg source="bib:Sivaramamurti1942_01">rāñ<unclear>o</unclear> vā <unclear>si</unclear>th<unclear>ī</unclear>puta<unclear>sa</unclear> m<unclear>i</unclear></rdg>
                    </app>
                    <app loc="1">
                        <lem>savachara</lem>
-                       <rdg source="bib:Hultzsch1883_01 bib:Burgess1887_01 bib:Sivaramamurti1942_01"></rdg>
+                       <rdg source="bib:Hultzsch1883_01 bib:Burgess1887_01 bib:Sivaramamurti1942_01"/>
                        <rdg source="bib:Burgess1882_01">savacharaṁ</rdg>
                    </app>
                    <app loc="1">
                        <lem>pi<unclear>ṁ</unclear>ḍasutariyāna<unclear>ṁ</unclear></lem>
-                       <rdg source="bib:Hultzsch1883_01 bib:Burgess1887_01 bib:Sivaramamurti1942_01"></rdg>
+                       <rdg source="bib:Hultzsch1883_01 bib:Burgess1887_01 bib:Sivaramamurti1942_01"/>
                        <rdg source="bib:Burgess1882_01">piṁdasutariyānaṁ</rdg>
                    </app>
                    <app loc="1">
                      <lem>kahutara-</lem>
-                       <rdg source="bib:Burgess1882_01 bib:Sivaramamurti1942_01"></rdg>
+                       <rdg source="bib:Burgess1882_01 bib:Sivaramamurti1942_01"/>
                      <rdg source="bib:Hultzsch1883_01 bib:Burgess1887_01">kahūtara-</rdg>
                   </app>
                   <app loc="1">
                      <lem>sabhātukasa</lem>
-                      <rdg source="bib:Burgess1882_01 bib:Sivaramamurti1942_01"></rdg>
+                      <rdg source="bib:Burgess1882_01 bib:Sivaramamurti1942_01"/>
                      <rdg source="bib:Hultzsch1883_01 bib:Burgess1887_01">sabhātukasa <unclear>sama</unclear><gap reason="lost"/></rdg>
                      <note>reconstructing <foreign>samatukasa</foreign> in a note. For us, it is not clear that any <foreign>akṣaras</foreign> have been lost on this line after <foreign>sabhātukasa</foreign>.</note>
                   </app>
                    <app loc="2">
                        <lem><supplied reason="lost">sa</supplied>bhaginikasa</lem>
-                       <rdg source="bib:Burgess1882_01"></rdg>
+                       <rdg source="bib:Burgess1882_01"/>
                        <rdg source="bib:Hultzsch1883_01 bib:Burgess1887_01 bib:Sivaramamurti1942_01">saginikasa</rdg>
                    </app>
                    <app loc="2">
@@ -126,7 +126,7 @@
                   </app>
                   <app loc="2">
                       <lem>dhamacakaṁ</lem>
-                      <rdg source="bib:Hultzsch1883_01 bib:Burgess1887_01 bib:Sivaramamurti1942_01"></rdg>
+                      <rdg source="bib:Hultzsch1883_01 bib:Burgess1887_01 bib:Sivaramamurti1942_01"/>
                       <rdg source="bib:Burgess1882_01">dhamacaka</rdg>
                   </app>
                </listApp>

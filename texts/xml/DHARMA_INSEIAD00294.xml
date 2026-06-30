@@ -81,16 +81,14 @@
     <text xml:space="preserve">
         <body>
             <div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209"><!-- update the @xml:lang value, see EGD §7.2-->
-                <p><lb 
-                    n="1"/><supplied reason="lost">sidhaṁ namo</supplied> bhagavato <space/> kavururavathaviyā pavajitikayā <space/> va<unclear>da</unclear>yā tha<lb 
-                    n="2" break="no"/><gap reason="lost" quantity="5" unit="character"/>yā <subst><del rend="corrected" place="below">ha</del><add place="below">a</add></subst>ṁgiyā bhāyitiyā bodhiyā Utayā Imaṁ paṁdaka patiṭha<supplied reason="lost">p</supplied><unclear>i</unclear><add place="below">ta</add>
+                <p><lb n="1"/><supplied reason="lost">sidhaṁ namo</supplied> bhagavato <space/> kavururavathaviyā pavajitikayā <space/> va<unclear>da</unclear>yā tha<lb n="2" break="no"/><gap reason="lost" quantity="5" unit="character"/>yā <subst><del rend="corrected" place="below">ha</del><add place="below">a</add></subst>ṁgiyā bhāyitiyā bodhiyā Utayā Imaṁ paṁdaka patiṭha<supplied reason="lost">p</supplied><unclear>i</unclear><add place="below">ta</add>
                 </p>
             </div>
             <div type="apparatus">
                 <listApp>
                     <app loc="1">
                         <lem>kavurura-</lem>
-                        <rdg source="bib:Burgess1882_01"></rdg>
+                        <rdg source="bib:Burgess1882_01"/>
                         <rdg source="bib:Hultzsch1886_01 bib:Luders1912_01">kevurura-</rdg>
                         <rdg source="bib:Burgess1887_01">kevurure</rdg>
                         <rdg source="bib:Sivaramamurti1942_01">kavurūre</rdg>
@@ -98,23 +96,23 @@
                     </app>
                     <app loc="1">
                         <lem>-vathaviyā</lem>
-                        <rdg source="bib:Burgess1887_01 bib:Sivaramamurti1942_01"></rdg>
+                        <rdg source="bib:Burgess1887_01 bib:Sivaramamurti1942_01"/>
                         <rdg source="bib:Burgess1882_01 bib:Hultzsch1886_01">vathaviya</rdg>
                     </app>
                     <app loc="1">
                         <lem>pavajitikayā</lem>
-                        <rdg source="bib:Hultzsch1886_01 bib:Burgess1887_01 bib:Luders1912_01 bib:Sivaramamurti1942_01"></rdg>
+                        <rdg source="bib:Hultzsch1886_01 bib:Burgess1887_01 bib:Luders1912_01 bib:Sivaramamurti1942_01"/>
                         <rdg source="bib:Burgess1882_01">pavajato</rdg>
                     </app>
                     <app loc="1">
                         <lem>va<unclear>da</unclear>yā</lem>
-                        <rdg source="bib:Hultzsch1886_01 bib:Burgess1887_01"></rdg>
+                        <rdg source="bib:Hultzsch1886_01 bib:Burgess1887_01"/>
                         <rdg source="bib:Burgess1882_01">paya</rdg>
                         <rdg source="bib:Sivaramamurti1942_01">vabayā</rdg>
                     </app>
                     <app loc="1">
                         <lem>tha-</lem>
-                        <rdg source="bib:Hultzsch1886_01 bib:Burgess1887_01 bib:Sivaramamurti1942_01"></rdg>
+                        <rdg source="bib:Hultzsch1886_01 bib:Burgess1887_01 bib:Sivaramamurti1942_01"/>
                         <rdg source="bib:Burgess1882_01">omitted</rdg>
                     </app>
                     <app loc="2">
@@ -125,19 +123,19 @@
                     </app>
                     <app loc="2">
                         <lem>bhāyitiyā</lem>
-                        <rdg source="bib:Sivaramamurti1942_01"></rdg>
+                        <rdg source="bib:Sivaramamurti1942_01"/>
                         <rdg source="bib:Burgess1882_01">bhoyitiya</rdg>
                         <rdg source="bib:Hultzsch1886_01 bib:Burgess1887_01">bhāy<unclear>aṁ</unclear>tiyā</rdg>
                         <rdg source="bib:Luders1912_01">bhāyaṁtīya</rdg>
                     </app>
                     <app loc="2">
                         <lem>bodhiyā</lem>
-                        <rdg source="bib:Hultzsch1886_01 bib:Burgess1887_01 bib:Sivaramamurti1942_01"></rdg>
+                        <rdg source="bib:Hultzsch1886_01 bib:Burgess1887_01 bib:Sivaramamurti1942_01"/>
                         <rdg source="bib:Burgess1882_01">bedhiya</rdg>
                     </app>
                     <app loc="2">
                         <lem>Utayā</lem>
-                        <rdg source="bib:Hultzsch1886_01 bib:Burgess1887_01 bib:Sivaramamurti1942_01"></rdg>
+                        <rdg source="bib:Hultzsch1886_01 bib:Burgess1887_01 bib:Sivaramamurti1942_01"/>
                         <rdg source="bib:Burgess1882_01">Utaya</rdg>
                     </app>
                     <app loc="2">
@@ -149,7 +147,7 @@
                         <rdg source="bib:Hultzsch1886_01">peṁḍak<unclear>o</unclear></rdg>
                         <rdg source="bib:Burgess1887_01 bib:Luders1912_01">peṁḍaka</rdg>
                         <rdg source="bib:Sivaramamurti1942_01">peṇḍaka</rdg>
-                        <rdg source="bib:Barrett1990_01"></rdg>
+                        <rdg source="bib:Barrett1990_01"/>
                     </app>
                     <app loc="2">
                         <lem>padaka</lem>
@@ -157,7 +155,7 @@
                     </app>
                     <app loc="2">
                         <lem>patiṭha<supplied reason="lost">p</supplied><unclear>i</unclear><add place="below">ta</add></lem>
-                        <rdg source="bib:Hultzsch1886_01 bib:Burgess1887_01 bib:Sivaramamurti1942_01"></rdg>
+                        <rdg source="bib:Hultzsch1886_01 bib:Burgess1887_01 bib:Sivaramamurti1942_01"/>
                         <rdg source="bib:Burgess1882_01">-patitha <gap reason="lost" quantity="1" unit="character"/> A</rdg>
                     </app>
                 </listApp>

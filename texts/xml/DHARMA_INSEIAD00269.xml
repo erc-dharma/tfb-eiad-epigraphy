@@ -80,23 +80,19 @@
     <text xml:space="preserve">
         <body>
             <div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209">
-                <p><lb 
-                    n="1"/>gadhikasa haṁghasa<lb 
-                    n="2"/>saputakasa saduhu<lb 
-                    n="3" break="no"/>tukasa cetiyakhabo<lb 
-                    n="4"/>dāna<unclear>ṁ</unclear>
+                <p><lb n="1"/>gadhikasa haṁghasa<lb n="2"/>saputakasa saduhu<lb n="3" break="no"/>tukasa cetiyakhabo<lb n="4"/>dāna<unclear>ṁ</unclear>
                 </p>
             </div>
             <div type="apparatus">
                 <listApp>
                     <app loc="3">
                         <lem>cetiyakhabo</lem>
-                        <rdg source="bib:Hultzsch1883_01"></rdg>
+                        <rdg source="bib:Hultzsch1883_01"/>
                         <rdg source="bib:Cunningham1873_02">cetiya thabo</rdg>
                     </app>
                     <app loc="4">
                         <lem>dāna<unclear>ṁ</unclear></lem>
-                        <rdg source="bib:Cunningham1873_02"></rdg>
+                        <rdg source="bib:Cunningham1873_02"/>
                         <rdg source="bib:Hultzsch1883_01">dāna</rdg>
                     </app>
                 </listApp>

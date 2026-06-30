@@ -48,11 +48,11 @@
                         <idno/><!-- don't modify this -->
                     </msIdentifier>
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -79,33 +79,29 @@
     <text xml:space="preserve">
         <body>
             <div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209">
-                <p><lb 
-                    n="1"/>sidhaṁ vāniyasa kuṭasa sa<lb 
-                    n="2" break="no"/>bhariyasa saputakasa saduhu<lb 
-                    n="3" break="no"/>tukasa sanatukasa dakhināyā<lb 
-                    n="4" break="no"/>ke cetiyakhabho sadhāduko dānaṁ
+                <p><lb n="1"/>sidhaṁ vāniyasa kuṭasa sa<lb n="2" break="no"/>bhariyasa saputakasa saduhu<lb n="3" break="no"/>tukasa sanatukasa dakhināyā<lb n="4" break="no"/>ke cetiyakhabho sadhāduko dānaṁ
                 </p>
             </div>
             <div type="apparatus">
                 <listApp>
                     <app loc="1">
                         <lem>vāniyasa</lem>
-                        <rdg source="bib:Hultzsch1883_01 Burgess1887_01 Sivaramamurti1942_01"></rdg>
+                        <rdg source="bib:Hultzsch1883_01 Burgess1887_01 Sivaramamurti1942_01"/>
                         <rdg source="bib:Burgess1882_01">vaniyasa</rdg>
                     </app>
                     <app loc="1-2">
                         <lem>sabhariyasa</lem>
-                        <rdg source="bib:Franke1896_01"></rdg>
+                        <rdg source="bib:Franke1896_01"/>
                         <rdg source="bib:Burgess1882_01 Hultzsch1883_01 Burgess1887_01 Sivaramamurti1942_01">sabheriyasa</rdg>
                     </app>
                     <app loc="3-4">
                         <lem>dakhināyāke</lem>
-                        <rdg source="bib:Burgess1882_01 Hultzsch1883_01 Franke1896_01 Sivaramamurti1942_01"></rdg>
+                        <rdg source="bib:Burgess1882_01 Hultzsch1883_01 Franke1896_01 Sivaramamurti1942_01"/>
                         <rdg source="bib:Burgess1887_01">dakhināyāka</rdg>
                     </app>
                     <app loc="4">
                         <lem>cetiyakhabho</lem>
-                        <rdg source="bib:Hultzsch1883_01 Franke1896_01 Sivaramamurti1942_01"></rdg>
+                        <rdg source="bib:Hultzsch1883_01 Franke1896_01 Sivaramamurti1942_01"/>
                         <rdg source="bib:Burgess1882_01">cetiyagabho</rdg>
                     </app>
                 </listApp>

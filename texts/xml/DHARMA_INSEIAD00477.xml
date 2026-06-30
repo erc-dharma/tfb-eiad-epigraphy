@@ -40,11 +40,11 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                         </handDesc>
                     </physDesc>
                 </msDesc>

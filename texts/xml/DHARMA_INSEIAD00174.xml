@@ -214,7 +214,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
                             <app loc="23">
                               <lem>em<unclear>b</unclear>u<unclear>d</unclear>ala-peṇ<unclear>k</unclear>apaṟa</lem>
                               <rdg source="bib:Sankaranarayanan1974_01">ermad<unclear>ā</unclear>lapeṇkaru-</rdg>
-                              <note>The toponym is also attested in V engi Calukya 4, 14, and 15. <seg rend="check">CHECK spelling ṟa/ṟu</seg>.</note>
+                              <note>The toponym is also attested in V engi Calukya 4, 14, and 15. <hi rend="check">CHECK spelling ṟa/ṟu</hi>.</note>
                            </app>
                            <app loc="24"><lem>pūrvvakaṁm</lem><rdg source="bib:Sankaranarayanan1974_01">pūrvvakam</rdg></app>
                            <app loc="24">

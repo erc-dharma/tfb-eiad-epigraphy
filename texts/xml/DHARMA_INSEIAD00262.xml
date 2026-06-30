@@ -44,11 +44,11 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -75,10 +75,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209">
-            <ab part="M"><lb 
-                n="1"/><gap reason="lost"/> <unclear>sa</unclear> cadasa ca mātūya <gap reason="lost"/><lb 
-                n="2"/><gap reason="lost"/> naṁ navakamikā padhānapari <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost"/><lb 
-                n="3"/><gap reason="lost"/> ṇo dhamakadhiko Ayapārapo ca <g type="ideogram" ref="sym:san-triratna"/>
+            <ab part="M"><lb n="1"/><gap reason="lost"/> <unclear>sa</unclear> cadasa ca mātūya <gap reason="lost"/><lb n="2"/><gap reason="lost"/> naṁ navakamikā padhānapari <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost"/><lb n="3"/><gap reason="lost"/> ṇo dhamakadhiko Ayapārapo ca <g type="ideogram" ref="sym:san-triratna"/>
             </ab> 
          </div>
          <div type="apparatus">
@@ -89,7 +86,7 @@
                   </app>
                   <app loc="2">
                     <lem>padhānapari</lem>
-                    <rdg source="bib:Sivaramamurti1942_01"></rdg>
+                    <rdg source="bib:Sivaramamurti1942_01"/>
                     <rdg source="bib:Chanda1919-1920_01">ḍadhānaḍāri</rdg>
                     <note><bibl><ptr target="bib:Chanda1919-1920_01"/></bibl> systematically misread the <foreign>pa</foreign>s of this inscription. It is tempting to restore <foreign>padhānapari<supplied reason="lost">gahita</supplied></foreign>, by analogy with the occurrence of <foreign>padhānaparigāhi<supplied reason="lost">ta</supplied></foreign> in an inscription from <placeName>Peddaveggi</placeName> <ref target="DHARMA_INSEIAD00597.xml">EIAD 597</ref>, or perhaps instead <foreign>padhānapari<supplied reason="lost">gāhaka</supplied></foreign>. The compound <foreign>padhānapariggāhaka</foreign> indeed occurs thrice in the <foreign xml:lang="pli">Theragāthā-aṭṭhakathā</foreign>. See, for instance Th-a II.72: <foreign xml:lang="pli">ekadivasaṁ padhānapariggāhakena therena tasmiṁ araññāyatane bhikkhū uddissa vuttaṁ padhānānuyogaṁ pariggaṇhanto</foreign>.<!--Check PTS edition--></note>
                   </app>

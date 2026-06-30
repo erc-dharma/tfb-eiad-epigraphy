@@ -44,11 +44,11 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -76,9 +76,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209">
-            <ab part="M"><lb 
-                n="1"/><gap reason="lost"/><unclear>ti</unclear>h<unclear>ā</unclear>gam<unclear>a</unclear>l<unclear>a</unclear>kasa gahapa<unclear>ti</unclear>sa<gap reason="lost"/><lb 
-                n="2"/><gap reason="lost"/>pu<unclear>ta</unclear>sa <gap reason="illegible" quantity="2" unit="character"/> r<unclear>e</unclear>vatasa <gap reason="illegible" quantity="1" unit="character"/> bal<unclear>i</unclear>kā<unclear>ya</unclear><gap reason="lost"/>
+            <ab part="M"><lb n="1"/><gap reason="lost"/><unclear>ti</unclear>h<unclear>ā</unclear>gam<unclear>a</unclear>l<unclear>a</unclear>kasa gahapa<unclear>ti</unclear>sa<gap reason="lost"/><lb n="2"/><gap reason="lost"/>pu<unclear>ta</unclear>sa <gap reason="illegible" quantity="2" unit="character"/> r<unclear>e</unclear>vatasa <gap reason="illegible" quantity="1" unit="character"/> bal<unclear>i</unclear>kā<unclear>ya</unclear><gap reason="lost"/>
             </ab>
          </div>
          <div type="apparatus">

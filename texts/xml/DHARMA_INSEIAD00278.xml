@@ -76,9 +76,7 @@
     <text xml:space="preserve">
         <body>
             <div type="edition" xml:lang="pra-Latn" resp="part:vito" rendition="class:83225 maturity:83209">
-                <p><lb 
-                    n="1"/><supplied reason="lost">cha</supplied><unclear>dā</unclear>kicasa gahapatisa kanhatasaputasa <unclear>p</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg> <gap reason="lost"/><lb 
-                    n="2"/><gap reason="lost"/> sabhāriyasa saputakasa sadhutukasa deyadhaṁma <gap reason="lost"/>
+                <p><lb n="1"/><supplied reason="lost">cha</supplied><unclear>dā</unclear>kicasa gahapatisa kanhatasaputasa <unclear>p</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg> <gap reason="lost"/><lb n="2"/><gap reason="lost"/> sabhāriyasa saputakasa sadhutukasa deyadhaṁma <gap reason="lost"/>
                 </p>
             </div>
             <div type="apparatus">
@@ -86,7 +84,7 @@
                     <app loc="1">
                         <lem><supplied reason="lost">cha</supplied><unclear>dā</unclear>kicasa</lem>
                         <rdg source="bib:Fergusson1873_01">daki casa</rdg>
-                        <note></note>
+                        <note/>
                     </app>
                     <app loc="1">
                         <lem>kanhatasaputasa</lem>

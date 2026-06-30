@@ -76,9 +76,7 @@
     <text xml:space="preserve">
         <body>
             <div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209">
-                <p><lb 
-                    n="1"/><supplied reason="lost">si</supplied>dhaṁ <g type="punctuation" ref="sym:dash"/> <g type="punctuation" ref="sym:danda"/> mugudasā<unclear>ma</unclear>putasa marāmupa<unclear>h</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost"/><lb 
-                    n="2"/><supplied reason="lost">sa</supplied><unclear>dh</unclear><supplied reason="lost">u</supplied>hutukānaṁ sasūṇhakānaṁ sanatu<unclear>kā</unclear><supplied reason="lost">naṁ</supplied> <gap reason="lost"/>
+                <p><lb n="1"/><supplied reason="lost">si</supplied>dhaṁ <g type="punctuation" ref="sym:dash"/> <g type="punctuation" ref="sym:danda"/> mugudasā<unclear>ma</unclear>putasa marāmupa<unclear>h</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost"/><lb n="2"/><supplied reason="lost">sa</supplied><unclear>dh</unclear><supplied reason="lost">u</supplied>hutukānaṁ sasūṇhakānaṁ sanatu<unclear>kā</unclear><supplied reason="lost">naṁ</supplied> <gap reason="lost"/>
                 </p>
             </div>
             <div type="apparatus">

@@ -94,7 +94,7 @@
                     </app>
                     <app loc="1">
                         <lem>bhāyaṁtānādhasirisa</lem>
-                        <rdg source="bib:Hultzsch1883_01 Burgess1887_01"></rdg>
+                        <rdg source="bib:Hultzsch1883_01 Burgess1887_01"/>
                         <rdg source="bib:Burgess1882_01">bhāyatā(?) nādhasirisa</rdg>
                         <rdg source="bib:Sivaramamurti1942_01">bhayaṁta nādhasiris<unclear>i</unclear>sa<unclear>sa</unclear></rdg>
                     </app>
@@ -106,7 +106,7 @@
                     </app>
                     <app loc="1">
                         <lem>bhayaṁtābu<supplied reason="lost">dha</supplied></lem>
-                        <rdg source="bib:Hultzsch1883_01 Sivaramamurti1942_01"></rdg>
+                        <rdg source="bib:Hultzsch1883_01 Sivaramamurti1942_01"/>
                         <rdg source="bib:Burgess1882_01"><gap reason="lost" quantity="1" unit="character"/> yachā(?) bu <gap reason="lost"/></rdg>
                         <rdg source="bib:Burgess1887_01">bhāyaṁtā bu <gap reason="lost"/></rdg>
                     </app>
