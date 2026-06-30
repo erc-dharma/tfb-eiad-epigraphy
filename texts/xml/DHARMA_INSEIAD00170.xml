@@ -48,7 +48,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                        	<p>Late Southern Brāhmī, ca. 5th century. The <foreign>anusvāra</foreign> is in most cases placed at line height, close to the following character. The text contains two instances of the cluster <foreign>ṉṟ</foreign> in the vernacular toponym <foreign>tāṉṟikoṉṟa</foreign> (line 7). There are a few instances of small word-final consonant (e.g., line 8 <foreign>parihāraM</foreign>line 9 <foreign>vasundharāM</foreign>). Separation of metrical and syntactic segments is sometimes marked by a space.  We further note slightly different forms of <foreign>ja</foreign> (lines 2 and 3) and <foreign>jā</foreign> (lines 3 and 4). According to Sircar (<bibl rend="omitname"><ptr target="bib:Sircar1934_01"/><citedRange unit="page">733</citedRange></bibl>), <quote>the characters of the Gorantla inscription resemble, in some respects, those of the Ikṣvāku inscriptions of Nagarjunikonda</quote>, which latter date to the 3rd century. We, for our part, would rather situate the inscription well after the Ikṣvāku period, perhaps contemporaneously with some of the later Śālaṅkāyanas or early Viṣṇukuṇḍins.</p>
+                        	<p>Late Southern Brāhmī, ca. 5th century. The <foreign>anusvāra</foreign> is in most cases placed at line height, close to the following character. The text contains two instances of the cluster <foreign>ṉṟ</foreign> in the vernacular toponym <foreign>tāṉṟikoṉṟa</foreign> (line 7). There are a few instances of small word-final consonant (e.g., line 8 <foreign>parihāraM</foreign>, line 9 <foreign>vasundharāM</foreign>). Separation of metrical and syntactic segments is sometimes marked by a space.  We further note slightly different forms of <foreign>ja</foreign> (lines 2 and 3) and <foreign>jā</foreign> (lines 3 and 4). According to Sircar (<bibl rend="omitname"><ptr target="bib:Sircar1934_01"/><citedRange unit="page">733</citedRange></bibl>), <quote>the characters of the Gorantla inscription resemble, in some respects, those of the Ikṣvāku inscriptions of Nagarjunikonda</quote>, which latter date to the 3rd century. We, for our part, would rather situate the inscription well after the Ikṣvāku period, perhaps contemporaneously with some of the later Śālaṅkāyanas or early Viṣṇukuṇḍins.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -77,7 +77,7 @@
          <div type="edition" xml:lang="san-Latn" rendition="class:83225 maturity:83211">
 	<!-- class:83225 = southern class Brāhmī, maturity:83209 = middle Brāhmī / maturity:83211 = late Brāhmī  -->
   <p>
-    <pb n="1r"/><lb n="1"/>svasty atula-vipula-yaśasi śrīmaty ānanda-maharṣi-vaṁśa-samudbhūte bhagavato vaṁkeśvarādhi<lb n="2" break="no"/>vāsinas tri-bhuvana-kartuḥ <space type="binding-hole"/> śaṁbhoś caraṇa-kamala-rajaḥ-pavitrī-kr̥te kandara-nr̥pati-kule samu<lb n="3" break="no"/>dbhūtena sundara-sujāta-peśala-jana-paricāreṇāprameya-hiraṇyagarbha-prasavena pratāpopana<pb n="1v" break="no"/><lb n="4" break="no"/>ta-sakala-sāmanta-maṇḍalena mahendra-sama-vikrameṇa sura-guru-sadr̥śa-buddhinā samyak-prajā-pālano<lb n="5" break="no"/>pārjjita-kīrttinā rājñā <space type="binding-hole"/> Attivarmmaṇā Anuparata-dharmma-kriyā-pareṇa <space/> kāśyapa-gotrā<lb n="6" break="no"/>ya <space/> Āpastaṁbha-sūtra-vide yama-ni<supplied reason="omitted">ya</supplied>mavate <space/> R̥g-yajus-sāma-vide brāhmaṇāya brahma-kalpā<pb n="2r" break="no"/><lb n="7" break="no"/>ya koṭṭiśarmmaṇe kr̥ṣṇabeṇṇā-dakṣiṇa-kūle<space/> tāṉṟikoṉṟa-grāme c<hi rend="check">a</hi>tur-ddiśam<!-- AG: I'd read cā --> aṣṭa-śata-pa<lb n="8" break="no"/>ṭṭi-kṣetrāñ cāntukkūra<space type="binding-hole"/>-grāmaś codaka-pūrvvan dattaḥ s<surplus>s</surplus>arvvā-bādha-parihāraM</p>
+    <pb n="1r"/><lb n="1"/>svasty atula-vipula-yaśasi śrīmaty ānanda-maharṣi-vaṁśa-samudbhūte bhagavato vaṁkeśvarādhi<lb n="2" break="no"/>vāsinas tri-bhuvana-kartuḥ <space type="binding-hole"/> śaṁbhoś caraṇa-kamala-rajaḥ-pavitrī-kr̥te kandara-nr̥pati-kule samu<lb n="3" break="no"/>dbhūtena sundara-sujāta-peśala-jana-paricāreṇāprameya-hiraṇyagarbha-prasavena pratāpopana<pb n="1v" break="no"/><lb n="4" break="no"/>ta-sakala-sāmanta-maṇḍalena mahendra-sama-vikrameṇa sura-guru-sadr̥śa-buddhinā samyak-prajā-pālano<lb n="5" break="no"/>pārjjita-kīrttinā rājñā <space type="binding-hole"/> Attivarmmaṇā Anuparata-dharmma-kriyā-pareṇa <space/> kāśyapa-gotrā<lb n="6" break="no"/>ya <space/> Āpastaṁbha-sūtra-vide yama-ni<supplied reason="omitted">ya</supplied>mavate <space/> R̥g-yajus-sāma-vide brāhmaṇāya brahma-kalpā<pb n="2r" break="no"/><lb n="7" break="no"/>ya koṭṭiśarmmaṇe kr̥ṣṇabeṇṇā-dakṣiṇa-kūle<space/> tāṉṟikoṉṟa-grāme cātur-ddiśam aṣṭa-śata-pa<lb n="8" break="no"/>ṭṭi-kṣetrañ cāntukkūra<space type="binding-hole"/>-grāmaś codaka-pūrvvan dattaḥ s<surplus>s</surplus>arvvā-bādha-parihāraM</p>
 
 <lg met="anuṣṭubh" n="1">
 <l n="a"><supplied reason="lost">s</supplied>va-dattāṁ pa<lb n="9" break="no"/>ra-dattām vā</l>
@@ -122,6 +122,10 @@
 <!--
 Compare with tena (line 3)  
 Check occurrences of tāṇḍikoṇḍa in the plates of Pr̥thivīśrīmūla, etc.-->
+</app>
+<app loc="7">
+<lem>cātur-ddiśam</lem>
+<rdg source="bib:Fleet1880_03">catur-ddiśam</rdg>
 </app>
 <!-- 
 (11) cānupālitā ― As noted by Fleet (1880, p. 103 n. 28): “First kâ was engraved, and then it was corrected into tâ.”
@@ -185,7 +189,7 @@ to the Brahmin Koṭṭiśarman, of the Kāśyapagotra, versed in the Āpastamba
 <!--
 M-W, s.v. yama, m: … self-control forbearance, any great moral rule or duty (as opp. to niyama, a minor observance in Yājñ. iii, 313 ten Yamas are mentioned, sometimes only five).
 -->
-a field of 800 <foreign>paṭṭi</foreign>s all around / within four limits <supplied reason="explanation"><foreign>caturdiśam</foreign></supplied> in the village of Tāṉṟikoṉṟa on the southern bank of the Kr̥ṣṇaveṇṇā and the village of (Ā/A)ntukkūra is given after water aspersion <supplied reason="explanation">litt. preceded by water</supplied> <supplied reason="subaudible">and</supplied> with exemption of all annoyances/obstacles <supplied reason="explanation"><foreign>kr̥ṣṇabeṇṇā-dakṣiṇa-kūle tāṉṟikoṉṟa-grāme catur-ddiśam aṣṭa-śata-paṭṭi-kṣetrāñ cāntukkūra-grāmaś codaka-pūrvvan dattaḥ sarvvā-bādha-parihāram</foreign></supplied>.
+a field of 800 <foreign>paṭṭi</foreign>s within four limits <supplied reason="explanation"><foreign>cāturdiśam</foreign></supplied> in the village of Tāṉṟikoṉṟa on the southern bank of the Kr̥ṣṇaveṇṇā and the village of (Ā/A)ntukkūra is given after water aspersion <supplied reason="explanation">litt. preceded by water</supplied> <supplied reason="subaudible">and</supplied> with exemption of all annoyances/obstacles <supplied reason="explanation"><foreign>kr̥ṣṇabeṇṇā-dakṣiṇa-kūle tāṉṟikoṉṟa-grāme cātur-ddiśam aṣṭa-śata-paṭṭi-kṣetrañ cāntukkūra-grāmaś codaka-pūrvvan dattaḥ sarvvā-bādha-parihāram</foreign></supplied>.
 <!--Fleet (1880, p. 102): “a field of the measure of eight hundred paṭṭis, or a filed called Ashṭaśata-paṭṭi”
 Fleet (1880, p. 102): Antukkūr. Hultzsh (1924: 328): Āntukkūra.
 Hultzsh (1924: 328): Tānṟikonṟa “is probably identical with Tāḍikoṇḍa, 10 miles north of Guṇṭūr” [note 9: See Mr. R. Sewell’s Lists, Vol. I, p. 76] and south of the Krishṇā river”
