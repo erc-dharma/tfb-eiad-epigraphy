@@ -55,7 +55,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 				</respStmt>
 			</titleStmt>
 			<publicationStmt>
-				<authority>DHARMA</authority>
+				<authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
 				<pubPlace>Jakarta</pubPlace>
 				<idno type="filename">DHARMA_INSEIAD00034.xml</idno>
 				<availability>

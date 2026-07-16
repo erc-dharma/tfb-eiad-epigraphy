@@ -38,7 +38,7 @@ Found at south gate. The text calls the artefact a divathabha, or Lamp Pillar.
          	</respStmt>
          </titleStmt>
          <publicationStmt>
-            <authority>DHARMA</authority>
+            <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
             <pubPlace>Paris</pubPlace>
             <idno type="filename">DHARMA_INSEIAD00272.xml</idno>
             <availability>

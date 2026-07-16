@@ -36,7 +36,7 @@ Burgess 1887	erection of unisa		Measurements from Kannan.
          	</respStmt>
          </titleStmt>
          <publicationStmt>
-            <authority>DHARMA</authority>
+            <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
             <pubPlace>Paris</pubPlace>
             <idno type="filename">DHARMA_INSEIAD00338.xml</idno>
             <availability>

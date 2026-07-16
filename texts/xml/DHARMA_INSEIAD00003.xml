@@ -51,7 +51,7 @@ the stone. Cf. 056, and inscription at Nat. Mus. Colombo.
 	</respStmt>
 	 </titleStmt>
          <publicationStmt>
-            <authority>DHARMA</authority>
+            <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
             <pubPlace>Paris</pubPlace>
             <idno type="filename">DHARMA_INSEIAD00003.xml</idno>
             <availability>
