@@ -36,7 +36,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 				<title>EIAD 182. Copper plates from Chikula — grant of Vikramendravarman, year 10</title>
 				<!--<ab>gift of a village to Śiva, under Vikramendravarman II</ab>-->
 				<respStmt>
-					<resp>author of digital edition</resp>
+					<resp key="creator">author of digital edition</resp>
 					<persName ref="part:argr">
 						<forename>Arlo</forename>
 						<surname>Griffiths</surname>

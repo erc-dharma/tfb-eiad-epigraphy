@@ -35,7 +35,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
          <titleStmt>
             <title>Boulder at Chaitanyapuri, Hyderabad</title>
             <respStmt>
-		<resp>author of digital edition</resp>
+		<resp key="creator">author of digital edition</resp>
 		<persName ref="part:argr">
 			<forename>Arlo</forename>
 			<surname>Griffiths</surname>

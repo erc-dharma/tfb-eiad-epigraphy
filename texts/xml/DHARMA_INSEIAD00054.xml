@@ -36,7 +36,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
             <title>Sculpted stone panel from site 106 at Nagarjunakonda —
 					reign of Siri-Ehavalacāntamūla, year 24</title>
             <respStmt>
-		<resp>author of digital edition</resp>
+		<resp key="creator">author of digital edition</resp>
 		<persName ref="part:argr">
 			<forename>Arlo</forename>
 			<surname>Griffiths</surname>
@@ -92,7 +92,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
                      </persName>
                   </editor>
                   <respStmt>
-                     <resp>assistance with XML encoding and metadata
+                     <resp key="contributor">assistance with XML encoding and metadata
                         verification</resp>
                      <persName ref="part:chch">
                         <forename>Chloé</forename>
@@ -100,7 +100,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
                      </persName>
                   </respStmt>
                   <respStmt>
-                     <resp>assistance with XML encoding and metadata
+                     <resp key="contributor">assistance with XML encoding and metadata
                         verification</resp>
                      <persName ref="part:masc">
                         <forename>Marine</forename>
@@ -108,14 +108,14 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
                      </persName>
                   </respStmt>
                   <respStmt>
-                     <resp>digital humanities consultant</resp>
+                     <resp key="contributor">digital humanities consultant</resp>
                      <persName ref="part:emmo">
                         <forename>Emmanuelle</forename>
                         <surname>Morlock</surname>
                      </persName>
                   </respStmt>
                   <respStmt>
-                     <resp>digital humanities consultant</resp>
+                     <resp key="contributor">digital humanities consultant</resp>
                      <persName ref="part:anol">
                         <forename>Andrew</forename>
                         <surname>Ollett</surname>

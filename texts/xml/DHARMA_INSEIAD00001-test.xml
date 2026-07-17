@@ -41,7 +41,7 @@
       	<editionStmt>
       		<edition n="DHARMA1">First digital edition for project DHARMA</edition>
       		<respStmt>
-      			<resp>author of digital edition</resp>
+      			<resp key="creator">author of digital edition</resp>
       			<persName ref="part:argr">
       				<forename>Arlo</forename>
       				<surname>Griffiths</surname>
@@ -52,7 +52,7 @@
       			</persName>
       		</respStmt>
       		<respStmt>
-      			<resp>conversion of encoding for DHARMA</resp>
+      			<resp key="contributor">conversion of encoding for DHARMA</resp>
       			<persName ref="part:argr">
       				<forename>Arlo</forename>
       				<surname>Griffiths</surname>
@@ -94,28 +94,28 @@
       			</persName>
       		</editor>
       		<respStmt>
-      			<resp>assistance with XML encoding and metadata verification</resp>
+      			<resp key="contributor">assistance with XML encoding and metadata verification</resp>
       			<persName ref="part:chch">
       				<forename>Chloé</forename>
       				<surname>Chollet</surname>
       			</persName>
       		</respStmt>
       		<respStmt>
-      			<resp>assistance with XML encoding and metadata verification</resp>
+      			<resp key="contributor">assistance with XML encoding and metadata verification</resp>
       			<persName ref="part:masc">
       				<forename>Marine</forename>
       				<surname>Schoettel</surname>
       			</persName>
       		</respStmt>
       		<respStmt>
-      			<resp>digital humanities consultant</resp>
+      			<resp key="contributor">digital humanities consultant</resp>
       			<persName ref="part:emmo">
       				<forename>Emmanuelle</forename>
       				<surname>Morlock</surname>
       			</persName>
       		</respStmt>
       		<respStmt>
-      			<resp>digital humanities consultant</resp>
+      			<resp key="contributor">digital humanities consultant</resp>
       			<persName ref="part:anol">
       				<forename>Andrew</forename>
       				<surname>Ollett</surname>

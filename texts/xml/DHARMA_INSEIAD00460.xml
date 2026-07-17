@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>EIAD 460. Pillar fragment from the Amaravati stūpa</title>
                 <respStmt>
-                    <resp>author of digital edition</resp>
+                    <resp key="creator">author of digital edition</resp>
                     <persName>
                         <forename>Ingo</forename>
                         <surname>Strauch</surname>
