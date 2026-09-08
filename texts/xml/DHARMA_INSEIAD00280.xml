@@ -67,6 +67,7 @@
                     <app loc="1">
                         <lem>pāp<supplied reason="omitted">i</supplied>ṇo</lem>
                         <rdg source="bib:Fergusson1873_01">pāpino</rdg>
+                        <note>The ending <foreign>-ṇo</foreign> instead of <foreign>-sa</foreign> may due to the influence of the preceding word, unless the vocalic marker <foreign>-i-</foreign> was forgotten by the lapicide. Compare <ref target="DHARMA_INSEIAD00635.xml">EIAD 635</ref>, l. 10, where an individual is named <foreign>pāpo</foreign>. See also <ref target="DHARMA_INSEIAD00518.xml">EIAD 518</ref>.</note>
                     </app>
                     <app loc="1">
                         <lem>bhariyaca</lem>
