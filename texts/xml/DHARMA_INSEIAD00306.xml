@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>EIAD 306. Undetermined object from the Amaravati stūpa</title>
+            <respStmt>
+               <resp key="creator">author of digital edition</resp>
+               <persName ref="part:vito">
+                  <forename>Vincent</forename>
+                  <surname>Tournier</surname>
+               </persName>
+               <persName ref="part:fufa">
+                  <forename>Fu</forename>
+                  <surname>Fan</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+            <pubPlace>Munich</pubPlace>
+            <idno type="filename">DHARMA_INSEIAD00306.xml</idno>
+            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+            <date from="2019" to="2026">2019-2026</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>as per external metadata</repository>
+                </msIdentifier>
+               <msContents>
+                  <summary/>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:fufa" when="2026-09-08">Initial Encoding</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="filename.jpg" xml:id="photo1"/>
+   </facsimile>
+   <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209">
+            <p><lb 
+               n="1"/><unclear>si</unclear>dhaṁ <g ref="sym:dash" type="punctuation"/> sulasagahapatiputena gaha<unclear>pa</unclear><supplied reason="lost">tinā</supplied><lb 
+               n="2"/>nāgatāya bālakena ya sulasena sadhutu<supplied reason="lost">kena</supplied><lb 
+               n="3"/><supplied reason="lost">da</supplied>khinapase dāra kārita deyadhama
+            </p>
+         </div>
+         <div type="apparatus">
+            <listApp>
+               <app loc="1">
+                  <lem>gaha<unclear>pa</unclear><supplied reason="lost">tinā</supplied></lem>
+                  <rdg source="bib:Burgess1882_01">gahapa<supplied reason="lost">ti</supplied></rdg>
+                  <rdg source="bib:Hultzsch1883_01 Burgess1887_01">gaha<unclear>pa</unclear></rdg>
+                  <rdg source="bib:Sivaramamurti1942_01"><unclear>ga</unclear></rdg>
+               </app>
+               <app loc="2">
+                  <lem>bālakena</lem>
+                  <rdg source="bib:Sivaramamurti1942_01"></rdg>
+                  <rdg source="bib:Burgess1882_01 Hultzsch1883_01 Burgess1887_01">bālikena</rdg>
+               </app>
+               <app loc="2">
+                  <lem>sadhutu<supplied reason="lost">kena</supplied></lem>
+                  <rdg source="bib:Burgess1882_01">sadhūtu<gap reason="lost"/></rdg>
+                  <rdg source="bib:Hultzsch1883_01 Burgess1887_01 Sivaramamurti1942_01">sadhutu<gap reason="lost"/></rdg>
+               </app>
+               <app loc="3">
+                  <lem><supplied reason="lost">da</supplied>khinapase</lem>
+                  <rdg source="bib:Burgess1882_01 Hultzsch1883_01 Burgess1887_01"></rdg>
+                  <rdg source="bib:Sivaramamurti1942_01">khinapase</rdg>
+               </app>
+            </listApp>
+         </div>
+         <div type="translation">
+            <p>A gate on the southern side is made as the pious gift by the notable <gap reason="lost"/> son of the notable Sulasa, <gap reason="lost"/> and by <supplied reason="lost" cert="low">his wife</supplied> <persName>Nāgatā</persName>, <supplied reason="subaudible">their</supplied> son <persName>Sulasa</persName>, together with his daughter<supplied reason="subaudible">s</supplied> <gap reason="lost"/></p>
+         </div>
+         <div type="commentary">
+            <p/>
+         </div>
+         <div type="bibliography">
+           <p>This edition by Vincent Tournier and Fu Fan. Encoded in XML by Fu Fan in September 2026.</p>
+           <listBibl type="primary">
+              <bibl n="B1882">
+                 <ptr target="bib:Burgess1882_01"/>
+                 <citedRange unit="page">35–36</citedRange>
+                 <citedRange unit="item">175</citedRange>
+                 <citedRange unit="plate">IV</citedRange>
+                 <citedRange unit="item">16</citedRange>
+              </bibl>
+              <bibl n="H">
+                 <ptr target="bib:Hultzsch1883_01"/>
+                 <citedRange unit="page">556</citedRange>
+                 <citedRange unit="item">26</citedRange>
+              </bibl>
+              <bibl n="B1887">
+                 <ptr target="bib:Burgess1887_01"/>
+                 <citedRange unit="page">104–105</citedRange>
+                 <citedRange unit="item">44</citedRange>
+                 <citedRange unit="plate">LX</citedRange>
+              </bibl>
+              <bibl n="S">
+                 <ptr target="bib:Sivaramamurti1942_01"/>
+                 <citedRange unit="page">284–285</citedRange>
+                 <citedRange unit="item">55</citedRange>
+                 <citedRange unit="item">II E, 25</citedRange>
+              </bibl>
+           </listBibl>
+           <listBibl type="secondary">
+              <bibl>
+                 <ptr target="bib:Tsukamoto1996_01"/>
+                 <citedRange unit="item">Amar 54</citedRange>
+              </bibl>
+              <bibl>
+                 <ptr target="bib:Luders1912_01"/>
+                 <citedRange unit="page">149</citedRange>
+                 <citedRange unit="item">1255</citedRange>
+              </bibl>
+              <bibl>
+                 <ptr target="bib:Francis2016_01"/>
+                 <citedRange unit="page">131</citedRange>
+                 <citedRange unit="item">189</citedRange>
+              </bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
