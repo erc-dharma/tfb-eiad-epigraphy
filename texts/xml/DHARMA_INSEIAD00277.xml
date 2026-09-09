@@ -20,7 +20,7 @@
                   <surname>Tournier</surname>
                </persName>
             </respStmt>
-         </titleStmt>
+         <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
          <publicationStmt>
             <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
             <pubPlace>Munich</pubPlace>
@@ -63,7 +63,7 @@
                <listApp>
                   <app loc="1">
                      <lem><unclear>ya</unclear> Ānadamātuya</lem>
-                     <rdg source="bib:Hultzsch1883_01"></rdg>
+                     <rdg source="bib:Hultzsch1883_01"/>
                      <rdg source="bib:Fergusson1873_01">akarā mātriya</rdg>
                   </app>
                   <app loc="1">
@@ -78,7 +78,7 @@
                </listApp>
          </div>
          <div type="translation">
-            <p></p>
+            <p/>
          </div>
          <div type="commentary">
             <p/>

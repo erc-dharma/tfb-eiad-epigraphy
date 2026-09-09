@@ -20,7 +20,7 @@
                   <surname>Fan</surname>
                </persName>
             </respStmt>
-         </titleStmt>
+         <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
          <publicationStmt>
             <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
             <pubPlace>Munich</pubPlace>
@@ -57,10 +57,7 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209">
-            <p><lb 
-               n="1"/><unclear>si</unclear>dhaṁ <g ref="sym:dash" type="punctuation"/> sulasagahapatiputena gaha<unclear>pa</unclear><supplied reason="lost">tinā</supplied><lb 
-               n="2"/>nāgatāya bālakena ya sulasena sadhutu<supplied reason="lost">kena</supplied><lb 
-               n="3"/><supplied reason="lost">da</supplied>khinapase dāra kārita deyadhama
+            <p><lb n="1"/><unclear>si</unclear>dhaṁ <g ref="sym:dash" type="punctuation"/> sulasagahapatiputena gaha<unclear>pa</unclear><supplied reason="lost">tinā</supplied><lb n="2"/>nāgatāya bālakena ya sulasena sadhutu<supplied reason="lost">kena</supplied><lb n="3"/><supplied reason="lost">da</supplied>khinapase dāra kārita deyadhama
             </p>
          </div>
          <div type="apparatus">
@@ -73,7 +70,7 @@
                </app>
                <app loc="2">
                   <lem>bālakena</lem>
-                  <rdg source="bib:Sivaramamurti1942_01"></rdg>
+                  <rdg source="bib:Sivaramamurti1942_01"/>
                   <rdg source="bib:Burgess1882_01 Hultzsch1883_01 Burgess1887_01">bālikena</rdg>
                </app>
                <app loc="2">
@@ -83,7 +80,7 @@
                </app>
                <app loc="3">
                   <lem><supplied reason="lost">da</supplied>khinapase</lem>
-                  <rdg source="bib:Burgess1882_01 Hultzsch1883_01 Burgess1887_01"></rdg>
+                  <rdg source="bib:Burgess1882_01 Hultzsch1883_01 Burgess1887_01"/>
                   <rdg source="bib:Sivaramamurti1942_01">khinapase</rdg>
                </app>
             </listApp>
