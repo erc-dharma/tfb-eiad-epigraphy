@@ -462,7 +462,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
                         <bibl>
                            <ptr target="eiad-bibl:Sircari"/>: <citedRange>4</citedRange>
                         </bibl>
-                     </cit> We tentatively read <foreign xml:lang="pra-Latn">veṃāṇa-</foreign>, as the initial <foreign xml:lang="san-Latn">akṣara</foreign> is unlike the one in <foreign xml:lang="pra-Latn">saṁbheṭṭa</foreign> (line 14).</note>
+                     </cit> We tentatively read <foreign xml:lang="pra-Latn">veṁāṇa-</foreign>, as the initial <foreign xml:lang="san-Latn">akṣara</foreign> is unlike the one in <foreign xml:lang="pra-Latn">saṁbheṭṭa</foreign> (line 14).</note>
 					          </app>
 					          <app loc="11">
 						            <lem>°ag<unclear>g</unclear>ahāram·</lem>

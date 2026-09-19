@@ -620,8 +620,8 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 					          <app loc="2">
 						            <note>On the compound ending in <foreign xml:lang="san-Latn">-śarīrasya</foreign>, Sankaranarayanan notes: <cit>
 								                <quote>Here the intended <hi rend="italic">vigraha</hi> is <hi rend="italic">dharmāḥ cha Śiva-Vishṇu <gap reason="lost" quantity="2" unit="character"/> śālādīni puṇya-karmāṇi
-										cha, dharma <gap reason="lost" quantity="3" unit="character"/> karmāṇi</hi> (a Dvandva compound); <hi rend="italic">kṛitani cha tāni dharma <gap reason="lost" quantity="3" unit="character"/> karmāṇi cha</hi> (a Karmadhāraya
-									compound); <hi rend="italic">taiḥ paripūtam yaśa ēva śarīraṃ
+										cha, dharma <gap reason="lost" quantity="3" unit="character"/> karmāṇi</hi> (a Dvandva compound); <hi rend="italic">k r̥itani cha tāni dharma <gap reason="lost" quantity="3" unit="character"/> karmāṇi cha</hi> (a Karmadhāraya
+									compound); <hi rend="italic">taiḥ paripūtam yaśa ēva śarīraṁ
 										yasya, tasya</hi> (a Bahuvrīhi compound)</quote>
 								                <bibl>
                            <ptr target="eiad-bibl:Sankaranarayanand"/>:
@@ -669,7 +669,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
 						            <lem>-<supplied reason="lost">mā</supplied>tropakārāpakārakr̥tapratīkārasya</lem>
 						            <rdg source="eiad-bibl:Sankaranarayanand">-<supplied reason="lost">mā</supplied>trā-opakār-āpakāra-pratīkārasya or <supplied reason="lost">-mā</supplied>tr-opakār-āpakāra-āpkaras-pratīkārasya</rdg>
 						            <note>This seems to be the underluying reading behind what we find, marred
-							by printing errors, on pp. 88 and 94; <foreign xml:lang="san-Latn">-<supplied reason="lost">mā</supplied>tr-opakār-āpakāra-kṛta-pratīkārasya</foreign>
+							by printing errors, on pp. 88 and 94; <foreign xml:lang="san-Latn">-<supplied reason="lost">mā</supplied>tr-opakār-āpakāra-k r̥ta-pratīkārasya</foreign>
 									(<bibl>
                         <ptr target="eiad-bibl:Sankaranarayanan2009a"/>
                      </bibl>).</note>
@@ -746,7 +746,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
                         <unclear>dhātuvara</unclear>
                      </foreign>
 							but notes: <cit>
-								                <quote>These mutilated expressions in this line remind us of <hi rend="italic">dhātu-vara-parigṛihītasya</hi> ([reference to
+								                <quote>These mutilated expressions in this line remind us of <hi rend="italic">dhātu-vara-parig r̥ihītasya</hi> ([reference to
 									EIAD <ref target="#EIAD0008">8</ref>], line 3); and <hi rend="italic">daśa-bala-balinaḥ
 										puṇya-jñāna-sambhāra-bhārasya</hi> ([reference to EIAD <ref target="#EIAD0174">174</ref>]). These are the epithets of
 									the Buddha and of the Buddha-<hi rend="italic">sangha</hi> as

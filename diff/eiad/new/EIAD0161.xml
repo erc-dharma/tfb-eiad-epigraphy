@@ -584,7 +584,7 @@ Data source: 'iksvaku-inscriptions/metadata/EIAD-inventory.xlsx'
                         <ptr target="eiad-bibl:Sircar1966"/>:
 								<citedRange>392</citedRange>
                      </bibl>, this MIA form corresponds to
-							Sanskrit <foreign xml:lang="san-Latn">arāṣṭrasāṃvinayika</foreign> and <cit>
+							Sanskrit <foreign xml:lang="san-Latn">arāṣṭrasāṁvinayika</foreign> and <cit>
 								                <quote>refers to the freedom of the gift land from the
 									administrative control to which the district in which it was
 									situated was subject</quote>
